@@ -23,7 +23,7 @@
         /* HUD Overlay */
         #hud {
             position: absolute; 
-            bottom: 30px; /* MOVED TO BOTTOM LEFT */
+            bottom: 30px; /* Bottom Left Position */
             left: 20px; 
             z-index: 1000;
             width: 300px;
@@ -37,8 +37,8 @@
             margin: 0 0 10px 0; 
             font-size: 28px; 
             font-weight: 700;
-            letter-spacing: 2px;
-            text-transform: uppercase; 
+            letter-spacing: normal; /* Removed wide spacing */
+            text-transform: none;   /* Removed uppercase transform */
         }
         
         #stats { font-size: 14px; opacity: 0.8; margin-bottom: 15px; }
@@ -78,7 +78,7 @@
 <body>
 
     <div id="hud">
-        <h1>DARK FLIGHTS</h1>
+        <h1>Dark Flights</h1>
         <div id="stats">Scanning...</div>
         
         <div style="height: 1px; background: white; width: 50px; margin-bottom: 15px; opacity: 0.5;"></div>
@@ -107,6 +107,7 @@
 
         let planesData = [];
         let markers = L.layerGroup().addTo(map);
+        let retryCount = 0;
 
         async function loadPlanes() {
             const statsDiv = document.getElementById('stats');
@@ -115,12 +116,17 @@
                 if (!response.ok) throw new Error(`HTTP ${response.status}`);
                 planesData = await response.json();
                 updateMap();
+                
+                // Reset retry count on success
+                retryCount = 0;
                 statsDiv.innerText = `TRACKING ${planesData.length} TARGETS`;
                 statsDiv.style.color = '#fff';
             } catch (e) {
                 console.error("Data Error:", e);
                 if (e.message.includes("404")) {
-                    statsDiv.innerText = "Waiting for Data...";
+                    // Increment retry count to show activity
+                    retryCount++;
+                    statsDiv.innerText = `Waiting for Data... (${retryCount})`;
                     statsDiv.style.color = "#aaa";
                 } else {
                     statsDiv.innerText = "Connection Error";
