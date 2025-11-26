@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a0d062",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI7065",
+    "lon": -90.4896,
+    "lat": 34.8619,
+    "alt": 5448.3,
+    "velocity": 186.42,
+    "heading": 239.12,
+    "trace": [
+      [
+        34.8619,
+        -90.4896
+      ]
+    ]
+  },
+  {
     "hex": "4009c9",
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "BWY30",
-    "lon": -3.3088,
-    "lat": 50.0943,
-    "alt": 2148.84,
-    "velocity": 129.4,
-    "heading": 256.9,
+    "lon": -2.8083,
+    "lat": 50.6602,
+    "alt": 1767.84,
+    "velocity": 129.45,
+    "heading": 37.74,
     "trace": [
       [
         50.7739,
@@ -45,6 +62,10 @@
       [
         50.0943,
         -3.3088
+      ],
+      [
+        50.6602,
+        -2.8083
       ]
     ]
   },
@@ -53,11 +74,11 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "MONICA22",
-    "lon": 0.7434,
-    "lat": 54.3559,
-    "alt": 7985.76,
-    "velocity": 236,
-    "heading": 129.69,
+    "lon": 0.233,
+    "lat": 54.476,
+    "alt": 7978.14,
+    "velocity": 190.4,
+    "heading": 317.3,
     "trace": [
       [
         54.6543,
@@ -70,6 +91,10 @@
       [
         54.3559,
         0.7434
+      ],
+      [
+        54.476,
+        0.233
       ]
     ]
   },
@@ -78,11 +103,11 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "MONICA21",
-    "lon": 1.0349,
-    "lat": 54.5806,
-    "alt": 8290.56,
-    "velocity": 237.11,
-    "heading": 119.79,
+    "lon": 0.7111,
+    "lat": 54.8217,
+    "alt": 8244.84,
+    "velocity": 191.68,
+    "heading": 305.06,
     "trace": [
       [
         54.6467,
@@ -95,27 +120,61 @@
       [
         54.5806,
         1.0349
+      ],
+      [
+        54.8217,
+        0.7111
       ]
     ]
   },
   {
-    "hex": "4009ca",
-    "name": "Draken Europe",
-    "category": "Hired Gun",
-    "callsign": "ASPRIN48",
-    "lon": -6.8149,
-    "lat": 56.4172,
-    "alt": 6271.26,
-    "velocity": 176.2,
-    "heading": 309.31,
+    "hex": "8960b1",
+    "name": "Abu Dhabi Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "AUH11",
+    "lon": 47.7445,
+    "lat": 26.2898,
+    "alt": 11887.2,
+    "velocity": 264.86,
+    "heading": 74.45,
     "trace": [
       [
-        55.4893,
-        -4.7414
-      ],
+        26.2898,
+        47.7445
+      ]
+    ]
+  },
+  {
+    "hex": "c01276",
+    "name": "Top Aces Inc",
+    "category": "Hired Gun",
+    "callsign": "SKYHWK1",
+    "lon": 8.6722,
+    "lat": 53.762,
+    "alt": null,
+    "velocity": 0,
+    "heading": 343.12,
+    "trace": [
       [
-        56.4172,
-        -6.8149
+        53.762,
+        8.6722
+      ]
+    ]
+  },
+  {
+    "hex": "c01267",
+    "name": "Top Aces Inc",
+    "category": "Hired Gun",
+    "callsign": "SKYHWK1",
+    "lon": 8.672,
+    "lat": 53.7619,
+    "alt": null,
+    "velocity": 0,
+    "heading": 345.94,
+    "trace": [
+      [
+        53.7619,
+        8.672
       ]
     ]
   },
@@ -124,15 +183,36 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT8240",
-    "lon": -79.9506,
-    "lat": 25.5338,
-    "alt": 3429,
-    "velocity": 177.44,
-    "heading": 305.44,
+    "lon": -80.3225,
+    "lat": 25.7998,
+    "alt": 76.2,
+    "velocity": 76.22,
+    "heading": 87.29,
     "trace": [
       [
         25.5338,
         -79.9506
+      ],
+      [
+        25.7998,
+        -80.3225
+      ]
+    ]
+  },
+  {
+    "hex": "06a014",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "A7HHJ",
+    "lon": 49.4848,
+    "lat": 26.4928,
+    "alt": 10058.4,
+    "velocity": 252.63,
+    "heading": 88.95,
+    "trace": [
+      [
+        26.4928,
+        49.4848
       ]
     ]
   },
@@ -141,11 +221,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD1",
-    "lon": 12.7573,
-    "lat": 54.4289,
-    "alt": 891.54,
-    "velocity": 117.31,
-    "heading": 91.01,
+    "lon": 13.2028,
+    "lat": 54.4545,
+    "alt": 1203.96,
+    "velocity": 134.09,
+    "heading": 79.16,
     "trace": [
       [
         54.1297,
@@ -158,96 +238,10 @@
       [
         54.4289,
         12.7573
-      ]
-    ]
-  },
-  {
-    "hex": "3cd068",
-    "name": "Gesellschaft fur Flugzieldarstellung",
-    "category": "Hired Gun",
-    "callsign": "GFD4",
-    "lon": 9.4191,
-    "lat": 54.2116,
-    "alt": 868.68,
-    "velocity": 99.76,
-    "heading": 34.92,
-    "trace": [
-      [
-        53.8117,
-        9.6395
       ],
       [
-        52.6698,
-        8.6897
-      ],
-      [
-        52.617,
-        7.3039
-      ],
-      [
-        52.6485,
-        7.3204
-      ],
-      [
-        52.4623,
-        7.2172
-      ],
-      [
-        52.577,
-        7.1892
-      ],
-      [
-        52.5137,
-        7.3509
-      ],
-      [
-        52.4815,
-        7.1754
-      ],
-      [
-        52.4449,
-        7.2088
-      ],
-      [
-        52.5802,
-        7.5532
-      ],
-      [
-        54.2116,
-        9.4191
-      ]
-    ]
-  },
-  {
-    "hex": "710100",
-    "name": "Saudi Ministry of Finance",
-    "category": "Dictator Alert",
-    "callsign": "SVA932",
-    "lon": 8.7668,
-    "lat": 45.4711,
-    "alt": 1143,
-    "velocity": 80.71,
-    "heading": 348.98,
-    "trace": [
-      [
-        50.04,
-        6.0246
-      ],
-      [
-        47.3268,
-        7.8133
-      ],
-      [
-        46.0605,
-        8.522
-      ],
-      [
-        45.5579,
-        8.8671
-      ],
-      [
-        45.4711,
-        8.7668
+        54.4545,
+        13.2028
       ]
     ]
   },
@@ -256,11 +250,11 @@
     "name": "Kalitta Charters II",
     "category": "Hired Gun",
     "callsign": "KII5481",
-    "lon": -84.748,
-    "lat": 39.1897,
-    "alt": 6385.56,
-    "velocity": 175.32,
-    "heading": 206.11,
+    "lon": -85.1998,
+    "lat": 38.2809,
+    "alt": 2514.6,
+    "velocity": 118.15,
+    "heading": 203.89,
     "trace": [
       [
         41.6196,
@@ -273,6 +267,10 @@
       [
         39.1897,
         -84.748
+      ],
+      [
+        38.2809,
+        -85.1998
       ]
     ]
   },
@@ -281,11 +279,11 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7MHH",
-    "lon": 48.4433,
-    "lat": 28.8803,
-    "alt": 5615.94,
-    "velocity": 198.78,
-    "heading": 116.43,
+    "lon": 49.7007,
+    "lat": 28.0703,
+    "alt": 9441.18,
+    "velocity": 231.3,
+    "heading": 142.77,
     "trace": [
       [
         29.2447,
@@ -298,6 +296,10 @@
       [
         28.8803,
         48.4433
+      ],
+      [
+        28.0703,
+        49.7007
       ]
     ]
   }
