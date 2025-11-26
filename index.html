@@ -79,7 +79,7 @@
 
     <div id="hud">
         <h1>Dark Flights</h1>
-        <div id="stats">Scanning...</div>
+        <div id="stats">System Initializing...</div>
         
         <div style="height: 1px; background: white; width: 50px; margin-bottom: 15px; opacity: 0.5;"></div>
         
@@ -111,26 +111,53 @@
 
         async function loadPlanes() {
             const statsDiv = document.getElementById('stats');
+            
+            // 1. Show we are starting
+            statsDiv.innerText = "Connecting to Database...";
+            statsDiv.style.color = "#aaa";
+
             try {
+                // 2. Attempt Fetch
                 const response = await fetch('planes.json?t=' + new Date().getTime());
-                if (!response.ok) throw new Error(`HTTP ${response.status}`);
+                
+                // 3. Check HTTP Status
+                if (!response.ok) {
+                    if (response.status === 404) {
+                         throw new Error("File Not Found (404)");
+                    } else {
+                         throw new Error(`Server Error (${response.status})`);
+                    }
+                }
+
+                // 4. Parse JSON
+                statsDiv.innerText = "Parsing Data...";
                 planesData = await response.json();
+                
+                // 5. Success
                 updateMap();
                 
                 // Reset retry count on success
                 retryCount = 0;
                 statsDiv.innerText = `TRACKING ${planesData.length} TARGETS`;
                 statsDiv.style.color = '#fff';
+                
             } catch (e) {
                 console.error("Data Error:", e);
-                if (e.message.includes("404")) {
-                    // Increment retry count to show activity
-                    retryCount++;
-                    statsDiv.innerText = `Waiting for Data... (${retryCount})`;
-                    statsDiv.style.color = "#aaa";
+                
+                // 6. Verbose Error Reporting
+                retryCount++;
+                let errorMsg = e.message;
+                
+                if (errorMsg.includes("404")) {
+                    // This is the most common error (GitHub Action hasn't finished yet)
+                    statsDiv.innerText = `Data Pending (Try ${retryCount})...`;
+                    statsDiv.style.color = "orange";
+                } else if (errorMsg.includes("Failed to fetch")) {
+                    statsDiv.innerText = "Network Blocked / Offline";
+                    statsDiv.style.color = "red";
                 } else {
-                    statsDiv.innerText = "Connection Error";
-                    statsDiv.style.color = "#ff5555";
+                    statsDiv.innerText = `Error: ${errorMsg}`;
+                    statsDiv.style.color = "red";
                 }
             }
         }
