@@ -40,6 +40,19 @@ def run_scan():
     watchlist = dict(zip(df[icao_col], df[owner_col]))
     cat_map = dict(zip(df[icao_col], df[cat_col]))
     
+    # --- NEW: Load existing data to preserve trails ---
+    plane_history = {}
+    try:
+        if os.path.exists('planes.json'):
+            with open('planes.json', 'r') as f:
+                old_data = json.load(f)
+                for p in old_data:
+                    # Store history key: hex, value: list of coordinates
+                    if 'trace' in p:
+                        plane_history[p['hex']] = p['trace']
+    except Exception as e:
+        print(f"⚠️ Could not load history: {e}")
+
     print("📡 Scanning OpenSky API...")
     url = "https://opensky-network.org/api/states/all"
     
@@ -62,7 +75,6 @@ def run_scan():
         data = response.json()
         states = data.get('states', [])
         
-        # If we get None instead of a list, handle it
         if states is None:
             states = []
 
@@ -80,6 +92,18 @@ def run_scan():
     for v in states:
         icao = str(v[0]).strip().lower()
         if icao in watchlist:
+            # Retrieve existing history or start new
+            trace = plane_history.get(icao, [])
+            
+            # Add current position [lat, lon] if valid
+            if v[6] is not None and v[5] is not None:
+                # Only add if it's a new position (simple check against last point)
+                if not trace or (trace[-1][0] != v[6] or trace[-1][1] != v[5]):
+                    trace.append([v[6], v[5]])
+            
+            # Limit history to last 50 points (approx 4 hours of data at 5min intervals)
+            trace = trace[-50:]
+
             hits.append({
                 "hex": icao,
                 "name": watchlist[icao],
@@ -89,7 +113,8 @@ def run_scan():
                 "lat": v[6],
                 "alt": v[7],
                 "velocity": v[9],
-                "heading": v[10]
+                "heading": v[10],
+                "trace": trace  # Include the breadcrumb trail
             })
 
     print(f"✅ MATCHES FOUND: {len(hits)}")
