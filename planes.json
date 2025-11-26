@@ -4,11 +4,11 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "DKN01",
-    "lon": 47.2956,
-    "lat": 27.601,
-    "alt": 7620,
-    "velocity": 151.64,
-    "heading": 199.42,
+    "lon": 47.3851,
+    "lat": 27.5742,
+    "alt": 7566.66,
+    "velocity": 177.07,
+    "heading": 13.27,
     "trace": [
       [
         26.5038,
@@ -25,6 +25,10 @@
       [
         27.601,
         47.2956
+      ],
+      [
+        27.5742,
+        47.3851
       ]
     ]
   },
@@ -33,32 +37,19 @@
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "AUH11",
-    "lon": 53.4548,
-    "lat": 25.3492,
-    "alt": 10584.18,
-    "velocity": 206.87,
-    "heading": 312.18,
+    "lon": 49.8492,
+    "lat": 26.5348,
+    "alt": 10972.8,
+    "velocity": 213.96,
+    "heading": 239.67,
     "trace": [
       [
         25.3492,
         53.4548
-      ]
-    ]
-  },
-  {
-    "hex": "a49951",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT833",
-    "lon": -73.4695,
-    "lat": 21.9017,
-    "alt": 10668,
-    "velocity": 263.53,
-    "heading": 123.53,
-    "trace": [
+      ],
       [
-        21.9017,
-        -73.4695
+        26.5348,
+        49.8492
       ]
     ]
   },
@@ -67,11 +58,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR845",
-    "lon": -117.3857,
-    "lat": 33.9846,
-    "alt": 3962.4,
-    "velocity": 176.06,
-    "heading": 262.11,
+    "lon": -118.3813,
+    "lat": 33.9346,
+    "alt": null,
+    "velocity": 1.54,
+    "heading": 180,
     "trace": [
       [
         28.049,
@@ -124,6 +115,10 @@
       [
         33.9846,
         -117.3857
+      ],
+      [
+        33.9346,
+        -118.3813
       ]
     ]
   },
@@ -132,11 +127,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA1662",
-    "lon": -80.9448,
-    "lat": 30.498,
-    "alt": 11277.6,
-    "velocity": 200.78,
-    "heading": 308.13,
+    "lon": -83.5541,
+    "lat": 33.2854,
+    "alt": 11285.22,
+    "velocity": 211.88,
+    "heading": 322.1,
     "trace": [
       [
         27.948,
@@ -153,126 +148,27 @@
       [
         30.498,
         -80.9448
+      ],
+      [
+        33.2854,
+        -83.5541
       ]
     ]
   },
   {
-    "hex": "a3defb",
-    "name": "Amerijet International",
+    "hex": "a9c52e",
+    "name": "National Airlines",
     "category": "Hired Gun",
-    "callsign": "AJT8343",
-    "lon": -66.8876,
-    "lat": 18.931,
-    "alt": 4686.3,
-    "velocity": 201.75,
-    "heading": 123.77,
+    "callsign": "NCR651",
+    "lon": 140.6763,
+    "lat": 38.3472,
+    "alt": 12192,
+    "velocity": 199.52,
+    "heading": 253.06,
     "trace": [
       [
-        22.7504,
-        -73.774
-      ],
-      [
-        21.5705,
-        -71.4812
-      ],
-      [
-        20.9678,
-        -70.3478
-      ],
-      [
-        20.7283,
-        -69.9035
-      ],
-      [
-        18.931,
-        -66.8876
-      ]
-    ]
-  },
-  {
-    "hex": "7277cf",
-    "name": "Air Koryo",
-    "category": "Dictator Alert",
-    "callsign": "KOR372",
-    "lon": 126.3505,
-    "lat": 39.5438,
-    "alt": 3352.8,
-    "velocity": 141.53,
-    "heading": 251.57,
-    "trace": [
-      [
-        39.5438,
-        126.3505
-      ]
-    ]
-  },
-  {
-    "hex": "406b79",
-    "name": "AirTanker",
-    "category": "Hired Gun",
-    "callsign": "TOW2231",
-    "lon": -1.5543,
-    "lat": 51.7553,
-    "alt": 30.48,
-    "velocity": 61.69,
-    "heading": 253.53,
-    "trace": [
-      [
-        39.3682,
-        -10.1566
-      ],
-      [
-        41.8936,
-        -9.3703
-      ],
-      [
-        44.2435,
-        -7.4395
-      ],
-      [
-        45.3064,
-        -6.7538
-      ],
-      [
-        45.9627,
-        -6.3403
-      ],
-      [
-        48.1863,
-        -5.0979
-      ],
-      [
-        49.9166,
-        -4.0872
-      ],
-      [
-        50.8106,
-        -3.6224
-      ],
-      [
-        51.3752,
-        -3.1149
-      ],
-      [
-        51.7553,
-        -1.5543
-      ]
-    ]
-  },
-  {
-    "hex": "51005e",
-    "name": "Gov of Belarus",
-    "category": "Dictator Alert",
-    "callsign": "BRU8001",
-    "lon": 28.6523,
-    "lat": 53.9149,
-    "alt": 6766.56,
-    "velocity": 181.39,
-    "heading": 34.95,
-    "trace": [
-      [
-        53.9149,
-        28.6523
+        38.3472,
+        140.6763
       ]
     ]
   },
@@ -281,11 +177,11 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA931",
-    "lon": 14.6704,
-    "lat": 45.9056,
+    "lon": 9.7521,
+    "lat": 48.5679,
     "alt": 10363.2,
-    "velocity": 256.61,
-    "heading": 306.69,
+    "velocity": 248.84,
+    "heading": 314.16,
     "trace": [
       [
         43.7153,
@@ -294,6 +190,10 @@
       [
         45.9056,
         14.6704
+      ],
+      [
+        48.5679,
+        9.7521
       ]
     ]
   }
