@@ -4,11 +4,11 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "DKN01",
-    "lon": 48.1468,
-    "lat": 27.2891,
-    "alt": 7620,
-    "velocity": 185.96,
-    "heading": 118.05,
+    "lon": 49.389,
+    "lat": 26.6895,
+    "alt": 5379.72,
+    "velocity": 178.19,
+    "heading": 118.64,
     "trace": [
       [
         26.5038,
@@ -37,6 +37,10 @@
       [
         27.2891,
         48.1468
+      ],
+      [
+        26.6895,
+        49.389
       ]
     ]
   },
@@ -45,11 +49,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA1662",
-    "lon": -85.7803,
-    "lat": 36.377,
-    "alt": 11285.22,
-    "velocity": 225.08,
-    "heading": 339.95,
+    "lon": -86.4946,
+    "lat": 37.9258,
+    "alt": 11277.6,
+    "velocity": 225.79,
+    "heading": 339.46,
     "trace": [
       [
         27.948,
@@ -78,6 +82,10 @@
       [
         36.377,
         -85.7803
+      ],
+      [
+        37.9258,
+        -86.4946
       ]
     ]
   },
@@ -86,15 +94,19 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7HHJ",
-    "lon": 50.3835,
-    "lat": 26.2935,
-    "alt": 8534.4,
-    "velocity": 205.82,
-    "heading": 278.19,
+    "lon": 48.8373,
+    "lat": 26.2768,
+    "alt": 9144,
+    "velocity": 205.49,
+    "heading": 265.12,
     "trace": [
       [
         26.2935,
         50.3835
+      ],
+      [
+        26.2768,
+        48.8373
       ]
     ]
   },
@@ -103,15 +115,53 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD2A",
-    "lon": 9.3676,
-    "lat": 53.6042,
-    "alt": 7307.58,
-    "velocity": 236.23,
-    "heading": 233.06,
+    "lon": 7.8778,
+    "lat": 52.59,
+    "alt": 6720.84,
+    "velocity": 132.06,
+    "heading": 336.83,
     "trace": [
       [
         53.6042,
         9.3676
+      ],
+      [
+        52.59,
+        7.8778
+      ]
+    ]
+  },
+  {
+    "hex": "3cd05d",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD9",
+    "lon": 9.3692,
+    "lat": 54.2457,
+    "alt": 2506.98,
+    "velocity": 137.32,
+    "heading": 199.25,
+    "trace": [
+      [
+        54.2457,
+        9.3692
+      ]
+    ]
+  },
+  {
+    "hex": "3cd05f",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD3B",
+    "lon": 8.6504,
+    "lat": 54.2962,
+    "alt": 4572,
+    "velocity": 174.14,
+    "heading": 253.17,
+    "trace": [
+      [
+        54.2962,
+        8.6504
       ]
     ]
   },
@@ -120,15 +170,36 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD2B",
-    "lon": 9.1673,
-    "lat": 54.0288,
-    "alt": 4625.34,
-    "velocity": 194.49,
-    "heading": 213.02,
+    "lon": 7.9511,
+    "lat": 52.7982,
+    "alt": 6134.1,
+    "velocity": 208.62,
+    "heading": 165.72,
     "trace": [
       [
         54.0288,
         9.1673
+      ],
+      [
+        52.7982,
+        7.9511
+      ]
+    ]
+  },
+  {
+    "hex": "3cd060",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD3A",
+    "lon": 8.294,
+    "lat": 54.4757,
+    "alt": 6096,
+    "velocity": 174.48,
+    "heading": 285.39,
+    "trace": [
+      [
+        54.4757,
+        8.294
       ]
     ]
   },
@@ -137,11 +208,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR651",
-    "lon": 136.7169,
-    "lat": 37.0981,
+    "lon": 135.1179,
+    "lat": 36.4865,
     "alt": 12192,
-    "velocity": 198.16,
-    "heading": 244.97,
+    "velocity": 189.82,
+    "heading": 244.13,
     "trace": [
       [
         38.3472,
@@ -154,39 +225,10 @@
       [
         37.0981,
         136.7169
-      ]
-    ]
-  },
-  {
-    "hex": "710100",
-    "name": "Saudi Ministry of Finance",
-    "category": "Dictator Alert",
-    "callsign": "SVA931",
-    "lon": 5.2154,
-    "lat": 50.4826,
-    "alt": 1074.42,
-    "velocity": 93.05,
-    "heading": 351.74,
-    "trace": [
-      [
-        43.7153,
-        17.5151
       ],
       [
-        45.9056,
-        14.6704
-      ],
-      [
-        48.5679,
-        9.7521
-      ],
-      [
-        49.5724,
-        8.142
-      ],
-      [
-        50.4826,
-        5.2154
+        36.4865,
+        135.1179
       ]
     ]
   }
