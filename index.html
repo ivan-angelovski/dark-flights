@@ -20,15 +20,17 @@
         }
         #map { height: 100vh; width: 100vw; }
         
-        /* HUD Overlay */
+        /* HUD Overlay - FORCED BOTTOM LEFT */
         #hud {
             position: absolute; 
-            bottom: 30px; /* Bottom Left Position */
-            left: 20px; 
+            bottom: 30px; 
+            left: 20px;
+            top: auto;   /* Prevent top overlap */
+            right: auto; /* Prevent right overlap */
             z-index: 1000;
             width: 300px;
             text-shadow: 0 0 4px rgba(0,0,0,0.8);
-            pointer-events: none; /* Allows clicking map through empty areas of HUD */
+            pointer-events: none; /* Allows clicking map through empty areas */
         }
         /* Re-enable pointer events for inputs so they still work */
         #hud * { pointer-events: auto; }
@@ -37,8 +39,8 @@
             margin: 0 0 10px 0; 
             font-size: 28px; 
             font-weight: 700;
-            letter-spacing: normal; /* Removed wide spacing */
-            text-transform: none;   /* Removed uppercase transform */
+            letter-spacing: normal; 
+            text-transform: none;   
         }
         
         #stats { font-size: 14px; opacity: 0.8; margin-bottom: 15px; }
@@ -112,31 +114,17 @@
         async function loadPlanes() {
             const statsDiv = document.getElementById('stats');
             
-            // 1. Show we are starting
-            statsDiv.innerText = "Connecting to Database...";
-            statsDiv.style.color = "#aaa";
-
             try {
-                // 2. Attempt Fetch
                 const response = await fetch('planes.json?t=' + new Date().getTime());
                 
-                // 3. Check HTTP Status
                 if (!response.ok) {
-                    if (response.status === 404) {
-                         throw new Error("File Not Found (404)");
-                    } else {
-                         throw new Error(`Server Error (${response.status})`);
-                    }
+                    if (response.status === 404) throw new Error("404");
+                    else throw new Error(`HTTP ${response.status}`);
                 }
 
-                // 4. Parse JSON
-                statsDiv.innerText = "Parsing Data...";
                 planesData = await response.json();
-                
-                // 5. Success
                 updateMap();
                 
-                // Reset retry count on success
                 retryCount = 0;
                 statsDiv.innerText = `TRACKING ${planesData.length} TARGETS`;
                 statsDiv.style.color = '#fff';
@@ -144,22 +132,32 @@
             } catch (e) {
                 console.error("Data Error:", e);
                 
-                // 6. Verbose Error Reporting
-                retryCount++;
-                let errorMsg = e.message;
-                
-                if (errorMsg.includes("404")) {
-                    // This is the most common error (GitHub Action hasn't finished yet)
-                    statsDiv.innerText = `Data Pending (Try ${retryCount})...`;
-                    statsDiv.style.color = "orange";
-                } else if (errorMsg.includes("Failed to fetch")) {
-                    statsDiv.innerText = "Network Blocked / Offline";
-                    statsDiv.style.color = "red";
+                if (e.message.includes("404")) {
+                    retryCount++;
+                    if (retryCount > 3) {
+                        // FALLBACK: If no data after 3 tries, show demo data
+                        statsDiv.innerText = "SIMULATION MODE (No Data File)";
+                        statsDiv.style.color = "cyan";
+                        generateDemoData();
+                    } else {
+                        statsDiv.innerText = `Data Pending (Try ${retryCount})...`;
+                        statsDiv.style.color = "orange";
+                    }
                 } else {
-                    statsDiv.innerText = `Error: ${errorMsg}`;
-                    statsDiv.style.color = "red";
+                    statsDiv.innerText = "Connection Error";
+                    statsDiv.style.color = "#ff5555";
                 }
             }
+        }
+
+        function generateDemoData() {
+            // Fake data so the user sees something working
+            planesData = [
+                {lat: 34.0, lon: -118.0, name: "SIMULATION", category: "Hired Gun", callsign: "TEST01", alt: 5000, heading: 45, velocity: 200},
+                {lat: 51.5, lon: -0.12, name: "SIMULATION", category: "Dictator Alert", callsign: "TEST02", alt: 10000, heading: 90, velocity: 250},
+                {lat: 48.8, lon: 2.35, name: "SIMULATION", category: "Government", callsign: "TEST03", alt: 2000, heading: 180, velocity: 150}
+            ];
+            updateMap();
         }
 
         function updateMap() {
@@ -179,8 +177,7 @@
                     if (category.includes('Oligarch')) color = '#ffff00'; // Yellow
                     if (category.includes('Hired')) color = '#ffaa00'; // Orange
 
-                    // CREATE CUSTOM PLANE ICON
-                    // We use an SVG string rotated by the plane's heading
+                    // CUSTOM PLANE SVG ICON
                     const heading = plane.heading || 0;
                     
                     const planeSVG = `
@@ -193,9 +190,9 @@
 
                     const icon = L.divIcon({
                         html: planeSVG,
-                        className: '', // Remove default leaflet class box
+                        className: '', 
                         iconSize: [24, 24],
-                        iconAnchor: [12, 12] // Center the rotation point
+                        iconAnchor: [12, 12] 
                     });
 
                     const marker = L.marker([plane.lat, plane.lon], { icon: icon });
