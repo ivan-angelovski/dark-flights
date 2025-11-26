@@ -4,36 +4,19 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "DKN01",
-    "lon": 49.7926,
-    "lat": 26.5038,
-    "alt": 3360.42,
-    "velocity": 138.6,
-    "heading": 315.45,
+    "lon": 49.2357,
+    "lat": 27.0099,
+    "alt": 7010.4,
+    "velocity": 160.06,
+    "heading": 315,
     "trace": [
       [
         26.5038,
         49.7926
-      ]
-    ]
-  },
-  {
-    "hex": "a49951",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT833",
-    "lon": -78.8447,
-    "lat": 25.0557,
-    "alt": 8884.92,
-    "velocity": 259.75,
-    "heading": 121.39,
-    "trace": [
-      [
-        25.7934,
-        -80.2261
       ],
       [
-        25.0557,
-        -78.8447
+        27.0099,
+        49.2357
       ]
     ]
   },
@@ -42,11 +25,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR845",
-    "lon": -111.8811,
-    "lat": 33.7806,
+    "lon": -113.214,
+    "lat": 33.8599,
     "alt": 12192,
-    "velocity": 229.59,
-    "heading": 274.37,
+    "velocity": 236.12,
+    "heading": 273.75,
     "trace": [
       [
         28.049,
@@ -87,6 +70,10 @@
       [
         33.7806,
         -111.8811
+      ],
+      [
+        33.8599,
+        -113.214
       ]
     ]
   },
@@ -95,28 +82,44 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA1662",
-    "lon": -77.3473,
-    "lat": 27.948,
-    "alt": 11277.6,
-    "velocity": 200.9,
-    "heading": 309.81,
+    "lon": -78.1926,
+    "lat": 28.5673,
+    "alt": 11285.22,
+    "velocity": 203.6,
+    "heading": 309.36,
     "trace": [
       [
         27.948,
         -77.3473
+      ],
+      [
+        28.5673,
+        -78.1926
       ]
     ]
+  },
+  {
+    "hex": "896272",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB4",
+    "lon": null,
+    "lat": null,
+    "alt": null,
+    "velocity": 120.92,
+    "heading": 268.78,
+    "trace": []
   },
   {
     "hex": "a3defb",
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT8343",
-    "lon": -71.4812,
-    "lat": 21.5705,
+    "lon": -70.3478,
+    "lat": 20.9678,
     "alt": 11277.6,
-    "velocity": 255.94,
-    "heading": 119.5,
+    "velocity": 257.6,
+    "heading": 119.69,
     "trace": [
       [
         22.7504,
@@ -125,6 +128,10 @@
       [
         21.5705,
         -71.4812
+      ],
+      [
+        20.9678,
+        -70.3478
       ]
     ]
   },
@@ -133,11 +140,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2231",
-    "lon": -4.0872,
-    "lat": 49.9166,
-    "alt": 12192,
-    "velocity": 198.64,
-    "heading": 18.11,
+    "lon": -3.6224,
+    "lat": 50.8106,
+    "alt": 9494.52,
+    "velocity": 195.87,
+    "heading": 18.53,
     "trace": [
       [
         39.3682,
@@ -166,80 +173,10 @@
       [
         49.9166,
         -4.0872
-      ]
-    ]
-  },
-  {
-    "hex": "ab7437",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA6143",
-    "lon": -97.7209,
-    "lat": 26.4601,
-    "alt": 815.34,
-    "velocity": 126.47,
-    "heading": 127.9,
-    "trace": [
-      [
-        32.687,
-        -109.9029
       ],
       [
-        31.8862,
-        -106.5701
-      ],
-      [
-        30.9646,
-        -103.0351
-      ],
-      [
-        30.1003,
-        -101.7801
-      ],
-      [
-        29.5642,
-        -101.0458
-      ],
-      [
-        27.4498,
-        -98.9774
-      ],
-      [
-        26.4601,
-        -97.7209
-      ]
-    ]
-  },
-  {
-    "hex": "710100",
-    "name": "Saudi Ministry of Finance",
-    "category": "Dictator Alert",
-    "callsign": "SVA931",
-    "lon": 19.4604,
-    "lat": 41.9519,
-    "alt": 10355.58,
-    "velocity": 237.38,
-    "heading": 322.48,
-    "trace": [
-      [
-        36.1599,
-        24.7586
-      ],
-      [
-        37.2288,
-        23.6795
-      ],
-      [
-        37.8718,
-        23.0106
-      ],
-      [
-        40.2728,
-        21.0549
-      ],
-      [
-        41.9519,
-        19.4604
+        50.8106,
+        -3.6224
       ]
     ]
   }
