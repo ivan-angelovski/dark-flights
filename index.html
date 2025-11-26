@@ -22,10 +22,17 @@
         
         /* HUD Overlay */
         #hud {
-            position: absolute; top: 20px; left: 20px; z-index: 1000;
+            position: absolute; 
+            bottom: 30px; /* MOVED TO BOTTOM LEFT */
+            left: 20px; 
+            z-index: 1000;
             width: 300px;
             text-shadow: 0 0 4px rgba(0,0,0,0.8);
+            pointer-events: none; /* Allows clicking map through empty areas of HUD */
         }
+        /* Re-enable pointer events for inputs so they still work */
+        #hud * { pointer-events: auto; }
+
         h1 { 
             margin: 0 0 10px 0; 
             font-size: 28px; 
