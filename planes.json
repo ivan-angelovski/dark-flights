@@ -4,11 +4,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6109",
-    "lon": -90.3463,
-    "lat": 29.0029,
-    "alt": 11590.02,
-    "velocity": 212.51,
-    "heading": 320.99,
+    "lon": -90.88,
+    "lat": 29.5798,
+    "alt": 10492.74,
+    "velocity": 209.87,
+    "heading": 320.77,
     "trace": [
       [
         27.6188,
@@ -21,35 +21,44 @@
       [
         29.0029,
         -90.3463
+      ],
+      [
+        29.5798,
+        -90.88
       ]
     ]
   },
   {
-    "hex": "a3defb",
-    "name": "Amerijet International",
+    "hex": "a95c2f",
+    "name": "National Airlines",
     "category": "Hired Gun",
-    "callsign": "AJT740",
-    "lon": -83.4223,
-    "lat": 21.0962,
-    "alt": 11582.4,
-    "velocity": 261.06,
-    "heading": 37.8,
+    "callsign": "NCR654",
+    "lon": -162.8507,
+    "lat": 59.3818,
+    "alt": 10668,
+    "velocity": 259.9,
+    "heading": 74.15,
     "trace": [
       [
-        18.5233,
-        -85.2042
-      ],
+        59.3818,
+        -162.8507
+      ]
+    ]
+  },
+  {
+    "hex": "a75013",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6153",
+    "lon": -111.6621,
+    "lat": 33.3035,
+    "alt": null,
+    "velocity": 0,
+    "heading": 225,
+    "trace": [
       [
-        19.5191,
-        -84.5212
-      ],
-      [
-        20.3323,
-        -84.0258
-      ],
-      [
-        21.0962,
-        -83.4223
+        33.3035,
+        -111.6621
       ]
     ]
   },
@@ -58,11 +67,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "RRR3125",
-    "lon": 5.9303,
-    "lat": 39.7287,
+    "lon": 5.7582,
+    "lat": 40.4995,
     "alt": 12192,
-    "velocity": 227,
-    "heading": 350.35,
+    "velocity": 222.44,
+    "heading": 350.15,
     "trace": [
       [
         38.0892,
@@ -75,6 +84,10 @@
       [
         39.7287,
         5.9303
+      ],
+      [
+        40.4995,
+        5.7582
       ]
     ]
   },
@@ -83,11 +96,11 @@
     "name": "Turkish Government",
     "category": "Dictator Alert",
     "callsign": "TRK6",
-    "lon": 15.4195,
-    "lat": 48.5586,
+    "lon": 16.5213,
+    "lat": 48.1507,
     "alt": 13716,
-    "velocity": 239.2,
-    "heading": 118.66,
+    "velocity": 242.35,
+    "heading": 119.5,
     "trace": [
       [
         50.8832,
@@ -116,6 +129,10 @@
       [
         48.5586,
         15.4195
+      ],
+      [
+        48.1507,
+        16.5213
       ]
     ]
   },
@@ -124,11 +141,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR533",
-    "lon": -104.7233,
-    "lat": 31.8199,
+    "lon": -105.1978,
+    "lat": 32.554,
     "alt": 11582.4,
-    "velocity": 238.05,
-    "heading": 331.33,
+    "velocity": 241.54,
+    "heading": 331.09,
     "trace": [
       [
         23.6499,
@@ -165,31 +182,10 @@
       [
         31.8199,
         -104.7233
-      ]
-    ]
-  },
-  {
-    "hex": "710100",
-    "name": "Saudi Ministry of Finance",
-    "category": "Dictator Alert",
-    "callsign": "SVA3021",
-    "lon": 49.7561,
-    "lat": 22.9616,
-    "alt": 9753.6,
-    "velocity": 232.82,
-    "heading": 284.07,
-    "trace": [
-      [
-        22.5681,
-        51.4065
       ],
       [
-        22.7833,
-        50.514
-      ],
-      [
-        22.9616,
-        49.7561
+        32.554,
+        -105.1978
       ]
     ]
   },
@@ -198,11 +194,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3861",
-    "lon": -54.9523,
-    "lat": -14.0105,
+    "lon": -54.2989,
+    "lat": -14.5212,
     "alt": 10652.76,
-    "velocity": 247.62,
-    "heading": 129.01,
+    "velocity": 255.49,
+    "heading": 128.62,
     "trace": [
       [
         -12.0921,
@@ -219,6 +215,10 @@
       [
         -14.0105,
         -54.9523
+      ],
+      [
+        -14.5212,
+        -54.2989
       ]
     ]
   },
@@ -227,11 +227,11 @@
     "name": "Wheels Up Private Jets",
     "category": "Hired Gun",
     "callsign": "WUP841",
-    "lon": -80.464,
-    "lat": 35.9377,
+    "lon": -80.404,
+    "lat": 35.5307,
     "alt": 10058.4,
-    "velocity": 119.71,
-    "heading": 173.09,
+    "velocity": 113.45,
+    "heading": 173.23,
     "trace": [
       [
         42.1826,
@@ -268,6 +268,10 @@
       [
         35.9377,
         -80.464
+      ],
+      [
+        35.5307,
+        -80.404
       ]
     ]
   }
