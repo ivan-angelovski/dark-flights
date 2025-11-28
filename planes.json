@@ -4,11 +4,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI7066",
-    "lon": -94.229,
-    "lat": 31.051,
+    "lon": -93.4831,
+    "lat": 32.1741,
     "alt": 10675.62,
-    "velocity": 241.65,
-    "heading": 29.46,
+    "velocity": 242.86,
+    "heading": 29.71,
     "trace": [
       [
         23.7484,
@@ -25,6 +25,10 @@
       [
         31.051,
         -94.229
+      ],
+      [
+        32.1741,
+        -93.4831
       ]
     ]
   },
@@ -33,11 +37,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR854",
-    "lon": -119.9178,
-    "lat": 44.4964,
+    "lon": -118.8719,
+    "lat": 43.5435,
     "alt": 10058.4,
-    "velocity": 275.17,
-    "heading": 141.22,
+    "velocity": 273.02,
+    "heading": 141.96,
     "trace": [
       [
         49.4581,
@@ -50,6 +54,10 @@
       [
         44.4964,
         -119.9178
+      ],
+      [
+        43.5435,
+        -118.8719
       ]
     ]
   },
@@ -58,11 +66,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "6XA4657",
-    "lon": -86.0532,
-    "lat": 38.1916,
+    "lon": -84.1827,
+    "lat": 38.1978,
     "alt": 11277.6,
-    "velocity": 277.83,
-    "heading": 89.15,
+    "velocity": 277.8,
+    "heading": 90.32,
     "trace": [
       [
         37.7694,
@@ -83,6 +91,10 @@
       [
         38.1916,
         -86.0532
+      ],
+      [
+        38.1978,
+        -84.1827
       ]
     ]
   },
@@ -91,11 +103,11 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT845",
-    "lon": -72.6161,
-    "lat": 22.3898,
+    "lon": -71.3507,
+    "lat": 21.7435,
     "alt": 10675.62,
-    "velocity": 254.14,
-    "heading": 118.54,
+    "velocity": 251.69,
+    "heading": 118.97,
     "trace": [
       [
         25.1908,
@@ -108,31 +120,10 @@
       [
         22.3898,
         -72.6161
-      ]
-    ]
-  },
-  {
-    "hex": "a9e61f",
-    "name": "Eagle Intl Establishment",
-    "category": "Hired Gun",
-    "callsign": "N737M",
-    "lon": 140.3989,
-    "lat": 35.7677,
-    "alt": null,
-    "velocity": 9.26,
-    "heading": 194.06,
-    "trace": [
-      [
-        34.1152,
-        138.3726
       ],
       [
-        35.4095,
-        140.6615
-      ],
-      [
-        35.7677,
-        140.3989
+        21.7435,
+        -71.3507
       ]
     ]
   },
@@ -141,11 +132,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3798",
-    "lon": -72.0086,
-    "lat": 40.0172,
+    "lon": -70.4118,
+    "lat": 41.2152,
     "alt": 10668,
-    "velocity": 313.57,
-    "heading": 44.87,
+    "velocity": 329.62,
+    "heading": 46.01,
     "trace": [
       [
         26.3026,
@@ -166,6 +157,10 @@
       [
         40.0172,
         -72.0086
+      ],
+      [
+        41.2152,
+        -70.4118
       ]
     ]
   },
@@ -174,15 +169,19 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA929",
-    "lon": 32.9334,
-    "lat": 29.0522,
+    "lon": 31.8943,
+    "lat": 29.7657,
     "alt": 9753.6,
-    "velocity": 218.93,
-    "heading": 308.51,
+    "velocity": 222.58,
+    "heading": 307.77,
     "trace": [
       [
         29.0522,
         32.9334
+      ],
+      [
+        29.7657,
+        31.8943
       ]
     ]
   },
@@ -191,15 +190,36 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3861",
-    "lon": -60.2863,
-    "lat": -30.1349,
+    "lon": -61.5596,
+    "lat": -30.5343,
     "alt": 10972.8,
-    "velocity": 199.85,
-    "heading": 249.98,
+    "velocity": 209.92,
+    "heading": 250.23,
     "trace": [
       [
         -30.1349,
         -60.2863
+      ],
+      [
+        -30.5343,
+        -61.5596
+      ]
+    ]
+  },
+  {
+    "hex": "157713",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD667",
+    "lon": 77.0007,
+    "lat": 28.5518,
+    "alt": 800.1,
+    "velocity": 108.85,
+    "heading": 252.68,
+    "trace": [
+      [
+        28.5518,
+        77.0007
       ]
     ]
   }
