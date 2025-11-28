@@ -4,11 +4,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA4604",
-    "lon": -111.4102,
-    "lat": 36.5814,
-    "alt": 11285.22,
-    "velocity": 249.85,
-    "heading": 79.8,
+    "lon": -106.1994,
+    "lat": 37.2147,
+    "alt": 11277.6,
+    "velocity": 252.94,
+    "heading": 82.99,
     "trace": [
       [
         36.0976,
@@ -25,23 +25,10 @@
       [
         36.5814,
         -111.4102
-      ]
-    ]
-  },
-  {
-    "hex": "a49951",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT8533",
-    "lon": -73.3011,
-    "lat": 21.9087,
-    "alt": 11292.84,
-    "velocity": 256.26,
-    "heading": 125.6,
-    "trace": [
+      ],
       [
-        21.9087,
-        -73.3011
+        37.2147,
+        -106.1994
       ]
     ]
   },
@@ -50,11 +37,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR854",
-    "lon": -108.5881,
-    "lat": 33.8732,
+    "lon": -105.9558,
+    "lat": 30.0609,
     "alt": 10668,
-    "velocity": 273.94,
-    "heading": 140.18,
+    "velocity": 285.33,
+    "heading": 148.72,
     "trace": [
       [
         49.4581,
@@ -95,6 +82,27 @@
       [
         33.8732,
         -108.5881
+      ],
+      [
+        30.0609,
+        -105.9558
+      ]
+    ]
+  },
+  {
+    "hex": "70c0b4",
+    "name": "Oman Royal Flight",
+    "category": "Dictator Alert",
+    "callsign": "ORF4",
+    "lon": 53.9089,
+    "lat": 25.2427,
+    "alt": 12192,
+    "velocity": 240.3,
+    "heading": 312.57,
+    "trace": [
+      [
+        25.2427,
+        53.9089
       ]
     ]
   },
@@ -103,44 +111,36 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT845",
-    "lon": -62.7967,
-    "lat": 13.1881,
-    "alt": 10668,
-    "velocity": 267.79,
-    "heading": 141.79,
+    "lon": -60.1255,
+    "lat": 9.7966,
+    "alt": 10675.62,
+    "velocity": 255.6,
+    "heading": 142.28,
     "trace": [
       [
         13.1881,
         -62.7967
+      ],
+      [
+        9.7966,
+        -60.1255
       ]
     ]
   },
   {
-    "hex": "48d961",
-    "name": "Polish Government",
-    "category": "Dictator Alert",
-    "callsign": "PLF106",
-    "lon": 13.5956,
-    "lat": 52.3939,
-    "alt": 304.8,
-    "velocity": 56.84,
-    "heading": 248.78,
+    "hex": "a9c52e",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR533",
+    "lon": -149.9965,
+    "lat": 61.1712,
+    "alt": null,
+    "velocity": 4.63,
+    "heading": 255.94,
     "trace": [
       [
-        52.1088,
-        20.0714
-      ],
-      [
-        52.1183,
-        18.093
-      ],
-      [
-        52.1049,
-        16.7117
-      ],
-      [
-        52.3939,
-        13.5956
+        61.1712,
+        -149.9965
       ]
     ]
   },
@@ -149,15 +149,19 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA929",
-    "lon": 23.1756,
-    "lat": 37.4145,
+    "lon": 19.8753,
+    "lat": 40.7492,
     "alt": 10363.2,
-    "velocity": 235.15,
-    "heading": 305.74,
+    "velocity": 256.31,
+    "heading": 320.78,
     "trace": [
       [
         37.4145,
         23.1756
+      ],
+      [
+        40.7492,
+        19.8753
       ]
     ]
   }
