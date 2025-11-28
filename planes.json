@@ -4,11 +4,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI7065",
-    "lon": -92.6998,
-    "lat": 32.8858,
+    "lon": -93.5738,
+    "lat": 32.1509,
     "alt": 10370.82,
-    "velocity": 220.81,
-    "heading": 225.47,
+    "velocity": 221.17,
+    "heading": 225,
     "trace": [
       [
         33.9767,
@@ -17,6 +17,10 @@
       [
         32.8858,
         -92.6998
+      ],
+      [
+        32.1509,
+        -93.5738
       ]
     ]
   },
@@ -25,11 +29,11 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "MONICA21",
-    "lon": 2.4537,
-    "lat": 54.3999,
-    "alt": 7863.84,
-    "velocity": 228.42,
-    "heading": 114.2,
+    "lon": 1.2731,
+    "lat": 54.0802,
+    "alt": 7833.36,
+    "velocity": 178.43,
+    "heading": 222.43,
     "trace": [
       [
         54.2855,
@@ -50,6 +54,10 @@
       [
         54.3999,
         2.4537
+      ],
+      [
+        54.0802,
+        1.2731
       ]
     ]
   },
@@ -58,11 +66,11 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "BRMIDE32",
-    "lon": 0.0792,
-    "lat": 55.0049,
-    "alt": 4442.46,
-    "velocity": 116.72,
-    "heading": 235.96,
+    "lon": -0.7152,
+    "lat": 54.7787,
+    "alt": 1501.14,
+    "velocity": 104.71,
+    "heading": 247.47,
     "trace": [
       [
         54.5119,
@@ -95,6 +103,10 @@
       [
         55.0049,
         0.0792
+      ],
+      [
+        54.7787,
+        -0.7152
       ]
     ]
   },
@@ -103,11 +115,11 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "BRMIDE31",
-    "lon": 0.08,
-    "lat": 55.0049,
-    "alt": 4442.46,
-    "velocity": 117.71,
-    "heading": 236.59,
+    "lon": -0.7168,
+    "lat": 54.7785,
+    "alt": 1501.14,
+    "velocity": 104.91,
+    "heading": 247.21,
     "trace": [
       [
         54.6628,
@@ -140,6 +152,10 @@
       [
         55.0049,
         0.08
+      ],
+      [
+        54.7785,
+        -0.7168
       ]
     ]
   },
@@ -148,11 +164,11 @@
     "name": "Oman Royal Flight",
     "category": "Dictator Alert",
     "callsign": "ORF4",
-    "lon": 19.8005,
-    "lat": 47.114,
+    "lon": 18.2845,
+    "lat": 47.7551,
     "alt": 12192,
-    "velocity": 256.15,
-    "heading": 302.7,
+    "velocity": 257.15,
+    "heading": 299.74,
     "trace": [
       [
         41.9004,
@@ -177,6 +193,27 @@
       [
         47.114,
         19.8005
+      ],
+      [
+        47.7551,
+        18.2845
+      ]
+    ]
+  },
+  {
+    "hex": "a75013",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6151",
+    "lon": -97.9438,
+    "lat": 26.2237,
+    "alt": 3314.7,
+    "velocity": 166.71,
+    "heading": 259.87,
+    "trace": [
+      [
+        26.2237,
+        -97.9438
       ]
     ]
   },
@@ -184,16 +221,37 @@
     "hex": "8953e3",
     "name": "Gov of Brunei",
     "category": "Dictator Alert",
-    "callsign": "",
-    "lon": 103.9709,
-    "lat": 1.2961,
-    "alt": 701.04,
-    "velocity": 97.42,
-    "heading": 203.99,
+    "callsign": "V8OAS",
+    "lon": 104.3168,
+    "lat": 1.009,
+    "alt": 2971.8,
+    "velocity": 172.56,
+    "heading": 87.09,
     "trace": [
       [
         1.2961,
         103.9709
+      ],
+      [
+        1.009,
+        104.3168
+      ]
+    ]
+  },
+  {
+    "hex": "48d981",
+    "name": "Polish Air Force",
+    "category": "Dictator Alert",
+    "callsign": "",
+    "lon": 15.072,
+    "lat": 53.4387,
+    "alt": 1783.08,
+    "velocity": 118.18,
+    "heading": 240.53,
+    "trace": [
+      [
+        53.4387,
+        15.072
       ]
     ]
   },
@@ -202,8 +260,8 @@
     "name": "Gov of Belarus",
     "category": "Dictator Alert",
     "callsign": "BRU8001",
-    "lon": 87.1821,
-    "lat": 22.7603,
+    "lon": 86.0773,
+    "lat": 22.8414,
     "alt": 10972.8,
     "velocity": 216.73,
     "heading": 274.49,
@@ -223,6 +281,27 @@
       [
         22.7603,
         87.1821
+      ],
+      [
+        22.8414,
+        86.0773
+      ]
+    ]
+  },
+  {
+    "hex": "710100",
+    "name": "Saudi Ministry of Finance",
+    "category": "Dictator Alert",
+    "callsign": "SVA929",
+    "lon": 5.4512,
+    "lat": 50.5139,
+    "alt": 4930.14,
+    "velocity": 203.67,
+    "heading": 102.84,
+    "trace": [
+      [
+        50.5139,
+        5.4512
       ]
     ]
   },
@@ -231,11 +310,11 @@
     "name": "Draken Intl",
     "category": "Hired Gun",
     "callsign": "FRA34T",
-    "lon": -6.0931,
-    "lat": 54.6906,
-    "alt": 601.98,
-    "velocity": 34.74,
-    "heading": 242.68,
+    "lon": -6.0318,
+    "lat": 54.7068,
+    "alt": 853.44,
+    "velocity": 33.17,
+    "heading": 246.22,
     "trace": [
       [
         55.2301,
@@ -252,6 +331,27 @@
       [
         54.6906,
         -6.0931
+      ],
+      [
+        54.7068,
+        -6.0318
+      ]
+    ]
+  },
+  {
+    "hex": "a3ac55",
+    "name": "Kalitta Charters II",
+    "category": "Hired Gun",
+    "callsign": "KII5481",
+    "lon": -83.5707,
+    "lat": 41.6221,
+    "alt": 7673.34,
+    "velocity": 212.02,
+    "heading": 195.05,
+    "trace": [
+      [
+        41.6221,
+        -83.5707
       ]
     ]
   },
