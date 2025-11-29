@@ -4,11 +4,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI7066",
-    "lon": -94.023,
-    "lat": 32.0171,
-    "alt": 11285.22,
-    "velocity": 251.32,
-    "heading": 40.77,
+    "lon": -90.7157,
+    "lat": 34.5402,
+    "alt": 3169.92,
+    "velocity": 188.21,
+    "heading": 54.01,
     "trace": [
       [
         25.203,
@@ -37,6 +37,10 @@
       [
         32.0171,
         -94.023
+      ],
+      [
+        34.5402,
+        -90.7157
       ]
     ]
   },
@@ -45,11 +49,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR890",
-    "lon": -148.9835,
-    "lat": 60.8415,
-    "alt": 4960.62,
-    "velocity": 186.12,
-    "heading": 290.89,
+    "lon": -149.9982,
+    "lat": 61.187,
+    "alt": null,
+    "velocity": 0,
+    "heading": 345.94,
     "trace": [
       [
         54.4644,
@@ -86,6 +90,10 @@
       [
         60.8415,
         -148.9835
+      ],
+      [
+        61.187,
+        -149.9982
       ]
     ]
   },
@@ -94,11 +102,11 @@
     "name": "Equatorial Guinea",
     "category": "Dictator Alert",
     "callsign": "3CEGE",
-    "lon": 13.8377,
-    "lat": 34.6323,
-    "alt": 11277.6,
-    "velocity": 259.04,
-    "heading": 87.38,
+    "lon": 18.6765,
+    "lat": 34.7144,
+    "alt": 11887.2,
+    "velocity": 260.83,
+    "heading": 90.23,
     "trace": [
       [
         34.5269,
@@ -111,6 +119,27 @@
       [
         34.6323,
         13.8377
+      ],
+      [
+        34.7144,
+        18.6765
+      ]
+    ]
+  },
+  {
+    "hex": "896264",
+    "name": "Abu Dhabi Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "AUH03",
+    "lon": 51.0718,
+    "lat": 26.0741,
+    "alt": 10058.4,
+    "velocity": 282.52,
+    "heading": 118.85,
+    "trace": [
+      [
+        26.0741,
+        51.0718
       ]
     ]
   },
@@ -119,11 +148,11 @@
     "name": "ISR Platforms",
     "category": "Hired Gun",
     "callsign": "TGR671",
-    "lon": 120.0476,
-    "lat": 14.4001,
+    "lon": 120.0667,
+    "lat": 14.5064,
     "alt": 1684.02,
-    "velocity": 56.7,
-    "heading": 86.36,
+    "velocity": 61.77,
+    "heading": 345.04,
     "trace": [
       [
         15.2111,
@@ -156,6 +185,10 @@
       [
         14.4001,
         120.0476
+      ],
+      [
+        14.5064,
+        120.0667
       ]
     ]
   },
@@ -164,11 +197,11 @@
     "name": "Gov of Algeria",
     "category": "Dictator Alert",
     "callsign": "Q7TVPS",
-    "lon": -6.5978,
-    "lat": 37.0331,
+    "lon": -10.6674,
+    "lat": 37.5704,
     "alt": 12496.8,
-    "velocity": 214.49,
-    "heading": 278.83,
+    "velocity": 214.77,
+    "heading": 278.4,
     "trace": [
       [
         36.5199,
@@ -197,6 +230,10 @@
       [
         37.0331,
         -6.5978
+      ],
+      [
+        37.5704,
+        -10.6674
       ]
     ]
   },
@@ -205,15 +242,19 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA972",
-    "lon": 83.8606,
-    "lat": 22.9859,
+    "lon": 88.4477,
+    "lat": 22.6747,
     "alt": 12496.8,
-    "velocity": 274.63,
-    "heading": 93.22,
+    "velocity": 276.29,
+    "heading": 97.06,
     "trace": [
       [
         22.9859,
         83.8606
+      ],
+      [
+        22.6747,
+        88.4477
       ]
     ]
   }
