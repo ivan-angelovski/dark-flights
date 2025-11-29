@@ -4,40 +4,36 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA1610",
-    "lon": -86.6762,
-    "lat": 38.3099,
-    "alt": 11887.2,
-    "velocity": 239.64,
-    "heading": 159.39,
+    "lon": -85.501,
+    "lat": 35.7749,
+    "alt": 11894.82,
+    "velocity": 244.1,
+    "heading": 153.6,
     "trace": [
       [
         38.3099,
         -86.6762
+      ],
+      [
+        35.7749,
+        -85.501
       ]
     ]
   },
   {
-    "hex": "a95c2f",
-    "name": "National Airlines",
+    "hex": "a2f016",
+    "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "NCR890",
-    "lon": -127.1691,
-    "lat": 50.5227,
-    "alt": 12192,
-    "velocity": 213.1,
-    "heading": 322.36,
+    "callsign": "GXA203",
+    "lon": -72.387,
+    "lat": 18.7184,
+    "alt": 11582.4,
+    "velocity": 225.45,
+    "heading": 330.92,
     "trace": [
       [
-        35.7575,
-        -115.0327
-      ],
-      [
-        45.6705,
-        -122.539
-      ],
-      [
-        50.5227,
-        -127.1691
+        18.7184,
+        -72.387
       ]
     ]
   },
@@ -46,15 +42,19 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA4665",
-    "lon": -77.1971,
-    "lat": 42.4204,
+    "lon": -80.1916,
+    "lat": 42.1691,
     "alt": 11574.78,
-    "velocity": 203.42,
-    "heading": 261.42,
+    "velocity": 200.73,
+    "heading": 268.24,
     "trace": [
       [
         42.4204,
         -77.1971
+      ],
+      [
+        42.1691,
+        -80.1916
       ]
     ]
   },
@@ -63,15 +63,53 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2233",
-    "lon": -10.8984,
-    "lat": 36.3155,
+    "lon": -10.0755,
+    "lat": 39.4335,
     "alt": 12192,
-    "velocity": 254.75,
-    "heading": 11.65,
+    "velocity": 252.55,
+    "heading": 12.11,
     "trace": [
       [
         36.3155,
         -10.8984
+      ],
+      [
+        39.4335,
+        -10.0755
+      ]
+    ]
+  },
+  {
+    "hex": "a9c52e",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR557",
+    "lon": 114.2425,
+    "lat": 22.096,
+    "alt": 2918.46,
+    "velocity": 164.08,
+    "heading": 135.89,
+    "trace": [
+      [
+        22.096,
+        114.2425
+      ]
+    ]
+  },
+  {
+    "hex": "acb84d",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR874",
+    "lon": -10.7073,
+    "lat": 50.4554,
+    "alt": 12496.8,
+    "velocity": 272.61,
+    "heading": 82.19,
+    "trace": [
+      [
+        50.4554,
+        -10.7073
       ]
     ]
   }
