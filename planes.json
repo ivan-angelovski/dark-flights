@@ -1,14 +1,31 @@
 [
   {
+    "hex": "8002cd",
+    "name": "Gov of India",
+    "category": "Dictator Alert",
+    "callsign": "VUAVU",
+    "lon": 72.9012,
+    "lat": 19.7105,
+    "alt": 11277.6,
+    "velocity": 235.82,
+    "heading": 2.38,
+    "trace": [
+      [
+        19.7105,
+        72.9012
+      ]
+    ]
+  },
+  {
     "hex": "89607a",
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB6",
-    "lon": 49.8147,
-    "lat": 27.6105,
+    "lon": 48.2928,
+    "lat": 29.455,
     "alt": 10363.2,
-    "velocity": 194.43,
-    "heading": 321.55,
+    "velocity": 197.94,
+    "heading": 330.24,
     "trace": [
       [
         25.6561,
@@ -25,6 +42,10 @@
       [
         27.6105,
         49.8147
+      ],
+      [
+        29.455,
+        48.2928
       ]
     ]
   },
@@ -32,40 +53,16 @@
     "hex": "a49951",
     "name": "Amerijet International",
     "category": "Hired Gun",
-    "callsign": "",
-    "lon": null,
-    "lat": null,
-    "alt": null,
-    "velocity": 260.31,
-    "heading": 132.68,
-    "trace": []
-  },
-  {
-    "hex": "aa3086",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR561",
-    "lon": 114.0156,
-    "lat": 21.4125,
-    "alt": 5943.6,
-    "velocity": 226.9,
-    "heading": 207.84,
+    "callsign": "AJT8641",
+    "lon": -66.0438,
+    "lat": 18.4338,
+    "alt": 167.64,
+    "velocity": 67.91,
+    "heading": 89.57,
     "trace": [
       [
-        22.3088,
-        113.9053
-      ],
-      [
-        22.2923,
-        113.8844
-      ],
-      [
-        21.7118,
-        114.1242
-      ],
-      [
-        21.4125,
-        114.0156
+        18.4338,
+        -66.0438
       ]
     ]
   },
@@ -74,11 +71,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA599",
-    "lon": -84.7458,
-    "lat": 37.7871,
-    "alt": 8244.84,
-    "velocity": 235.22,
-    "heading": 171.32,
+    "lon": -84.3656,
+    "lat": 35.1251,
+    "alt": 10058.4,
+    "velocity": 225.18,
+    "heading": 176.73,
     "trace": [
       [
         38.5325,
@@ -87,6 +84,10 @@
       [
         37.7871,
         -84.7458
+      ],
+      [
+        35.1251,
+        -84.3656
       ]
     ]
   },
@@ -95,11 +96,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3798",
-    "lon": -3.4384,
-    "lat": 53.8682,
+    "lon": -7.1628,
+    "lat": 55.7244,
     "alt": 11582.4,
-    "velocity": 242.01,
-    "heading": 300.82,
+    "velocity": 244.57,
+    "heading": 310.22,
     "trace": [
       [
         51.8091,
@@ -116,6 +117,10 @@
       [
         53.8682,
         -3.4384
+      ],
+      [
+        55.7244,
+        -7.1628
       ]
     ]
   },
@@ -124,11 +129,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR696",
-    "lon": 26.4301,
-    "lat": 40.8931,
+    "lon": 22.6965,
+    "lat": 40.641,
     "alt": 10363.2,
-    "velocity": 235.32,
-    "heading": 265.49,
+    "velocity": 247.36,
+    "heading": 263.79,
     "trace": [
       [
         40.9557,
@@ -137,67 +142,10 @@
       [
         40.8931,
         26.4301
-      ]
-    ]
-  },
-  {
-    "hex": "a86e85",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA1665",
-    "lon": -80.3956,
-    "lat": 25.8782,
-    "alt": 861.06,
-    "velocity": 145.89,
-    "heading": 244.52,
-    "trace": [
-      [
-        40.2258,
-        -85.9551
       ],
       [
-        39.2606,
-        -85.0388
-      ],
-      [
-        37.4523,
-        -83.2265
-      ],
-      [
-        35.9538,
-        -82.0486
-      ],
-      [
-        34.9945,
-        -81.7424
-      ],
-      [
-        34.1468,
-        -81.5467
-      ],
-      [
-        33.3336,
-        -81.4193
-      ],
-      [
-        32.6338,
-        -81.2491
-      ],
-      [
-        29.7774,
-        -80.8692
-      ],
-      [
-        27.3673,
-        -80.2941
-      ],
-      [
-        26.2138,
-        -80.0303
-      ],
-      [
-        25.8782,
-        -80.3956
+        40.641,
+        22.6965
       ]
     ]
   }
