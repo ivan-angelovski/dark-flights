@@ -4,11 +4,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB1",
-    "lon": 50.5863,
-    "lat": 26.8482,
-    "alt": 10972.8,
-    "velocity": 221.42,
-    "heading": 308.68,
+    "lon": 49.8921,
+    "lat": 27.5224,
+    "alt": 11582.4,
+    "velocity": 219.42,
+    "heading": 321.76,
     "trace": [
       [
         25.8076,
@@ -17,6 +17,10 @@
       [
         26.8482,
         50.5863
+      ],
+      [
+        27.5224,
+        49.8921
       ]
     ]
   },
@@ -42,11 +46,11 @@
     "name": "Gov of Kuwait",
     "category": "Dictator Alert",
     "callsign": "KUG8062",
-    "lon": 47.9765,
-    "lat": 29.2478,
+    "lon": 47.9793,
+    "lat": 29.2436,
     "alt": null,
-    "velocity": 1.03,
-    "heading": 157.5,
+    "velocity": 0,
+    "heading": 154.69,
     "trace": [
       [
         29.2479,
@@ -55,6 +59,10 @@
       [
         29.2478,
         47.9765
+      ],
+      [
+        29.2436,
+        47.9793
       ]
     ]
   },
@@ -63,15 +71,19 @@
     "name": "Bahrain Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "BAH3",
-    "lon": 73.9204,
-    "lat": 19.6264,
+    "lon": 72.9306,
+    "lat": 19.8407,
     "alt": 10972.8,
-    "velocity": 224.41,
-    "heading": 271.84,
+    "velocity": 235.88,
+    "heading": 286.34,
     "trace": [
       [
         19.6264,
         73.9204
+      ],
+      [
+        19.8407,
+        72.9306
       ]
     ]
   },
@@ -80,11 +92,11 @@
     "name": "Gov of Brunei",
     "category": "Dictator Alert",
     "callsign": "V8BKH",
-    "lon": 113.3938,
-    "lat": 5.9507,
-    "alt": 10294.62,
-    "velocity": 239.57,
-    "heading": 305.74,
+    "lon": 112.9298,
+    "lat": 6.2851,
+    "alt": 10355.58,
+    "velocity": 263.13,
+    "heading": 305.77,
     "trace": [
       [
         4.9525,
@@ -93,6 +105,10 @@
       [
         5.9507,
         113.3938
+      ],
+      [
+        6.2851,
+        112.9298
       ]
     ]
   },
@@ -101,11 +117,11 @@
     "name": "Gov of Turkmenistan",
     "category": "Dictator Alert",
     "callsign": "TUG3077",
-    "lon": 9.3588,
-    "lat": 56.8209,
-    "alt": 10363.2,
-    "velocity": 251.83,
-    "heading": 301.81,
+    "lon": 7.6988,
+    "lat": 57.3671,
+    "alt": 10355.58,
+    "velocity": 261.51,
+    "heading": 300.5,
     "trace": [
       [
         44.4551,
@@ -130,6 +146,10 @@
       [
         56.8209,
         9.3588
+      ],
+      [
+        57.3671,
+        7.6988
       ]
     ]
   },
@@ -138,11 +158,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA169",
-    "lon": -93.7621,
-    "lat": 41.6823,
+    "lon": -93.1005,
+    "lat": 40.7703,
     "alt": 11902.44,
-    "velocity": 247.15,
-    "heading": 160.55,
+    "velocity": 254.28,
+    "heading": 148.4,
     "trace": [
       [
         47.9026,
@@ -155,40 +175,27 @@
       [
         41.6823,
         -93.7621
+      ],
+      [
+        40.7703,
+        -93.1005
       ]
     ]
   },
   {
-    "hex": "a9c52e",
-    "name": "National Airlines",
+    "hex": "ab7437",
+    "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "NCR501",
-    "lon": 114.1087,
-    "lat": 21.6378,
-    "alt": 5090.16,
-    "velocity": 219.16,
-    "heading": 208.61,
+    "callsign": "GXA651",
+    "lon": -106.8686,
+    "lat": 37.7444,
+    "alt": 8305.8,
+    "velocity": 241.72,
+    "heading": 145.67,
     "trace": [
       [
-        21.6378,
-        114.1087
-      ]
-    ]
-  },
-  {
-    "hex": "010148",
-    "name": "Government of Egypt",
-    "category": "Dictator Alert",
-    "callsign": "",
-    "lon": 31.3335,
-    "lat": 30.1444,
-    "alt": 6705.6,
-    "velocity": 179.03,
-    "heading": 316.4,
-    "trace": [
-      [
-        30.1444,
-        31.3335
+        37.7444,
+        -106.8686
       ]
     ]
   },
@@ -197,11 +204,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR820",
-    "lon": 7.1937,
-    "lat": 50.2187,
-    "alt": 2621.28,
-    "velocity": 134.99,
-    "heading": 95.91,
+    "lon": 7.3121,
+    "lat": 49.9975,
+    "alt": 784.86,
+    "velocity": 72.64,
+    "heading": 212.56,
     "trace": [
       [
         54.4014,
@@ -230,6 +237,10 @@
       [
         50.2187,
         7.1937
+      ],
+      [
+        49.9975,
+        7.3121
       ]
     ]
   }
