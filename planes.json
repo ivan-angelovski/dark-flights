@@ -4,11 +4,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB1",
-    "lon": 47.353,
-    "lat": 30.4441,
+    "lon": 46.6643,
+    "lat": 31.1239,
     "alt": 11582.4,
-    "velocity": 224.03,
-    "heading": 310.53,
+    "velocity": 218.3,
+    "heading": 320.83,
     "trace": [
       [
         25.8076,
@@ -29,6 +29,10 @@
       [
         30.4441,
         47.353
+      ],
+      [
+        31.1239,
+        46.6643
       ]
     ]
   },
@@ -37,7 +41,7 @@
     "name": "Sharjah Rulers Flight",
     "category": "Dictator Alert",
     "callsign": "SHJ01",
-    "lon": 55.5254,
+    "lon": 55.5253,
     "lat": 25.3199,
     "alt": null,
     "velocity": 0,
@@ -46,6 +50,10 @@
       [
         25.3199,
         55.5254
+      ],
+      [
+        25.3199,
+        55.5253
       ]
     ]
   },
@@ -54,11 +62,11 @@
     "name": "Gov of Kuwait",
     "category": "Dictator Alert",
     "callsign": "KUG8062",
-    "lon": 48.0853,
-    "lat": 29.3223,
-    "alt": 678.18,
-    "velocity": 109.56,
-    "heading": 345.31,
+    "lon": 47.9368,
+    "lat": 29.238,
+    "alt": 76.2,
+    "velocity": 72.72,
+    "heading": 154.89,
     "trace": [
       [
         29.2479,
@@ -79,6 +87,27 @@
       [
         29.3223,
         48.0853
+      ],
+      [
+        29.238,
+        47.9368
+      ]
+    ]
+  },
+  {
+    "hex": "601861",
+    "name": "Gov of Turkmenistan",
+    "category": "Dictator Alert",
+    "callsign": "TUG3077",
+    "lon": -1.0351,
+    "lat": 59.5691,
+    "alt": 10363.2,
+    "velocity": 241.82,
+    "heading": 289.9,
+    "trace": [
+      [
+        59.5691,
+        -1.0351
       ]
     ]
   },
@@ -87,15 +116,19 @@
     "name": "ISR Platforms",
     "category": "Hired Gun",
     "callsign": "",
-    "lon": 126.7943,
-    "lat": 35.2214,
-    "alt": 7620,
-    "velocity": 220.76,
-    "heading": 18.05,
+    "lon": 126.9659,
+    "lat": 36.0462,
+    "alt": 5082.54,
+    "velocity": 191.66,
+    "heading": 5.24,
     "trace": [
       [
         35.2214,
         126.7943
+      ],
+      [
+        36.0462,
+        126.9659
       ]
     ]
   },
@@ -104,11 +137,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA169",
-    "lon": -89.9441,
-    "lat": 37.345,
+    "lon": -89.1934,
+    "lat": 36.4769,
     "alt": 11887.2,
-    "velocity": 258.18,
-    "heading": 144.98,
+    "velocity": 255.15,
+    "heading": 145.35,
     "trace": [
       [
         47.9026,
@@ -133,6 +166,10 @@
       [
         37.345,
         -89.9441
+      ],
+      [
+        36.4769,
+        -89.1934
       ]
     ]
   },
@@ -141,11 +178,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA651",
-    "lon": -104.9289,
-    "lat": 34.2038,
-    "alt": 10668,
-    "velocity": 229.02,
-    "heading": 174.33,
+    "lon": -104.5857,
+    "lat": 33.3025,
+    "alt": 8763,
+    "velocity": 240.63,
+    "heading": 140.9,
     "trace": [
       [
         37.7444,
@@ -158,6 +195,10 @@
       [
         34.2038,
         -104.9289
+      ],
+      [
+        33.3025,
+        -104.5857
       ]
     ]
   },
@@ -165,12 +206,17 @@
     "hex": "a9c52e",
     "name": "National Airlines",
     "category": "Hired Gun",
-    "callsign": "",
-    "lon": null,
-    "lat": null,
-    "alt": null,
-    "velocity": 249.05,
-    "heading": 309.97,
-    "trace": []
+    "callsign": "NCR501",
+    "lon": 108.4731,
+    "lat": 22.4442,
+    "alt": 9174.48,
+    "velocity": 243.58,
+    "heading": 309.95,
+    "trace": [
+      [
+        22.4442,
+        108.4731
+      ]
+    ]
   }
 ]
