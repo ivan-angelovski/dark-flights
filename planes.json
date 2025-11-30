@@ -1,133 +1,14 @@
 [
   {
-    "hex": "a0441d",
-    "name": "US Department of Energy",
-    "category": "Nuclear",
-    "callsign": "N116SR",
-    "lon": -81.6933,
-    "lat": 33.3817,
-    "alt": 83.82,
-    "velocity": 36.25,
-    "heading": 235.41,
-    "trace": [
-      [
-        33.2481,
-        -81.5622
-      ],
-      [
-        33.3832,
-        -81.5166
-      ],
-      [
-        33.3817,
-        -81.6933
-      ]
-    ]
-  },
-  {
-    "hex": "a2c129",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA661",
-    "lon": -88.9262,
-    "lat": 40.4827,
-    "alt": null,
-    "velocity": 6.43,
-    "heading": 286.88,
-    "trace": [
-      [
-        29.9968,
-        -90.2637
-      ],
-      [
-        30.8378,
-        -90.5718
-      ],
-      [
-        32.6204,
-        -90.374
-      ],
-      [
-        33.8506,
-        -90.2052
-      ],
-      [
-        34.6839,
-        -90.0472
-      ],
-      [
-        35.5528,
-        -90.0326
-      ],
-      [
-        37.9132,
-        -89.9567
-      ],
-      [
-        40.4875,
-        -89.0512
-      ],
-      [
-        40.4748,
-        -88.9117
-      ],
-      [
-        40.4827,
-        -88.9262
-      ]
-    ]
-  },
-  {
-    "hex": "a0d062",
-    "name": "Atlas Air",
-    "category": "Hired Gun",
-    "callsign": "GTI9901",
-    "lon": -121.8155,
-    "lat": 38.4832,
-    "alt": 800.1,
-    "velocity": 97.06,
-    "heading": 144.71,
-    "trace": [
-      [
-        40.6293,
-        -110.994
-      ],
-      [
-        40.847,
-        -111.9989
-      ],
-      [
-        40.7755,
-        -113.0971
-      ],
-      [
-        40.2897,
-        -116.1147
-      ],
-      [
-        39.2116,
-        -120.4079
-      ],
-      [
-        38.8249,
-        -121.6887
-      ],
-      [
-        38.4832,
-        -121.8155
-      ]
-    ]
-  },
-  {
     "hex": "a7000f",
     "name": "N550GP LLC",
     "category": "Dictator Alert",
     "callsign": "N550GP",
-    "lon": -100.8586,
-    "lat": 32.0274,
-    "alt": 14317.98,
-    "velocity": 198.36,
-    "heading": 285.8,
+    "lon": -102.8375,
+    "lat": 32.533,
+    "alt": 14325.6,
+    "velocity": 199.22,
+    "heading": 286.66,
     "trace": [
       [
         25.726,
@@ -188,6 +69,10 @@
       [
         32.0274,
         -100.8586
+      ],
+      [
+        32.533,
+        -102.8375
       ]
     ]
   },
@@ -196,11 +81,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA4631",
-    "lon": -107.1961,
-    "lat": 37.1458,
+    "lon": -104.3843,
+    "lat": 38.1233,
     "alt": 11269.98,
-    "velocity": 274.39,
-    "heading": 61.56,
+    "velocity": 272.52,
+    "heading": 69.44,
     "trace": [
       [
         32.6399,
@@ -225,6 +110,10 @@
       [
         37.1458,
         -107.1961
+      ],
+      [
+        38.1233,
+        -104.3843
       ]
     ]
   },
@@ -233,11 +122,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA163",
-    "lon": -77.7265,
-    "lat": 33.1639,
+    "lon": -78.3432,
+    "lat": 31.3012,
     "alt": 11582.4,
-    "velocity": 224.57,
-    "heading": 195.82,
+    "velocity": 229.73,
+    "heading": 196.12,
     "trace": [
       [
         42.3231,
@@ -274,6 +163,27 @@
       [
         33.1639,
         -77.7265
+      ],
+      [
+        31.3012,
+        -78.3432
+      ]
+    ]
+  },
+  {
+    "hex": "a5e6e1",
+    "name": "Phoenix Air",
+    "category": "Hired Gun",
+    "callsign": "48GL",
+    "lon": -80.8596,
+    "lat": 26.3856,
+    "alt": 6400.8,
+    "velocity": 184.87,
+    "heading": 318.95,
+    "trace": [
+      [
+        26.3856,
+        -80.8596
       ]
     ]
   },
@@ -282,15 +192,19 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT774",
-    "lon": -81.129,
-    "lat": 24.7704,
-    "alt": 7239,
-    "velocity": 197.44,
-    "heading": 5.53,
+    "lon": -80.3924,
+    "lat": 25.7991,
+    "alt": 457.2,
+    "velocity": 84.98,
+    "heading": 87.22,
     "trace": [
       [
         24.7704,
         -81.129
+      ],
+      [
+        25.7991,
+        -80.3924
       ]
     ]
   },
@@ -299,11 +213,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6182",
-    "lon": -100.9483,
-    "lat": 31.2244,
-    "alt": 10972.8,
-    "velocity": 176.15,
-    "heading": 275.19,
+    "lon": -102.7792,
+    "lat": 31.3557,
+    "alt": 10980.42,
+    "velocity": 173.84,
+    "heading": 274.24,
     "trace": [
       [
         31.1962,
@@ -324,31 +238,27 @@
       [
         31.2244,
         -100.9483
+      ],
+      [
+        31.3557,
+        -102.7792
       ]
     ]
   },
   {
-    "hex": "78048c",
-    "name": "Gov of PRC",
-    "category": "Dictator Alert",
-    "callsign": "CCA863",
-    "lon": 116.3354,
-    "lat": 41.4803,
-    "alt": 8900.16,
-    "velocity": 188.45,
-    "heading": 329.3,
+    "hex": "a2f016",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA201",
+    "lon": -73.1736,
+    "lat": 19.1175,
+    "alt": 10980.42,
+    "velocity": 222.89,
+    "heading": 329.94,
     "trace": [
       [
-        40.3329,
-        116.5558
-      ],
-      [
-        41.0817,
-        116.5385
-      ],
-      [
-        41.4803,
-        116.3354
+        19.1175,
+        -73.1736
       ]
     ]
   },
@@ -357,11 +267,11 @@
     "name": "Dynamic Avlease Inc",
     "category": "Hired Gun",
     "callsign": "N75V",
-    "lon": -97.3391,
-    "lat": 19.4192,
-    "alt": 3520.44,
-    "velocity": 88.14,
-    "heading": 300.91,
+    "lon": -97.1622,
+    "lat": 19.4,
+    "alt": 3505.2,
+    "velocity": 85.34,
+    "heading": 122.44,
     "trace": [
       [
         19.0859,
@@ -374,6 +284,10 @@
       [
         19.4192,
         -97.3391
+      ],
+      [
+        19.4,
+        -97.1622
       ]
     ]
   },
@@ -382,11 +296,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8602",
-    "lon": -80.5931,
-    "lat": 47.7083,
+    "lon": -81.9919,
+    "lat": 49.1233,
     "alt": 10972.8,
-    "velocity": 244.04,
-    "heading": 329.33,
+    "velocity": 242.82,
+    "heading": 323.01,
     "trace": [
       [
         40.659,
@@ -419,6 +333,27 @@
       [
         47.7083,
         -80.5931
+      ],
+      [
+        49.1233,
+        -81.9919
+      ]
+    ]
+  },
+  {
+    "hex": "ab8560",
+    "name": "Wheels Up Private Jets",
+    "category": "Hired Gun",
+    "callsign": "WUP841",
+    "lon": -79.608,
+    "lat": 37.335,
+    "alt": 5250.18,
+    "velocity": 76.35,
+    "heading": 290.51,
+    "trace": [
+      [
+        37.335,
+        -79.608
       ]
     ]
   }
