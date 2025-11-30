@@ -4,11 +4,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI7066",
-    "lon": -92.9401,
-    "lat": 32.9465,
-    "alt": 11894.82,
-    "velocity": 244.42,
-    "heading": 28.13,
+    "lon": -90.8825,
+    "lat": 34.4267,
+    "alt": 6431.28,
+    "velocity": 233.41,
+    "heading": 49.11,
     "trace": [
       [
         24.4239,
@@ -21,6 +21,27 @@
       [
         32.9465,
         -92.9401
+      ],
+      [
+        34.4267,
+        -90.8825
+      ]
+    ]
+  },
+  {
+    "hex": "a95c2f",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR892",
+    "lon": 120.5778,
+    "lat": 18.1693,
+    "alt": 12192,
+    "velocity": 238.83,
+    "heading": 282.06,
+    "trace": [
+      [
+        18.1693,
+        120.5778
       ]
     ]
   },
@@ -29,23 +50,28 @@
     "name": "Gov of Turkmenistan",
     "category": "Dictator Alert",
     "callsign": "TUG3077",
-    "lon": null,
-    "lat": null,
+    "lon": 33.6507,
+    "lat": 44.4551,
     "alt": 10363.2,
-    "velocity": 3.64,
-    "heading": 278.13,
-    "trace": []
+    "velocity": 4.12,
+    "heading": 0,
+    "trace": [
+      [
+        44.4551,
+        33.6507
+      ]
+    ]
   },
   {
     "hex": "a86e85",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA4627",
-    "lon": -82.7005,
-    "lat": 30.4603,
-    "alt": 11285.22,
-    "velocity": 226.1,
-    "heading": 14.76,
+    "lon": -81.5997,
+    "lat": 32.3384,
+    "alt": 11269.98,
+    "velocity": 237.51,
+    "heading": 31.18,
     "trace": [
       [
         21.2167,
@@ -58,6 +84,27 @@
       [
         30.4603,
         -82.7005
+      ],
+      [
+        32.3384,
+        -81.5997
+      ]
+    ]
+  },
+  {
+    "hex": "710100",
+    "name": "Saudi Ministry of Finance",
+    "category": "Dictator Alert",
+    "callsign": "SVA917",
+    "lon": 16.8507,
+    "lat": 44.3453,
+    "alt": 10363.2,
+    "velocity": 226.34,
+    "heading": 313.53,
+    "trace": [
+      [
+        44.3453,
+        16.8507
       ]
     ]
   }
