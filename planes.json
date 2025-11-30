@@ -1,38 +1,35 @@
 [
   {
-    "hex": "89404d",
-    "name": "Bahrain Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "BAH3",
-    "lon": 51.0665,
-    "lat": 26.4399,
-    "alt": 3627.12,
-    "velocity": 180.61,
-    "heading": 243.8,
+    "hex": "a0f8f9",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI8623",
+    "lon": -80.6145,
+    "lat": 24.1925,
+    "alt": 10835.64,
+    "velocity": 252.24,
+    "heading": 184.21,
     "trace": [
       [
-        24.9896,
-        56.3347
-      ],
+        24.1925,
+        -80.6145
+      ]
+    ]
+  },
+  {
+    "hex": "a451cb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT775",
+    "lon": -80.2123,
+    "lat": 25.7844,
+    "alt": 800.1,
+    "velocity": 114.54,
+    "heading": 119.9,
+    "trace": [
       [
-        25.3187,
-        54.0982
-      ],
-      [
-        25.5537,
-        52.9642
-      ],
-      [
-        25.859,
-        52.2955
-      ],
-      [
-        26.2944,
-        51.7135
-      ],
-      [
-        26.4399,
-        51.0665
+        25.7844,
+        -80.2123
       ]
     ]
   },
@@ -41,11 +38,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA155",
-    "lon": -100.0149,
-    "lat": 30.022,
-    "alt": 10050.78,
-    "velocity": 253.69,
-    "heading": 138.62,
+    "lon": -98.3723,
+    "lat": 27.9495,
+    "alt": 10058.4,
+    "velocity": 250.54,
+    "heading": 159.44,
     "trace": [
       [
         31.8925,
@@ -62,6 +59,10 @@
       [
         30.022,
         -100.0149
+      ],
+      [
+        27.9495,
+        -98.3723
       ]
     ]
   },
@@ -70,11 +71,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR501",
-    "lon": 89.2675,
-    "lat": 22.559,
+    "lon": 86.5875,
+    "lat": 22.791,
     "alt": 9144,
-    "velocity": 248.73,
-    "heading": 276.89,
+    "velocity": 248.38,
+    "heading": 273.32,
     "trace": [
       [
         22.4515,
@@ -83,6 +84,10 @@
       [
         22.559,
         89.2675
+      ],
+      [
+        22.791,
+        86.5875
       ]
     ]
   }
