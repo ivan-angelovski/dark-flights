@@ -1,31 +1,14 @@
 [
   {
-    "hex": "8960b4",
-    "name": "Dubai Air Wing",
-    "category": "Dictator Alert",
-    "callsign": "DUB1",
-    "lon": 35.9783,
-    "lat": 40.9586,
-    "alt": 11582.4,
-    "velocity": 243.5,
-    "heading": 290.27,
-    "trace": [
-      [
-        40.9586,
-        35.9783
-      ]
-    ]
-  },
-  {
     "hex": "a3defb",
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT462",
-    "lon": -112.0545,
-    "lat": 30.6953,
+    "lon": -110.7835,
+    "lat": 29.9904,
     "alt": 10058.4,
-    "velocity": 271.46,
-    "heading": 122.3,
+    "velocity": 264,
+    "heading": 122.67,
     "trace": [
       [
         33.4471,
@@ -42,35 +25,10 @@
       [
         30.6953,
         -112.0545
-      ]
-    ]
-  },
-  {
-    "hex": "894081",
-    "name": "Bahrain Defence Force",
-    "category": "Dictator Alert",
-    "callsign": "BAH11",
-    "lon": 97.1775,
-    "lat": 15.6064,
-    "alt": 10972.8,
-    "velocity": 235.86,
-    "heading": 297.68,
-    "trace": [
-      [
-        12.9393,
-        101.0588
       ],
       [
-        13.6229,
-        100.6054
-      ],
-      [
-        14.7103,
-        98.846
-      ],
-      [
-        15.6064,
-        97.1775
+        29.9904,
+        -110.7835
       ]
     ]
   },
@@ -79,11 +37,11 @@
     "name": "Bahrain Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "BAH3",
-    "lon": 54.0982,
-    "lat": 25.3187,
-    "alt": 10972.8,
-    "velocity": 210,
-    "heading": 283.46,
+    "lon": 52.9642,
+    "lat": 25.5537,
+    "alt": 10637.52,
+    "velocity": 211.54,
+    "heading": 282.79,
     "trace": [
       [
         24.9896,
@@ -92,6 +50,44 @@
       [
         25.3187,
         54.0982
+      ],
+      [
+        25.5537,
+        52.9642
+      ]
+    ]
+  },
+  {
+    "hex": "8953e3",
+    "name": "Gov of Brunei",
+    "category": "Dictator Alert",
+    "callsign": "V8OAS",
+    "lon": 104.2116,
+    "lat": 1.3391,
+    "alt": 2141.22,
+    "velocity": 130.98,
+    "heading": 340.5,
+    "trace": [
+      [
+        1.3391,
+        104.2116
+      ]
+    ]
+  },
+  {
+    "hex": "ab7437",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA155",
+    "lon": -102.0132,
+    "lat": 31.8925,
+    "alt": 3878.58,
+    "velocity": 191.39,
+    "heading": 133.69,
+    "trace": [
+      [
+        31.8925,
+        -102.0132
       ]
     ]
   }
