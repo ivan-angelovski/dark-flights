@@ -1,14 +1,31 @@
 [
   {
+    "hex": "ad3c48",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": 32.4974,
+    "lat": 40.6228,
+    "alt": 10363.2,
+    "velocity": 212.94,
+    "heading": 291.54,
+    "trace": [
+      [
+        40.6228,
+        32.4974
+      ]
+    ]
+  },
+  {
     "hex": "a0f8f9",
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI7066",
-    "lon": -100.7497,
-    "lat": 25.7996,
-    "alt": 10668,
-    "velocity": 267.99,
-    "heading": 32.77,
+    "lon": -100.1343,
+    "lat": 26.6582,
+    "alt": 10675.62,
+    "velocity": 270.25,
+    "heading": 33.12,
     "trace": [
       [
         24.9947,
@@ -17,6 +34,27 @@
       [
         25.7996,
         -100.7497
+      ],
+      [
+        26.6582,
+        -100.1343
+      ]
+    ]
+  },
+  {
+    "hex": "894042",
+    "name": "Bahrain Defence Force",
+    "category": "Dictator Alert",
+    "callsign": "BAH10",
+    "lon": 57.9446,
+    "lat": 24.4327,
+    "alt": 9745.98,
+    "velocity": 188.99,
+    "heading": 294.61,
+    "trace": [
+      [
+        24.4327,
+        57.9446
       ]
     ]
   },
@@ -25,11 +63,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD1A",
-    "lon": 7.9204,
-    "lat": 53.7091,
+    "lon": 7.7716,
+    "lat": 53.5691,
     "alt": 6713.22,
-    "velocity": 170.33,
-    "heading": 274.68,
+    "velocity": 173.7,
+    "heading": 253.66,
     "trace": [
       [
         54.0687,
@@ -42,6 +80,10 @@
       [
         53.7091,
         7.9204
+      ],
+      [
+        53.5691,
+        7.7716
       ]
     ]
   },
@@ -50,15 +92,19 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD2",
-    "lon": 9.7135,
-    "lat": 54.1361,
-    "alt": 3253.74,
-    "velocity": 154.35,
-    "heading": 119.56,
+    "lon": 10.586,
+    "lat": 53.8349,
+    "alt": 5173.98,
+    "velocity": 158.72,
+    "heading": 120.8,
     "trace": [
       [
         54.1361,
         9.7135
+      ],
+      [
+        53.8349,
+        10.586
       ]
     ]
   },
@@ -67,11 +113,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD1B",
-    "lon": 7.8997,
-    "lat": 53.7027,
-    "alt": 7315.2,
-    "velocity": 141.92,
-    "heading": 274.57,
+    "lon": 8.249,
+    "lat": 53.6825,
+    "alt": 7307.58,
+    "velocity": 167.08,
+    "heading": 83.99,
     "trace": [
       [
         53.7854,
@@ -80,6 +126,10 @@
       [
         53.7027,
         7.8997
+      ],
+      [
+        53.6825,
+        8.249
       ]
     ]
   },
@@ -88,11 +138,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD3",
-    "lon": 9.9513,
-    "lat": 50.6638,
-    "alt": 7703.82,
-    "velocity": 212.9,
-    "heading": 190.44,
+    "lon": 9.9869,
+    "lat": 50.0393,
+    "alt": 2590.8,
+    "velocity": 116.81,
+    "heading": 211.31,
     "trace": [
       [
         52.5215,
@@ -105,6 +155,10 @@
       [
         50.6638,
         9.9513
+      ],
+      [
+        50.0393,
+        9.9869
       ]
     ]
   },
@@ -113,11 +167,11 @@
     "name": "Gov of Belarus",
     "category": "Dictator Alert",
     "callsign": "BRU8001",
-    "lon": 46.3314,
-    "lat": 28.2869,
-    "alt": 10370.82,
-    "velocity": 207.55,
-    "heading": 290.46,
+    "lon": 45.5008,
+    "lat": 28.5855,
+    "alt": 10767.06,
+    "velocity": 204.08,
+    "heading": 292.69,
     "trace": [
       [
         24.3794,
@@ -142,6 +196,10 @@
       [
         28.2869,
         46.3314
+      ],
+      [
+        28.5855,
+        45.5008
       ]
     ]
   },
@@ -150,11 +208,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8603",
-    "lon": -84.3575,
-    "lat": 42.3708,
+    "lon": -82.8809,
+    "lat": 42.2668,
     "alt": 10668,
-    "velocity": 288.12,
-    "heading": 94.92,
+    "velocity": 293.26,
+    "heading": 95.94,
     "trace": [
       [
         54.2373,
@@ -199,7 +257,40 @@
       [
         42.3708,
         -84.3575
+      ],
+      [
+        42.2668,
+        -82.8809
       ]
     ]
+  },
+  {
+    "hex": "06a0a2",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "QAF1",
+    "lon": 51.5724,
+    "lat": 25.2652,
+    "alt": null,
+    "velocity": 0.13,
+    "heading": 250.31,
+    "trace": [
+      [
+        25.2652,
+        51.5724
+      ]
+    ]
+  },
+  {
+    "hex": "157716",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD932",
+    "lon": null,
+    "lat": null,
+    "alt": null,
+    "velocity": 400.65,
+    "heading": 169.2,
+    "trace": []
   }
 ]
