@@ -1,22 +1,47 @@
 [
   {
-    "hex": "8953df",
-    "name": "Gov of Brunei",
+    "hex": "78048c",
+    "name": "Gov of PRC",
     "category": "Dictator Alert",
-    "callsign": "V8BKH",
-    "lon": 114.8787,
-    "lat": 4.8615,
-    "alt": 525.78,
-    "velocity": 84.09,
-    "heading": 31.75,
+    "callsign": "",
+    "lon": null,
+    "lat": null,
+    "alt": null,
+    "velocity": 229.45,
+    "heading": 326.99,
+    "trace": []
+  },
+  {
+    "hex": "3cd05a",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD1A",
+    "lon": 9.1082,
+    "lat": 54.0687,
+    "alt": 3048,
+    "velocity": 138.42,
+    "heading": 221.99,
     "trace": [
       [
-        5.9665,
-        113.3718
-      ],
+        54.0687,
+        9.1082
+      ]
+    ]
+  },
+  {
+    "hex": "3cd068",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD3",
+    "lon": 10.5101,
+    "lat": 52.5215,
+    "alt": 8221.98,
+    "velocity": 208.45,
+    "heading": 190.81,
+    "trace": [
       [
-        4.8615,
-        114.8787
+        52.5215,
+        10.5101
       ]
     ]
   },
@@ -25,11 +50,11 @@
     "name": "Gov of Belarus",
     "category": "Dictator Alert",
     "callsign": "BRU8001",
-    "lon": 50.4843,
-    "lat": 26.7032,
-    "alt": 10370.82,
-    "velocity": 219.3,
-    "heading": 288.18,
+    "lon": 48.3758,
+    "lat": 27.5284,
+    "alt": 10363.2,
+    "velocity": 222.2,
+    "heading": 298.94,
     "trace": [
       [
         24.3794,
@@ -42,6 +67,10 @@
       [
         26.7032,
         50.4843
+      ],
+      [
+        27.5284,
+        48.3758
       ]
     ]
   },
@@ -50,11 +79,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8603",
-    "lon": -90.6369,
-    "lat": 44.3047,
+    "lon": -87.5195,
+    "lat": 43.1769,
     "alt": 10668,
-    "velocity": 267.37,
-    "heading": 117.5,
+    "velocity": 267.71,
+    "heading": 112.72,
     "trace": [
       [
         54.2373,
@@ -87,6 +116,10 @@
       [
         44.3047,
         -90.6369
+      ],
+      [
+        43.1769,
+        -87.5195
       ]
     ]
   }
