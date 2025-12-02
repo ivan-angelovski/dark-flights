@@ -1,30 +1,56 @@
 [
   {
-    "hex": "78048c",
-    "name": "Gov of PRC",
-    "category": "Dictator Alert",
-    "callsign": "",
-    "lon": null,
-    "lat": null,
-    "alt": null,
-    "velocity": 229.45,
-    "heading": 326.99,
-    "trace": []
+    "hex": "a0f8f9",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI7066",
+    "lon": -101.3027,
+    "lat": 24.9947,
+    "alt": 10668,
+    "velocity": 265.75,
+    "heading": 31.38,
+    "trace": [
+      [
+        24.9947,
+        -101.3027
+      ]
+    ]
   },
   {
     "hex": "3cd05a",
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD1A",
-    "lon": 9.1082,
-    "lat": 54.0687,
-    "alt": 3048,
-    "velocity": 138.42,
-    "heading": 221.99,
+    "lon": 7.8894,
+    "lat": 53.7434,
+    "alt": 6705.6,
+    "velocity": 164.99,
+    "heading": 252.58,
     "trace": [
       [
         54.0687,
         9.1082
+      ],
+      [
+        53.7434,
+        7.8894
+      ]
+    ]
+  },
+  {
+    "hex": "3cd067",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD1B",
+    "lon": 8.6695,
+    "lat": 53.7854,
+    "alt": 7002.78,
+    "velocity": 148.66,
+    "heading": 219.81,
+    "trace": [
+      [
+        53.7854,
+        8.6695
       ]
     ]
   },
@@ -33,15 +59,19 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD3",
-    "lon": 10.5101,
-    "lat": 52.5215,
+    "lon": 10.1664,
+    "lat": 51.3982,
     "alt": 8221.98,
-    "velocity": 208.45,
-    "heading": 190.81,
+    "velocity": 207.75,
+    "heading": 190.56,
     "trace": [
       [
         52.5215,
         10.5101
+      ],
+      [
+        51.3982,
+        10.1664
       ]
     ]
   },
@@ -50,11 +80,11 @@
     "name": "Gov of Belarus",
     "category": "Dictator Alert",
     "callsign": "BRU8001",
-    "lon": 48.3758,
-    "lat": 27.5284,
+    "lon": 47.1367,
+    "lat": 28.0267,
     "alt": 10363.2,
-    "velocity": 222.2,
-    "heading": 298.94,
+    "velocity": 218.33,
+    "heading": 289.12,
     "trace": [
       [
         24.3794,
@@ -71,6 +101,10 @@
       [
         27.5284,
         48.3758
+      ],
+      [
+        28.0267,
+        47.1367
       ]
     ]
   },
@@ -79,11 +113,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8603",
-    "lon": -87.5195,
-    "lat": 43.1769,
+    "lon": -85.6513,
+    "lat": 42.5829,
     "alt": 10668,
-    "velocity": 267.71,
-    "heading": 112.72,
+    "velocity": 269.21,
+    "heading": 114.02,
     "trace": [
       [
         54.2373,
@@ -120,6 +154,10 @@
       [
         43.1769,
         -87.5195
+      ],
+      [
+        42.5829,
+        -85.6513
       ]
     ]
   }
