@@ -4,11 +4,11 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "BRMIDE11",
-    "lon": 0.5236,
-    "lat": 54.9815,
-    "alt": 8717.28,
-    "velocity": 213.23,
-    "heading": 129.03,
+    "lon": 1.4862,
+    "lat": 54.652,
+    "alt": 8724.9,
+    "velocity": 170.64,
+    "heading": 313.9,
     "trace": [
       [
         54.8517,
@@ -21,6 +21,10 @@
       [
         54.9815,
         0.5236
+      ],
+      [
+        54.652,
+        1.4862
       ]
     ]
   },
@@ -29,11 +33,11 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "BRMIDE12",
-    "lon": -0.4377,
-    "lat": 54.6313,
-    "alt": 8397.24,
-    "velocity": 223.72,
-    "heading": 135.47,
+    "lon": -0.4378,
+    "lat": 54.6126,
+    "alt": 8404.86,
+    "velocity": 156.87,
+    "heading": 329.23,
     "trace": [
       [
         54.7702,
@@ -46,6 +50,10 @@
       [
         54.6313,
         -0.4377
+      ],
+      [
+        54.6126,
+        -0.4378
       ]
     ]
   },
@@ -54,11 +62,11 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "TASMAN71",
-    "lon": -0.3664,
-    "lat": 53.7391,
-    "alt": 9753.6,
-    "velocity": 188.71,
-    "heading": 334.83,
+    "lon": -1.4029,
+    "lat": 54.5233,
+    "alt": 213.36,
+    "velocity": 64.44,
+    "heading": 227.26,
     "trace": [
       [
         55.032,
@@ -95,39 +103,27 @@
       [
         53.7391,
         -0.3664
+      ],
+      [
+        54.5233,
+        -1.4029
       ]
     ]
   },
   {
-    "hex": "a09d9f",
-    "name": "Skyline Aviation",
+    "hex": "a0f8f9",
+    "name": "Atlas Air",
     "category": "Hired Gun",
-    "callsign": "N139LE",
-    "lon": 6.5948,
-    "lat": 53.1271,
-    "alt": 53.34,
-    "velocity": 65.56,
-    "heading": 231.69,
+    "callsign": "GTI7065",
+    "lon": -90.5951,
+    "lat": 34.6329,
+    "alt": 6126.48,
+    "velocity": 200.53,
+    "heading": 232.92,
     "trace": [
       [
-        49.1694,
-        4.2873
-      ],
-      [
-        51.0101,
-        5.6234
-      ],
-      [
-        51.7494,
-        5.9061
-      ],
-      [
-        52.1562,
-        6.212
-      ],
-      [
-        53.1271,
-        6.5948
+        34.6329,
+        -90.5951
       ]
     ]
   },
@@ -136,11 +132,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3379",
-    "lon": -84.7431,
-    "lat": 32.797,
-    "alt": 11277.6,
-    "velocity": 239.3,
-    "heading": 122.8,
+    "lon": -82.8856,
+    "lat": 31.7549,
+    "alt": 7315.2,
+    "velocity": 212.74,
+    "heading": 123.96,
     "trace": [
       [
         33.0283,
@@ -161,6 +157,10 @@
       [
         32.797,
         -84.7431
+      ],
+      [
+        31.7549,
+        -82.8856
       ]
     ]
   },
@@ -169,15 +169,36 @@
     "name": "Sharjah Rulers Flight",
     "category": "Dictator Alert",
     "callsign": "SHJ01",
-    "lon": 56.1129,
-    "lat": 25.2182,
-    "alt": 3009.9,
-    "velocity": 166.85,
-    "heading": 293.24,
+    "lon": 55.5098,
+    "lat": 25.3309,
+    "alt": null,
+    "velocity": 8.75,
+    "heading": 120.94,
     "trace": [
       [
         25.2182,
         56.1129
+      ],
+      [
+        25.3309,
+        55.5098
+      ]
+    ]
+  },
+  {
+    "hex": "a451cb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT855",
+    "lon": -60.668,
+    "lat": 14.2439,
+    "alt": 8907.78,
+    "velocity": 243.75,
+    "heading": 135.86,
+    "trace": [
+      [
+        14.2439,
+        -60.668
       ]
     ]
   },
@@ -186,72 +207,53 @@
     "name": "Unbridled Air LLC",
     "category": "Hired Gun",
     "callsign": "N450KV",
-    "lon": -80.0076,
-    "lat": 26.0785,
-    "alt": 1463.04,
-    "velocity": 140.96,
-    "heading": 90.21,
+    "lon": -78.5633,
+    "lat": 25.1393,
+    "alt": 11049,
+    "velocity": 231.27,
+    "heading": 132.21,
     "trace": [
       [
         26.0785,
         -80.0076
+      ],
+      [
+        25.1393,
+        -78.5633
       ]
     ]
   },
   {
-    "hex": "71012e",
-    "name": "Gov of Saudi Arabia",
+    "hex": "710100",
+    "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
-    "callsign": "SVA7041",
-    "lon": 17.5723,
-    "lat": 36.755,
-    "alt": 11887.2,
-    "velocity": 256.51,
-    "heading": 112.4,
+    "callsign": "SVA929",
+    "lon": 6.1241,
+    "lat": 50.4587,
+    "alt": 7010.4,
+    "velocity": 211.2,
+    "heading": 116.63,
     "trace": [
       [
-        44.2834,
-        -8.3955
-      ],
+        50.4587,
+        6.1241
+      ]
+    ]
+  },
+  {
+    "hex": "4b9c30",
+    "name": "Gov of Turkey",
+    "category": "Dictator Alert",
+    "callsign": "TRK5",
+    "lon": 16.4776,
+    "lat": 48.0785,
+    "alt": 1348.74,
+    "velocity": 109.59,
+    "heading": 200.9,
+    "trace": [
       [
-        43.7078,
-        -6.485
-      ],
-      [
-        42.6231,
-        -1.3343
-      ],
-      [
-        41.5667,
-        1.4549
-      ],
-      [
-        41.1166,
-        3.235
-      ],
-      [
-        40.8975,
-        4.4494
-      ],
-      [
-        40.4376,
-        8.019
-      ],
-      [
-        38.5075,
-        11.6995
-      ],
-      [
-        37.978,
-        13.6111
-      ],
-      [
-        37.6674,
-        14.6718
-      ],
-      [
-        36.755,
-        17.5723
+        48.0785,
+        16.4776
       ]
     ]
   }
