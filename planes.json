@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a2f9dd",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA203",
+    "lon": -77.9804,
+    "lat": 24.1867,
+    "alt": 9144,
+    "velocity": 240.36,
+    "heading": 307.43,
+    "trace": [
+      [
+        24.1867,
+        -77.9804
+      ]
+    ]
+  },
+  {
     "hex": "89607a",
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB6",
-    "lon": 36.9545,
-    "lat": 40.6808,
+    "lon": 36.7674,
+    "lat": 40.7348,
     "alt": 10363.2,
-    "velocity": 215.26,
-    "heading": 290.86,
+    "velocity": 218.03,
+    "heading": 290.87,
     "trace": [
       [
         40.4229,
@@ -17,31 +34,10 @@
       [
         40.6808,
         36.9545
-      ]
-    ]
-  },
-  {
-    "hex": "0101d1",
-    "name": "Government of Egypt",
-    "category": "Dictator Alert",
-    "callsign": "SUBTV",
-    "lon": 47.2649,
-    "lat": 40.6118,
-    "alt": 10416.54,
-    "velocity": 245.31,
-    "heading": 84.95,
-    "trace": [
-      [
-        40.0687,
-        42.8313
       ],
       [
-        40.3799,
-        45.5586
-      ],
-      [
-        40.6118,
-        47.2649
+        40.7348,
+        36.7674
       ]
     ]
   },
@@ -50,15 +46,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR890",
-    "lon": 33.7111,
-    "lat": 28.4218,
-    "alt": 11582.4,
-    "velocity": 216.69,
-    "heading": 322.91,
+    "lon": 33.083,
+    "lat": 28.9472,
+    "alt": 10104.12,
+    "velocity": 215.64,
+    "heading": 308.51,
     "trace": [
       [
         28.4218,
         33.7111
+      ],
+      [
+        28.9472,
+        33.083
       ]
     ]
   },
@@ -67,11 +67,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR827",
-    "lon": -82.1273,
-    "lat": 41.1999,
-    "alt": 5768.34,
-    "velocity": 178.29,
-    "heading": 200.79,
+    "lon": -82.3995,
+    "lat": 40.6536,
+    "alt": 4030.98,
+    "velocity": 171.9,
+    "heading": 200.5,
     "trace": [
       [
         48.8824,
@@ -104,6 +104,10 @@
       [
         41.1999,
         -82.1273
+      ],
+      [
+        40.6536,
+        -82.3995
       ]
     ]
   },
@@ -112,11 +116,11 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA9290",
-    "lon": 8.9267,
-    "lat": 49.1104,
+    "lon": 8.732,
+    "lat": 48.667,
     "alt": 4572,
-    "velocity": 146.58,
-    "heading": 184.63,
+    "velocity": 150.94,
+    "heading": 228.87,
     "trace": [
       [
         47.6725,
@@ -133,6 +137,10 @@
       [
         49.1104,
         8.9267
+      ],
+      [
+        48.667,
+        8.732
       ]
     ]
   },
@@ -141,11 +149,11 @@
     "name": "Russia Special Flight Detachment",
     "category": "Dictator Alert",
     "callsign": "RSD669",
-    "lon": 76.2167,
-    "lat": 28.669,
-    "alt": 5379.72,
-    "velocity": 172.99,
-    "heading": 285.52,
+    "lon": 75.5299,
+    "lat": 28.7193,
+    "alt": 7955.28,
+    "velocity": 193.9,
+    "heading": 264.21,
     "trace": [
       [
         28.5265,
@@ -154,6 +162,10 @@
       [
         28.669,
         76.2167
+      ],
+      [
+        28.7193,
+        75.5299
       ]
     ]
   }
