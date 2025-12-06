@@ -4,36 +4,53 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA203",
-    "lon": -72.4511,
-    "lat": 18.8294,
+    "lon": -74.0471,
+    "lat": 21.0391,
     "alt": 9144,
-    "velocity": 246.39,
-    "heading": 331.03,
+    "velocity": 242.41,
+    "heading": 318.7,
     "trace": [
       [
         18.8294,
         -72.4511
+      ],
+      [
+        21.0391,
+        -74.0471
       ]
     ]
   },
   {
-    "hex": "a3defb",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT8540",
-    "lon": -73.9427,
-    "lat": 5.1933,
-    "alt": 6004.56,
-    "velocity": 223.47,
-    "heading": 13.72,
+    "hex": "0101d3",
+    "name": "Government of Egypt",
+    "category": "Dictator Alert",
+    "callsign": "SUBTT",
+    "lon": 44.3952,
+    "lat": 40.2184,
+    "alt": 12496.8,
+    "velocity": 262.87,
+    "heading": 79.86,
     "trace": [
       [
-        4.704,
-        -74.1396
-      ],
+        40.2184,
+        44.3952
+      ]
+    ]
+  },
+  {
+    "hex": "0101d1",
+    "name": "Government of Egypt",
+    "category": "Dictator Alert",
+    "callsign": "SUBTV",
+    "lon": 42.8313,
+    "lat": 40.0687,
+    "alt": 12504.42,
+    "velocity": 263.65,
+    "heading": 85.64,
+    "trace": [
       [
-        5.1933,
-        -73.9427
+        40.0687,
+        42.8313
       ]
     ]
   },
@@ -42,11 +59,11 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "QQE971",
-    "lon": 48.4132,
-    "lat": 26.7579,
+    "lon": 46.263,
+    "lat": 26.9357,
     "alt": 10363.2,
-    "velocity": 186.85,
-    "heading": 268.11,
+    "velocity": 187.75,
+    "heading": 279.46,
     "trace": [
       [
         26.2775,
@@ -59,31 +76,27 @@
       [
         26.7579,
         48.4132
+      ],
+      [
+        26.9357,
+        46.263
       ]
     ]
   },
   {
-    "hex": "710100",
-    "name": "Saudi Ministry of Finance",
+    "hex": "600bc4",
+    "name": "Gov of Azerbaijan",
     "category": "Dictator Alert",
-    "callsign": "SVA972",
-    "lon": 113.8994,
-    "lat": 22.3272,
-    "alt": null,
-    "velocity": 31.9,
-    "heading": 250.31,
+    "callsign": "AHY601",
+    "lon": 90.9628,
+    "lat": 23.2111,
+    "alt": 3886.2,
+    "velocity": 168.96,
+    "heading": 319.57,
     "trace": [
       [
-        21.8565,
-        114.0989
-      ],
-      [
-        22.4071,
-        114.1481
-      ],
-      [
-        22.3272,
-        113.8994
+        23.2111,
+        90.9628
       ]
     ]
   },
@@ -92,11 +105,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR827",
-    "lon": -77.2844,
-    "lat": 45.6325,
+    "lon": -79.3248,
+    "lat": 43.8953,
     "alt": 10363.2,
-    "velocity": 226.21,
-    "heading": 220.57,
+    "velocity": 216.13,
+    "heading": 219.11,
     "trace": [
       [
         48.8824,
@@ -113,6 +126,27 @@
       [
         45.6325,
         -77.2844
+      ],
+      [
+        43.8953,
+        -79.3248
+      ]
+    ]
+  },
+  {
+    "hex": "71022b",
+    "name": "Saudi Ministry of Finance",
+    "category": "Dictator Alert",
+    "callsign": "SVA9290",
+    "lon": 7.5611,
+    "lat": 47.6725,
+    "alt": 3253.74,
+    "velocity": 169.75,
+    "heading": 80.05,
+    "trace": [
+      [
+        47.6725,
+        7.5611
       ]
     ]
   },
@@ -121,11 +155,11 @@
     "name": "Kalitta Charters II",
     "category": "Hired Gun",
     "callsign": "KII614",
-    "lon": -87.3946,
-    "lat": 40.2783,
-    "alt": 9144,
-    "velocity": 208.57,
-    "heading": 331.41,
+    "lon": -88.3481,
+    "lat": 42.2165,
+    "alt": 5448.3,
+    "velocity": 183.35,
+    "heading": 357.27,
     "trace": [
       [
         38.4267,
@@ -138,6 +172,10 @@
       [
         40.2783,
         -87.3946
+      ],
+      [
+        42.2165,
+        -88.3481
       ]
     ]
   }
