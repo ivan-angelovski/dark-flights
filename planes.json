@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a101d0",
+    "name": "Phoenix Air",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": -125.0635,
+    "lat": 36.3645,
+    "alt": 10027.92,
+    "velocity": 230.29,
+    "heading": 52.26,
+    "trace": [
+      [
+        36.3645,
+        -125.0635
+      ]
+    ]
+  },
+  {
     "hex": "a1ac1a",
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3832",
-    "lon": -93.9523,
-    "lat": 36.9466,
+    "lon": -91.4307,
+    "lat": 37.4539,
     "alt": 11887.2,
-    "velocity": 272.03,
-    "heading": 75.1,
+    "velocity": 278.63,
+    "heading": 76.66,
     "trace": [
       [
         33.3045,
@@ -61,31 +78,10 @@
       [
         36.9466,
         -93.9523
-      ]
-    ]
-  },
-  {
-    "hex": "a3defb",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT772",
-    "lon": -80.313,
-    "lat": 25.8024,
-    "alt": 76.2,
-    "velocity": 74.17,
-    "heading": 87.22,
-    "trace": [
-      [
-        25.1505,
-        -80.9773
       ],
       [
-        25.7278,
-        -80.6916
-      ],
-      [
-        25.8024,
-        -80.313
+        37.4539,
+        -91.4307
       ]
     ]
   },
@@ -94,11 +90,11 @@
     "name": "Southern Cross Aircraft",
     "category": "Hired Gun",
     "callsign": "N451SJ",
-    "lon": -81.061,
-    "lat": 38.4093,
-    "alt": 9144,
-    "velocity": 177.14,
-    "heading": 276.67,
+    "lon": -82.7557,
+    "lat": 38.5394,
+    "alt": 6705.6,
+    "velocity": 174.44,
+    "heading": 274.57,
     "trace": [
       [
         38.2603,
@@ -111,6 +107,10 @@
       [
         38.4093,
         -81.061
+      ],
+      [
+        38.5394,
+        -82.7557
       ]
     ]
   },
@@ -119,11 +119,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA1068",
-    "lon": -80.6919,
-    "lat": 37.9224,
+    "lon": -77.9074,
+    "lat": 38.1371,
     "alt": 11269.98,
-    "velocity": 290.67,
-    "heading": 86.55,
+    "velocity": 299.87,
+    "heading": 57.75,
     "trace": [
       [
         37.9729,
@@ -140,6 +140,10 @@
       [
         37.9224,
         -80.6919
+      ],
+      [
+        38.1371,
+        -77.9074
       ]
     ]
   },
@@ -148,11 +152,11 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA982",
-    "lon": 51.7783,
-    "lat": 23.1039,
+    "lon": 53.6392,
+    "lat": 22.6824,
     "alt": 12496.8,
-    "velocity": 292.56,
-    "heading": 112.87,
+    "velocity": 286.14,
+    "heading": 97.85,
     "trace": [
       [
         24.5221,
@@ -169,6 +173,10 @@
       [
         23.1039,
         51.7783
+      ],
+      [
+        22.6824,
+        53.6392
       ]
     ]
   },
@@ -177,11 +185,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8603",
-    "lon": -73.9883,
-    "lat": 40.6402,
-    "alt": 4480.56,
-    "velocity": 161.15,
-    "heading": 167.65,
+    "lon": -73.5346,
+    "lat": 40.7826,
+    "alt": 800.1,
+    "velocity": 93.17,
+    "heading": 300.53,
     "trace": [
       [
         56.3685,
@@ -270,6 +278,10 @@
       [
         40.6402,
         -73.9883
+      ],
+      [
+        40.7826,
+        -73.5346
       ]
     ]
   },
@@ -278,15 +290,19 @@
     "name": "Gov of Panama",
     "category": "Dictator Alert",
     "callsign": "PANAMA1",
-    "lon": -78.7665,
-    "lat": 24.3739,
-    "alt": 11582.4,
-    "velocity": 243.69,
-    "heading": 10.34,
+    "lon": -78.5476,
+    "lat": 26.2158,
+    "alt": 11887.2,
+    "velocity": 244.12,
+    "heading": 5.93,
     "trace": [
       [
         24.3739,
         -78.7665
+      ],
+      [
+        26.2158,
+        -78.5476
       ]
     ]
   },
@@ -295,15 +311,19 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7MHH",
-    "lon": 51.4692,
-    "lat": 25.7652,
-    "alt": 3611.88,
-    "velocity": 188.65,
-    "heading": 325.44,
+    "lon": 50.0557,
+    "lat": 26.4825,
+    "alt": 9144,
+    "velocity": 224.28,
+    "heading": 312.58,
     "trace": [
       [
         25.7652,
         51.4692
+      ],
+      [
+        26.4825,
+        50.0557
       ]
     ]
   }
