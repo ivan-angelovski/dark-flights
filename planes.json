@@ -1,100 +1,14 @@
 [
   {
-    "hex": "8960ae",
-    "name": "Dubai Air Wing",
-    "category": "Dictator Alert",
-    "callsign": "DUB2",
-    "lon": 48.7495,
-    "lat": 26.7655,
-    "alt": 10972.8,
-    "velocity": 223.27,
-    "heading": 270.13,
-    "trace": [
-      [
-        25.2011,
-        55.0965
-      ],
-      [
-        25.3944,
-        54.3101
-      ],
-      [
-        25.592,
-        53.4949
-      ],
-      [
-        26.5542,
-        50.9732
-      ],
-      [
-        26.7655,
-        48.7495
-      ]
-    ]
-  },
-  {
-    "hex": "a95c2f",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR605",
-    "lon": 130.0239,
-    "lat": 33.7436,
-    "alt": 12192,
-    "velocity": 188.2,
-    "heading": 235.92,
-    "trace": [
-      [
-        39.0212,
-        141.7178
-      ],
-      [
-        38.7112,
-        140.9357
-      ],
-      [
-        37.88,
-        139.0237
-      ],
-      [
-        37.1769,
-        136.9738
-      ],
-      [
-        36.7421,
-        135.7759
-      ],
-      [
-        36.4022,
-        135.0625
-      ],
-      [
-        36.0393,
-        134.3303
-      ],
-      [
-        35.7126,
-        133.6843
-      ],
-      [
-        34.6434,
-        131.65
-      ],
-      [
-        33.7436,
-        130.0239
-      ]
-    ]
-  },
-  {
     "hex": "a2d25e",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA103",
-    "lon": -74.4105,
-    "lat": 38.9092,
+    "lon": -74.9671,
+    "lat": 38.1325,
     "alt": 11590.02,
-    "velocity": 194.43,
-    "heading": 209.48,
+    "velocity": 196.67,
+    "heading": 209.11,
     "trace": [
       [
         40.4359,
@@ -103,6 +17,10 @@
       [
         38.9092,
         -74.4105
+      ],
+      [
+        38.1325,
+        -74.9671
       ]
     ]
   },
@@ -111,11 +29,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3832",
-    "lon": -109.2545,
-    "lat": 32.6091,
-    "alt": 12192,
-    "velocity": 204.67,
-    "heading": 282.78,
+    "lon": -110.3928,
+    "lat": 32.8208,
+    "alt": 8366.76,
+    "velocity": 214.51,
+    "heading": 281.9,
     "trace": [
       [
         32.7589,
@@ -148,6 +66,27 @@
       [
         32.6091,
         -109.2545
+      ],
+      [
+        32.8208,
+        -110.3928
+      ]
+    ]
+  },
+  {
+    "hex": "683243",
+    "name": "Government of Kazakhstan",
+    "category": "Dictator Alert",
+    "callsign": "RK95100",
+    "lon": 63.8046,
+    "lat": 53.0074,
+    "alt": 10363.2,
+    "velocity": 216.46,
+    "heading": 290.16,
+    "trace": [
+      [
+        53.0074,
+        63.8046
       ]
     ]
   },
@@ -156,15 +95,36 @@
     "name": "Eastern Air Express",
     "category": "Hired Gun",
     "callsign": "TYSON42",
-    "lon": -98.3546,
-    "lat": 26.9095,
-    "alt": 10462.26,
-    "velocity": 219.63,
-    "heading": 319.37,
+    "lon": -99.0763,
+    "lat": 27.6575,
+    "alt": 10949.94,
+    "velocity": 209.7,
+    "heading": 319.08,
     "trace": [
       [
         26.9095,
         -98.3546
+      ],
+      [
+        27.6575,
+        -99.0763
+      ]
+    ]
+  },
+  {
+    "hex": "0a400b",
+    "name": "Gov of Algeria",
+    "category": "Dictator Alert",
+    "callsign": "7TVPG",
+    "lon": -0.5996,
+    "lat": 35.7022,
+    "alt": 3436.62,
+    "velocity": 122.13,
+    "heading": 60.2,
+    "trace": [
+      [
+        35.7022,
+        -0.5996
       ]
     ]
   },
@@ -173,15 +133,36 @@
     "name": "Gov of Algeria",
     "category": "Dictator Alert",
     "callsign": "7TVPE",
-    "lon": 0.4674,
-    "lat": 35.9456,
+    "lon": -0.2411,
+    "lat": 35.7369,
     "alt": 5486.4,
-    "velocity": 133.92,
-    "heading": 250.24,
+    "velocity": 136.38,
+    "heading": 249.92,
     "trace": [
       [
         35.9456,
         0.4674
+      ],
+      [
+        35.7369,
+        -0.2411
+      ]
+    ]
+  },
+  {
+    "hex": "a9c52e",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR845",
+    "lon": -62.3799,
+    "lat": 51.0854,
+    "alt": 10972.8,
+    "velocity": 234.49,
+    "heading": 237.63,
+    "trace": [
+      [
+        51.0854,
+        -62.3799
       ]
     ]
   },
@@ -190,11 +171,11 @@
     "name": "Gov of Turkey",
     "category": "Dictator Alert",
     "callsign": "TRK20",
-    "lon": 29.2389,
-    "lat": 40.9047,
-    "alt": 2849.88,
-    "velocity": 146.73,
-    "heading": 272.21,
+    "lon": 28.7088,
+    "lat": 41.193,
+    "alt": 601.98,
+    "velocity": 63.28,
+    "heading": 359.07,
     "trace": [
       [
         40.7891,
@@ -203,6 +184,10 @@
       [
         40.9047,
         29.2389
+      ],
+      [
+        41.193,
+        28.7088
       ]
     ]
   }
