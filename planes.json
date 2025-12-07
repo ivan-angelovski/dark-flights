@@ -4,11 +4,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR605",
-    "lon": 136.9738,
-    "lat": 37.1769,
+    "lon": 135.7759,
+    "lat": 36.7421,
     "alt": 12192,
-    "velocity": 190.99,
-    "heading": 249.17,
+    "velocity": 192.14,
+    "heading": 244.46,
     "trace": [
       [
         39.0212,
@@ -25,6 +25,10 @@
       [
         37.1769,
         136.9738
+      ],
+      [
+        36.7421,
+        135.7759
       ]
     ]
   },
@@ -33,11 +37,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3832",
-    "lon": -100.5414,
-    "lat": 32.737,
+    "lon": -101.8841,
+    "lat": 32.7048,
     "alt": 12192,
-    "velocity": 202.22,
-    "heading": 268.83,
+    "velocity": 208.47,
+    "heading": 268.02,
     "trace": [
       [
         32.7589,
@@ -46,6 +50,10 @@
       [
         32.737,
         -100.5414
+      ],
+      [
+        32.7048,
+        -101.8841
       ]
     ]
   },
@@ -54,15 +62,36 @@
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "AUH02",
-    "lon": 33.2811,
-    "lat": 28.8078,
+    "lon": 32.1252,
+    "lat": 29.4847,
     "alt": 10972.8,
-    "velocity": 231.31,
-    "heading": 308.68,
+    "velocity": 207.47,
+    "heading": 263.88,
     "trace": [
       [
         28.8078,
         33.2811
+      ],
+      [
+        29.4847,
+        32.1252
+      ]
+    ]
+  },
+  {
+    "hex": "894081",
+    "name": "Bahrain Defence Force",
+    "category": "Dictator Alert",
+    "callsign": "",
+    "lon": 34.7647,
+    "lat": 29.0333,
+    "alt": 11582.4,
+    "velocity": 197.55,
+    "heading": 269.7,
+    "trace": [
+      [
+        29.0333,
+        34.7647
       ]
     ]
   },
@@ -71,11 +100,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA150",
-    "lon": -78.3346,
-    "lat": 31.3281,
+    "lon": -78.7098,
+    "lat": 30.1694,
     "alt": 11574.78,
-    "velocity": 205.14,
-    "heading": 196.16,
+    "velocity": 213.16,
+    "heading": 192.83,
     "trace": [
       [
         40.5557,
@@ -104,39 +133,10 @@
       [
         31.3281,
         -78.3346
-      ]
-    ]
-  },
-  {
-    "hex": "600bc4",
-    "name": "Gov of Azerbaijan",
-    "category": "Dictator Alert",
-    "callsign": "AHY601",
-    "lon": 73.3604,
-    "lat": 28.4379,
-    "alt": 12192,
-    "velocity": 229.72,
-    "heading": 272.82,
-    "trace": [
-      [
-        27.3806,
-        79.6946
       ],
       [
-        27.9375,
-        78.1912
-      ],
-      [
-        28.2136,
-        77.2923
-      ],
-      [
-        28.3554,
-        75.052
-      ],
-      [
-        28.4379,
-        73.3604
+        30.1694,
+        -78.7098
       ]
     ]
   }
