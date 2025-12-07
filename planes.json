@@ -1,26 +1,48 @@
 [
   {
+    "hex": "89607a",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB6",
+    "lon": 1.6403,
+    "lat": 51.9768,
+    "alt": 6827.52,
+    "velocity": 224.4,
+    "heading": 68.2,
+    "trace": [
+      [
+        51.9768,
+        1.6403
+      ]
+    ]
+  },
+  {
     "hex": "a49951",
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT870",
-    "lon": null,
-    "lat": null,
-    "alt": null,
-    "velocity": 3.34,
-    "heading": 47.81,
-    "trace": []
+    "lon": -73.8437,
+    "lat": 5.6013,
+    "alt": 6690.36,
+    "velocity": 230.44,
+    "heading": 10.81,
+    "trace": [
+      [
+        5.6013,
+        -73.8437
+      ]
+    ]
   },
   {
     "hex": "a2d25e",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA103",
-    "lon": -75.8152,
-    "lat": 36.9106,
-    "alt": 11590.02,
-    "velocity": 205.12,
-    "heading": 208.62,
+    "lon": -76.752,
+    "lat": 35.5073,
+    "alt": 11574.78,
+    "velocity": 189.2,
+    "heading": 208.24,
     "trace": [
       [
         40.4359,
@@ -41,6 +63,10 @@
       [
         36.9106,
         -75.8152
+      ],
+      [
+        35.5073,
+        -76.752
       ]
     ]
   },
@@ -49,11 +75,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3832",
-    "lon": -111.5266,
-    "lat": 33.1948,
-    "alt": 1066.8,
-    "velocity": 83.15,
-    "heading": 330.74,
+    "lon": -111.6627,
+    "lat": 33.3043,
+    "alt": null,
+    "velocity": 0.06,
+    "heading": 225,
     "trace": [
       [
         32.7589,
@@ -98,6 +124,10 @@
       [
         33.1948,
         -111.5266
+      ],
+      [
+        33.3043,
+        -111.6627
       ]
     ]
   },
@@ -106,11 +136,11 @@
     "name": "Eastern Air Express",
     "category": "Hired Gun",
     "callsign": "TYSON42",
-    "lon": -100.1674,
-    "lat": 28.7623,
+    "lon": -101.5285,
+    "lat": 29.937,
     "alt": 10972.8,
-    "velocity": 210.32,
-    "heading": 318.67,
+    "velocity": 209.62,
+    "heading": 308.92,
     "trace": [
       [
         26.9095,
@@ -127,60 +157,10 @@
       [
         28.7623,
         -100.1674
-      ]
-    ]
-  },
-  {
-    "hex": "0a400b",
-    "name": "Gov of Algeria",
-    "category": "Dictator Alert",
-    "callsign": "7TVPG",
-    "lon": 0.6179,
-    "lat": 34.9989,
-    "alt": 9448.8,
-    "velocity": 235.36,
-    "heading": 153.66,
-    "trace": [
-      [
-        35.7022,
-        -0.5996
       ],
       [
-        35.6565,
-        0.1204
-      ],
-      [
-        34.9989,
-        0.6179
-      ]
-    ]
-  },
-  {
-    "hex": "0a404c",
-    "name": "Gov of Algeria",
-    "category": "Dictator Alert",
-    "callsign": "7TVPE",
-    "lon": -0.91,
-    "lat": 35.41,
-    "alt": 5219.7,
-    "velocity": 149.88,
-    "heading": 225.56,
-    "trace": [
-      [
-        35.9456,
-        0.4674
-      ],
-      [
-        35.7369,
-        -0.2411
-      ],
-      [
-        35.5222,
-        -0.7689
-      ],
-      [
-        35.41,
-        -0.91
+        29.937,
+        -101.5285
       ]
     ]
   },
@@ -189,11 +169,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR845",
-    "lon": -64.5353,
-    "lat": 50.1831,
+    "lon": -66.7536,
+    "lat": 49.2757,
     "alt": 10972.8,
-    "velocity": 231.15,
-    "heading": 235.89,
+    "velocity": 227.16,
+    "heading": 236.92,
     "trace": [
       [
         51.0854,
@@ -206,6 +186,44 @@
       [
         50.1831,
         -64.5353
+      ],
+      [
+        49.2757,
+        -66.7536
+      ]
+    ]
+  },
+  {
+    "hex": "a4cb6f",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI8603",
+    "lon": -171.7999,
+    "lat": 58.7218,
+    "alt": 11285.22,
+    "velocity": 241.89,
+    "heading": 68.67,
+    "trace": [
+      [
+        58.7218,
+        -171.7999
+      ]
+    ]
+  },
+  {
+    "hex": "a5b769",
+    "name": "Omni Air International",
+    "category": "Hired Gun",
+    "callsign": "OAE3866",
+    "lon": -76.6621,
+    "lat": 39.1775,
+    "alt": null,
+    "velocity": 0,
+    "heading": 154.69,
+    "trace": [
+      [
+        39.1775,
+        -76.6621
       ]
     ]
   }
