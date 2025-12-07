@@ -1,14 +1,31 @@
 [
   {
+    "hex": "8960ae",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB2",
+    "lon": 55.0965,
+    "lat": 25.2011,
+    "alt": 3322.32,
+    "velocity": 162.97,
+    "heading": 285,
+    "trace": [
+      [
+        25.2011,
+        55.0965
+      ]
+    ]
+  },
+  {
     "hex": "a95c2f",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR605",
-    "lon": 135.7759,
-    "lat": 36.7421,
+    "lon": 135.0625,
+    "lat": 36.4022,
     "alt": 12192,
-    "velocity": 192.14,
-    "heading": 244.46,
+    "velocity": 191.37,
+    "heading": 238.75,
     "trace": [
       [
         39.0212,
@@ -29,6 +46,10 @@
       [
         36.7421,
         135.7759
+      ],
+      [
+        36.4022,
+        135.0625
       ]
     ]
   },
@@ -37,11 +58,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3832",
-    "lon": -101.8841,
-    "lat": 32.7048,
-    "alt": 12192,
-    "velocity": 208.47,
-    "heading": 268.02,
+    "lon": -102.7409,
+    "lat": 32.6767,
+    "alt": 12184.38,
+    "velocity": 207.51,
+    "heading": 267.58,
     "trace": [
       [
         32.7589,
@@ -54,6 +75,10 @@
       [
         32.7048,
         -101.8841
+      ],
+      [
+        32.6767,
+        -102.7409
       ]
     ]
   },
@@ -62,11 +87,11 @@
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "AUH02",
-    "lon": 32.1252,
-    "lat": 29.4847,
+    "lon": 31.371,
+    "lat": 29.406,
     "alt": 10972.8,
-    "velocity": 207.47,
-    "heading": 263.88,
+    "velocity": 202.66,
+    "heading": 263,
     "trace": [
       [
         28.8078,
@@ -75,6 +100,10 @@
       [
         29.4847,
         32.1252
+      ],
+      [
+        29.406,
+        31.371
       ]
     ]
   },
@@ -82,16 +111,20 @@
     "hex": "894081",
     "name": "Bahrain Defence Force",
     "category": "Dictator Alert",
-    "callsign": "",
-    "lon": 34.7647,
-    "lat": 29.0333,
+    "callsign": "BAH11",
+    "lon": 33.9887,
+    "lat": 29.2311,
     "alt": 11582.4,
-    "velocity": 197.55,
-    "heading": 269.7,
+    "velocity": 205.47,
+    "heading": 288.39,
     "trace": [
       [
         29.0333,
         34.7647
+      ],
+      [
+        29.2311,
+        33.9887
       ]
     ]
   },
@@ -100,11 +133,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA150",
-    "lon": -78.7098,
-    "lat": 30.1694,
+    "lon": -78.9063,
+    "lat": 29.4386,
     "alt": 11574.78,
-    "velocity": 213.16,
-    "heading": 192.83,
+    "velocity": 217.51,
+    "heading": 192.98,
     "trace": [
       [
         40.5557,
@@ -137,6 +170,10 @@
       [
         30.1694,
         -78.7098
+      ],
+      [
+        29.4386,
+        -78.9063
       ]
     ]
   }
