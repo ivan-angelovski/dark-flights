@@ -1,35 +1,39 @@
 [
   {
-    "hex": "89607a",
-    "name": "Dubai Air Wing",
-    "category": "Dictator Alert",
-    "callsign": "DUB6",
-    "lon": 1.6403,
-    "lat": 51.9768,
-    "alt": 6827.52,
-    "velocity": 224.4,
-    "heading": 68.2,
+    "hex": "ad3c48",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR802",
+    "lon": -12.4312,
+    "lat": 54.1152,
+    "alt": 12496.8,
+    "velocity": 252.99,
+    "heading": 105.45,
     "trace": [
       [
-        51.9768,
-        1.6403
+        54.1152,
+        -12.4312
       ]
     ]
   },
   {
-    "hex": "a49951",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT870",
-    "lon": -73.8437,
-    "lat": 5.6013,
-    "alt": 6690.36,
-    "velocity": 230.44,
-    "heading": 10.81,
+    "hex": "89607a",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB6",
+    "lon": 4.5732,
+    "lat": 52.0621,
+    "alt": 10668,
+    "velocity": 274.29,
+    "heading": 108.03,
     "trace": [
       [
-        5.6013,
-        -73.8437
+        51.9768,
+        1.6403
+      ],
+      [
+        52.0621,
+        4.5732
       ]
     ]
   },
@@ -38,11 +42,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA103",
-    "lon": -76.752,
-    "lat": 35.5073,
-    "alt": 11574.78,
-    "velocity": 189.2,
-    "heading": 208.24,
+    "lon": -77.4538,
+    "lat": 34.2631,
+    "alt": 11582.4,
+    "velocity": 208.05,
+    "heading": 189.39,
     "trace": [
       [
         40.4359,
@@ -67,67 +71,27 @@
       [
         35.5073,
         -76.752
+      ],
+      [
+        34.2631,
+        -77.4538
       ]
     ]
   },
   {
-    "hex": "a1ac1a",
+    "hex": "a1f3aa",
     "name": "Omni Air International",
     "category": "Hired Gun",
-    "callsign": "OAE3832",
-    "lon": -111.6627,
-    "lat": 33.3043,
+    "callsign": "OAE3842",
+    "lon": -76.6612,
+    "lat": 39.179,
     "alt": null,
-    "velocity": 0.06,
-    "heading": 225,
+    "velocity": 1.8,
+    "heading": 213.75,
     "trace": [
       [
-        32.7589,
-        -98.2912
-      ],
-      [
-        32.737,
-        -100.5414
-      ],
-      [
-        32.7048,
-        -101.8841
-      ],
-      [
-        32.6767,
-        -102.7409
-      ],
-      [
-        32.6403,
-        -103.6513
-      ],
-      [
-        32.6022,
-        -104.4634
-      ],
-      [
-        32.4414,
-        -107.111
-      ],
-      [
-        32.6091,
-        -109.2545
-      ],
-      [
-        32.8208,
-        -110.3928
-      ],
-      [
-        32.9595,
-        -111.173
-      ],
-      [
-        33.1948,
-        -111.5266
-      ],
-      [
-        33.3043,
-        -111.6627
+        39.179,
+        -76.6612
       ]
     ]
   },
@@ -136,11 +100,11 @@
     "name": "Eastern Air Express",
     "category": "Hired Gun",
     "callsign": "TYSON42",
-    "lon": -101.5285,
-    "lat": 29.937,
+    "lon": -102.9678,
+    "lat": 30.7847,
     "alt": 10972.8,
-    "velocity": 209.62,
-    "heading": 308.92,
+    "velocity": 206.2,
+    "heading": 297.97,
     "trace": [
       [
         26.9095,
@@ -161,6 +125,10 @@
       [
         29.937,
         -101.5285
+      ],
+      [
+        30.7847,
+        -102.9678
       ]
     ]
   },
@@ -169,11 +137,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR845",
-    "lon": -66.7536,
-    "lat": 49.2757,
+    "lon": -68.1308,
+    "lat": 48.6753,
     "alt": 10972.8,
-    "velocity": 227.16,
-    "heading": 236.92,
+    "velocity": 217.47,
+    "heading": 235.41,
     "trace": [
       [
         51.0854,
@@ -190,6 +158,27 @@
       [
         49.2757,
         -66.7536
+      ],
+      [
+        48.6753,
+        -68.1308
+      ]
+    ]
+  },
+  {
+    "hex": "710100",
+    "name": "Saudi Ministry of Finance",
+    "category": "Dictator Alert",
+    "callsign": "SVA918",
+    "lon": 5.2395,
+    "lat": 50.4944,
+    "alt": 3474.72,
+    "velocity": 185.82,
+    "heading": 142.88,
+    "trace": [
+      [
+        50.4944,
+        5.2395
       ]
     ]
   },
@@ -198,32 +187,19 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8603",
-    "lon": -171.7999,
-    "lat": 58.7218,
+    "lon": -168.7617,
+    "lat": 59.2954,
     "alt": 11285.22,
-    "velocity": 241.89,
-    "heading": 68.67,
+    "velocity": 240.77,
+    "heading": 71.18,
     "trace": [
       [
         58.7218,
         -171.7999
-      ]
-    ]
-  },
-  {
-    "hex": "a5b769",
-    "name": "Omni Air International",
-    "category": "Hired Gun",
-    "callsign": "OAE3866",
-    "lon": -76.6621,
-    "lat": 39.1775,
-    "alt": null,
-    "velocity": 0,
-    "heading": 154.69,
-    "trace": [
+      ],
       [
-        39.1775,
-        -76.6621
+        59.2954,
+        -168.7617
       ]
     ]
   }
