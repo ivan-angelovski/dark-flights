@@ -1,92 +1,14 @@
 [
   {
-    "hex": "4009c9",
-    "name": "Draken Europe",
-    "category": "Hired Gun",
-    "callsign": "CRIMSON1",
-    "lon": -1.6456,
-    "lat": 50.976,
-    "alt": 952.5,
-    "velocity": 79.3,
-    "heading": 159.1,
-    "trace": [
-      [
-        50.7826,
-        -1.8274
-      ],
-      [
-        49.9794,
-        -4.984
-      ],
-      [
-        49.8235,
-        -6.117
-      ],
-      [
-        49.7314,
-        -4.8975
-      ],
-      [
-        49.8106,
-        -5.6093
-      ],
-      [
-        49.8589,
-        -4.5801
-      ],
-      [
-        50.976,
-        -1.6456
-      ]
-    ]
-  },
-  {
-    "hex": "4009cb",
-    "name": "Draken Europe",
-    "category": "Hired Gun",
-    "callsign": "BLUE1",
-    "lon": -1.5868,
-    "lat": 50.8577,
-    "alt": 944.88,
-    "velocity": 78.76,
-    "heading": 160.14,
-    "trace": [
-      [
-        50.1216,
-        -3.6715
-      ],
-      [
-        49.9447,
-        -4.3127
-      ],
-      [
-        49.7579,
-        -4.5802
-      ],
-      [
-        49.9616,
-        -4.4846
-      ],
-      [
-        50.0327,
-        -4.0833
-      ],
-      [
-        50.8577,
-        -1.5868
-      ]
-    ]
-  },
-  {
     "hex": "a1ac1a",
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3832",
-    "lon": 17.8067,
-    "lat": 39.9183,
-    "alt": 11269.98,
-    "velocity": 243.27,
-    "heading": 123.79,
+    "lon": 21.18,
+    "lat": 38.0822,
+    "alt": 11277.6,
+    "velocity": 252.73,
+    "heading": 125.89,
     "trace": [
       [
         46.9867,
@@ -127,23 +49,27 @@
       [
         39.9183,
         17.8067
+      ],
+      [
+        38.0822,
+        21.18
       ]
     ]
   },
   {
-    "hex": "89629f",
-    "name": "Abu Dhabi Amiri Flight",
+    "hex": "70c0b3",
+    "name": "Oman Royal Flight",
     "category": "Dictator Alert",
-    "callsign": "AUH02",
-    "lon": 31.8201,
-    "lat": 29.4954,
-    "alt": 8534.4,
-    "velocity": 204.01,
-    "heading": 258.07,
+    "callsign": "ORF3",
+    "lon": 51.6177,
+    "lat": 26.7412,
+    "alt": 12496.8,
+    "velocity": 293.16,
+    "heading": 107.99,
     "trace": [
       [
-        29.4954,
-        31.8201
+        26.7412,
+        51.6177
       ]
     ]
   },
@@ -152,23 +78,45 @@
     "name": "Gov of Kuwait",
     "category": "Dictator Alert",
     "callsign": "KUG033",
-    "lon": null,
-    "lat": null,
-    "alt": 3794.76,
-    "velocity": 185.65,
-    "heading": 304.61,
-    "trace": []
+    "lon": 52.1184,
+    "lat": 26.2998,
+    "alt": 10363.2,
+    "velocity": 243.21,
+    "heading": 295.7,
+    "trace": [
+      [
+        26.2998,
+        52.1184
+      ]
+    ]
+  },
+  {
+    "hex": "896571",
+    "name": "Abu Dhabi Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "AUH06",
+    "lon": 34.5352,
+    "lat": 29.0723,
+    "alt": 12184.38,
+    "velocity": 220.76,
+    "heading": 288.48,
+    "trace": [
+      [
+        29.0723,
+        34.5352
+      ]
+    ]
   },
   {
     "hex": "600801",
     "name": "Gov of Azerbaijan",
     "category": "Dictator Alert",
     "callsign": "AHY4731",
-    "lon": 21.6214,
-    "lat": 46.4144,
-    "alt": 10363.2,
-    "velocity": 214.85,
-    "heading": 300.19,
+    "lon": 18.3448,
+    "lat": 47.6565,
+    "alt": 4693.92,
+    "velocity": 190.32,
+    "heading": 297.88,
     "trace": [
       [
         45.1135,
@@ -177,6 +125,10 @@
       [
         46.4144,
         21.6214
+      ],
+      [
+        47.6565,
+        18.3448
       ]
     ]
   },
@@ -185,15 +137,19 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD17",
-    "lon": 11.1256,
-    "lat": 53.4153,
-    "alt": 7025.64,
-    "velocity": 255.44,
-    "heading": 131.65,
+    "lon": 13.3691,
+    "lat": 51.7601,
+    "alt": 762,
+    "velocity": 72.72,
+    "heading": 274.06,
     "trace": [
       [
         53.4153,
         11.1256
+      ],
+      [
+        51.7601,
+        13.3691
       ]
     ]
   },
@@ -202,15 +158,19 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD3B",
-    "lon": 8.8305,
-    "lat": 54.4049,
-    "alt": 6248.4,
-    "velocity": 139.01,
-    "heading": 283.26,
+    "lon": 7.7249,
+    "lat": 54.3973,
+    "alt": 8823.96,
+    "velocity": 153.15,
+    "heading": 191.23,
     "trace": [
       [
         54.4049,
         8.8305
+      ],
+      [
+        54.3973,
+        7.7249
       ]
     ]
   },
@@ -219,36 +179,19 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD3A",
-    "lon": 9.2479,
-    "lat": 54.3394,
-    "alt": 3459.48,
-    "velocity": 120.9,
-    "heading": 284.04,
+    "lon": 7.7309,
+    "lat": 54.4108,
+    "alt": 8260.08,
+    "velocity": 198.71,
+    "heading": 182.08,
     "trace": [
       [
         54.3394,
         9.2479
-      ]
-    ]
-  },
-  {
-    "hex": "600be9",
-    "name": "Gov of Azerbaijan",
-    "category": "Dictator Alert",
-    "callsign": "AHY6731",
-    "lon": 40.1247,
-    "lat": 41.0445,
-    "alt": 11582.4,
-    "velocity": 217.42,
-    "heading": 259.09,
-    "trace": [
-      [
-        40.5902,
-        47.9448
       ],
       [
-        41.0445,
-        40.1247
+        54.4108,
+        7.7309
       ]
     ]
   },
@@ -256,12 +199,12 @@
     "hex": "710125",
     "name": "Gov of Saudi Arabia",
     "category": "Dictator Alert",
-    "callsign": "SVA7073",
-    "lon": 23.4689,
-    "lat": 41.3842,
+    "callsign": "",
+    "lon": 21.5324,
+    "lat": 43.6869,
     "alt": 9753.6,
-    "velocity": 239.4,
-    "heading": 331.51,
+    "velocity": 217.41,
+    "heading": 321.34,
     "trace": [
       [
         35.9131,
@@ -278,6 +221,10 @@
       [
         41.3842,
         23.4689
+      ],
+      [
+        43.6869,
+        21.5324
       ]
     ]
   },
@@ -286,11 +233,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3866",
-    "lon": 80.5481,
-    "lat": 26.9233,
+    "lon": 84.4515,
+    "lat": 25.8122,
     "alt": 11277.6,
-    "velocity": 270.72,
-    "heading": 107.82,
+    "velocity": 260.78,
+    "heading": 108.4,
     "trace": [
       [
         28.5611,
@@ -311,6 +258,10 @@
       [
         26.9233,
         80.5481
+      ],
+      [
+        25.8122,
+        84.4515
       ]
     ]
   },
@@ -319,11 +270,11 @@
     "name": "Gov of Egypt",
     "category": "Dictator Alert",
     "callsign": "SUBNC",
-    "lon": 22.2674,
-    "lat": 37.9477,
+    "lon": 19.6955,
+    "lat": 39.7753,
     "alt": 13106.4,
-    "velocity": 225.3,
-    "heading": 313.06,
+    "velocity": 219.04,
+    "heading": 311.48,
     "trace": [
       [
         35.3941,
@@ -336,6 +287,10 @@
       [
         37.9477,
         22.2674
+      ],
+      [
+        39.7753,
+        19.6955
       ]
     ]
   }
