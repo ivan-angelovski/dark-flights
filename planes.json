@@ -1,30 +1,18 @@
 [
   {
-    "hex": "896264",
-    "name": "Abu Dhabi Amiri Flight",
+    "hex": "896103",
+    "name": "Dubai Air Wing",
     "category": "Dictator Alert",
-    "callsign": "AUH03",
-    "lon": 49.9349,
-    "lat": 26.8585,
-    "alt": 10972.8,
-    "velocity": 223.04,
-    "heading": 288.14,
+    "callsign": "DUB12",
+    "lon": 53.5154,
+    "lat": 26.6425,
+    "alt": 8869.68,
+    "velocity": 236.93,
+    "heading": 139.84,
     "trace": [
       [
-        25.4038,
-        53.3831
-      ],
-      [
-        26.268,
-        51.7723
-      ],
-      [
-        26.6141,
-        50.7813
-      ],
-      [
-        26.8585,
-        49.9349
+        26.6425,
+        53.5154
       ]
     ]
   },
@@ -33,11 +21,11 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT8241",
-    "lon": -73.8374,
-    "lat": 22.7747,
+    "lon": -70.5813,
+    "lat": 21.0901,
     "alt": 11277.6,
-    "velocity": 255.75,
-    "heading": 118.47,
+    "velocity": 245.6,
+    "heading": 119.63,
     "trace": [
       [
         23.2274,
@@ -46,35 +34,78 @@
       [
         22.7747,
         -73.8374
+      ],
+      [
+        21.0901,
+        -70.5813
       ]
     ]
   },
   {
-    "hex": "a7a2be",
-    "name": "ISR Platforms",
+    "hex": "c01254",
+    "name": "Top Aces Inc",
     "category": "Hired Gun",
-    "callsign": "",
-    "lon": 127.1707,
-    "lat": 36.863,
-    "alt": 876.3,
-    "velocity": 69.15,
-    "heading": 313.19,
+    "callsign": "SKYHWK2",
+    "lon": 8.5635,
+    "lat": 53.7105,
+    "alt": 2529.84,
+    "velocity": 152,
+    "heading": 167.09,
     "trace": [
       [
-        35.2681,
-        126.8805
-      ],
+        53.7105,
+        8.5635
+      ]
+    ]
+  },
+  {
+    "hex": "c01275",
+    "name": "Top Aces Inc",
+    "category": "Hired Gun",
+    "callsign": "SKYHWK1",
+    "lon": 9.0853,
+    "lat": 53.6746,
+    "alt": 6568.44,
+    "velocity": 207.85,
+    "heading": 100.7,
+    "trace": [
       [
-        36.5456,
-        126.9979
-      ],
+        53.6746,
+        9.0853
+      ]
+    ]
+  },
+  {
+    "hex": "683037",
+    "name": "Gov of Kazakhstan",
+    "category": "Dictator Alert",
+    "callsign": "RK73066",
+    "lon": 83.6915,
+    "lat": 54.9884,
+    "alt": 4853.94,
+    "velocity": 175.79,
+    "heading": 262.77,
+    "trace": [
       [
-        36.8085,
-        127.2455
-      ],
+        54.9884,
+        83.6915
+      ]
+    ]
+  },
+  {
+    "hex": "0101d1",
+    "name": "Government of Egypt",
+    "category": "Dictator Alert",
+    "callsign": "SUBTV",
+    "lon": 44.3207,
+    "lat": 40.2081,
+    "alt": 12496.8,
+    "velocity": 270.15,
+    "heading": 79.91,
+    "trace": [
       [
-        36.863,
-        127.1707
+        40.2081,
+        44.3207
       ]
     ]
   },
@@ -83,11 +114,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD1A",
-    "lon": 8.2318,
-    "lat": 52.7539,
-    "alt": 6103.62,
-    "velocity": 163.83,
-    "heading": 154.32,
+    "lon": 7.7678,
+    "lat": 52.5218,
+    "alt": 6111.24,
+    "velocity": 164.5,
+    "heading": 257.35,
     "trace": [
       [
         53.4968,
@@ -104,6 +135,44 @@
       [
         52.7539,
         8.2318
+      ],
+      [
+        52.5218,
+        7.7678
+      ]
+    ]
+  },
+  {
+    "hex": "3cd05f",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD40",
+    "lon": 10.0537,
+    "lat": 53.8982,
+    "alt": 5775.96,
+    "velocity": 187.22,
+    "heading": 137.9,
+    "trace": [
+      [
+        53.8982,
+        10.0537
+      ]
+    ]
+  },
+  {
+    "hex": "3cd063",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD2",
+    "lon": 9.3935,
+    "lat": 53.4055,
+    "alt": 4427.22,
+    "velocity": 202.2,
+    "heading": 180.87,
+    "trace": [
+      [
+        53.4055,
+        9.3935
       ]
     ]
   },
@@ -112,11 +181,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD1B",
-    "lon": 8.1339,
-    "lat": 52.7228,
-    "alt": 5501.64,
-    "velocity": 217.12,
-    "heading": 75.17,
+    "lon": 7.9258,
+    "lat": 52.5535,
+    "alt": 6713.22,
+    "velocity": 178.99,
+    "heading": 74.33,
     "trace": [
       [
         53.3427,
@@ -133,6 +202,44 @@
       [
         52.7228,
         8.1339
+      ],
+      [
+        52.5535,
+        7.9258
+      ]
+    ]
+  },
+  {
+    "hex": "3cd068",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD3",
+    "lon": 9.3867,
+    "lat": 52.9664,
+    "alt": 1615.44,
+    "velocity": 126.12,
+    "heading": 168.23,
+    "trace": [
+      [
+        52.9664,
+        9.3867
+      ]
+    ]
+  },
+  {
+    "hex": "3cd069",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD93",
+    "lon": 8.9528,
+    "lat": 52.2607,
+    "alt": 617.22,
+    "velocity": 99.45,
+    "heading": 76.54,
+    "trace": [
+      [
+        52.2607,
+        8.9528
       ]
     ]
   },
@@ -141,11 +248,11 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA924",
-    "lon": 16.4235,
-    "lat": 43.5717,
+    "lon": 20.0884,
+    "lat": 41.1339,
     "alt": 10668,
-    "velocity": 265.14,
-    "heading": 129.09,
+    "velocity": 267.01,
+    "heading": 134.53,
     "trace": [
       [
         49.304,
@@ -170,6 +277,61 @@
       [
         43.5717,
         16.4235
+      ],
+      [
+        41.1339,
+        20.0884
+      ]
+    ]
+  },
+  {
+    "hex": "a4cb6f",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI8603",
+    "lon": -170.025,
+    "lat": 59.0247,
+    "alt": 10668,
+    "velocity": 247.81,
+    "heading": 68.44,
+    "trace": [
+      [
+        59.0247,
+        -170.025
+      ]
+    ]
+  },
+  {
+    "hex": "a3ac55",
+    "name": "Kalitta Charters II",
+    "category": "Hired Gun",
+    "callsign": "KII614",
+    "lon": -87.2391,
+    "lat": 39.9924,
+    "alt": 9144,
+    "velocity": 192.02,
+    "heading": 335.63,
+    "trace": [
+      [
+        39.9924,
+        -87.2391
+      ]
+    ]
+  },
+  {
+    "hex": "01003d",
+    "name": "Gov of Egypt",
+    "category": "Dictator Alert",
+    "callsign": "SUBNC",
+    "lon": -0.409,
+    "lat": 49.1165,
+    "alt": 9860.28,
+    "velocity": 223.99,
+    "heading": 281.93,
+    "trace": [
+      [
+        49.1165,
+        -0.409
       ]
     ]
   }
