@@ -1,18 +1,18 @@
 [
   {
-    "hex": "8960ae",
-    "name": "Dubai Air Wing",
-    "category": "Dictator Alert",
-    "callsign": "DUB2",
-    "lon": 51.8312,
-    "lat": 26.2421,
-    "alt": 10972.8,
-    "velocity": 235.14,
-    "heading": 295.95,
+    "hex": "a0d062",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "CMB136",
+    "lon": 30.0985,
+    "lat": 31.3716,
+    "alt": 11605.26,
+    "velocity": 198.55,
+    "heading": 327.92,
     "trace": [
       [
-        26.2421,
-        51.8312
+        31.3716,
+        30.0985
       ]
     ]
   },
@@ -21,15 +21,36 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR652",
-    "lon": 131.2507,
-    "lat": 34.4517,
+    "lon": 137.0638,
+    "lat": 37.1486,
     "alt": 9448.8,
-    "velocity": 312.96,
-    "heading": 58.37,
+    "velocity": 303.23,
+    "heading": 63.17,
     "trace": [
       [
         34.4517,
         131.2507
+      ],
+      [
+        37.1486,
+        137.0638
+      ]
+    ]
+  },
+  {
+    "hex": "a1ac1a",
+    "name": "Omni Air International",
+    "category": "Hired Gun",
+    "callsign": "OAE3832",
+    "lon": -107.2692,
+    "lat": 41.3071,
+    "alt": 12192,
+    "velocity": 239.69,
+    "heading": 202.33,
+    "trace": [
+      [
+        41.3071,
+        -107.2692
       ]
     ]
   },
@@ -38,32 +59,36 @@
     "name": "Oman Royal Flight",
     "category": "Dictator Alert",
     "callsign": "ORF3",
-    "lon": 55.2618,
-    "lat": 24.3673,
+    "lon": 51.6451,
+    "lat": 26.4755,
     "alt": 12192,
-    "velocity": 220.89,
-    "heading": 303.02,
+    "velocity": 214.84,
+    "heading": 290.17,
     "trace": [
       [
         24.3673,
         55.2618
+      ],
+      [
+        26.4755,
+        51.6451
       ]
     ]
   },
   {
-    "hex": "a3defb",
-    "name": "Amerijet International",
+    "hex": "a75013",
+    "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "AJT8241",
-    "lon": -66.465,
-    "lat": 17.7723,
-    "alt": 9837.42,
-    "velocity": 250.34,
-    "heading": 207.41,
+    "callsign": "GXA6143",
+    "lon": -103.8994,
+    "lat": 37.7609,
+    "alt": 9441.18,
+    "velocity": 251.77,
+    "heading": 147.77,
     "trace": [
       [
-        17.7723,
-        -66.465
+        37.7609,
+        -103.8994
       ]
     ]
   },
@@ -72,11 +97,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR803",
-    "lon": -72.8797,
-    "lat": 41.0116,
+    "lon": -66.8781,
+    "lat": 43.6122,
     "alt": 11887.2,
-    "velocity": 282.47,
-    "heading": 57.87,
+    "velocity": 291.12,
+    "heading": 62.08,
     "trace": [
       [
         35.1617,
@@ -85,23 +110,10 @@
       [
         41.0116,
         -72.8797
-      ]
-    ]
-  },
-  {
-    "hex": "a4d4cc",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA1121",
-    "lon": -74.6355,
-    "lat": 39.5328,
-    "alt": 3162.3,
-    "velocity": 139.98,
-    "heading": 271.47,
-    "trace": [
+      ],
       [
-        39.5328,
-        -74.6355
+        43.6122,
+        -66.8781
       ]
     ]
   },
@@ -110,11 +122,11 @@
     "name": "Gov of Saudi Arabia",
     "category": "Dictator Alert",
     "callsign": "SVA7073",
-    "lon": 11.8773,
-    "lat": 39.2326,
+    "lon": 16.8815,
+    "lat": 37.1635,
     "alt": 10668,
-    "velocity": 243.42,
-    "heading": 116.08,
+    "velocity": 254.03,
+    "heading": 119.21,
     "trace": [
       [
         41.7697,
@@ -123,6 +135,27 @@
       [
         39.2326,
         11.8773
+      ],
+      [
+        37.1635,
+        16.8815
+      ]
+    ]
+  },
+  {
+    "hex": "a5b769",
+    "name": "Omni Air International",
+    "category": "Hired Gun",
+    "callsign": "OAE3866",
+    "lon": -71.4822,
+    "lat": 45.4444,
+    "alt": 11582.4,
+    "velocity": 212.31,
+    "heading": 208.99,
+    "trace": [
+      [
+        45.4444,
+        -71.4822
       ]
     ]
   }
