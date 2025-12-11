@@ -4,11 +4,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR654",
-    "lon": 139.7611,
-    "lat": 38.0261,
-    "alt": 10066.02,
-    "velocity": 302.46,
-    "heading": 82.57,
+    "lon": 142.6,
+    "lat": 37.9391,
+    "alt": 10058.4,
+    "velocity": 294.75,
+    "heading": 98.94,
     "trace": [
       [
         35.3774,
@@ -17,6 +17,10 @@
       [
         38.0261,
         139.7611
+      ],
+      [
+        37.9391,
+        142.6
       ]
     ]
   },
@@ -25,11 +29,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI7066",
-    "lon": -93.1382,
-    "lat": 32.8794,
-    "alt": 11887.2,
-    "velocity": 231.47,
-    "heading": 41.31,
+    "lon": -91.2851,
+    "lat": 34.3487,
+    "alt": 6408.42,
+    "velocity": 229.78,
+    "heading": 70.1,
     "trace": [
       [
         29.1049,
@@ -38,40 +42,61 @@
       [
         32.8794,
         -93.1382
-      ]
-    ]
-  },
-  {
-    "hex": "a86e85",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA203",
-    "lon": -80.2577,
-    "lat": 25.8025,
-    "alt": 68.58,
-    "velocity": 67.46,
-    "heading": 267.38,
-    "trace": [
+      ],
       [
-        25.8025,
-        -80.2577
+        34.3487,
+        -91.2851
       ]
     ]
   },
   {
-    "hex": "600be9",
-    "name": "Gov of Azerbaijan",
+    "hex": "70c0b7",
+    "name": "Oman Royal Flight",
     "category": "Dictator Alert",
-    "callsign": "AHY3111",
-    "lon": 39.5223,
-    "lat": 41.7108,
-    "alt": 12192,
-    "velocity": 248.1,
-    "heading": 276.67,
+    "callsign": "ORF1",
+    "lon": 22.5421,
+    "lat": 46.7464,
+    "alt": 11597.64,
+    "velocity": 242.66,
+    "heading": 311.73,
     "trace": [
       [
-        41.7108,
-        39.5223
+        46.7464,
+        22.5421
+      ]
+    ]
+  },
+  {
+    "hex": "a451cb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT881",
+    "lon": -66.1149,
+    "lat": 18.4346,
+    "alt": 563.88,
+    "velocity": 88.51,
+    "heading": 96.34,
+    "trace": [
+      [
+        18.4346,
+        -66.1149
+      ]
+    ]
+  },
+  {
+    "hex": "a3ac55",
+    "name": "Kalitta Charters II",
+    "category": "Hired Gun",
+    "callsign": "KII567",
+    "lon": -92.3484,
+    "lat": 44.298,
+    "alt": 7787.64,
+    "velocity": 248.53,
+    "heading": 121.02,
+    "trace": [
+      [
+        44.298,
+        -92.3484
       ]
     ]
   }
