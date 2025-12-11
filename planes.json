@@ -1,14 +1,31 @@
 [
   {
+    "hex": "89615a",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB8",
+    "lon": 54.6397,
+    "lat": 25.6573,
+    "alt": 4884.42,
+    "velocity": 181.63,
+    "heading": 102.26,
+    "trace": [
+      [
+        25.6573,
+        54.6397
+      ]
+    ]
+  },
+  {
     "hex": "70c0b7",
     "name": "Oman Royal Flight",
     "category": "Dictator Alert",
     "callsign": "ORF1",
-    "lon": 13.4192,
-    "lat": 51.8337,
-    "alt": 11597.64,
-    "velocity": 241.18,
-    "heading": 315.43,
+    "lon": 9.9732,
+    "lat": 53.6205,
+    "alt": null,
+    "velocity": 7.72,
+    "heading": 50.62,
     "trace": [
       [
         46.7464,
@@ -29,73 +46,27 @@
       [
         51.8337,
         13.4192
+      ],
+      [
+        53.6205,
+        9.9732
       ]
     ]
   },
   {
-    "hex": "14fa3a",
-    "name": "Russia Special Flight Detachment",
+    "hex": "8953e3",
+    "name": "Gov of Brunei",
     "category": "Dictator Alert",
-    "callsign": "RSD306",
-    "lon": 40.986,
-    "lat": 54.9229,
-    "alt": 9456.42,
-    "velocity": 250.52,
-    "heading": 140.92,
+    "callsign": "V8OAS",
+    "lon": 57.3157,
+    "lat": 24.9083,
+    "alt": 8702.04,
+    "velocity": 267.04,
+    "heading": 112.66,
     "trace": [
       [
-        55.2992,
-        37.6249
-      ],
-      [
-        55.4372,
-        39.7219
-      ],
-      [
-        54.9229,
-        40.986
-      ]
-    ]
-  },
-  {
-    "hex": "683037",
-    "name": "Gov of Kazakhstan",
-    "category": "Dictator Alert",
-    "callsign": "RK73066",
-    "lon": 62.6991,
-    "lat": 53.2451,
-    "alt": 10972.8,
-    "velocity": 198.36,
-    "heading": 289.7,
-    "trace": [
-      [
-        52.7208,
-        65.0037
-      ],
-      [
-        53.1203,
-        63.271
-      ],
-      [
-        53.2451,
-        62.6991
-      ]
-    ]
-  },
-  {
-    "hex": "4ba674",
-    "name": "Gov of Turkey",
-    "category": "Dictator Alert",
-    "callsign": "TRK20",
-    "lon": 28.7798,
-    "lat": 41.0925,
-    "alt": 5577.84,
-    "velocity": 206.61,
-    "heading": 123.22,
-    "trace": [
-      [
-        41.0925,
-        28.7798
+        24.9083,
+        57.3157
       ]
     ]
   },
@@ -104,11 +75,11 @@
     "name": "Gov of Azerbaijan",
     "category": "Dictator Alert",
     "callsign": "AHY3111",
-    "lon": 25.945,
-    "lat": 44.6832,
+    "lon": 19.8283,
+    "lat": 46.4786,
     "alt": 12192,
-    "velocity": 230.76,
-    "heading": 296.62,
+    "velocity": 228.08,
+    "heading": 284.1,
     "trace": [
       [
         44.2991,
@@ -117,56 +88,10 @@
       [
         44.6832,
         25.945
-      ]
-    ]
-  },
-  {
-    "hex": "710100",
-    "name": "Saudi Ministry of Finance",
-    "category": "Dictator Alert",
-    "callsign": "SVA963",
-    "lon": 113.9167,
-    "lat": 22.3075,
-    "alt": null,
-    "velocity": 7.46,
-    "heading": 340.31,
-    "trace": [
-      [
-        22.3075,
-        113.9167
-      ]
-    ]
-  },
-  {
-    "hex": "a3ac55",
-    "name": "Kalitta Charters II",
-    "category": "Hired Gun",
-    "callsign": "KII567",
-    "lon": -85.8484,
-    "lat": 38.0644,
-    "alt": 1813.56,
-    "velocity": 114.22,
-    "heading": 130.43,
-    "trace": [
-      [
-        44.298,
-        -92.3484
       ],
       [
-        41.6062,
-        -89.0987
-      ],
-      [
-        39.3177,
-        -87.2849
-      ],
-      [
-        38.3908,
-        -86.3395
-      ],
-      [
-        38.0644,
-        -85.8484
+        46.4786,
+        19.8283
       ]
     ]
   }
