@@ -1,14 +1,31 @@
 [
   {
+    "hex": "ad3c48",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR611",
+    "lon": -142.2955,
+    "lat": 62.2364,
+    "alt": 10972.8,
+    "velocity": 247.07,
+    "heading": 268.09,
+    "trace": [
+      [
+        62.2364,
+        -142.2955
+      ]
+    ]
+  },
+  {
     "hex": "a0f8f9",
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI7066",
-    "lon": -92.5389,
-    "lat": 33.3763,
-    "alt": 10066.02,
-    "velocity": 262.97,
-    "heading": 55.84,
+    "lon": -90.11,
+    "lat": 35.1811,
+    "alt": 1950.72,
+    "velocity": 116.28,
+    "heading": 358.99,
     "trace": [
       [
         25.1142,
@@ -25,48 +42,95 @@
       [
         33.3763,
         -92.5389
+      ],
+      [
+        35.1811,
+        -90.11
       ]
     ]
   },
   {
-    "hex": "a86e85",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA203",
-    "lon": -73.1523,
-    "lat": 20.0214,
-    "alt": 10965.18,
-    "velocity": 229.2,
-    "heading": 332.17,
+    "hex": "4b8681",
+    "name": "Turkish Government",
+    "category": "Dictator Alert",
+    "callsign": "TRK4",
+    "lon": 30.9266,
+    "lat": 40.5139,
+    "alt": 7261.86,
+    "velocity": 205.6,
+    "heading": 279.65,
     "trace": [
       [
-        18.851,
-        -72.4633
-      ],
-      [
-        20.0214,
-        -73.1523
+        40.5139,
+        30.9266
       ]
     ]
   },
   {
-    "hex": "a5b769",
-    "name": "Omni Air International",
-    "category": "Hired Gun",
-    "callsign": "OAE3889",
-    "lon": -95.9643,
-    "lat": 19.7412,
-    "alt": 10949.94,
-    "velocity": 213.12,
-    "heading": 330.34,
+    "hex": "896571",
+    "name": "Abu Dhabi Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "AUH06",
+    "lon": 56.2112,
+    "lat": 24.9505,
+    "alt": 4107.18,
+    "velocity": 194.31,
+    "heading": 41.24,
     "trace": [
       [
-        18.6148,
-        -95.2961
-      ],
+        24.9505,
+        56.2112
+      ]
+    ]
+  },
+  {
+    "hex": "894081",
+    "name": "Bahrain Defence Force",
+    "category": "Dictator Alert",
+    "callsign": "BAH11",
+    "lon": 49.6709,
+    "lat": 26.4332,
+    "alt": 10302.24,
+    "velocity": 184.29,
+    "heading": 279.8,
+    "trace": [
       [
-        19.7412,
-        -95.9643
+        26.4332,
+        49.6709
+      ]
+    ]
+  },
+  {
+    "hex": "710125",
+    "name": "Gov of Saudi Arabia",
+    "category": "Dictator Alert",
+    "callsign": "SVA7095",
+    "lon": 100.466,
+    "lat": 14.0449,
+    "alt": 1821.18,
+    "velocity": 145.57,
+    "heading": 254,
+    "trace": [
+      [
+        14.0449,
+        100.466
+      ]
+    ]
+  },
+  {
+    "hex": "a4cb6f",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI8549",
+    "lon": -73.815,
+    "lat": 40.6522,
+    "alt": null,
+    "velocity": 0,
+    "heading": 300.94,
+    "trace": [
+      [
+        40.6522,
+        -73.815
       ]
     ]
   }
