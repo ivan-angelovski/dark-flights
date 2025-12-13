@@ -1,14 +1,48 @@
 [
   {
+    "hex": "a49951",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT8643",
+    "lon": -74.2576,
+    "lat": 23.1112,
+    "alt": 11277.6,
+    "velocity": 254.29,
+    "heading": 119.31,
+    "trace": [
+      [
+        23.1112,
+        -74.2576
+      ]
+    ]
+  },
+  {
+    "hex": "a2d25e",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA4691",
+    "lon": -74.2591,
+    "lat": 41.1934,
+    "alt": 8808.72,
+    "velocity": 208.98,
+    "heading": 227.39,
+    "trace": [
+      [
+        41.1934,
+        -74.2591
+      ]
+    ]
+  },
+  {
     "hex": "aa3086",
     "name": "National Airlines",
     "category": "Hired Gun",
-    "callsign": "",
-    "lon": -137.7675,
-    "lat": 58.8786,
+    "callsign": "NCR884",
+    "lon": -131.6448,
+    "lat": 57.1952,
     "alt": 11277.6,
-    "velocity": 288.96,
-    "heading": 116.43,
+    "velocity": 293.07,
+    "heading": 118.63,
     "trace": [
       [
         61.1791,
@@ -29,6 +63,10 @@
       [
         58.8786,
         -137.7675
+      ],
+      [
+        57.1952,
+        -131.6448
       ]
     ]
   },
@@ -37,11 +75,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6109",
-    "lon": -85.6329,
-    "lat": 27.8982,
+    "lon": -88.0933,
+    "lat": 29.0236,
     "alt": 11582.4,
-    "velocity": 211.26,
-    "heading": 297.88,
+    "velocity": 216.03,
+    "heading": 296.75,
     "trace": [
       [
         26.1186,
@@ -50,6 +88,10 @@
       [
         27.8982,
         -85.6329
+      ],
+      [
+        29.0236,
+        -88.0933
       ]
     ]
   },
@@ -58,11 +100,11 @@
     "name": "Gov of Morocco",
     "category": "Dictator Alert",
     "callsign": "MRS1203",
-    "lon": 0.9025,
-    "lat": 46.4345,
+    "lon": -0.6952,
+    "lat": 44.2278,
     "alt": 11887.2,
-    "velocity": 213.08,
-    "heading": 207.62,
+    "velocity": 216.26,
+    "heading": 206.57,
     "trace": [
       [
         48.9829,
@@ -75,85 +117,10 @@
       [
         46.4345,
         0.9025
-      ]
-    ]
-  },
-  {
-    "hex": "7277a8",
-    "name": "Air Koryo",
-    "category": "Dictator Alert",
-    "callsign": "KOR152",
-    "lon": 116.5411,
-    "lat": 40.4207,
-    "alt": 2522.22,
-    "velocity": 131.87,
-    "heading": 357.09,
-    "trace": [
-      [
-        40.4207,
-        116.5411
-      ]
-    ]
-  },
-  {
-    "hex": "aa3410",
-    "name": "DJT Operations",
-    "category": "Dictator Alert",
-    "callsign": "N757AF",
-    "lon": -80.292,
-    "lat": 26.729,
-    "alt": 548.64,
-    "velocity": 95.97,
-    "heading": 154.95,
-    "trace": [
-      [
-        35.8526,
-        -77.3309
       ],
       [
-        33.6331,
-        -79.3363
-      ],
-      [
-        30.6689,
-        -81.073
-      ],
-      [
-        28.6418,
-        -80.74
-      ],
-      [
-        27.7334,
-        -80.3737
-      ],
-      [
-        26.729,
-        -80.292
-      ]
-    ]
-  },
-  {
-    "hex": "ad387a",
-    "name": "IBC Airways",
-    "category": "Hired Gun",
-    "callsign": "CSQ829",
-    "lon": -81.6565,
-    "lat": 24.5977,
-    "alt": 5486.4,
-    "velocity": 127.52,
-    "heading": 245.19,
-    "trace": [
-      [
-        25.3538,
-        -80.3873
-      ],
-      [
-        25.0359,
-        -80.608
-      ],
-      [
-        24.5977,
-        -81.6565
+        44.2278,
+        -0.6952
       ]
     ]
   }
