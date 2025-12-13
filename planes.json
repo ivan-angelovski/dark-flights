@@ -4,11 +4,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR9952",
-    "lon": -75.7237,
-    "lat": 39.0129,
-    "alt": 2583.18,
-    "velocity": 156.7,
-    "heading": 36.46,
+    "lon": -75.4604,
+    "lat": 39.1752,
+    "alt": 190.5,
+    "velocity": 80.39,
+    "heading": 183.3,
     "trace": [
       [
         25.224,
@@ -73,6 +73,10 @@
       [
         39.0129,
         -75.7237
+      ],
+      [
+        39.1752,
+        -75.4604
       ]
     ]
   },
@@ -81,11 +85,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8831",
-    "lon": -101.6426,
-    "lat": 37.7031,
+    "lon": -103.7939,
+    "lat": 37.7813,
     "alt": 12199.62,
-    "velocity": 217.96,
-    "heading": 273.25,
+    "velocity": 210.53,
+    "heading": 271.96,
     "trace": [
       [
         36.9477,
@@ -154,6 +158,10 @@
       [
         37.7031,
         -101.6426
+      ],
+      [
+        37.7813,
+        -103.7939
       ]
     ]
   },
@@ -162,11 +170,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3914",
-    "lon": -85.3348,
-    "lat": 33.821,
-    "alt": 10972.8,
-    "velocity": 225.75,
-    "heading": 207.85,
+    "lon": -86.3531,
+    "lat": 32.1987,
+    "alt": 9144,
+    "velocity": 221.06,
+    "heading": 227.74,
     "trace": [
       [
         39.8395,
@@ -211,6 +219,10 @@
       [
         33.821,
         -85.3348
+      ],
+      [
+        32.1987,
+        -86.3531
       ]
     ]
   },
@@ -219,15 +231,53 @@
     "name": "Gov of Fujairah",
     "category": "Dictator Alert",
     "callsign": "A6HMS",
-    "lon": 85.2026,
-    "lat": 22.8911,
+    "lon": 87.5374,
+    "lat": 22.7352,
     "alt": 11277.6,
-    "velocity": 265.35,
-    "heading": 94.78,
+    "velocity": 267.6,
+    "heading": 93.86,
     "trace": [
       [
         22.8911,
         85.2026
+      ],
+      [
+        22.7352,
+        87.5374
+      ]
+    ]
+  },
+  {
+    "hex": "a75013",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6142",
+    "lon": -74.463,
+    "lat": 40.7273,
+    "alt": 3375.66,
+    "velocity": 149.82,
+    "heading": 326.91,
+    "trace": [
+      [
+        40.7273,
+        -74.463
+      ]
+    ]
+  },
+  {
+    "hex": "406d26",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "EVE583",
+    "lon": 6.6957,
+    "lat": 38.4897,
+    "alt": 12192,
+    "velocity": 245.01,
+    "heading": 1.93,
+    "trace": [
+      [
+        38.4897,
+        6.6957
       ]
     ]
   }
