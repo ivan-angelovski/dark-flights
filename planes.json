@@ -1,14 +1,31 @@
 [
   {
+    "hex": "ad3c48",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR9952",
+    "lon": 22.1203,
+    "lat": 50.1083,
+    "alt": 876.3,
+    "velocity": 92.09,
+    "heading": 90.64,
+    "trace": [
+      [
+        50.1083,
+        22.1203
+      ]
+    ]
+  },
+  {
     "hex": "aa3086",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR594",
-    "lon": -130.6869,
-    "lat": 56.3099,
+    "lon": -134.3219,
+    "lat": 57.5356,
     "alt": 12192,
-    "velocity": 245.28,
-    "heading": 303.19,
+    "velocity": 246.18,
+    "heading": 300.1,
     "trace": [
       [
         46.7551,
@@ -49,35 +66,27 @@
       [
         56.3099,
         -130.6869
+      ],
+      [
+        57.5356,
+        -134.3219
       ]
     ]
   },
   {
-    "hex": "a3defb",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT470",
-    "lon": -80.4036,
-    "lat": 25.7965,
-    "alt": 518.16,
-    "velocity": 89.63,
-    "heading": 87.04,
+    "hex": "8953e3",
+    "name": "Gov of Brunei",
+    "category": "Dictator Alert",
+    "callsign": "V8OAS",
+    "lon": 47.9436,
+    "lat": 40.8209,
+    "alt": 12192,
+    "velocity": 218.87,
+    "heading": 274.72,
     "trace": [
       [
-        24.0684,
-        -79.0037
-      ],
-      [
-        25.3322,
-        -79.6929
-      ],
-      [
-        25.6826,
-        -80.2057
-      ],
-      [
-        25.7965,
-        -80.4036
+        40.8209,
+        47.9436
       ]
     ]
   },
@@ -86,44 +95,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR608",
-    "lon": -167.7121,
-    "lat": 59.9188,
+    "lon": -172.3033,
+    "lat": 59.0066,
     "alt": 12192,
-    "velocity": 253.38,
-    "heading": 250.06,
+    "velocity": 255.26,
+    "heading": 247.98,
     "trace": [
       [
         59.9188,
         -167.7121
-      ]
-    ]
-  },
-  {
-    "hex": "06a05a",
-    "name": "Qatar Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "A7AAH",
-    "lon": 30.4703,
-    "lat": 30.9391,
-    "alt": 9753.6,
-    "velocity": 219.44,
-    "heading": 316.61,
-    "trace": [
-      [
-        29.4602,
-        33.1865
       ],
       [
-        29.8584,
-        31.7523
-      ],
-      [
-        30.3509,
-        31.1107
-      ],
-      [
-        30.9391,
-        30.4703
+        59.0066,
+        -172.3033
       ]
     ]
   },
@@ -132,11 +116,11 @@
     "name": "Russia Special Flight Detachment",
     "category": "Dictator Alert",
     "callsign": "RSD950",
-    "lon": 89.3619,
-    "lat": 57.195,
+    "lon": 86.6825,
+    "lat": 58.1107,
     "alt": 10370.82,
-    "velocity": 219.11,
-    "heading": 316.9,
+    "velocity": 216.35,
+    "heading": 284.04,
     "trace": [
       [
         57.6042,
@@ -153,6 +137,10 @@
       [
         57.195,
         89.3619
+      ],
+      [
+        58.1107,
+        86.6825
       ]
     ]
   }
