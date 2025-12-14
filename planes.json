@@ -4,15 +4,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR594",
-    "lon": 141.6349,
-    "lat": 37.6725,
+    "lon": 140.6109,
+    "lat": 36.9139,
     "alt": 12192,
-    "velocity": 209.53,
-    "heading": 225.4,
+    "velocity": 208.17,
+    "heading": 231.12,
     "trace": [
       [
         37.6725,
         141.6349
+      ],
+      [
+        36.9139,
+        140.6109
       ]
     ]
   },
@@ -21,11 +25,11 @@
     "name": "DJT Operations",
     "category": "Dictator Alert",
     "callsign": "N757AF",
-    "lon": -76.9679,
-    "lat": 36.5907,
+    "lon": -77.3362,
+    "lat": 35.5235,
     "alt": 9753.6,
-    "velocity": 207.47,
-    "heading": 195.83,
+    "velocity": 207.55,
+    "heading": 195.38,
     "trace": [
       [
         38.121,
@@ -34,6 +38,10 @@
       [
         36.5907,
         -76.9679
+      ],
+      [
+        35.5235,
+        -77.3362
       ]
     ]
   },
@@ -42,11 +50,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6102",
-    "lon": -86.4227,
-    "lat": 27.8083,
+    "lon": -87.6411,
+    "lat": 28.2757,
     "alt": 11582.4,
-    "velocity": 220.9,
-    "heading": 293.76,
+    "velocity": 220.08,
+    "heading": 293.27,
     "trace": [
       [
         25.0147,
@@ -71,6 +79,10 @@
       [
         27.8083,
         -86.4227
+      ],
+      [
+        28.2757,
+        -87.6411
       ]
     ]
   },
@@ -79,11 +91,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "RRR3203",
-    "lon": -0.3522,
-    "lat": 51.3475,
-    "alt": 5486.4,
-    "velocity": 180.99,
-    "heading": 286.68,
+    "lon": -1.7133,
+    "lat": 51.6764,
+    "alt": 2194.56,
+    "velocity": 143.17,
+    "heading": 308.43,
     "trace": [
       [
         38.3727,
@@ -124,6 +136,10 @@
       [
         51.3475,
         -0.3522
+      ],
+      [
+        51.6764,
+        -1.7133
       ]
     ]
   },
@@ -132,15 +148,36 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8558",
-    "lon": -150.0082,
-    "lat": 61.1982,
+    "lon": -150.009,
+    "lat": 61.196,
     "alt": null,
-    "velocity": 0.45,
-    "heading": 255.94,
+    "velocity": 6.43,
+    "heading": 163.12,
     "trace": [
       [
         61.1982,
         -150.0082
+      ],
+      [
+        61.196,
+        -150.009
+      ]
+    ]
+  },
+  {
+    "hex": "71012e",
+    "name": "Gov of Saudi Arabia",
+    "category": "Dictator Alert",
+    "callsign": "SVA7098",
+    "lon": -73.7836,
+    "lat": 40.6347,
+    "alt": null,
+    "velocity": 5.14,
+    "heading": 120.94,
+    "trace": [
+      [
+        40.6347,
+        -73.7836
       ]
     ]
   }
