@@ -4,11 +4,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA121",
-    "lon": -72.1847,
-    "lat": 41.4938,
-    "alt": 9296.4,
-    "velocity": 227.23,
-    "heading": 212.14,
+    "lon": -73.9462,
+    "lat": 39.3059,
+    "alt": 10363.2,
+    "velocity": 226.39,
+    "heading": 211.05,
     "trace": [
       [
         44.6705,
@@ -37,6 +37,10 @@
       [
         41.4938,
         -72.1847
+      ],
+      [
+        39.3059,
+        -73.9462
       ]
     ]
   },
@@ -45,15 +49,19 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB8",
-    "lon": 53.0297,
-    "lat": 25.7031,
+    "lon": 50.5886,
+    "lat": 26.6723,
     "alt": 10972.8,
-    "velocity": 203.53,
-    "heading": 289.03,
+    "velocity": 210.02,
+    "heading": 288.12,
     "trace": [
       [
         25.7031,
         53.0297
+      ],
+      [
+        26.6723,
+        50.5886
       ]
     ]
   },
@@ -62,11 +70,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA625",
-    "lon": -89.5542,
-    "lat": 42.6646,
-    "alt": 2354.58,
-    "velocity": 142.2,
-    "heading": 354.19,
+    "lon": -89.3355,
+    "lat": 43.2662,
+    "alt": 891.54,
+    "velocity": 64.34,
+    "heading": 181.83,
     "trace": [
       [
         31.738,
@@ -91,6 +99,27 @@
       [
         42.6646,
         -89.5542
+      ],
+      [
+        43.2662,
+        -89.3355
+      ]
+    ]
+  },
+  {
+    "hex": "70604a",
+    "name": "Gov of Kuwait",
+    "category": "Dictator Alert",
+    "callsign": "KUG003",
+    "lon": 34.7715,
+    "lat": 29.0336,
+    "alt": 10972.8,
+    "velocity": 214.53,
+    "heading": 269.45,
+    "trace": [
+      [
+        29.0336,
+        34.7715
       ]
     ]
   },
@@ -99,15 +128,19 @@
     "name": "Polish Air Force",
     "category": "Dictator Alert",
     "callsign": "LOT7005",
-    "lon": 18.4129,
-    "lat": 51.6902,
-    "alt": 7315.2,
-    "velocity": 215.86,
-    "heading": 249.49,
+    "lon": 16.8818,
+    "lat": 51.1075,
+    "alt": null,
+    "velocity": 4.37,
+    "heading": 115.31,
     "trace": [
       [
         51.6902,
         18.4129
+      ],
+      [
+        51.1075,
+        16.8818
       ]
     ]
   },
@@ -116,11 +149,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3876",
-    "lon": -99.6124,
-    "lat": 32.6348,
+    "lon": -96.0853,
+    "lat": 33.225,
     "alt": 11277.6,
-    "velocity": 270.02,
-    "heading": 77.79,
+    "velocity": 263.47,
+    "heading": 79.77,
     "trace": [
       [
         31.855,
@@ -129,23 +162,10 @@
       [
         32.6348,
         -99.6124
-      ]
-    ]
-  },
-  {
-    "hex": "0101d1",
-    "name": "Government of Egypt",
-    "category": "Dictator Alert",
-    "callsign": "SUBTV",
-    "lon": 29.4477,
-    "lat": 31.5005,
-    "alt": 12192,
-    "velocity": 178.33,
-    "heading": 305.85,
-    "trace": [
+      ],
       [
-        31.5005,
-        29.4477
+        33.225,
+        -96.0853
       ]
     ]
   },
@@ -154,61 +174,19 @@
     "name": "ISR Platforms",
     "category": "Hired Gun",
     "callsign": "",
-    "lon": 126.9664,
-    "lat": 36.0512,
-    "alt": 5539.74,
-    "velocity": 187.51,
-    "heading": 5.19,
+    "lon": 127.1445,
+    "lat": 36.8817,
+    "alt": 739.14,
+    "velocity": 64.13,
+    "heading": 311.75,
     "trace": [
       [
         36.0512,
         126.9664
-      ]
-    ]
-  },
-  {
-    "hex": "406d27",
-    "name": "AirTanker",
-    "category": "Hired Gun",
-    "callsign": "TOW2230",
-    "lon": -17.8381,
-    "lat": 11.2792,
-    "alt": 10972.8,
-    "velocity": 254.5,
-    "heading": 169.87,
-    "trace": [
-      [
-        14.2309,
-        -17.9999
       ],
       [
-        11.2792,
-        -17.8381
-      ]
-    ]
-  },
-  {
-    "hex": "acfc26",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR682",
-    "lon": 140.3029,
-    "lat": 38.0875,
-    "alt": 11269.98,
-    "velocity": 290.18,
-    "heading": 78.13,
-    "trace": [
-      [
-        34.268,
-        131.2084
-      ],
-      [
-        36.6818,
-        136.163
-      ],
-      [
-        38.0875,
-        140.3029
+        36.8817,
+        127.1445
       ]
     ]
   },
@@ -217,15 +195,19 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD3B",
-    "lon": 9.1397,
-    "lat": 54.3477,
-    "alt": 3741.42,
-    "velocity": 144.62,
-    "heading": 284.63,
+    "lon": 7.9686,
+    "lat": 54.4926,
+    "alt": 5494.02,
+    "velocity": 169.93,
+    "heading": 218.36,
     "trace": [
       [
         54.3477,
         9.1397
+      ],
+      [
+        54.4926,
+        7.9686
       ]
     ]
   },
@@ -234,32 +216,19 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD3A",
-    "lon": 8.8358,
-    "lat": 54.3925,
-    "alt": 4945.38,
-    "velocity": 164.45,
-    "heading": 284.12,
+    "lon": 7.8064,
+    "lat": 54.4106,
+    "alt": 6088.38,
+    "velocity": 178.2,
+    "heading": 350.86,
     "trace": [
       [
         54.3925,
         8.8358
-      ]
-    ]
-  },
-  {
-    "hex": "0a400a",
-    "name": "Gov of Algeria",
-    "category": "Dictator Alert",
-    "callsign": "7TVPM",
-    "lon": 0.8685,
-    "lat": 36.0684,
-    "alt": 7612.38,
-    "velocity": 229.43,
-    "heading": 72.78,
-    "trace": [
+      ],
       [
-        36.0684,
-        0.8685
+        54.4106,
+        7.8064
       ]
     ]
   },
@@ -268,11 +237,11 @@
     "name": "Gov of Algeria",
     "category": "Dictator Alert",
     "callsign": "7TVPP",
-    "lon": 9.1479,
-    "lat": 46.3304,
+    "lon": 10.215,
+    "lat": 49.0722,
     "alt": 12192,
-    "velocity": 256.91,
-    "heading": 22.61,
+    "velocity": 260.84,
+    "heading": 351.15,
     "trace": [
       [
         39.7923,
@@ -285,23 +254,10 @@
       [
         46.3304,
         9.1479
-      ]
-    ]
-  },
-  {
-    "hex": "a5b769",
-    "name": "Omni Air International",
-    "category": "Hired Gun",
-    "callsign": "OAE3895",
-    "lon": -75.1695,
-    "lat": 5.254,
-    "alt": 10949.94,
-    "velocity": 234.92,
-    "heading": 305.01,
-    "trace": [
+      ],
       [
-        5.254,
-        -75.1695
+        49.0722,
+        10.215
       ]
     ]
   }
