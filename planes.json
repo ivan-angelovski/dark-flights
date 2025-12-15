@@ -3,7 +3,7 @@
     "hex": "a83f98",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "GXA621",
+    "callsign": "GXA121",
     "lon": -71.2936,
     "lat": 42.4615,
     "alt": null,
@@ -41,11 +41,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA625",
-    "lon": -95.504,
-    "lat": 34.7723,
-    "alt": 10675.62,
-    "velocity": 232.12,
-    "heading": 37.07,
+    "lon": -92.7386,
+    "lat": 37.7353,
+    "alt": 11277.6,
+    "velocity": 223.68,
+    "heading": 37.05,
     "trace": [
       [
         31.738,
@@ -58,6 +58,10 @@
       [
         34.7723,
         -95.504
+      ],
+      [
+        37.7353,
+        -92.7386
       ]
     ]
   },
@@ -65,12 +69,12 @@
     "hex": "a3defb",
     "name": "Amerijet International",
     "category": "Hired Gun",
-    "callsign": "AJT8740",
-    "lon": -74.2342,
-    "lat": 22.9987,
-    "alt": 12207.24,
-    "velocity": 209.82,
-    "heading": 296.5,
+    "callsign": "",
+    "lon": null,
+    "lat": null,
+    "alt": null,
+    "velocity": 199.06,
+    "heading": 295.24,
     "trace": [
       [
         21.6014,
@@ -83,6 +87,57 @@
       [
         22.9987,
         -74.2342
+      ]
+    ]
+  },
+  {
+    "hex": "14fa3a",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD500",
+    "lon": 37.0571,
+    "lat": 57.1531,
+    "alt": 10309.86,
+    "velocity": 206.53,
+    "heading": 350.54,
+    "trace": [
+      [
+        57.1531,
+        37.0571
+      ]
+    ]
+  },
+  {
+    "hex": "acfc26",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR682",
+    "lon": 131.2084,
+    "lat": 34.268,
+    "alt": 11277.6,
+    "velocity": 303.58,
+    "heading": 57.74,
+    "trace": [
+      [
+        34.268,
+        131.2084
+      ]
+    ]
+  },
+  {
+    "hex": "0a402d",
+    "name": "Gov of Algeria",
+    "category": "Dictator Alert",
+    "callsign": "7TVPP",
+    "lon": 5.0363,
+    "lat": 39.7923,
+    "alt": 12192,
+    "velocity": 268.91,
+    "heading": 18.4,
+    "trace": [
+      [
+        39.7923,
+        5.0363
       ]
     ]
   }
