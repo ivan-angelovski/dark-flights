@@ -1,18 +1,39 @@
 [
   {
+    "hex": "a2f9dd",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA203",
+    "lon": -79.8024,
+    "lat": 25.496,
+    "alt": 2758.44,
+    "velocity": 147.06,
+    "heading": 334.96,
+    "trace": [
+      [
+        25.496,
+        -79.8024
+      ]
+    ]
+  },
+  {
     "hex": "a83f98",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA621",
-    "lon": -88.5332,
-    "lat": 44.6705,
-    "alt": 10058.4,
-    "velocity": 274.06,
-    "heading": 115.46,
+    "lon": -81.1543,
+    "lat": 44.0462,
+    "alt": 10050.78,
+    "velocity": 257.98,
+    "heading": 101.15,
     "trace": [
       [
         44.6705,
         -88.5332
+      ],
+      [
+        44.0462,
+        -81.1543
       ]
     ]
   },
@@ -21,11 +42,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2230",
-    "lon": -11.1006,
-    "lat": 38.1145,
+    "lon": -13.4934,
+    "lat": 33.0421,
     "alt": 10668,
-    "velocity": 254.21,
-    "heading": 201.74,
+    "velocity": 271.19,
+    "heading": 200.43,
     "trace": [
       [
         46.0029,
@@ -34,6 +55,10 @@
       [
         38.1145,
         -11.1006
+      ],
+      [
+        33.0421,
+        -13.4934
       ]
     ]
   },
@@ -42,11 +67,11 @@
     "name": "Gov of Saudi Arabia",
     "category": "Dictator Alert",
     "callsign": "SVA7098",
-    "lon": 2.9498,
-    "lat": 41.3636,
+    "lon": 9.6719,
+    "lat": 40.1308,
     "alt": 10972.8,
-    "velocity": 244.22,
-    "heading": 110.73,
+    "velocity": 265.79,
+    "heading": 115.33,
     "trace": [
       [
         44.4127,
@@ -55,23 +80,10 @@
       [
         41.3636,
         2.9498
-      ]
-    ]
-  },
-  {
-    "hex": "a5b769",
-    "name": "Omni Air International",
-    "category": "Hired Gun",
-    "callsign": "OAE3895",
-    "lon": -54.7114,
-    "lat": -10.9386,
-    "alt": 10949.94,
-    "velocity": 249.52,
-    "heading": 307.46,
-    "trace": [
+      ],
       [
-        -10.9386,
-        -54.7114
+        40.1308,
+        9.6719
       ]
     ]
   }
