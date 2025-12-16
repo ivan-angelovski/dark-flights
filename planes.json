@@ -4,15 +4,19 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB4",
-    "lon": 151.1676,
-    "lat": -33.9298,
+    "lon": 151.1692,
+    "lat": -33.931,
     "alt": null,
     "velocity": 0,
-    "heading": 258.75,
+    "heading": 345.94,
     "trace": [
       [
         -33.9298,
         151.1676
+      ],
+      [
+        -33.931,
+        151.1692
       ]
     ]
   },
@@ -21,11 +25,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE347",
-    "lon": -69.3112,
-    "lat": 44.6997,
+    "lon": -70.3658,
+    "lat": 43.6465,
     "alt": 10972.8,
-    "velocity": 230.38,
-    "heading": 216.28,
+    "velocity": 232.52,
+    "heading": 215.27,
     "trace": [
       [
         48.4198,
@@ -38,6 +42,10 @@
       [
         44.6997,
         -69.3112
+      ],
+      [
+        43.6465,
+        -70.3658
       ]
     ]
   },
@@ -46,15 +54,19 @@
     "name": "Gov of Croatia",
     "category": "Dictator Alert",
     "callsign": "9ACRO",
-    "lon": 17.0887,
-    "lat": 44.5261,
-    "alt": 8229.6,
-    "velocity": 220.83,
-    "heading": 164.18,
+    "lon": 17.3486,
+    "lat": 43.862,
+    "alt": 7299.96,
+    "velocity": 204.72,
+    "heading": 164.25,
     "trace": [
       [
         44.5261,
         17.0887
+      ],
+      [
+        43.862,
+        17.3486
       ]
     ]
   },
@@ -63,11 +75,11 @@
     "name": "Phoenix Air",
     "category": "Hired Gun",
     "callsign": "48GL",
-    "lon": -93.8327,
-    "lat": 40.5868,
+    "lon": -95.4259,
+    "lat": 40.6145,
     "alt": 13106.4,
-    "velocity": 216.68,
-    "heading": 271.77,
+    "velocity": 217.11,
+    "heading": 270.68,
     "trace": [
       [
         38.9702,
@@ -96,6 +108,10 @@
       [
         40.5868,
         -93.8327
+      ],
+      [
+        40.6145,
+        -95.4259
       ]
     ]
   },
@@ -104,15 +120,36 @@
     "name": "Gov of Iran",
     "category": "Dictator Alert",
     "callsign": "IRAN05",
-    "lon": 37.6834,
-    "lat": 57.0918,
-    "alt": 7307.58,
-    "velocity": 213.43,
-    "heading": 93.73,
+    "lon": 38.0984,
+    "lat": 56.0333,
+    "alt": 3962.4,
+    "velocity": 182.09,
+    "heading": 175.79,
     "trace": [
       [
         57.0918,
         37.6834
+      ],
+      [
+        56.0333,
+        38.0984
+      ]
+    ]
+  },
+  {
+    "hex": "406d26",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "AWC541",
+    "lon": 2.6718,
+    "lat": 49.002,
+    "alt": 800.1,
+    "velocity": 91.3,
+    "heading": 85.8,
+    "trace": [
+      [
+        49.002,
+        2.6718
       ]
     ]
   },
@@ -121,15 +158,19 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD4A",
-    "lon": 9.3819,
-    "lat": 53.983,
-    "alt": 4541.52,
-    "velocity": 137.4,
-    "heading": 185.16,
+    "lon": 9.2406,
+    "lat": 53.063,
+    "alt": 9456.42,
+    "velocity": 202.71,
+    "heading": 185.83,
     "trace": [
       [
         53.983,
         9.3819
+      ],
+      [
+        53.063,
+        9.2406
       ]
     ]
   },
@@ -138,11 +179,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD3A",
-    "lon": 9.0177,
-    "lat": 51.9381,
-    "alt": 3246.12,
-    "velocity": 167.47,
-    "heading": 201.44,
+    "lon": 8.6159,
+    "lat": 51.6105,
+    "alt": null,
+    "velocity": 6.69,
+    "heading": 56.25,
     "trace": [
       [
         53.7718,
@@ -151,6 +192,10 @@
       [
         51.9381,
         9.0177
+      ],
+      [
+        51.6105,
+        8.6159
       ]
     ]
   },
@@ -159,11 +204,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD3B",
-    "lon": 9.2481,
-    "lat": 52.2432,
-    "alt": 6278.88,
-    "velocity": 184.33,
-    "heading": 182.4,
+    "lon": 8.7579,
+    "lat": 51.6716,
+    "alt": 769.62,
+    "velocity": 64.92,
+    "heading": 236.31,
     "trace": [
       [
         54.0916,
@@ -172,27 +217,10 @@
       [
         52.2432,
         9.2481
-      ]
-    ]
-  },
-  {
-    "hex": "a4cb6f",
-    "name": "Atlas Air",
-    "category": "Hired Gun",
-    "callsign": "GTI8121",
-    "lon": 106.0128,
-    "lat": 21.5642,
-    "alt": 3017.52,
-    "velocity": 134.96,
-    "heading": 225.46,
-    "trace": [
-      [
-        22.6441,
-        107.7077
       ],
       [
-        21.5642,
-        106.0128
+        51.6716,
+        8.7579
       ]
     ]
   }
