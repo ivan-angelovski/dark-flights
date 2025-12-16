@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a0d062",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI8834",
+    "lon": 127.9518,
+    "lat": 26.7166,
+    "alt": 3139.44,
+    "velocity": 142.24,
+    "heading": 225.44,
+    "trace": [
+      [
+        26.7166,
+        127.9518
+      ]
+    ]
+  },
+  {
     "hex": "a0f8f9",
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI7066",
-    "lon": -93.0859,
-    "lat": 32.9291,
-    "alt": 10675.62,
-    "velocity": 249.33,
-    "heading": 41.32,
+    "lon": -90.4275,
+    "lat": 34.7328,
+    "alt": 4091.94,
+    "velocity": 185.94,
+    "heading": 52.31,
     "trace": [
       [
         25.2303,
@@ -29,6 +46,27 @@
       [
         32.9291,
         -93.0859
+      ],
+      [
+        34.7328,
+        -90.4275
+      ]
+    ]
+  },
+  {
+    "hex": "a1f3aa",
+    "name": "Omni Air International",
+    "category": "Hired Gun",
+    "callsign": "OAE347",
+    "lon": -64.2859,
+    "lat": 48.4198,
+    "alt": 10980.42,
+    "velocity": 222.47,
+    "heading": 231.2,
+    "trace": [
+      [
+        48.4198,
+        -64.2859
       ]
     ]
   },
@@ -37,11 +75,11 @@
     "name": "Phoenix Air",
     "category": "Hired Gun",
     "callsign": "48GL",
-    "lon": -84.3557,
-    "lat": 39.7517,
+    "lon": -87.6113,
+    "lat": 40.1928,
     "alt": 13106.4,
-    "velocity": 207.54,
-    "heading": 281,
+    "velocity": 209.92,
+    "heading": 279.02,
     "trace": [
       [
         38.9702,
@@ -58,40 +96,44 @@
       [
         39.7517,
         -84.3557
+      ],
+      [
+        40.1928,
+        -87.6113
       ]
     ]
   },
   {
-    "hex": "14fa3a",
-    "name": "Russia Special Flight Detachment",
+    "hex": "7324e4",
+    "name": "Gov of Iran",
     "category": "Dictator Alert",
-    "callsign": "RSD609",
-    "lon": 30.2826,
-    "lat": 59.7864,
-    "alt": 68.58,
-    "velocity": 59.57,
-    "heading": 286.56,
+    "callsign": "IRAN05",
+    "lon": 29.8421,
+    "lat": 54.8391,
+    "alt": 10591.8,
+    "velocity": 232.86,
+    "heading": 52.27,
     "trace": [
       [
-        59.7864,
-        30.2826
+        54.8391,
+        29.8421
       ]
     ]
   },
   {
-    "hex": "8953e3",
-    "name": "Gov of Brunei",
+    "hex": "710100",
+    "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
-    "callsign": "V8OAS",
-    "lon": 57.3285,
-    "lat": 24.9033,
-    "alt": 8153.4,
-    "velocity": 274.4,
-    "heading": 112.72,
+    "callsign": "SVA963",
+    "lon": 50.6009,
+    "lat": 23.0824,
+    "alt": 9144,
+    "velocity": 219.35,
+    "heading": 278.23,
     "trace": [
       [
-        24.9033,
-        57.3285
+        23.0824,
+        50.6009
       ]
     ]
   }
