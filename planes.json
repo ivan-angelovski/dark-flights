@@ -4,11 +4,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB4",
-    "lon": 151.1804,
-    "lat": -33.9982,
-    "alt": 525.78,
-    "velocity": 97.51,
-    "heading": 189.41,
+    "lon": 148.3644,
+    "lat": -33.0977,
+    "alt": 10363.2,
+    "velocity": 256.98,
+    "heading": 291.74,
     "trace": [
       [
         -33.9298,
@@ -21,6 +21,10 @@
       [
         -33.9982,
         151.1804
+      ],
+      [
+        -33.0977,
+        148.3644
       ]
     ]
   },
@@ -29,11 +33,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE347",
-    "lon": -70.9939,
-    "lat": 42.9965,
-    "alt": 10972.8,
-    "velocity": 224.63,
-    "heading": 214.93,
+    "lon": -73.2842,
+    "lat": 40.474,
+    "alt": 10980.42,
+    "velocity": 228.72,
+    "heading": 213.44,
     "trace": [
       [
         48.4198,
@@ -54,6 +58,10 @@
       [
         42.9965,
         -70.9939
+      ],
+      [
+        40.474,
+        -73.2842
       ]
     ]
   },
@@ -62,11 +70,11 @@
     "name": "Phoenix Air",
     "category": "Hired Gun",
     "callsign": "48GL",
-    "lon": -96.4061,
-    "lat": 40.6204,
+    "lon": -100.2991,
+    "lat": 40.5625,
     "alt": 13106.4,
-    "velocity": 215.04,
-    "heading": 270.14,
+    "velocity": 225.02,
+    "heading": 267.51,
     "trace": [
       [
         38.9702,
@@ -103,6 +111,27 @@
       [
         40.6204,
         -96.4061
+      ],
+      [
+        40.5625,
+        -100.2991
+      ]
+    ]
+  },
+  {
+    "hex": "8953e3",
+    "name": "Gov of Brunei",
+    "category": "Dictator Alert",
+    "callsign": "V8OAS",
+    "lon": 73.3179,
+    "lat": 19.7324,
+    "alt": 11887.2,
+    "velocity": 271.01,
+    "heading": 106.54,
+    "trace": [
+      [
+        19.7324,
+        73.3179
       ]
     ]
   },
@@ -111,11 +140,11 @@
     "name": "Gov of Iran",
     "category": "Dictator Alert",
     "callsign": "IRAN05",
-    "lon": 37.9857,
-    "lat": 55.4722,
-    "alt": 2392.68,
-    "velocity": 148.49,
-    "heading": 193.22,
+    "lon": 37.3185,
+    "lat": 55.6648,
+    "alt": 457.2,
+    "velocity": 61.23,
+    "heading": 204.84,
     "trace": [
       [
         57.0918,
@@ -128,6 +157,10 @@
       [
         55.4722,
         37.9857
+      ],
+      [
+        55.6648,
+        37.3185
       ]
     ]
   },
@@ -136,11 +169,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "AWC541",
-    "lon": 2.8674,
-    "lat": 48.7186,
-    "alt": 4267.2,
-    "velocity": 164.7,
-    "heading": 215.08,
+    "lon": 3.6087,
+    "lat": 46.0903,
+    "alt": 11887.2,
+    "velocity": 229.87,
+    "heading": 161.2,
     "trace": [
       [
         49.002,
@@ -149,6 +182,27 @@
       [
         48.7186,
         2.8674
+      ],
+      [
+        46.0903,
+        3.6087
+      ]
+    ]
+  },
+  {
+    "hex": "48d961",
+    "name": "Polish Government",
+    "category": "Dictator Alert",
+    "callsign": "PLF106",
+    "lon": 19.5741,
+    "lat": 51.8811,
+    "alt": 9387.84,
+    "velocity": 214.24,
+    "heading": 256.53,
+    "trace": [
+      [
+        51.8811,
+        19.5741
       ]
     ]
   },
@@ -157,11 +211,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD4A",
-    "lon": 9.1267,
-    "lat": 52.3813,
-    "alt": 9441.18,
-    "velocity": 192.42,
-    "heading": 185.98,
+    "lon": 8.708,
+    "lat": 49.7823,
+    "alt": 6652.26,
+    "velocity": 170.67,
+    "heading": 185.88,
     "trace": [
       [
         53.983,
@@ -174,35 +228,44 @@
       [
         52.3813,
         9.1267
+      ],
+      [
+        49.7823,
+        8.708
       ]
     ]
   },
   {
-    "hex": "3cd068",
+    "hex": "3cd05f",
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
-    "callsign": "GFD3B",
-    "lon": 8.6161,
-    "lat": 51.6106,
-    "alt": null,
-    "velocity": 5.92,
-    "heading": 56.25,
+    "callsign": "GFD4B",
+    "lon": 9.1073,
+    "lat": 52.0041,
+    "alt": 9441.18,
+    "velocity": 214.29,
+    "heading": 186.34,
     "trace": [
       [
-        54.0916,
-        9.3691
-      ],
+        52.0041,
+        9.1073
+      ]
+    ]
+  },
+  {
+    "hex": "06a0d6",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "A7MHH",
+    "lon": 51.5545,
+    "lat": 25.2862,
+    "alt": 464.82,
+    "velocity": 88.94,
+    "heading": 338.63,
+    "trace": [
       [
-        52.2432,
-        9.2481
-      ],
-      [
-        51.6716,
-        8.7579
-      ],
-      [
-        51.6106,
-        8.6161
+        25.2862,
+        51.5545
       ]
     ]
   }
