@@ -1,63 +1,35 @@
 [
   {
-    "hex": "a1f3aa",
-    "name": "Omni Air International",
+    "hex": "4009cd",
+    "name": "Draken Europe",
     "category": "Hired Gun",
-    "callsign": "OAE347",
-    "lon": -76.4675,
-    "lat": 36.3262,
-    "alt": 7322.82,
-    "velocity": 225.01,
-    "heading": 200.76,
+    "callsign": "AMBER1",
+    "lon": -1.8273,
+    "lat": 50.7826,
+    "alt": null,
+    "velocity": 0.06,
+    "heading": 250.31,
     "trace": [
       [
-        48.4198,
-        -64.2859
-      ],
-      [
-        46.4779,
-        -67.4147
-      ],
-      [
-        44.6997,
-        -69.3112
-      ],
-      [
-        43.6465,
-        -70.3658
-      ],
-      [
-        42.9965,
-        -70.9939
-      ],
-      [
-        40.474,
-        -73.2842
-      ],
-      [
-        37.7979,
-        -75.6341
-      ],
-      [
-        36.3262,
-        -76.4675
+        50.7826,
+        -1.8273
       ]
     ]
   },
   {
-    "hex": "a3defb",
+    "hex": "a49951",
     "name": "Amerijet International",
     "category": "Hired Gun",
-    "callsign": "AJT8242",
-    "lon": -66.4615,
-    "lat": 18.9145,
-    "alt": 7345.68,
-    "velocity": 230.72,
-    "heading": 313.37,
+    "callsign": "AJT8213",
+    "lon": -78.9933,
+    "lat": 25.2479,
+    "alt": 8221.98,
+    "velocity": 265.96,
+    "heading": 119.94,
     "trace": [
       [
-        18.9145,
-        -66.4615
+        25.2479,
+        -78.9933
       ]
     ]
   },
@@ -66,11 +38,11 @@
     "name": "Phoenix Air",
     "category": "Hired Gun",
     "callsign": "48GL",
-    "lon": -106.6802,
-    "lat": 40.1829,
-    "alt": 13114.02,
-    "velocity": 208.04,
-    "heading": 263.75,
+    "lon": -111.2922,
+    "lat": 39.5247,
+    "alt": 13106.4,
+    "velocity": 209.42,
+    "heading": 257.23,
     "trace": [
       [
         38.9702,
@@ -119,23 +91,27 @@
       [
         40.1829,
         -106.6802
+      ],
+      [
+        39.5247,
+        -111.2922
       ]
     ]
   },
   {
-    "hex": "896571",
-    "name": "Abu Dhabi Amiri Flight",
+    "hex": "8953e3",
+    "name": "Gov of Brunei",
     "category": "Dictator Alert",
-    "callsign": "AUH06",
-    "lon": 50.6937,
-    "lat": 26.2418,
-    "alt": 11879.58,
-    "velocity": 264.51,
-    "heading": 110.37,
+    "callsign": "V8OAS",
+    "lon": 84.3429,
+    "lat": 17.3969,
+    "alt": 11887.2,
+    "velocity": 270.88,
+    "heading": 104.41,
     "trace": [
       [
-        26.2418,
-        50.6937
+        17.3969,
+        84.3429
       ]
     ]
   },
@@ -144,11 +120,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "AWC541",
-    "lon": 8.9999,
-    "lat": 42.8791,
+    "lon": 13.2005,
+    "lat": 40.6238,
     "alt": 11887.2,
-    "velocity": 227.44,
-    "heading": 124.12,
+    "velocity": 228.11,
+    "heading": 127.02,
     "trace": [
       [
         49.002,
@@ -169,6 +145,10 @@
       [
         42.8791,
         8.9999
+      ],
+      [
+        40.6238,
+        13.2005
       ]
     ]
   },
@@ -177,11 +157,11 @@
     "name": "Polish Government",
     "category": "Dictator Alert",
     "callsign": "PLF106",
-    "lon": 12.5943,
-    "lat": 50.6134,
-    "alt": 12809.22,
-    "velocity": 217.35,
-    "heading": 251.22,
+    "lon": 6.867,
+    "lat": 49.8672,
+    "alt": 13114.02,
+    "velocity": 230.35,
+    "heading": 259.32,
     "trace": [
       [
         51.8811,
@@ -194,6 +174,27 @@
       [
         50.6134,
         12.5943
+      ],
+      [
+        49.8672,
+        6.867
+      ]
+    ]
+  },
+  {
+    "hex": "06a01c",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "QAF6",
+    "lon": -65.668,
+    "lat": 49.4287,
+    "alt": 11582.4,
+    "velocity": 243.23,
+    "heading": 216.92,
+    "trace": [
+      [
+        49.4287,
+        -65.668
       ]
     ]
   },
@@ -202,11 +203,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD5A",
-    "lon": 12.3531,
-    "lat": 53.6523,
-    "alt": 6096,
-    "velocity": 172.43,
-    "heading": 101.88,
+    "lon": 12.6566,
+    "lat": 54.4118,
+    "alt": 975.36,
+    "velocity": 125.15,
+    "heading": 57.42,
     "trace": [
       [
         54.017,
@@ -215,6 +216,10 @@
       [
         53.6523,
         12.3531
+      ],
+      [
+        54.4118,
+        12.6566
       ]
     ]
   },
@@ -223,11 +228,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD4A",
-    "lon": 8.61,
-    "lat": 49.3911,
-    "alt": 2865.12,
-    "velocity": 136.97,
-    "heading": 138.04,
+    "lon": 9.208,
+    "lat": 51.2304,
+    "alt": 9136.38,
+    "velocity": 254.15,
+    "heading": 3.71,
     "trace": [
       [
         53.983,
@@ -252,6 +257,27 @@
       [
         49.3911,
         8.61
+      ],
+      [
+        51.2304,
+        9.208
+      ]
+    ]
+  },
+  {
+    "hex": "3cd05c",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD3A",
+    "lon": 7.8599,
+    "lat": 52.1777,
+    "alt": 3032.76,
+    "velocity": 144.46,
+    "heading": 310.67,
+    "trace": [
+      [
+        52.1777,
+        7.8599
       ]
     ]
   },
@@ -260,15 +286,19 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD2",
-    "lon": 6.2029,
-    "lat": 50.9671,
+    "lon": 6.0229,
+    "lat": 50.9612,
     "alt": 624.84,
-    "velocity": 71.38,
-    "heading": 260.88,
+    "velocity": 98.84,
+    "heading": 272.09,
     "trace": [
       [
         50.9671,
         6.2029
+      ],
+      [
+        50.9612,
+        6.0229
       ]
     ]
   },
@@ -277,11 +307,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD4B",
-    "lon": 8.3926,
-    "lat": 49.4081,
-    "alt": 2613.66,
-    "velocity": 183.68,
-    "heading": 89.04,
+    "lon": 9.1861,
+    "lat": 51.0625,
+    "alt": 9136.38,
+    "velocity": 241.25,
+    "heading": 3.67,
     "trace": [
       [
         52.0041,
@@ -294,6 +324,10 @@
       [
         49.4081,
         8.3926
+      ],
+      [
+        51.0625,
+        9.1861
       ]
     ]
   },
@@ -302,11 +336,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD5B",
-    "lon": 11.8414,
-    "lat": 53.745,
-    "alt": 4762.5,
-    "velocity": 178.81,
-    "heading": 75.16,
+    "lon": 13.7757,
+    "lat": 54.191,
+    "alt": 1844.04,
+    "velocity": 126.25,
+    "heading": 121.16,
     "trace": [
       [
         54.1081,
@@ -315,6 +349,44 @@
       [
         53.745,
         11.8414
+      ],
+      [
+        54.191,
+        13.7757
+      ]
+    ]
+  },
+  {
+    "hex": "3cd068",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD3B",
+    "lon": 7.4988,
+    "lat": 52.378,
+    "alt": 2430.78,
+    "velocity": 152.1,
+    "heading": 338.99,
+    "trace": [
+      [
+        52.378,
+        7.4988
+      ]
+    ]
+  },
+  {
+    "hex": "3cd069",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD93",
+    "lon": 8.6509,
+    "lat": 53.7396,
+    "alt": 487.68,
+    "velocity": 79.14,
+    "heading": 254.16,
+    "trace": [
+      [
+        53.7396,
+        8.6509
       ]
     ]
   },
@@ -323,11 +395,11 @@
     "name": "Kalitta Charters II",
     "category": "Hired Gun",
     "callsign": "KII614",
-    "lon": -86.9991,
-    "lat": 39.696,
-    "alt": 9144,
-    "velocity": 201.15,
-    "heading": 331.93,
+    "lon": -88.254,
+    "lat": 42.7137,
+    "alt": 2933.7,
+    "velocity": 148.06,
+    "heading": 45.7,
     "trace": [
       [
         38.3684,
@@ -336,7 +408,23 @@
       [
         39.696,
         -86.9991
+      ],
+      [
+        42.7137,
+        -88.254
       ]
     ]
+  },
+  {
+    "hex": "157713",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "",
+    "lon": null,
+    "lat": null,
+    "alt": null,
+    "velocity": 240.6,
+    "heading": 114.37,
+    "trace": []
   }
 ]
