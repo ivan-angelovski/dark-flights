@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a0d062",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI8834",
+    "lon": -157.9378,
+    "lat": 21.3275,
+    "alt": null,
+    "velocity": 6.43,
+    "heading": 90,
+    "trace": [
+      [
+        21.3275,
+        -157.9378
+      ]
+    ]
+  },
+  {
     "hex": "a83f98",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA4680",
-    "lon": -84.3525,
-    "lat": 39.9752,
-    "alt": 10972.8,
-    "velocity": 214.64,
-    "heading": 268.08,
+    "lon": -86.0018,
+    "lat": 39.9188,
+    "alt": 10988.04,
+    "velocity": 211.74,
+    "heading": 266.94,
     "trace": [
       [
         40.785,
@@ -33,6 +50,10 @@
       [
         39.9752,
         -84.3525
+      ],
+      [
+        39.9188,
+        -86.0018
       ]
     ]
   },
@@ -41,11 +62,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR550",
-    "lon": 50.571,
-    "lat": 26.8591,
-    "alt": 9745.98,
-    "velocity": 245.13,
-    "heading": 308.87,
+    "lon": 49.7077,
+    "lat": 27.7311,
+    "alt": 9753.6,
+    "velocity": 261.2,
+    "heading": 321.8,
     "trace": [
       [
         24.8722,
@@ -62,6 +83,27 @@
       [
         26.8591,
         50.571
+      ],
+      [
+        27.7311,
+        49.7077
+      ]
+    ]
+  },
+  {
+    "hex": "a2d25e",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6233",
+    "lon": -105.6422,
+    "lat": 31.5132,
+    "alt": 7048.5,
+    "velocity": 210.15,
+    "heading": 103.02,
+    "trace": [
+      [
+        31.5132,
+        -105.6422
       ]
     ]
   },
@@ -70,11 +112,11 @@
     "name": "Omega Air",
     "category": "Hired Gun",
     "callsign": "OME71",
-    "lon": -79.3181,
-    "lat": 31.7434,
-    "alt": 6111.24,
-    "velocity": 206.92,
-    "heading": 142.47,
+    "lon": -79.5838,
+    "lat": 32.3839,
+    "alt": 6118.86,
+    "velocity": 181.83,
+    "heading": 264.81,
     "trace": [
       [
         34.3067,
@@ -131,6 +173,10 @@
       [
         31.7434,
         -79.3181
+      ],
+      [
+        32.3839,
+        -79.5838
       ]
     ]
   },
@@ -139,15 +185,19 @@
     "name": "Draken Intl",
     "category": "Hired Gun",
     "callsign": "JESTA1",
-    "lon": -77.1783,
-    "lat": 35.4652,
-    "alt": 5044.44,
-    "velocity": 182.19,
-    "heading": 74.94,
+    "lon": -76.0278,
+    "lat": 35.3076,
+    "alt": 5113.02,
+    "velocity": 189.36,
+    "heading": 132.36,
     "trace": [
       [
         35.4652,
         -77.1783
+      ],
+      [
+        35.3076,
+        -76.0278
       ]
     ]
   },
@@ -156,11 +206,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6142",
-    "lon": -75.7417,
-    "lat": 40.1309,
-    "alt": 8366.76,
-    "velocity": 222.01,
-    "heading": 236.53,
+    "lon": -77.137,
+    "lat": 39.344,
+    "alt": 10363.2,
+    "velocity": 228.51,
+    "heading": 219.24,
     "trace": [
       [
         40.7028,
@@ -169,44 +219,27 @@
       [
         40.1309,
         -75.7417
-      ]
-    ]
-  },
-  {
-    "hex": "a2f016",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA6184",
-    "lon": -66.5382,
-    "lat": 18.9621,
-    "alt": 6301.74,
-    "velocity": 201.63,
-    "heading": 304.5,
-    "trace": [
-      [
-        18.9621,
-        -66.5382
-      ]
-    ]
-  },
-  {
-    "hex": "a4cb6f",
-    "name": "Atlas Air",
-    "category": "Hired Gun",
-    "callsign": "GTI8122",
-    "lon": -167.1869,
-    "lat": 59.5646,
-    "alt": 10058.4,
-    "velocity": 246.35,
-    "heading": 70.35,
-    "trace": [
-      [
-        58.7224,
-        -171.4696
       ],
       [
-        59.5646,
-        -167.1869
+        39.344,
+        -77.137
+      ]
+    ]
+  },
+  {
+    "hex": "abc95e",
+    "name": "ISR Platforms",
+    "category": "Hired Gun",
+    "callsign": "TOMOM85",
+    "lon": -74.2447,
+    "lat": 4.6103,
+    "alt": 4175.76,
+    "velocity": 88.36,
+    "heading": 242.24,
+    "trace": [
+      [
+        4.6103,
+        -74.2447
       ]
     ]
   }
