@@ -1,14 +1,48 @@
 [
   {
+    "hex": "a0d062",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI8834",
+    "lon": 139.343,
+    "lat": 35.7533,
+    "alt": null,
+    "velocity": 3.6,
+    "heading": 177.19,
+    "trace": [
+      [
+        35.7533,
+        139.343
+      ]
+    ]
+  },
+  {
+    "hex": "a95c2f",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR588",
+    "lon": 120.0063,
+    "lat": 23.9246,
+    "alt": 12192,
+    "velocity": 211.02,
+    "heading": 225.99,
+    "trace": [
+      [
+        23.9246,
+        120.0063
+      ]
+    ]
+  },
+  {
     "hex": "a5e6e1",
     "name": "Phoenix Air",
     "category": "Hired Gun",
     "callsign": "48GL",
-    "lon": -79.9632,
-    "lat": 34.6334,
-    "alt": 12504.42,
-    "velocity": 238.71,
-    "heading": 29.71,
+    "lon": -77.4121,
+    "lat": 38.4422,
+    "alt": 2263.14,
+    "velocity": 134.55,
+    "heading": 15.52,
     "trace": [
       [
         28.0672,
@@ -17,60 +51,44 @@
       [
         34.6334,
         -79.9632
+      ],
+      [
+        38.4422,
+        -77.4121
       ]
     ]
   },
   {
-    "hex": "a20f1b",
-    "name": "Nuclear Security Administration",
-    "category": "Nuclear",
-    "callsign": "ENRGY14",
-    "lon": -106.5753,
-    "lat": 33.0392,
-    "alt": 2209.8,
-    "velocity": 63.41,
-    "heading": 3.72,
+    "hex": "abc95e",
+    "name": "ISR Platforms",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": -74.1493,
+    "lat": 4.7088,
+    "alt": null,
+    "velocity": 5.92,
+    "heading": 306.56,
     "trace": [
       [
-        33.0392,
-        -106.5753
+        4.7088,
+        -74.1493
       ]
     ]
   },
   {
-    "hex": "06a01c",
-    "name": "Qatar Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "QAF6",
-    "lon": -0.4847,
-    "lat": 56.6126,
-    "alt": 11582.4,
-    "velocity": 254.39,
-    "heading": 307.94,
+    "hex": "a6d932",
+    "name": "Phoenix Air",
+    "category": "Hired Gun",
+    "callsign": "GRB331",
+    "lon": -76.9348,
+    "lat": 36.7415,
+    "alt": 5341.62,
+    "velocity": 162.41,
+    "heading": 247.66,
     "trace": [
       [
-        39.714,
-        40.0332
-      ],
-      [
-        40.0426,
-        39.0026
-      ],
-      [
-        40.3813,
-        37.9737
-      ],
-      [
-        42.6935,
-        29.4025
-      ],
-      [
-        52.1813,
-        10.1705
-      ],
-      [
-        56.6126,
-        -0.4847
+        36.7415,
+        -76.9348
       ]
     ]
   }
