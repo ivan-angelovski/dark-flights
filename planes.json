@@ -1,43 +1,14 @@
 [
   {
-    "hex": "896272",
-    "name": "Dubai Air Wing",
-    "category": "Dictator Alert",
-    "callsign": "DUB4",
-    "lon": 148.3644,
-    "lat": -33.0977,
-    "alt": 10363.2,
-    "velocity": 256.98,
-    "heading": 291.74,
-    "trace": [
-      [
-        -33.9298,
-        151.1676
-      ],
-      [
-        -33.931,
-        151.1692
-      ],
-      [
-        -33.9982,
-        151.1804
-      ],
-      [
-        -33.0977,
-        148.3644
-      ]
-    ]
-  },
-  {
     "hex": "a1f3aa",
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE347",
-    "lon": -73.2842,
-    "lat": 40.474,
-    "alt": 10980.42,
-    "velocity": 228.72,
-    "heading": 213.44,
+    "lon": -75.6341,
+    "lat": 37.7979,
+    "alt": 9631.68,
+    "velocity": 225.47,
+    "heading": 206.57,
     "trace": [
       [
         48.4198,
@@ -62,6 +33,10 @@
       [
         40.474,
         -73.2842
+      ],
+      [
+        37.7979,
+        -75.6341
       ]
     ]
   },
@@ -70,11 +45,11 @@
     "name": "Phoenix Air",
     "category": "Hired Gun",
     "callsign": "48GL",
-    "lon": -100.2991,
-    "lat": 40.5625,
+    "lon": -104.5993,
+    "lat": 40.3456,
     "alt": 13106.4,
-    "velocity": 225.02,
-    "heading": 267.51,
+    "velocity": 221.61,
+    "heading": 264.81,
     "trace": [
       [
         38.9702,
@@ -115,52 +90,56 @@
       [
         40.5625,
         -100.2991
+      ],
+      [
+        40.3456,
+        -104.5993
       ]
     ]
   },
   {
-    "hex": "8953e3",
-    "name": "Gov of Brunei",
+    "hex": "896571",
+    "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
-    "callsign": "V8OAS",
-    "lon": 73.3179,
-    "lat": 19.7324,
+    "callsign": "",
+    "lon": null,
+    "lat": null,
     "alt": 11887.2,
-    "velocity": 271.01,
-    "heading": 106.54,
+    "velocity": 276.26,
+    "heading": 90,
+    "trace": []
+  },
+  {
+    "hex": "c0126b",
+    "name": "Top Aces Inc",
+    "category": "Hired Gun",
+    "callsign": "HOTRD12",
+    "lon": 12.4775,
+    "lat": 43.0028,
+    "alt": 6377.94,
+    "velocity": 187.9,
+    "heading": 71.32,
     "trace": [
       [
-        19.7324,
-        73.3179
+        43.0028,
+        12.4775
       ]
     ]
   },
   {
-    "hex": "7324e4",
-    "name": "Gov of Iran",
-    "category": "Dictator Alert",
-    "callsign": "IRAN05",
-    "lon": 37.3185,
-    "lat": 55.6648,
-    "alt": 457.2,
-    "velocity": 61.23,
-    "heading": 204.84,
+    "hex": "a451cb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT817",
+    "lon": -74.1331,
+    "lat": 4.698,
+    "alt": null,
+    "velocity": 6.94,
+    "heading": 168.75,
     "trace": [
       [
-        57.0918,
-        37.6834
-      ],
-      [
-        56.0333,
-        38.0984
-      ],
-      [
-        55.4722,
-        37.9857
-      ],
-      [
-        55.6648,
-        37.3185
+        4.698,
+        -74.1331
       ]
     ]
   },
@@ -169,11 +148,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "AWC541",
-    "lon": 3.6087,
-    "lat": 46.0903,
+    "lon": 7.0343,
+    "lat": 43.828,
     "alt": 11887.2,
-    "velocity": 229.87,
-    "heading": 161.2,
+    "velocity": 230.01,
+    "heading": 124.15,
     "trace": [
       [
         49.002,
@@ -186,6 +165,10 @@
       [
         46.0903,
         3.6087
+      ],
+      [
+        43.828,
+        7.0343
       ]
     ]
   },
@@ -194,15 +177,36 @@
     "name": "Polish Government",
     "category": "Dictator Alert",
     "callsign": "PLF106",
-    "lon": 19.5741,
-    "lat": 51.8811,
-    "alt": 9387.84,
-    "velocity": 214.24,
-    "heading": 256.53,
+    "lon": 14.9303,
+    "lat": 51.092,
+    "alt": 12199.62,
+    "velocity": 203.41,
+    "heading": 252.94,
     "trace": [
       [
         51.8811,
         19.5741
+      ],
+      [
+        51.092,
+        14.9303
+      ]
+    ]
+  },
+  {
+    "hex": "3cd05a",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD5A",
+    "lon": 10.3818,
+    "lat": 54.017,
+    "alt": 2735.58,
+    "velocity": 154.04,
+    "heading": 114.25,
+    "trace": [
+      [
+        54.017,
+        10.3818
       ]
     ]
   },
@@ -211,11 +215,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD4A",
-    "lon": 8.708,
-    "lat": 49.7823,
-    "alt": 6652.26,
-    "velocity": 170.67,
-    "heading": 185.88,
+    "lon": 8.0234,
+    "lat": 49.4644,
+    "alt": 2887.98,
+    "velocity": 169.83,
+    "heading": 99.06,
     "trace": [
       [
         53.983,
@@ -232,6 +236,10 @@
       [
         49.7823,
         8.708
+      ],
+      [
+        49.4644,
+        8.0234
       ]
     ]
   },
@@ -240,15 +248,53 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD4B",
-    "lon": 9.1073,
-    "lat": 52.0041,
-    "alt": 9441.18,
-    "velocity": 214.29,
-    "heading": 186.34,
+    "lon": 8.5806,
+    "lat": 49.3612,
+    "alt": 2598.42,
+    "velocity": 129.63,
+    "heading": 42.43,
     "trace": [
       [
         52.0041,
         9.1073
+      ],
+      [
+        49.3612,
+        8.5806
+      ]
+    ]
+  },
+  {
+    "hex": "3cd067",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD5B",
+    "lon": 9.9851,
+    "lat": 54.1081,
+    "alt": 2735.58,
+    "velocity": 145.59,
+    "heading": 112.21,
+    "trace": [
+      [
+        54.1081,
+        9.9851
+      ]
+    ]
+  },
+  {
+    "hex": "a3ac55",
+    "name": "Kalitta Charters II",
+    "category": "Hired Gun",
+    "callsign": "KII614",
+    "lon": -86.101,
+    "lat": 38.3684,
+    "alt": 6621.78,
+    "velocity": 193.98,
+    "heading": 332.35,
+    "trace": [
+      [
+        38.3684,
+        -86.101
       ]
     ]
   },
@@ -257,15 +303,19 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7MHH",
-    "lon": 51.5545,
-    "lat": 25.2862,
-    "alt": 464.82,
-    "velocity": 88.94,
-    "heading": 338.63,
+    "lon": 49.1959,
+    "lat": 26.292,
+    "alt": 9753.6,
+    "velocity": 200.44,
+    "heading": 250.82,
     "trace": [
       [
         25.2862,
         51.5545
+      ],
+      [
+        26.292,
+        49.1959
       ]
     ]
   }
