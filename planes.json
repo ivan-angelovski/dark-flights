@@ -1,18 +1,52 @@
 [
   {
-    "hex": "a3defb",
-    "name": "Amerijet International",
+    "hex": "aa3086",
+    "name": "National Airlines",
     "category": "Hired Gun",
-    "callsign": "AJT8343",
-    "lon": -80.168,
-    "lat": 25.7626,
-    "alt": 1402.08,
-    "velocity": 127.07,
-    "heading": 118.54,
+    "callsign": "NCR563",
+    "lon": 55.1456,
+    "lat": 24.9993,
+    "alt": 2438.4,
+    "velocity": 146.87,
+    "heading": 308.32,
     "trace": [
       [
-        25.7626,
-        -80.168
+        24.9993,
+        55.1456
+      ]
+    ]
+  },
+  {
+    "hex": "a0f8f9",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI7066",
+    "lon": -100.9424,
+    "lat": 25.515,
+    "alt": 10043.16,
+    "velocity": 289.2,
+    "heading": 45.22,
+    "trace": [
+      [
+        25.515,
+        -100.9424
+      ]
+    ]
+  },
+  {
+    "hex": "a2c4e0",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6143",
+    "lon": -94.0437,
+    "lat": 30.039,
+    "alt": 11582.4,
+    "velocity": 194.41,
+    "heading": 220.82,
+    "trace": [
+      [
+        30.039,
+        -94.0437
       ]
     ]
   },
@@ -21,11 +55,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3876",
-    "lon": -98.468,
-    "lat": 32.7011,
+    "lon": -93.8267,
+    "lat": 33.6103,
     "alt": 11277.6,
-    "velocity": 266,
-    "heading": 79.86,
+    "velocity": 276.17,
+    "heading": 64.87,
     "trace": [
       [
         31.8482,
@@ -38,6 +72,10 @@
       [
         32.7011,
         -98.468
+      ],
+      [
+        33.6103,
+        -93.8267
       ]
     ]
   },
@@ -46,11 +84,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2231",
-    "lon": -10.5253,
-    "lat": 37.9357,
+    "lon": -9.7109,
+    "lat": 40.7784,
     "alt": 12192,
-    "velocity": 192.12,
-    "heading": 12.21,
+    "velocity": 201.55,
+    "heading": 12.83,
     "trace": [
       [
         36.1738,
@@ -59,23 +97,10 @@
       [
         37.9357,
         -10.5253
-      ]
-    ]
-  },
-  {
-    "hex": "78048c",
-    "name": "Gov of PRC",
-    "category": "Dictator Alert",
-    "callsign": "CCA1319",
-    "lon": 116.4732,
-    "lat": 40.2367,
-    "alt": 2651.76,
-    "velocity": 136.49,
-    "heading": 239.67,
-    "trace": [
+      ],
       [
-        40.2367,
-        116.4732
+        40.7784,
+        -9.7109
       ]
     ]
   },
@@ -84,11 +109,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8122",
-    "lon": -100.5248,
-    "lat": 48.8621,
+    "lon": -95.6226,
+    "lat": 45.976,
     "alt": 9448.8,
-    "velocity": 309.49,
-    "heading": 124.3,
+    "velocity": 287.88,
+    "heading": 133.19,
     "trace": [
       [
         55.5962,
@@ -105,6 +130,10 @@
       [
         48.8621,
         -100.5248
+      ],
+      [
+        45.976,
+        -95.6226
       ]
     ]
   }
