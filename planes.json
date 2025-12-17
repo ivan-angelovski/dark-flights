@@ -4,11 +4,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8834",
-    "lon": -95.6149,
-    "lat": 39.0945,
+    "lon": -90.5398,
+    "lat": 38.5954,
     "alt": 12504.42,
-    "velocity": 260.97,
-    "heading": 95.43,
+    "velocity": 267.02,
+    "heading": 98.75,
     "trace": [
       [
         38.3046,
@@ -45,6 +45,10 @@
       [
         39.0945,
         -95.6149
+      ],
+      [
+        38.5954,
+        -90.5398
       ]
     ]
   },
@@ -53,11 +57,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8289",
-    "lon": 134.7704,
-    "lat": 35.4919,
+    "lon": 131.3986,
+    "lat": 35.7444,
     "alt": 10363.2,
-    "velocity": 185.83,
-    "heading": 272.06,
+    "velocity": 193.96,
+    "heading": 278.39,
     "trace": [
       [
         35.7548,
@@ -78,43 +82,27 @@
       [
         35.4919,
         134.7704
+      ],
+      [
+        35.7444,
+        131.3986
       ]
     ]
   },
   {
-    "hex": "a95c2f",
+    "hex": "aa3086",
     "name": "National Airlines",
     "category": "Hired Gun",
-    "callsign": "NCR809",
-    "lon": 12.1394,
-    "lat": 44.9877,
-    "alt": 4411.98,
-    "velocity": 185.45,
-    "heading": 215.63,
+    "callsign": "NCR563",
+    "lon": 34.0165,
+    "lat": 29.9625,
+    "alt": 10972.8,
+    "velocity": 209.44,
+    "heading": 331.86,
     "trace": [
       [
-        47.4276,
-        19.2782
-      ],
-      [
-        47.4386,
-        19.263
-      ],
-      [
-        46.8706,
-        15.9848
-      ],
-      [
-        45.9577,
-        13.8308
-      ],
-      [
-        45.5229,
-        12.76
-      ],
-      [
-        44.9877,
-        12.1394
+        29.9625,
+        34.0165
       ]
     ]
   },
@@ -123,11 +111,11 @@
     "name": "Gov of Kazakhstan",
     "category": "Dictator Alert",
     "callsign": "BEC001",
-    "lon": 80.4154,
-    "lat": 52.3116,
+    "lon": 86.8613,
+    "lat": 53.8085,
     "alt": 10668,
-    "velocity": 271.1,
-    "heading": 56.61,
+    "velocity": 276.64,
+    "heading": 78.52,
     "trace": [
       [
         51.8343,
@@ -136,35 +124,10 @@
       [
         52.3116,
         80.4154
-      ]
-    ]
-  },
-  {
-    "hex": "a7a2be",
-    "name": "ISR Platforms",
-    "category": "Hired Gun",
-    "callsign": "",
-    "lon": 127.1694,
-    "lat": 36.864,
-    "alt": 784.86,
-    "velocity": 69.64,
-    "heading": 311.11,
-    "trace": [
-      [
-        35.4168,
-        126.8966
       ],
       [
-        36.6477,
-        126.8831
-      ],
-      [
-        36.837,
-        127.2116
-      ],
-      [
-        36.864,
-        127.1694
+        53.8085,
+        86.8613
       ]
     ]
   },
@@ -173,40 +136,53 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR514",
-    "lon": 114.7676,
-    "lat": 22.2622,
-    "alt": 3238.5,
-    "velocity": 165.43,
-    "heading": 260.33,
+    "lon": 113.9097,
+    "lat": 22.3109,
+    "alt": null,
+    "velocity": 1.8,
+    "heading": 250.31,
     "trace": [
       [
         22.2622,
         114.7676
+      ],
+      [
+        22.3109,
+        113.9097
       ]
     ]
   },
   {
-    "hex": "a20f1b",
-    "name": "Nuclear Security Administration",
-    "category": "Nuclear",
-    "callsign": "ENRGY14",
-    "lon": -106.6284,
-    "lat": 32.4202,
-    "alt": 1927.86,
-    "velocity": 74.64,
-    "heading": 88.03,
+    "hex": "3cd05d",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD3",
+    "lon": 9.3883,
+    "lat": 52.828,
+    "alt": 2956.56,
+    "velocity": 140.09,
+    "heading": 182.74,
     "trace": [
       [
-        32.2841,
-        -106.9204
-      ],
+        52.828,
+        9.3883
+      ]
+    ]
+  },
+  {
+    "hex": "3cd060",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD2",
+    "lon": 7.6178,
+    "lat": 52.0415,
+    "alt": 7315.2,
+    "velocity": 239.73,
+    "heading": 206.51,
+    "trace": [
       [
-        32.3303,
-        -106.8861
-      ],
-      [
-        32.4202,
-        -106.6284
+        52.0415,
+        7.6178
       ]
     ]
   },
@@ -215,15 +191,36 @@
     "name": "Gov of Saudi Arabia",
     "category": "Dictator Alert",
     "callsign": "SVA7101",
-    "lon": 87.2988,
-    "lat": 16.7022,
-    "alt": 9753.6,
-    "velocity": 243.06,
-    "heading": 283.71,
+    "lon": 83.4699,
+    "lat": 17.6143,
+    "alt": 10972.8,
+    "velocity": 234.09,
+    "heading": 284.77,
     "trace": [
       [
         16.7022,
         87.2988
+      ],
+      [
+        17.6143,
+        83.4699
+      ]
+    ]
+  },
+  {
+    "hex": "a3ac55",
+    "name": "Kalitta Charters II",
+    "category": "Hired Gun",
+    "callsign": "KII614",
+    "lon": -86.2598,
+    "lat": 38.6153,
+    "alt": 7673.34,
+    "velocity": 221.58,
+    "heading": 332.48,
+    "trace": [
+      [
+        38.6153,
+        -86.2598
       ]
     ]
   }
