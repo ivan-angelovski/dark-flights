@@ -4,11 +4,11 @@
     "name": "Russian FSB",
     "category": "Dictator Alert",
     "callsign": "RSD977",
-    "lon": 51.9298,
-    "lat": 56.8311,
+    "lon": 49.9399,
+    "lat": 57.0117,
     "alt": 9753.6,
-    "velocity": 195.02,
-    "heading": 271.21,
+    "velocity": 192.01,
+    "heading": 280.5,
     "trace": [
       [
         56.8647,
@@ -17,6 +17,56 @@
       [
         56.8311,
         51.9298
+      ],
+      [
+        57.0117,
+        49.9399
+      ]
+    ]
+  },
+  {
+    "hex": "a49951",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": null,
+    "lat": null,
+    "alt": null,
+    "velocity": 250.42,
+    "heading": 13.67,
+    "trace": []
+  },
+  {
+    "hex": "a95c2f",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR554",
+    "lon": 113.9127,
+    "lat": 22.2992,
+    "alt": null,
+    "velocity": 9.77,
+    "heading": 250.31,
+    "trace": [
+      [
+        22.2992,
+        113.9127
+      ]
+    ]
+  },
+  {
+    "hex": "896436",
+    "name": "Sharjah Rulers Flight",
+    "category": "Dictator Alert",
+    "callsign": "SHJ01",
+    "lon": 25.1244,
+    "lat": 44.058,
+    "alt": 10972.8,
+    "velocity": 187.38,
+    "heading": 290.57,
+    "trace": [
+      [
+        44.058,
+        25.1244
       ]
     ]
   },
@@ -25,11 +75,11 @@
     "name": "Gov of Kuwait",
     "category": "Dictator Alert",
     "callsign": "KUG003",
-    "lon": 21.5392,
-    "lat": 37.8833,
+    "lon": 23.1518,
+    "lat": 36.933,
     "alt": 11277.6,
-    "velocity": 276.05,
-    "heading": 126.74,
+    "velocity": 281.21,
+    "heading": 126.22,
     "trace": [
       [
         52.0802,
@@ -78,6 +128,10 @@
       [
         37.8833,
         21.5392
+      ],
+      [
+        36.933,
+        23.1518
       ]
     ]
   },
@@ -86,15 +140,36 @@
     "name": "ISR Platforms",
     "category": "Hired Gun",
     "callsign": "",
-    "lon": 126.7758,
-    "lat": 37.3727,
+    "lon": 125.3773,
+    "lat": 37.2338,
     "alt": 11582.4,
-    "velocity": 194.24,
-    "heading": 263.31,
+    "velocity": 196.66,
+    "heading": 262.48,
     "trace": [
       [
         37.3727,
         126.7758
+      ],
+      [
+        37.2338,
+        125.3773
+      ]
+    ]
+  },
+  {
+    "hex": "a20f1b",
+    "name": "Nuclear Security Administration",
+    "category": "Nuclear",
+    "callsign": "ENRGY14",
+    "lon": -106.6307,
+    "lat": 32.3836,
+    "alt": 1973.58,
+    "velocity": 53.86,
+    "heading": 223.45,
+    "trace": [
+      [
+        32.3836,
+        -106.6307
       ]
     ]
   },
@@ -103,15 +178,36 @@
     "name": "Polish Air Force",
     "category": "Dictator Alert",
     "callsign": "PLF120",
-    "lon": 20.4907,
-    "lat": 51.7153,
-    "alt": 5265.42,
-    "velocity": 194.14,
-    "heading": 194.11,
+    "lon": 19.3975,
+    "lat": 50.6621,
+    "alt": 10363.2,
+    "velocity": 233.9,
+    "heading": 224.73,
     "trace": [
       [
         51.7153,
         20.4907
+      ],
+      [
+        50.6621,
+        19.3975
+      ]
+    ]
+  },
+  {
+    "hex": "a87876",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": -19.3638,
+    "lat": 61.0878,
+    "alt": 8229.6,
+    "velocity": 231.78,
+    "heading": 74.42,
+    "trace": [
+      [
+        61.0878,
+        -19.3638
       ]
     ]
   },
@@ -120,15 +216,19 @@
     "name": "Kalitta Charters II",
     "category": "Hired Gun",
     "callsign": "KII614",
-    "lon": -88.0192,
-    "lat": 42.8606,
-    "alt": 2499.36,
-    "velocity": 113.29,
-    "heading": 230.53,
+    "lon": -88.7011,
+    "lat": 42.5176,
+    "alt": 1028.7,
+    "velocity": 86.46,
+    "heading": 236.4,
     "trace": [
       [
         42.8606,
         -88.0192
+      ],
+      [
+        42.5176,
+        -88.7011
       ]
     ]
   }
