@@ -1,14 +1,31 @@
 [
   {
+    "hex": "14fc0b",
+    "name": "Russian FSB",
+    "category": "Dictator Alert",
+    "callsign": "RSD977",
+    "lon": 55.8691,
+    "lat": 56.8647,
+    "alt": 9761.22,
+    "velocity": 192.41,
+    "heading": 270.61,
+    "trace": [
+      [
+        56.8647,
+        55.8691
+      ]
+    ]
+  },
+  {
     "hex": "4009cd",
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "CRIMSON1",
-    "lon": -4.1766,
-    "lat": 51.0856,
-    "alt": 5227.32,
-    "velocity": 149.19,
-    "heading": 180,
+    "lon": -1.6116,
+    "lat": 50.8464,
+    "alt": 685.8,
+    "velocity": 69.11,
+    "heading": 169.28,
     "trace": [
       [
         50.7859,
@@ -29,6 +46,10 @@
       [
         51.0856,
         -4.1766
+      ],
+      [
+        50.8464,
+        -1.6116
       ]
     ]
   },
@@ -37,11 +58,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB1",
-    "lon": -7.1909,
-    "lat": 51.6077,
+    "lon": -11.2231,
+    "lat": 54.0539,
     "alt": 10972.8,
-    "velocity": 244.91,
-    "heading": 316.62,
+    "velocity": 261.66,
+    "heading": 313.33,
     "trace": [
       [
         47.5813,
@@ -62,6 +83,10 @@
       [
         51.6077,
         -7.1909
+      ],
+      [
+        54.0539,
+        -11.2231
       ]
     ]
   },
@@ -70,11 +95,11 @@
     "name": "Gov of Kuwait",
     "category": "Dictator Alert",
     "callsign": "KUG003",
-    "lon": 14.854,
-    "lat": 41.9748,
+    "lon": 18.3926,
+    "lat": 39.7091,
     "alt": 11277.6,
-    "velocity": 256.78,
-    "heading": 128.98,
+    "velocity": 264.62,
+    "heading": 131.37,
     "trace": [
       [
         52.0802,
@@ -115,43 +140,27 @@
       [
         41.9748,
         14.854
+      ],
+      [
+        39.7091,
+        18.3926
       ]
     ]
   },
   {
-    "hex": "c0126b",
-    "name": "Top Aces Inc",
+    "hex": "a451cb",
+    "name": "Amerijet International",
     "category": "Hired Gun",
-    "callsign": "HOTROD1",
-    "lon": 8.6435,
-    "lat": 53.7639,
-    "alt": null,
-    "velocity": 9.77,
-    "heading": 75.94,
+    "callsign": "AJT8413",
+    "lon": -78.0782,
+    "lat": 24.8467,
+    "alt": 11292.84,
+    "velocity": 258.04,
+    "heading": 118.46,
     "trace": [
       [
-        44.0128,
-        11.002
-      ],
-      [
-        47.0397,
-        11.0408
-      ],
-      [
-        48.8992,
-        10.9836
-      ],
-      [
-        51.9903,
-        9.411
-      ],
-      [
-        53.6195,
-        8.7493
-      ],
-      [
-        53.7639,
-        8.6435
+        24.8467,
+        -78.0782
       ]
     ]
   },
@@ -160,11 +169,11 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "CRIMSON2",
-    "lon": -4.211,
-    "lat": 51.0231,
-    "alt": 4869.18,
-    "velocity": 144.65,
-    "heading": 172.85,
+    "lon": -1.8161,
+    "lat": 50.7844,
+    "alt": 137.16,
+    "velocity": 70.52,
+    "heading": 254.34,
     "trace": [
       [
         50.7754,
@@ -185,23 +194,10 @@
       [
         51.0231,
         -4.211
-      ]
-    ]
-  },
-  {
-    "hex": "a7a2be",
-    "name": "ISR Platforms",
-    "category": "Hired Gun",
-    "callsign": "",
-    "lon": 127.1033,
-    "lat": 37.0331,
-    "alt": 1737.36,
-    "velocity": 150.54,
-    "heading": 33.15,
-    "trace": [
+      ],
       [
-        37.0331,
-        127.1033
+        50.7844,
+        -1.8161
       ]
     ]
   },
@@ -210,11 +206,11 @@
     "name": "Nuclear Security Administration",
     "category": "Nuclear",
     "callsign": "ENRGY14",
-    "lon": -106.6147,
-    "lat": 33.0929,
-    "alt": 3131.82,
-    "velocity": 71.43,
-    "heading": 160.65,
+    "lon": -106.3705,
+    "lat": 32.6289,
+    "alt": 2156.46,
+    "velocity": 30.88,
+    "heading": 330.02,
     "trace": [
       [
         33.3189,
@@ -227,31 +223,10 @@
       [
         33.0929,
         -106.6147
-      ]
-    ]
-  },
-  {
-    "hex": "600bc4",
-    "name": "Gov of Azerbaijan",
-    "category": "Dictator Alert",
-    "callsign": "AHY612",
-    "lon": 55.9918,
-    "lat": 27.4469,
-    "alt": 11430,
-    "velocity": 290.87,
-    "heading": 6.3,
-    "trace": [
-      [
-        25.168,
-        55.5283
       ],
       [
-        26.4715,
-        55.8465
-      ],
-      [
-        27.4469,
-        55.9918
+        32.6289,
+        -106.3705
       ]
     ]
   }
