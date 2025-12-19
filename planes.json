@@ -1,39 +1,14 @@
 [
   {
-    "hex": "8960b1",
-    "name": "Abu Dhabi Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "AUH11",
-    "lon": 49.4452,
-    "lat": 27.0023,
-    "alt": 10363.2,
-    "velocity": 198.97,
-    "heading": 287.92,
-    "trace": [
-      [
-        25.0018,
-        53.9137
-      ],
-      [
-        25.7746,
-        52.8682
-      ],
-      [
-        27.0023,
-        49.4452
-      ]
-    ]
-  },
-  {
     "hex": "aa3086",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR802",
-    "lon": 33.4632,
-    "lat": 32.9238,
-    "alt": 11887.2,
-    "velocity": 296.4,
-    "heading": 119.99,
+    "lon": 35.4643,
+    "lat": 31.6535,
+    "alt": 3345.18,
+    "velocity": 171.93,
+    "heading": 191.92,
     "trace": [
       [
         49.9857,
@@ -98,31 +73,61 @@
       [
         32.9238,
         33.4632
+      ],
+      [
+        31.6535,
+        35.4643
       ]
     ]
   },
   {
-    "hex": "14fa3a",
-    "name": "Russia Special Flight Detachment",
-    "category": "Dictator Alert",
-    "callsign": "RSD958",
-    "lon": 61.365,
-    "lat": 55.4866,
+    "hex": "a3defb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT853",
+    "lon": -73.6332,
+    "lat": 22.1304,
     "alt": 10668,
-    "velocity": 243.73,
-    "heading": 77.2,
+    "velocity": 242.26,
+    "heading": 125.58,
     "trace": [
       [
-        54.6469,
-        52.8526
-      ],
+        22.1304,
+        -73.6332
+      ]
+    ]
+  },
+  {
+    "hex": "acfc26",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR591",
+    "lon": -15.2639,
+    "lat": 13.2565,
+    "alt": 10492.74,
+    "velocity": 253.15,
+    "heading": 302.72,
+    "trace": [
       [
-        54.8515,
-        54.4107
-      ],
+        13.2565,
+        -15.2639
+      ]
+    ]
+  },
+  {
+    "hex": "06a001",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "A7HHK",
+    "lon": 17.714,
+    "lat": 35.4184,
+    "alt": 9753.6,
+    "velocity": 230.65,
+    "heading": 278.85,
+    "trace": [
       [
-        55.4866,
-        61.365
+        35.4184,
+        17.714
       ]
     ]
   },
@@ -152,19 +157,36 @@
     ]
   },
   {
-    "hex": "710100",
-    "name": "Saudi Ministry of Finance",
+    "hex": "e940fa",
+    "name": "Gov of Bolivia",
     "category": "Dictator Alert",
-    "callsign": "SVA976",
-    "lon": 113.5184,
-    "lat": 22.0189,
-    "alt": 6309.36,
-    "velocity": 198.61,
-    "heading": 152.04,
+    "callsign": "FAB001",
+    "lon": -68.0815,
+    "lat": -16.7456,
+    "alt": 6789.42,
+    "velocity": 178.27,
+    "heading": 144.75,
     "trace": [
       [
-        22.0189,
-        113.5184
+        -16.7456,
+        -68.0815
+      ]
+    ]
+  },
+  {
+    "hex": "a87876",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI8408",
+    "lon": 22.6939,
+    "lat": 61.6326,
+    "alt": 5913.12,
+    "velocity": 188.49,
+    "heading": 292.3,
+    "trace": [
+      [
+        61.6326,
+        22.6939
       ]
     ]
   },
@@ -173,11 +195,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8548",
-    "lon": -111.198,
-    "lat": 53.1552,
+    "lon": -107.7283,
+    "lat": 51.8469,
     "alt": 10668,
-    "velocity": 283.22,
-    "heading": 118.89,
+    "velocity": 291.86,
+    "heading": 122.4,
     "trace": [
       [
         55.732,
@@ -190,55 +212,27 @@
       [
         53.1552,
         -111.198
+      ],
+      [
+        51.8469,
+        -107.7283
       ]
     ]
   },
   {
-    "hex": "a5b769",
-    "name": "Omni Air International",
-    "category": "Hired Gun",
-    "callsign": "CMB144",
-    "lon": -76.6668,
-    "lat": 39.1848,
-    "alt": null,
-    "velocity": 4.63,
-    "heading": 239.06,
+    "hex": "157712",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD953",
+    "lon": 88.0808,
+    "lat": 57.0271,
+    "alt": 10668,
+    "velocity": 262.53,
+    "heading": 117.42,
     "trace": [
       [
-        45.4038,
-        -64.5823
-      ],
-      [
-        44.1821,
-        -66.2127
-      ],
-      [
-        43.3518,
-        -67.7526
-      ],
-      [
-        43.0811,
-        -68.6764
-      ],
-      [
-        42.816,
-        -69.5508
-      ],
-      [
-        41.4943,
-        -73.0736
-      ],
-      [
-        40.0285,
-        -75.518
-      ],
-      [
-        39.5428,
-        -76.4171
-      ],
-      [
-        39.1848,
-        -76.6668
+        57.0271,
+        88.0808
       ]
     ]
   }
