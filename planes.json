@@ -4,11 +4,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "CMB135",
-    "lon": 23.6431,
-    "lat": 42.2054,
+    "lon": 22.187,
+    "lat": 45.2525,
     "alt": 12199.62,
-    "velocity": 217.52,
-    "heading": 350.47,
+    "velocity": 226.26,
+    "heading": 323.6,
     "trace": [
       [
         34.72,
@@ -25,23 +25,10 @@
       [
         42.2054,
         23.6431
-      ]
-    ]
-  },
-  {
-    "hex": "a49951",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT845",
-    "lon": -72.823,
-    "lat": 21.5872,
-    "alt": 10058.4,
-    "velocity": 240.59,
-    "heading": 125.87,
-    "trace": [
+      ],
       [
-        21.5872,
-        -72.823
+        45.2525,
+        22.187
       ]
     ]
   },
@@ -50,11 +37,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA1607",
-    "lon": -82.6798,
-    "lat": 41.3934,
-    "alt": 11879.58,
-    "velocity": 263.99,
-    "heading": 84.74,
+    "lon": -77.3873,
+    "lat": 41.8968,
+    "alt": 9418.32,
+    "velocity": 274.44,
+    "heading": 80.4,
     "trace": [
       [
         27.2389,
@@ -79,6 +66,10 @@
       [
         41.3934,
         -82.6798
+      ],
+      [
+        41.8968,
+        -77.3873
       ]
     ]
   },
@@ -87,15 +78,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR802",
-    "lon": -13.5728,
-    "lat": 49.9857,
+    "lon": -7.3519,
+    "lat": 49.8072,
     "alt": 11277.6,
-    "velocity": 269.06,
-    "heading": 90.44,
+    "velocity": 276.38,
+    "heading": 95.23,
     "trace": [
       [
         49.9857,
         -13.5728
+      ],
+      [
+        49.8072,
+        -7.3519
       ]
     ]
   },
@@ -104,15 +99,36 @@
     "name": "IBC Airways",
     "category": "Hired Gun",
     "callsign": "CSQ831",
-    "lon": -80.3736,
-    "lat": 25.4242,
-    "alt": 3329.94,
-    "velocity": 85.94,
-    "heading": 196.7,
+    "lon": -81.8013,
+    "lat": 24.6384,
+    "alt": 5486.4,
+    "velocity": 109.38,
+    "heading": 241.02,
     "trace": [
       [
         25.4242,
         -80.3736
+      ],
+      [
+        24.6384,
+        -81.8013
+      ]
+    ]
+  },
+  {
+    "hex": "a3defb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT8410",
+    "lon": -78.1665,
+    "lat": 24.6915,
+    "alt": 12214.86,
+    "velocity": 229.15,
+    "heading": 296.39,
+    "trace": [
+      [
+        24.6915,
+        -78.1665
       ]
     ]
   },
@@ -121,11 +137,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA4661",
-    "lon": -80.5235,
-    "lat": 27.7146,
-    "alt": 11597.64,
-    "velocity": 217.75,
-    "heading": 165.08,
+    "lon": -80.4259,
+    "lat": 25.7955,
+    "alt": 624.84,
+    "velocity": 87.53,
+    "heading": 87.64,
     "trace": [
       [
         35.1964,
@@ -142,6 +158,44 @@
       [
         27.7146,
         -80.5235
+      ],
+      [
+        25.7955,
+        -80.4259
+      ]
+    ]
+  },
+  {
+    "hex": "06a001",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "A7HHK",
+    "lon": 50.8801,
+    "lat": 26.1665,
+    "alt": 7063.74,
+    "velocity": 190.4,
+    "heading": 294.42,
+    "trace": [
+      [
+        26.1665,
+        50.8801
+      ]
+    ]
+  },
+  {
+    "hex": "06a05a",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "A7AAH",
+    "lon": -1.0014,
+    "lat": 35.1721,
+    "alt": 11277.6,
+    "velocity": 247.36,
+    "heading": 64.5,
+    "trace": [
+      [
+        35.1721,
+        -1.0014
       ]
     ]
   },
@@ -150,11 +204,11 @@
     "name": "Gov of Turkey",
     "category": "Dictator Alert",
     "callsign": "TRK5",
-    "lon": -80.0122,
-    "lat": 32.0469,
+    "lon": -80.8914,
+    "lat": 28.9213,
     "alt": 12192,
-    "velocity": 208.24,
-    "heading": 193.86,
+    "velocity": 220.61,
+    "heading": 193.49,
     "trace": [
       [
         44.8625,
@@ -175,6 +229,10 @@
       [
         32.0469,
         -80.0122
+      ],
+      [
+        28.9213,
+        -80.8914
       ]
     ]
   }
