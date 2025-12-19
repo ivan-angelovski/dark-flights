@@ -1,14 +1,31 @@
 [
   {
+    "hex": "8960b1",
+    "name": "Abu Dhabi Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "AUH11",
+    "lon": 53.9137,
+    "lat": 25.0018,
+    "alt": 6880.86,
+    "velocity": 192.57,
+    "heading": 310.88,
+    "trace": [
+      [
+        25.0018,
+        53.9137
+      ]
+    ]
+  },
+  {
     "hex": "aa3086",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR802",
-    "lon": 22.6197,
-    "lat": 37.8064,
+    "lon": 26.7288,
+    "lat": 36.195,
     "alt": 11887.2,
-    "velocity": 284.96,
-    "heading": 114.76,
+    "velocity": 286.45,
+    "heading": 117.26,
     "trace": [
       [
         49.9857,
@@ -61,48 +78,61 @@
       [
         37.8064,
         22.6197
-      ]
-    ]
-  },
-  {
-    "hex": "89624b",
-    "name": "Gov of Fujairah",
-    "category": "Dictator Alert",
-    "callsign": "A6HMS",
-    "lon": 73.1534,
-    "lat": 19.7921,
-    "alt": 10972.8,
-    "velocity": 214.59,
-    "heading": 287.87,
-    "trace": [
+      ],
       [
-        19.7921,
-        73.1534
+        36.195,
+        26.7288
       ]
     ]
   },
   {
-    "hex": "a451cb",
-    "name": "Amerijet International",
+    "hex": "ad5ff9",
+    "name": "IBC Airways",
     "category": "Hired Gun",
-    "callsign": "AJT8541",
-    "lon": -70.6625,
-    "lat": 21.3431,
-    "alt": 10683.24,
-    "velocity": 245.43,
-    "heading": 124.32,
+    "callsign": "CSQ832",
+    "lon": -81.5923,
+    "lat": 24.7338,
+    "alt": 5166.36,
+    "velocity": 162.26,
+    "heading": 34.8,
     "trace": [
       [
-        23.5708,
-        -75.0136
-      ],
+        24.7338,
+        -81.5923
+      ]
+    ]
+  },
+  {
+    "hex": "14fa3a",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD958",
+    "lon": 52.8526,
+    "lat": 54.6469,
+    "alt": 10668,
+    "velocity": 224.49,
+    "heading": 76.89,
+    "trace": [
       [
-        23.2407,
-        -74.3316
-      ],
+        54.6469,
+        52.8526
+      ]
+    ]
+  },
+  {
+    "hex": "06a038",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "QAF4",
+    "lon": 37.8257,
+    "lat": 40.4253,
+    "alt": 11582.4,
+    "velocity": 222.21,
+    "heading": 291.46,
+    "trace": [
       [
-        21.3431,
-        -70.6625
+        40.4253,
+        37.8257
       ]
     ]
   },
@@ -111,11 +141,11 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7AAH",
-    "lon": 27.5971,
-    "lat": 34.3463,
+    "lon": 31.5324,
+    "lat": 32.936,
     "alt": 11887.2,
-    "velocity": 278.36,
-    "heading": 106.43,
+    "velocity": 285.67,
+    "heading": 122.95,
     "trace": [
       [
         35.1402,
@@ -124,6 +154,10 @@
       [
         34.3463,
         27.5971
+      ],
+      [
+        32.936,
+        31.5324
       ]
     ]
   },
@@ -132,11 +166,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR821",
-    "lon": -126.4146,
-    "lat": 43.0751,
+    "lon": -128.2267,
+    "lat": 45.6764,
     "alt": 10363.2,
-    "velocity": 221.8,
-    "heading": 334.15,
+    "velocity": 240.67,
+    "heading": 332.78,
     "trace": [
       [
         33.9175,
@@ -165,6 +199,61 @@
       [
         43.0751,
         -126.4146
+      ],
+      [
+        45.6764,
+        -128.2267
+      ]
+    ]
+  },
+  {
+    "hex": "a4d4cc",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA1122",
+    "lon": -74.1977,
+    "lat": 40.1788,
+    "alt": 6400.8,
+    "velocity": 250.64,
+    "heading": 44.75,
+    "trace": [
+      [
+        40.1788,
+        -74.1977
+      ]
+    ]
+  },
+  {
+    "hex": "010148",
+    "name": "Government of Egypt",
+    "category": "Dictator Alert",
+    "callsign": "SUBRG",
+    "lon": 31.7641,
+    "lat": 28.9429,
+    "alt": 10058.4,
+    "velocity": 253.14,
+    "heading": 162.01,
+    "trace": [
+      [
+        28.9429,
+        31.7641
+      ]
+    ]
+  },
+  {
+    "hex": "a4cb6f",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI8548",
+    "lon": -120.7985,
+    "lat": 55.732,
+    "alt": 10668,
+    "velocity": 269.3,
+    "heading": 118.28,
+    "trace": [
+      [
+        55.732,
+        -120.7985
       ]
     ]
   },
@@ -173,11 +262,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "CMB144",
-    "lon": -73.0736,
-    "lat": 41.4943,
-    "alt": 10995.66,
-    "velocity": 184.63,
-    "heading": 241.36,
+    "lon": -75.518,
+    "lat": 40.0285,
+    "alt": 5501.64,
+    "velocity": 155.05,
+    "heading": 226.88,
     "trace": [
       [
         45.4038,
@@ -202,6 +291,10 @@
       [
         41.4943,
         -73.0736
+      ],
+      [
+        40.0285,
+        -75.518
       ]
     ]
   },
@@ -210,15 +303,19 @@
     "name": "Kalitta Charters II",
     "category": "Hired Gun",
     "callsign": "KII614",
-    "lon": -87.0421,
-    "lat": 39.8725,
-    "alt": 9144,
-    "velocity": 211.27,
-    "heading": 330.38,
+    "lon": -88.3489,
+    "lat": 42.2235,
+    "alt": 5471.16,
+    "velocity": 180.76,
+    "heading": 357.39,
     "trace": [
       [
         39.8725,
         -87.0421
+      ],
+      [
+        42.2235,
+        -88.3489
       ]
     ]
   }
