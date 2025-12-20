@@ -1,43 +1,14 @@
 [
   {
-    "hex": "a95c2f",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR829",
-    "lon": 46.4645,
-    "lat": 40.9923,
-    "alt": 11887.2,
-    "velocity": 245.39,
-    "heading": 109.73,
-    "trace": [
-      [
-        41.2601,
-        42.7582
-      ],
-      [
-        41.3896,
-        44.4554
-      ],
-      [
-        41.168,
-        45.8036
-      ],
-      [
-        40.9923,
-        46.4645
-      ]
-    ]
-  },
-  {
     "hex": "a1f3aa",
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "CMB348",
-    "lon": -90.0255,
-    "lat": 29.1588,
+    "lon": -86.3817,
+    "lat": 28.22,
     "alt": 11285.22,
-    "velocity": 249.98,
-    "heading": 102.72,
+    "velocity": 266.15,
+    "heading": 108.36,
     "trace": [
       [
         31.7022,
@@ -74,35 +45,10 @@
       [
         29.1588,
         -90.0255
-      ]
-    ]
-  },
-  {
-    "hex": "8953e3",
-    "name": "Gov of Brunei",
-    "category": "Dictator Alert",
-    "callsign": "V8OAS",
-    "lon": 114.9323,
-    "lat": 4.954,
-    "alt": null,
-    "velocity": 4.12,
-    "heading": 210.94,
-    "trace": [
-      [
-        6.6306,
-        113.4903
       ],
       [
-        6.3764,
-        114.3464
-      ],
-      [
-        5.5634,
-        114.6413
-      ],
-      [
-        4.954,
-        114.9323
+        28.22,
+        -86.3817
       ]
     ]
   },
@@ -111,11 +57,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3876",
-    "lon": -100.9266,
-    "lat": 32.1638,
-    "alt": 12496.8,
-    "velocity": 261.12,
-    "heading": 82.3,
+    "lon": -97.5767,
+    "lat": 32.6512,
+    "alt": 2019.3,
+    "velocity": 147.84,
+    "heading": 32.64,
     "trace": [
       [
         31.775,
@@ -132,6 +78,27 @@
       [
         32.1638,
         -100.9266
+      ],
+      [
+        32.6512,
+        -97.5767
+      ]
+    ]
+  },
+  {
+    "hex": "78048c",
+    "name": "Gov of PRC",
+    "category": "Dictator Alert",
+    "callsign": "CCA813",
+    "lon": 87.3936,
+    "lat": 52.8925,
+    "alt": 11582.4,
+    "velocity": 215.32,
+    "heading": 311.8,
+    "trace": [
+      [
+        52.8925,
+        87.3936
       ]
     ]
   },
@@ -140,11 +107,11 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "QAF4",
-    "lon": 18.4718,
-    "lat": 48.3444,
+    "lon": 22.2304,
+    "lat": 46.5772,
     "alt": 11887.2,
-    "velocity": 241.02,
-    "heading": 113.39,
+    "velocity": 242.02,
+    "heading": 127.75,
     "trace": [
       [
         48.3535,
@@ -165,27 +132,10 @@
       [
         48.3444,
         18.4718
-      ]
-    ]
-  },
-  {
-    "hex": "a4cb6f",
-    "name": "Atlas Air",
-    "category": "Hired Gun",
-    "callsign": "GTI8307",
-    "lon": -158.0211,
-    "lat": 21.2016,
-    "alt": 2590.8,
-    "velocity": 141.48,
-    "heading": 270.63,
-    "trace": [
-      [
-        21.3133,
-        -157.9252
       ],
       [
-        21.2016,
-        -158.0211
+        46.5772,
+        22.2304
       ]
     ]
   },
@@ -194,11 +144,11 @@
     "name": "Gov of Egypt",
     "category": "Dictator Alert",
     "callsign": "SUBPF",
-    "lon": 18.391,
-    "lat": 38.893,
+    "lon": 21.693,
+    "lat": 37.3817,
     "alt": 12496.8,
-    "velocity": 239.27,
-    "heading": 128.1,
+    "velocity": 234.26,
+    "heading": 120.34,
     "trace": [
       [
         46.9677,
@@ -235,6 +185,10 @@
       [
         38.893,
         18.391
+      ],
+      [
+        37.3817,
+        21.693
       ]
     ]
   },
@@ -243,15 +197,19 @@
     "name": "Russia Special Flight Detachment",
     "category": "Dictator Alert",
     "callsign": "RSD950",
-    "lon": 85.1213,
-    "lat": 57.8107,
-    "alt": 10058.4,
-    "velocity": 260.32,
-    "heading": 114.89,
+    "lon": 89.6116,
+    "lat": 56.651,
+    "alt": 8793.48,
+    "velocity": 250.27,
+    "heading": 113.24,
     "trace": [
       [
         57.8107,
         85.1213
+      ],
+      [
+        56.651,
+        89.6116
       ]
     ]
   }
