@@ -4,11 +4,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB1",
-    "lon": 3.3621,
-    "lat": 51.2183,
+    "lon": -0.8486,
+    "lat": 51.6759,
     "alt": 11582.4,
-    "velocity": 249.73,
-    "heading": 286.27,
+    "velocity": 256.11,
+    "heading": 276.11,
     "trace": [
       [
         46.7343,
@@ -49,6 +49,10 @@
       [
         51.2183,
         3.3621
+      ],
+      [
+        51.6759,
+        -0.8486
       ]
     ]
   },
@@ -57,11 +61,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA4606",
-    "lon": -82.5436,
-    "lat": 34.6741,
-    "alt": 9441.18,
-    "velocity": 264.04,
-    "heading": 53.96,
+    "lon": -79.7867,
+    "lat": 36.3255,
+    "alt": 11292.84,
+    "velocity": 261.88,
+    "heading": 54.03,
     "trace": [
       [
         33.6562,
@@ -70,6 +74,10 @@
       [
         34.6741,
         -82.5436
+      ],
+      [
+        36.3255,
+        -79.7867
       ]
     ]
   },
@@ -78,11 +86,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE348",
-    "lon": -82.0805,
-    "lat": 38.1186,
+    "lon": -84.5576,
+    "lat": 37.3832,
     "alt": 12192,
-    "velocity": 192.34,
-    "heading": 250.3,
+    "velocity": 199.38,
+    "heading": 248.67,
     "trace": [
       [
         38.7483,
@@ -103,23 +111,10 @@
       [
         38.1186,
         -82.0805
-      ]
-    ]
-  },
-  {
-    "hex": "a5e6e1",
-    "name": "Phoenix Air",
-    "category": "Hired Gun",
-    "callsign": "48GL",
-    "lon": -65.08,
-    "lat": 18.6508,
-    "alt": 5440.68,
-    "velocity": 196.32,
-    "heading": 164.65,
-    "trace": [
+      ],
       [
-        18.6508,
-        -65.08
+        37.3832,
+        -84.5576
       ]
     ]
   },
@@ -128,44 +123,53 @@
     "name": "Gov of Brunei",
     "category": "Dictator Alert",
     "callsign": "V8BKH",
-    "lon": 102.1413,
-    "lat": 13.0165,
-    "alt": 9144,
-    "velocity": 248.99,
-    "heading": 300.27,
+    "lon": 99.6756,
+    "lat": 14.1608,
+    "alt": 9136.38,
+    "velocity": 246.7,
+    "heading": 293.73,
     "trace": [
       [
         13.0165,
         102.1413
+      ],
+      [
+        14.1608,
+        99.6756
       ]
     ]
   },
   {
-    "hex": "a2f016",
-    "name": "Global Crossing Airlines",
+    "hex": "ad387a",
+    "name": "IBC Airways",
     "category": "Hired Gun",
-    "callsign": "GXA6109",
-    "lon": -96.0661,
-    "lat": 20.8149,
-    "alt": 11582.4,
-    "velocity": 248.65,
-    "heading": 336.72,
+    "callsign": "CSQ831",
+    "lon": -80.301,
+    "lat": 25.5952,
+    "alt": 2042.16,
+    "velocity": 99.11,
+    "heading": 200.03,
     "trace": [
       [
-        17.5678,
-        -94.0359
-      ],
+        25.5952,
+        -80.301
+      ]
+    ]
+  },
+  {
+    "hex": "a0c62d",
+    "name": "Eastern Air Express",
+    "category": "Hired Gun",
+    "callsign": "BBQ2151",
+    "lon": -82.4649,
+    "lat": 25.1003,
+    "alt": 7315.2,
+    "velocity": 229.15,
+    "heading": 206.1,
+    "trace": [
       [
-        18.1714,
-        -94.6875
-      ],
-      [
-        18.8503,
-        -95.1774
-      ],
-      [
-        20.8149,
-        -96.0661
+        25.1003,
+        -82.4649
       ]
     ]
   },
@@ -174,11 +178,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6183",
-    "lon": -86.9286,
-    "lat": 28.0353,
-    "alt": 11879.58,
-    "velocity": 263.03,
-    "heading": 99.68,
+    "lon": -83.8871,
+    "lat": 27.3315,
+    "alt": 11681.46,
+    "velocity": 262.22,
+    "heading": 101.77,
     "trace": [
       [
         26.8015,
@@ -211,6 +215,10 @@
       [
         28.0353,
         -86.9286
+      ],
+      [
+        27.3315,
+        -83.8871
       ]
     ]
   },
@@ -219,15 +227,19 @@
     "name": "Gov of Turkey",
     "category": "Dictator Alert",
     "callsign": "TRK5",
-    "lon": -79.6404,
-    "lat": 26.1027,
-    "alt": 6347.46,
-    "velocity": 224.88,
-    "heading": 51.69,
+    "lon": -78.8105,
+    "lat": 28.5326,
+    "alt": 12496.8,
+    "velocity": 269.89,
+    "heading": 11.55,
     "trace": [
       [
         26.1027,
         -79.6404
+      ],
+      [
+        28.5326,
+        -78.8105
       ]
     ]
   },
@@ -236,11 +248,11 @@
     "name": "Russia Special Flight Detachment",
     "category": "Dictator Alert",
     "callsign": "RSD788",
-    "lon": -73.7003,
-    "lat": 40.254,
-    "alt": 2446.02,
-    "velocity": 147.26,
-    "heading": 77.08,
+    "lon": -73.7697,
+    "lat": 40.6293,
+    "alt": null,
+    "velocity": 3.86,
+    "heading": 281.25,
     "trace": [
       [
         38.9652,
@@ -261,6 +273,10 @@
       [
         40.254,
         -73.7003
+      ],
+      [
+        40.6293,
+        -73.7697
       ]
     ]
   }
