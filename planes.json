@@ -4,11 +4,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA4682",
-    "lon": -94.0933,
-    "lat": 41.3978,
-    "alt": 9136.38,
-    "velocity": 277.82,
-    "heading": 89.26,
+    "lon": -88.8129,
+    "lat": 41.6938,
+    "alt": 11269.98,
+    "velocity": 298.32,
+    "heading": 86.84,
     "trace": [
       [
         41.2911,
@@ -25,6 +25,10 @@
       [
         41.3978,
         -94.0933
+      ],
+      [
+        41.6938,
+        -88.8129
       ]
     ]
   },
@@ -33,11 +37,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB1",
-    "lon": 52.6144,
-    "lat": 26.4208,
-    "alt": 11094.72,
-    "velocity": 274.57,
-    "heading": 110.17,
+    "lon": 55.3188,
+    "lat": 25.3151,
+    "alt": 2362.2,
+    "velocity": 121.67,
+    "heading": 148.66,
     "trace": [
       [
         28.0232,
@@ -54,6 +58,10 @@
       [
         26.4208,
         52.6144
+      ],
+      [
+        25.3151,
+        55.3188
       ]
     ]
   },
@@ -62,11 +70,11 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT8641",
-    "lon": -77.9715,
-    "lat": 24.9331,
+    "lon": -73.9502,
+    "lat": 23.0541,
     "alt": 11285.22,
-    "velocity": 258.05,
-    "heading": 114.62,
+    "velocity": 252.92,
+    "heading": 118.02,
     "trace": [
       [
         25.6025,
@@ -83,31 +91,44 @@
       [
         24.9331,
         -77.9715
+      ],
+      [
+        23.0541,
+        -73.9502
       ]
     ]
   },
   {
-    "hex": "8953e3",
-    "name": "Gov of Brunei",
-    "category": "Dictator Alert",
-    "callsign": "V8OAS",
-    "lon": 100.9189,
-    "lat": 13.5504,
-    "alt": 5227.32,
-    "velocity": 210.37,
-    "heading": 100.57,
+    "hex": "a1f3aa",
+    "name": "Omni Air International",
+    "category": "Hired Gun",
+    "callsign": "CMB348",
+    "lon": -105.9623,
+    "lat": 31.7022,
+    "alt": 5013.96,
+    "velocity": 223.85,
+    "heading": 95.67,
     "trace": [
       [
-        13.9264,
-        10.6109
-      ],
+        31.7022,
+        -105.9623
+      ]
+    ]
+  },
+  {
+    "hex": "a3defb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT863",
+    "lon": -79.7103,
+    "lat": 25.5934,
+    "alt": 7254.24,
+    "velocity": 251.72,
+    "heading": 102.87,
+    "trace": [
       [
-        13.7718,
-        100.42
-      ],
-      [
-        13.5504,
-        100.9189
+        25.5934,
+        -79.7103
       ]
     ]
   },
@@ -116,11 +137,11 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA913",
-    "lon": 14.2373,
-    "lat": 45.8014,
+    "lon": 10.6967,
+    "lat": 48.288,
     "alt": 10363.2,
-    "velocity": 240.77,
-    "heading": 319.33,
+    "velocity": 259.26,
+    "heading": 310.01,
     "trace": [
       [
         34.1494,
@@ -161,23 +182,27 @@
       [
         45.8014,
         14.2373
+      ],
+      [
+        48.288,
+        10.6967
       ]
     ]
   },
   {
-    "hex": "157712",
-    "name": "Russia Special Flight Detachment",
+    "hex": "01008f",
+    "name": "Gov of Egypt",
     "category": "Dictator Alert",
-    "callsign": "RSD950",
-    "lon": 39.8673,
-    "lat": 59.2072,
-    "alt": 10058.4,
-    "velocity": 27.08,
-    "heading": 308.83,
+    "callsign": "SUBPF",
+    "lon": 4.2152,
+    "lat": 46.9677,
+    "alt": 11887.2,
+    "velocity": 220.07,
+    "heading": 130.35,
     "trace": [
       [
-        59.2072,
-        39.8673
+        46.9677,
+        4.2152
       ]
     ]
   }
