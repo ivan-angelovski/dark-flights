@@ -1,31 +1,14 @@
 [
   {
-    "hex": "8960b4",
-    "name": "Dubai Air Wing",
-    "category": "Dictator Alert",
-    "callsign": "DUB1",
-    "lon": 37.3593,
-    "lat": 39.5808,
-    "alt": 11277.6,
-    "velocity": 272.62,
-    "heading": 120.63,
-    "trace": [
-      [
-        39.5808,
-        37.3593
-      ]
-    ]
-  },
-  {
     "hex": "a0f8f9",
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI7066",
-    "lon": -97.0684,
-    "lat": 26.9104,
+    "lon": -96.7308,
+    "lat": 27.7396,
     "alt": 10675.62,
-    "velocity": 245.08,
-    "heading": 19.88,
+    "velocity": 244.29,
+    "heading": 20.08,
     "trace": [
       [
         23.056,
@@ -38,47 +21,10 @@
       [
         26.9104,
         -97.0684
-      ]
-    ]
-  },
-  {
-    "hex": "a835d1",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA151",
-    "lon": -80.2591,
-    "lat": 25.8025,
-    "alt": 30.48,
-    "velocity": 60.78,
-    "heading": 267.09,
-    "trace": [
-      [
-        34.5304,
-        -89.7238
       ],
       [
-        31.8521,
-        -85.9632
-      ],
-      [
-        30.4762,
-        -84.2038
-      ],
-      [
-        29.6234,
-        -83.5812
-      ],
-      [
-        27.549,
-        -82.6262
-      ],
-      [
-        25.855,
-        -80.7232
-      ],
-      [
-        25.8025,
-        -80.2591
+        27.7396,
+        -96.7308
       ]
     ]
   },
@@ -87,11 +33,11 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT8518",
-    "lon": -79.5696,
-    "lat": 25.3544,
-    "alt": 4076.7,
-    "velocity": 174.66,
-    "heading": 295.28,
+    "lon": -79.8999,
+    "lat": 25.7608,
+    "alt": 1722.12,
+    "velocity": 133.27,
+    "heading": 335.12,
     "trace": [
       [
         24.6403,
@@ -100,31 +46,10 @@
       [
         25.3544,
         -79.5696
-      ]
-    ]
-  },
-  {
-    "hex": "a2d615",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA630",
-    "lon": -82.5267,
-    "lat": 27.9685,
-    "alt": null,
-    "velocity": 0.51,
-    "heading": 236.25,
-    "trace": [
-      [
-        26.7188,
-        -81.2651
       ],
       [
-        27.9234,
-        -82.5437
-      ],
-      [
-        27.9685,
-        -82.5267
+        25.7608,
+        -79.8999
       ]
     ]
   },
@@ -133,15 +58,36 @@
     "name": "Eastern Air Express",
     "category": "Hired Gun",
     "callsign": "BBQ2206",
-    "lon": -81.3996,
-    "lat": 24.9826,
-    "alt": 7559.04,
-    "velocity": 248.06,
-    "heading": 50.3,
+    "lon": -80.7863,
+    "lat": 25.4674,
+    "alt": 4457.7,
+    "velocity": 186.14,
+    "heading": 41.98,
     "trace": [
       [
         24.9826,
         -81.3996
+      ],
+      [
+        25.4674,
+        -80.7863
+      ]
+    ]
+  },
+  {
+    "hex": "ab9639",
+    "name": "Omni Air International",
+    "category": "Hired Gun",
+    "callsign": "OAE3876",
+    "lon": -115.4912,
+    "lat": 40.4221,
+    "alt": 11887.2,
+    "velocity": 286.05,
+    "heading": 136.75,
+    "trace": [
+      [
+        40.4221,
+        -115.4912
       ]
     ]
   },
@@ -150,11 +96,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2233",
-    "lon": -3.8324,
-    "lat": 49.939,
-    "alt": 11734.8,
-    "velocity": 244.24,
-    "heading": 19.69,
+    "lon": -3.3962,
+    "lat": 50.7112,
+    "alt": 9349.74,
+    "velocity": 208.46,
+    "heading": 19.91,
     "trace": [
       [
         36.5714,
@@ -183,6 +129,27 @@
       [
         49.939,
         -3.8324
+      ],
+      [
+        50.7112,
+        -3.3962
+      ]
+    ]
+  },
+  {
+    "hex": "710100",
+    "name": "Saudi Ministry of Finance",
+    "category": "Dictator Alert",
+    "callsign": "SVA913",
+    "lon": 27.8772,
+    "lat": 34.1494,
+    "alt": 10363.2,
+    "velocity": 229.72,
+    "heading": 317.27,
+    "trace": [
+      [
+        34.1494,
+        27.8772
       ]
     ]
   },
@@ -191,15 +158,19 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "QAF1",
-    "lon": -90.0833,
-    "lat": 63.184,
+    "lon": -88.6519,
+    "lat": 63.8407,
     "alt": 10058.4,
-    "velocity": 255.08,
-    "heading": 43.61,
+    "velocity": 253.18,
+    "heading": 44.84,
     "trace": [
       [
         63.184,
         -90.0833
+      ],
+      [
+        63.8407,
+        -88.6519
       ]
     ]
   }
