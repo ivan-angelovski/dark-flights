@@ -1,22 +1,18 @@
 [
   {
-    "hex": "a0d062",
-    "name": "Atlas Air",
-    "category": "Hired Gun",
-    "callsign": "GTI8842",
-    "lon": -74.4229,
-    "lat": 22.1146,
-    "alt": 12192,
-    "velocity": 221.84,
-    "heading": 334.74,
+    "hex": "89607a",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB6",
+    "lon": 50.3437,
+    "lat": 27.7149,
+    "alt": 11277.6,
+    "velocity": 261.11,
+    "heading": 146.25,
     "trace": [
       [
-        21.4115,
-        -74.0686
-      ],
-      [
-        22.1146,
-        -74.4229
+        27.7149,
+        50.3437
       ]
     ]
   },
@@ -25,11 +21,11 @@
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "AUH11",
-    "lon": 21.6938,
-    "lat": 38.4605,
+    "lon": 22.7072,
+    "lat": 36.8863,
     "alt": 11887.2,
-    "velocity": 229.16,
-    "heading": 152.74,
+    "velocity": 237.43,
+    "heading": 153.21,
     "trace": [
       [
         47.4565,
@@ -62,31 +58,44 @@
       [
         38.4605,
         21.6938
+      ],
+      [
+        36.8863,
+        22.7072
       ]
     ]
   },
   {
-    "hex": "896272",
-    "name": "Dubai Air Wing",
-    "category": "Dictator Alert",
-    "callsign": "DUB4",
-    "lon": 53.6033,
-    "lat": 26.0705,
-    "alt": 8686.8,
-    "velocity": 281.13,
-    "heading": 114.31,
+    "hex": "a95c2f",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR829",
+    "lon": 113.5426,
+    "lat": 22.0065,
+    "alt": 6400.8,
+    "velocity": 219.87,
+    "heading": 140.13,
     "trace": [
       [
-        26.984,
-        50.9763
-      ],
+        22.0065,
+        113.5426
+      ]
+    ]
+  },
+  {
+    "hex": "a1f3aa",
+    "name": "Omni Air International",
+    "category": "Hired Gun",
+    "callsign": "OAE348",
+    "lon": -77.2637,
+    "lat": 27.431,
+    "alt": 11894.82,
+    "velocity": 224.14,
+    "heading": 334.73,
+    "trace": [
       [
-        26.3071,
-        52.9559
-      ],
-      [
-        26.0705,
-        53.6033
+        27.431,
+        -77.2637
       ]
     ]
   },
@@ -95,52 +104,19 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT862",
-    "lon": -85.447,
-    "lat": 18.1453,
-    "alt": 10972.8,
-    "velocity": 251.28,
-    "heading": 31.61,
+    "lon": -84.3825,
+    "lat": 19.7961,
+    "alt": 10980.42,
+    "velocity": 253.14,
+    "heading": 31.62,
     "trace": [
       [
         18.1453,
         -85.447
-      ]
-    ]
-  },
-  {
-    "hex": "a5e6e1",
-    "name": "Phoenix Air",
-    "category": "Hired Gun",
-    "callsign": "48GL",
-    "lon": -83.9715,
-    "lat": 35.8321,
-    "alt": 335.28,
-    "velocity": 73.85,
-    "heading": 224.72,
-    "trace": [
-      [
-        39.2071,
-        -77.1464
       ],
       [
-        38.635,
-        -77.6378
-      ],
-      [
-        37.6633,
-        -79.7573
-      ],
-      [
-        36.3506,
-        -82.6912
-      ],
-      [
-        35.9774,
-        -83.7652
-      ],
-      [
-        35.8321,
-        -83.9715
+        19.7961,
+        -84.3825
       ]
     ]
   },
@@ -149,11 +125,11 @@
     "name": "Tactial Air Support",
     "category": "Hired Gun",
     "callsign": "VILLN41",
-    "lon": -108.785,
-    "lat": 34.4721,
+    "lon": -106.3276,
+    "lat": 34.7647,
     "alt": 8244.84,
-    "velocity": 277.33,
-    "heading": 80.07,
+    "velocity": 265.51,
+    "heading": 82.76,
     "trace": [
       [
         33.3469,
@@ -166,6 +142,10 @@
       [
         34.4721,
         -108.785
+      ],
+      [
+        34.7647,
+        -106.3276
       ]
     ]
   },
@@ -174,11 +154,11 @@
     "name": "Eastern Air Express",
     "category": "Hired Gun",
     "callsign": "BBQ2201",
-    "lon": -80.8085,
-    "lat": 25.7633,
-    "alt": 6385.56,
-    "velocity": 202.62,
-    "heading": 253.18,
+    "lon": -82.2,
+    "lat": 24.7399,
+    "alt": 7322.82,
+    "velocity": 203.35,
+    "heading": 219.04,
     "trace": [
       [
         25.9833,
@@ -187,6 +167,10 @@
       [
         25.7633,
         -80.8085
+      ],
+      [
+        24.7399,
+        -82.2
       ]
     ]
   },
@@ -195,11 +179,11 @@
     "name": "ISR Platforms",
     "category": "Hired Gun",
     "callsign": "",
-    "lon": 126.8554,
-    "lat": 37.3803,
+    "lon": 125.2032,
+    "lat": 37.2154,
     "alt": 11582.4,
-    "velocity": 174.07,
-    "heading": 263.21,
+    "velocity": 177.52,
+    "heading": 262.34,
     "trace": [
       [
         37.2645,
@@ -244,6 +228,10 @@
       [
         37.3803,
         126.8554
+      ],
+      [
+        37.2154,
+        125.2032
       ]
     ]
   },
@@ -252,11 +240,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6108",
-    "lon": -85.7208,
-    "lat": 27.3584,
-    "alt": 10668,
-    "velocity": 234.9,
-    "heading": 155.96,
+    "lon": -85.5646,
+    "lat": 26.2023,
+    "alt": 10965.18,
+    "velocity": 221.84,
+    "heading": 178.14,
     "trace": [
       [
         30.3903,
@@ -273,6 +261,10 @@
       [
         27.3584,
         -85.7208
+      ],
+      [
+        26.2023,
+        -85.5646
       ]
     ]
   },
@@ -281,11 +273,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "RRR3201",
-    "lon": -2.2215,
-    "lat": 52.6143,
-    "alt": 5113.02,
-    "velocity": 188.26,
-    "heading": 151.96,
+    "lon": -1.449,
+    "lat": 51.7418,
+    "alt": 1043.94,
+    "velocity": 126.14,
+    "heading": 34.53,
     "trace": [
       [
         54.5576,
@@ -298,31 +290,10 @@
       [
         52.6143,
         -2.2215
-      ]
-    ]
-  },
-  {
-    "hex": "aa198b",
-    "name": "Dynamic Avlease Inc",
-    "category": "Hired Gun",
-    "callsign": "N75V",
-    "lon": -89.1088,
-    "lat": 13.4387,
-    "alt": 4564.38,
-    "velocity": 106.93,
-    "heading": 106.78,
-    "trace": [
-      [
-        13.6702,
-        -89.9106
       ],
       [
-        13.505,
-        -89.3372
-      ],
-      [
-        13.4387,
-        -89.1088
+        51.7418,
+        -1.449
       ]
     ]
   },
@@ -331,11 +302,11 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA914",
-    "lon": 18.8604,
-    "lat": 41.7325,
-    "alt": 10668,
-    "velocity": 257.83,
-    "heading": 140.91,
+    "lon": 20.5798,
+    "lat": 40.0855,
+    "alt": 11277.6,
+    "velocity": 244.29,
+    "heading": 145.64,
     "trace": [
       [
         49.9392,
@@ -368,6 +339,10 @@
       [
         41.7325,
         18.8604
+      ],
+      [
+        40.0855,
+        20.5798
       ]
     ]
   },
@@ -375,12 +350,12 @@
     "hex": "a815bf",
     "name": "Dynamic Avlease Inc",
     "category": "Hired Gun",
-    "callsign": "",
-    "lon": -96.7133,
-    "lat": 18.5784,
-    "alt": 3169.92,
-    "velocity": 92.05,
-    "heading": 43.87,
+    "callsign": "N62V",
+    "lon": -96.2159,
+    "lat": 19.0041,
+    "alt": 495.3,
+    "velocity": 67.59,
+    "heading": 8.32,
     "trace": [
       [
         18.5208,
@@ -409,6 +384,10 @@
       [
         18.5784,
         -96.7133
+      ],
+      [
+        19.0041,
+        -96.2159
       ]
     ]
   },
@@ -417,11 +396,11 @@
     "name": "Wheels Up Private Jets",
     "category": "Hired Gun",
     "callsign": "WUP841",
-    "lon": -74.7133,
-    "lat": 39.5297,
-    "alt": 6096,
-    "velocity": 131.22,
-    "heading": 208.57,
+    "lon": -75.2187,
+    "lat": 38.8018,
+    "alt": 8534.4,
+    "velocity": 124.98,
+    "heading": 208.25,
     "trace": [
       [
         40.4868,
@@ -434,6 +413,10 @@
       [
         39.5297,
         -74.7133
+      ],
+      [
+        38.8018,
+        -75.2187
       ]
     ]
   },
@@ -459,35 +442,6 @@
       [
         25.2661,
         51.5717
-      ]
-    ]
-  },
-  {
-    "hex": "157712",
-    "name": "Russia Special Flight Detachment",
-    "category": "Dictator Alert",
-    "callsign": "RSD950",
-    "lon": 48.3642,
-    "lat": 55.6193,
-    "alt": 10355.58,
-    "velocity": 40.07,
-    "heading": 318.12,
-    "trace": [
-      [
-        56.9032,
-        55.3681
-      ],
-      [
-        56.9455,
-        50.5428
-      ],
-      [
-        56.3965,
-        51.6757
-      ],
-      [
-        55.6193,
-        48.3642
       ]
     ]
   }
