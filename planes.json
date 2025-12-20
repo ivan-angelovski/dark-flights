@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a0d062",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI8835",
+    "lon": -76.3328,
+    "lat": 37.0016,
+    "alt": 3116.58,
+    "velocity": 134.99,
+    "heading": 233.52,
+    "trace": [
+      [
+        37.0016,
+        -76.3328
+      ]
+    ]
+  },
+  {
     "hex": "a83f98",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA130",
-    "lon": -71.8791,
-    "lat": 42.2409,
-    "alt": 1584.96,
-    "velocity": 126.94,
-    "heading": 38.91,
+    "lon": -71.3846,
+    "lat": 42.5552,
+    "alt": 563.88,
+    "velocity": 135.89,
+    "heading": 88.05,
     "trace": [
       [
         40.7027,
@@ -25,6 +42,10 @@
       [
         42.2409,
         -71.8791
+      ],
+      [
+        42.5552,
+        -71.3846
       ]
     ]
   },
@@ -33,11 +54,11 @@
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "AUH11",
-    "lon": -0.0625,
-    "lat": 38.4333,
+    "lon": 1.0004,
+    "lat": 38.7706,
     "alt": 11582.4,
-    "velocity": 241.83,
-    "heading": 67.09,
+    "velocity": 241.31,
+    "heading": 68.36,
     "trace": [
       [
         36.6796,
@@ -58,6 +79,10 @@
       [
         38.4333,
         -0.0625
+      ],
+      [
+        38.7706,
+        1.0004
       ]
     ]
   },
@@ -66,11 +91,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB4",
-    "lon": 4.7891,
-    "lat": 48.796,
-    "alt": 8983.98,
-    "velocity": 261.75,
-    "heading": 106.44,
+    "lon": 6.1346,
+    "lat": 48.4396,
+    "alt": 11277.6,
+    "velocity": 251.09,
+    "heading": 115.09,
     "trace": [
       [
         48.9495,
@@ -79,6 +104,10 @@
       [
         48.796,
         4.7891
+      ],
+      [
+        48.4396,
+        6.1346
       ]
     ]
   },
@@ -87,15 +116,19 @@
     "name": "Gov of Morocco",
     "category": "Dictator Alert",
     "callsign": "MRS1203",
-    "lon": -6.7655,
-    "lat": 35.0065,
-    "alt": 9319.26,
-    "velocity": 230.54,
-    "heading": 27.08,
+    "lon": -6.0883,
+    "lat": 35.0563,
+    "alt": 6545.58,
+    "velocity": 212.82,
+    "heading": 139.8,
     "trace": [
       [
         35.0065,
         -6.7655
+      ],
+      [
+        35.0563,
+        -6.0883
       ]
     ]
   },
@@ -104,15 +137,19 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT8540",
-    "lon": -79.0275,
-    "lat": 24.6048,
-    "alt": 8572.5,
-    "velocity": 225.14,
-    "heading": 6.3,
+    "lon": -79.526,
+    "lat": 25.2079,
+    "alt": 5379.72,
+    "velocity": 192.8,
+    "heading": 315,
     "trace": [
       [
         24.6048,
         -79.0275
+      ],
+      [
+        25.2079,
+        -79.526
       ]
     ]
   },
@@ -121,11 +158,11 @@
     "name": "Gov of Kazakhstan",
     "category": "Dictator Alert",
     "callsign": "RK73066",
-    "lon": 85.0901,
-    "lat": 53.3287,
+    "lon": 83.9577,
+    "lat": 53.0685,
     "alt": 12192,
-    "velocity": 203.33,
-    "heading": 249.41,
+    "velocity": 204.92,
+    "heading": 248.65,
     "trace": [
       [
         54.2466,
@@ -142,6 +179,10 @@
       [
         53.3287,
         85.0901
+      ],
+      [
+        53.0685,
+        83.9577
       ]
     ]
   },
@@ -150,11 +191,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR841",
-    "lon": 24.3054,
-    "lat": 38.8219,
+    "lon": 23.578,
+    "lat": 39.5997,
     "alt": 10363.2,
-    "velocity": 259.43,
-    "heading": 324.2,
+    "velocity": 253.22,
+    "heading": 323.76,
     "trace": [
       [
         35.4608,
@@ -171,6 +212,27 @@
       [
         38.8219,
         24.3054
+      ],
+      [
+        39.5997,
+        23.578
+      ]
+    ]
+  },
+  {
+    "hex": "ad7274",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6120",
+    "lon": -93.113,
+    "lat": 30.9859,
+    "alt": 4838.7,
+    "velocity": 191.43,
+    "heading": 242.82,
+    "trace": [
+      [
+        30.9859,
+        -93.113
       ]
     ]
   },
@@ -179,11 +241,11 @@
     "name": "Southern Cross Aircraft",
     "category": "Hired Gun",
     "callsign": "N451SJ",
-    "lon": -78.3919,
-    "lat": 25.3727,
-    "alt": 11757.66,
-    "velocity": 236.46,
-    "heading": 135.53,
+    "lon": -77.5858,
+    "lat": 24.6207,
+    "alt": 13708.38,
+    "velocity": 235.76,
+    "heading": 136.06,
     "trace": [
       [
         26.0779,
@@ -196,6 +258,10 @@
       [
         25.3727,
         -78.3919
+      ],
+      [
+        24.6207,
+        -77.5858
       ]
     ]
   },
@@ -204,15 +270,19 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7HHK",
-    "lon": -4.8908,
-    "lat": 34.2919,
-    "alt": 9220.2,
-    "velocity": 244.2,
-    "heading": 76.72,
+    "lon": -3.7742,
+    "lat": 34.5056,
+    "alt": 11109.96,
+    "velocity": 263.21,
+    "heading": 77.24,
     "trace": [
       [
         34.2919,
         -4.8908
+      ],
+      [
+        34.5056,
+        -3.7742
       ]
     ]
   },
@@ -221,11 +291,11 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "QQE909",
-    "lon": 52.3817,
-    "lat": 26.3755,
-    "alt": 11269.98,
-    "velocity": 280.34,
-    "heading": 102.51,
+    "lon": 53.4966,
+    "lat": 26.114,
+    "alt": 8343.9,
+    "velocity": 274.44,
+    "heading": 114.36,
     "trace": [
       [
         27.7568,
@@ -238,67 +308,27 @@
       [
         26.3755,
         52.3817
+      ],
+      [
+        26.114,
+        53.4966
       ]
     ]
   },
   {
-    "hex": "06a038",
-    "name": "Qatar Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "QAF4",
-    "lon": 32.5701,
-    "lat": 42.0585,
-    "alt": 11887.2,
-    "velocity": 22.34,
-    "heading": 194.68,
+    "hex": "407c17",
+    "name": "Draken Intl",
+    "category": "Hired Gun",
+    "callsign": "FRA33",
+    "lon": -6.1708,
+    "lat": 54.6721,
+    "alt": 289.56,
+    "velocity": 44.33,
+    "heading": 158.2,
     "trace": [
       [
-        48.3535,
-        11.9263
-      ],
-      [
-        48.792,
-        13.3425
-      ],
-      [
-        49.0753,
-        14.5264
-      ],
-      [
-        48.9334,
-        15.8305
-      ],
-      [
-        48.3444,
-        18.4718
-      ],
-      [
-        46.5772,
-        22.2304
-      ],
-      [
-        45.5897,
-        24.0936
-      ],
-      [
-        45.0506,
-        25.0953
-      ],
-      [
-        44.5182,
-        26.0507
-      ],
-      [
-        43.157,
-        28.3592
-      ],
-      [
-        42.1729,
-        32.1574
-      ],
-      [
-        42.0585,
-        32.5701
+        54.6721,
+        -6.1708
       ]
     ]
   },
@@ -307,11 +337,11 @@
     "name": "Gov of Egypt",
     "category": "Dictator Alert",
     "callsign": "SUBPF",
-    "lon": 30.872,
-    "lat": 31.7673,
-    "alt": 6339.84,
-    "velocity": 217.46,
-    "heading": 137.97,
+    "lon": 31.1624,
+    "lat": 31.3171,
+    "alt": 4663.44,
+    "velocity": 178.2,
+    "heading": 170.86,
     "trace": [
       [
         46.9677,
@@ -380,6 +410,10 @@
       [
         31.7673,
         30.872
+      ],
+      [
+        31.3171,
+        31.1624
       ]
     ]
   },
@@ -388,11 +422,11 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7MBK",
-    "lon": -4.0325,
-    "lat": 53.4071,
-    "alt": 8671.56,
-    "velocity": 206.42,
-    "heading": 92,
+    "lon": -2.616,
+    "lat": 53.338,
+    "alt": 10126.98,
+    "velocity": 231.65,
+    "heading": 101.66,
     "trace": [
       [
         53.4227,
@@ -409,6 +443,27 @@
       [
         53.4071,
         -4.0325
+      ],
+      [
+        53.338,
+        -2.616
+      ]
+    ]
+  },
+  {
+    "hex": "157712",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD950",
+    "lon": 89.7205,
+    "lat": 56.2143,
+    "alt": 10355.58,
+    "velocity": 197.14,
+    "heading": 284.51,
+    "trace": [
+      [
+        56.2143,
+        89.7205
       ]
     ]
   }
