@@ -1,31 +1,14 @@
 [
   {
-    "hex": "a83f98",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA4682",
-    "lon": -111.96,
-    "lat": 40.7872,
-    "alt": null,
-    "velocity": 8.75,
-    "heading": 0,
-    "trace": [
-      [
-        40.7872,
-        -111.96
-      ]
-    ]
-  },
-  {
     "hex": "a0f8f9",
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI7066",
-    "lon": -95.0527,
-    "lat": 30.3807,
-    "alt": 10668,
-    "velocity": 247.7,
-    "heading": 33.82,
+    "lon": -92.3353,
+    "lat": 33.4917,
+    "alt": 10675.62,
+    "velocity": 255.44,
+    "heading": 55.25,
     "trace": [
       [
         23.056,
@@ -46,6 +29,44 @@
       [
         30.3807,
         -95.0527
+      ],
+      [
+        33.4917,
+        -92.3353
+      ]
+    ]
+  },
+  {
+    "hex": "70c0b4",
+    "name": "Oman Royal Flight",
+    "category": "Dictator Alert",
+    "callsign": "ORF4",
+    "lon": 31.2549,
+    "lat": 40.7248,
+    "alt": 6096,
+    "velocity": 199.63,
+    "heading": 287.55,
+    "trace": [
+      [
+        40.7248,
+        31.2549
+      ]
+    ]
+  },
+  {
+    "hex": "a451cb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT8541",
+    "lon": -74.363,
+    "lat": 4.8724,
+    "alt": 3870.96,
+    "velocity": 124.29,
+    "heading": 126.59,
+    "trace": [
+      [
+        4.8724,
+        -74.363
       ]
     ]
   },
@@ -54,11 +75,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3876",
-    "lon": -112.783,
-    "lat": 38.1193,
+    "lon": -110.1132,
+    "lat": 34.5973,
     "alt": 11887.2,
-    "velocity": 262.36,
-    "heading": 138.34,
+    "velocity": 267.75,
+    "heading": 129.78,
     "trace": [
       [
         40.4221,
@@ -67,6 +88,10 @@
       [
         38.1193,
         -112.783
+      ],
+      [
+        34.5973,
+        -110.1132
       ]
     ]
   },
@@ -75,11 +100,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2233",
-    "lon": -1.6684,
-    "lat": 51.689,
-    "alt": 1790.7,
-    "velocity": 116.04,
-    "heading": 274.07,
+    "lon": -1.56,
+    "lat": 51.7191,
+    "alt": 853.44,
+    "velocity": 100.34,
+    "heading": 178.82,
     "trace": [
       [
         36.5714,
@@ -116,6 +141,27 @@
       [
         51.689,
         -1.6684
+      ],
+      [
+        51.7191,
+        -1.56
+      ]
+    ]
+  },
+  {
+    "hex": "06a014",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "QQE909",
+    "lon": 51.4734,
+    "lat": 25.8062,
+    "alt": 5547.36,
+    "velocity": 180.08,
+    "heading": 318.71,
+    "trace": [
+      [
+        25.8062,
+        51.4734
       ]
     ]
   },
@@ -124,11 +170,11 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA913",
-    "lon": 25.4923,
-    "lat": 36.2098,
+    "lon": 22.1273,
+    "lat": 38.8649,
     "alt": 10363.2,
-    "velocity": 239.39,
-    "heading": 315.87,
+    "velocity": 241.24,
+    "heading": 313.7,
     "trace": [
       [
         34.1494,
@@ -137,6 +183,44 @@
       [
         36.2098,
         25.4923
+      ],
+      [
+        38.8649,
+        22.1273
+      ]
+    ]
+  },
+  {
+    "hex": "a5b769",
+    "name": "Omni Air International",
+    "category": "Hired Gun",
+    "callsign": "OAE3890",
+    "lon": -122.2479,
+    "lat": 37.7237,
+    "alt": 160.02,
+    "velocity": 99.33,
+    "heading": 309.96,
+    "trace": [
+      [
+        37.7237,
+        -122.2479
+      ]
+    ]
+  },
+  {
+    "hex": "157712",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD950",
+    "lon": 36.7672,
+    "lat": 55.8689,
+    "alt": 4229.1,
+    "velocity": 3.6,
+    "heading": 270,
+    "trace": [
+      [
+        55.8689,
+        36.7672
       ]
     ]
   }
