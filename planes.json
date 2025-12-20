@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a83f98",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA4682",
+    "lon": -111.96,
+    "lat": 40.7872,
+    "alt": null,
+    "velocity": 8.75,
+    "heading": 0,
+    "trace": [
+      [
+        40.7872,
+        -111.96
+      ]
+    ]
+  },
+  {
     "hex": "a0f8f9",
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI7066",
-    "lon": -96.7308,
-    "lat": 27.7396,
-    "alt": 10675.62,
-    "velocity": 244.29,
-    "heading": 20.08,
+    "lon": -95.0527,
+    "lat": 30.3807,
+    "alt": 10668,
+    "velocity": 247.7,
+    "heading": 33.82,
     "trace": [
       [
         23.056,
@@ -25,52 +42,10 @@
       [
         27.7396,
         -96.7308
-      ]
-    ]
-  },
-  {
-    "hex": "a3defb",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT8518",
-    "lon": -79.8999,
-    "lat": 25.7608,
-    "alt": 1722.12,
-    "velocity": 133.27,
-    "heading": 335.12,
-    "trace": [
-      [
-        24.6403,
-        -77.9224
       ],
       [
-        25.3544,
-        -79.5696
-      ],
-      [
-        25.7608,
-        -79.8999
-      ]
-    ]
-  },
-  {
-    "hex": "a0c62d",
-    "name": "Eastern Air Express",
-    "category": "Hired Gun",
-    "callsign": "BBQ2206",
-    "lon": -80.7863,
-    "lat": 25.4674,
-    "alt": 4457.7,
-    "velocity": 186.14,
-    "heading": 41.98,
-    "trace": [
-      [
-        24.9826,
-        -81.3996
-      ],
-      [
-        25.4674,
-        -80.7863
+        30.3807,
+        -95.0527
       ]
     ]
   },
@@ -79,15 +54,19 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3876",
-    "lon": -115.4912,
-    "lat": 40.4221,
+    "lon": -112.783,
+    "lat": 38.1193,
     "alt": 11887.2,
-    "velocity": 286.05,
-    "heading": 136.75,
+    "velocity": 262.36,
+    "heading": 138.34,
     "trace": [
       [
         40.4221,
         -115.4912
+      ],
+      [
+        38.1193,
+        -112.783
       ]
     ]
   },
@@ -96,11 +75,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2233",
-    "lon": -3.3962,
-    "lat": 50.7112,
-    "alt": 9349.74,
-    "velocity": 208.46,
-    "heading": 19.91,
+    "lon": -1.6684,
+    "lat": 51.689,
+    "alt": 1790.7,
+    "velocity": 116.04,
+    "heading": 274.07,
     "trace": [
       [
         36.5714,
@@ -133,6 +112,10 @@
       [
         50.7112,
         -3.3962
+      ],
+      [
+        51.689,
+        -1.6684
       ]
     ]
   },
@@ -141,36 +124,19 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA913",
-    "lon": 27.8772,
-    "lat": 34.1494,
+    "lon": 25.4923,
+    "lat": 36.2098,
     "alt": 10363.2,
-    "velocity": 229.72,
-    "heading": 317.27,
+    "velocity": 239.39,
+    "heading": 315.87,
     "trace": [
       [
         34.1494,
         27.8772
-      ]
-    ]
-  },
-  {
-    "hex": "06a0a2",
-    "name": "Qatar Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "QAF1",
-    "lon": -88.6519,
-    "lat": 63.8407,
-    "alt": 10058.4,
-    "velocity": 253.18,
-    "heading": 44.84,
-    "trace": [
-      [
-        63.184,
-        -90.0833
       ],
       [
-        63.8407,
-        -88.6519
+        36.2098,
+        25.4923
       ]
     ]
   }
