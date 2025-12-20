@@ -1,18 +1,39 @@
 [
   {
+    "hex": "a83f98",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA130",
+    "lon": -74.1627,
+    "lat": 40.7027,
+    "alt": null,
+    "velocity": 6.17,
+    "heading": 98.44,
+    "trace": [
+      [
+        40.7027,
+        -74.1627
+      ]
+    ]
+  },
+  {
     "hex": "8960b1",
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "AUH11",
-    "lon": -4.4967,
-    "lat": 36.6796,
-    "alt": null,
-    "velocity": 6.17,
-    "heading": 42.19,
+    "lon": -4.282,
+    "lat": 37.0055,
+    "alt": 3848.1,
+    "velocity": 173.04,
+    "heading": 77.99,
     "trace": [
       [
         36.6796,
         -4.4967
+      ],
+      [
+        37.0055,
+        -4.282
       ]
     ]
   },
@@ -21,11 +42,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "CMB348",
-    "lon": -82.5886,
-    "lat": 27.0868,
-    "alt": 11277.6,
-    "velocity": 257.26,
-    "heading": 133.62,
+    "lon": -80.4745,
+    "lat": 25.9465,
+    "alt": 11285.22,
+    "velocity": 261.96,
+    "heading": 109.5,
     "trace": [
       [
         31.7022,
@@ -78,6 +99,44 @@
       [
         27.0868,
         -82.5886
+      ],
+      [
+        25.9465,
+        -80.4745
+      ]
+    ]
+  },
+  {
+    "hex": "683037",
+    "name": "Gov of Kazakhstan",
+    "category": "Dictator Alert",
+    "callsign": "RK73066",
+    "lon": 90.2569,
+    "lat": 54.2466,
+    "alt": 11582.4,
+    "velocity": 195.53,
+    "heading": 258.93,
+    "trace": [
+      [
+        54.2466,
+        90.2569
+      ]
+    ]
+  },
+  {
+    "hex": "acfc26",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR841",
+    "lon": 27.1453,
+    "lat": 35.4608,
+    "alt": 10363.2,
+    "velocity": 250.39,
+    "heading": 330.59,
+    "trace": [
+      [
+        35.4608,
+        27.1453
       ]
     ]
   },
@@ -86,11 +145,11 @@
     "name": "Gov of PRC",
     "category": "Dictator Alert",
     "callsign": "CCA813",
-    "lon": 83.5068,
-    "lat": 54.7543,
+    "lon": 80.5827,
+    "lat": 55.5446,
     "alt": 11582.4,
-    "velocity": 221.15,
-    "heading": 305.72,
+    "velocity": 216.24,
+    "heading": 283.34,
     "trace": [
       [
         52.8925,
@@ -107,6 +166,10 @@
       [
         54.7543,
         83.5068
+      ],
+      [
+        55.5446,
+        80.5827
       ]
     ]
   },
@@ -115,11 +178,11 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "QAF4",
-    "lon": 26.0507,
-    "lat": 44.5182,
+    "lon": 28.3592,
+    "lat": 43.157,
     "alt": 11887.2,
-    "velocity": 251.96,
-    "heading": 128.37,
+    "velocity": 251.62,
+    "heading": 129.94,
     "trace": [
       [
         48.3535,
@@ -156,6 +219,10 @@
       [
         44.5182,
         26.0507
+      ],
+      [
+        43.157,
+        28.3592
       ]
     ]
   },
@@ -164,11 +231,11 @@
     "name": "Gov of Egypt",
     "category": "Dictator Alert",
     "callsign": "SUBPF",
-    "lon": 25.1187,
-    "lat": 35.6945,
+    "lon": 27.391,
+    "lat": 34.4786,
     "alt": 12496.8,
-    "velocity": 242.62,
-    "heading": 122.44,
+    "velocity": 260.68,
+    "heading": 123.82,
     "trace": [
       [
         46.9677,
@@ -221,6 +288,27 @@
       [
         35.6945,
         25.1187
+      ],
+      [
+        34.4786,
+        27.391
+      ]
+    ]
+  },
+  {
+    "hex": "06a0a4",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "A7MBK",
+    "lon": -6.2632,
+    "lat": 53.4227,
+    "alt": null,
+    "velocity": 7.72,
+    "heading": 275.62,
+    "trace": [
+      [
+        53.4227,
+        -6.2632
       ]
     ]
   }
