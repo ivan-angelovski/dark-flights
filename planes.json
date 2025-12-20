@@ -4,15 +4,19 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA4682",
-    "lon": -98.0567,
-    "lat": 41.2911,
-    "alt": 9144,
-    "velocity": 278.8,
-    "heading": 86.61,
+    "lon": -96.7528,
+    "lat": 41.3412,
+    "alt": 9136.38,
+    "velocity": 282.19,
+    "heading": 87.49,
     "trace": [
       [
         41.2911,
         -98.0567
+      ],
+      [
+        41.3412,
+        -96.7528
       ]
     ]
   },
@@ -21,15 +25,19 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB1",
-    "lon": 50.0341,
-    "lat": 28.0232,
+    "lon": 50.6757,
+    "lat": 27.2793,
     "alt": 11887.2,
-    "velocity": 269.79,
-    "heading": 141.43,
+    "velocity": 265.11,
+    "heading": 145.75,
     "trace": [
       [
         28.0232,
         50.0341
+      ],
+      [
+        27.2793,
+        50.6757
       ]
     ]
   },
@@ -38,15 +46,53 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT8641",
-    "lon": -80.1718,
-    "lat": 25.6025,
-    "alt": 4305.3,
-    "velocity": 218.81,
-    "heading": 87.71,
+    "lon": -79.2349,
+    "lat": 25.4267,
+    "alt": 8290.56,
+    "velocity": 271.4,
+    "heading": 112.04,
     "trace": [
       [
         25.6025,
         -80.1718
+      ],
+      [
+        25.4267,
+        -79.2349
+      ]
+    ]
+  },
+  {
+    "hex": "a95c2f",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": 36.1916,
+    "lat": 32.0343,
+    "alt": 5181.6,
+    "velocity": 215.12,
+    "heading": 63.13,
+    "trace": [
+      [
+        32.0343,
+        36.1916
+      ]
+    ]
+  },
+  {
+    "hex": "8953e3",
+    "name": "Gov of Brunei",
+    "category": "Dictator Alert",
+    "callsign": "V8OAS",
+    "lon": 10.6109,
+    "lat": 13.9264,
+    "alt": null,
+    "velocity": 0,
+    "heading": 106.88,
+    "trace": [
+      [
+        13.9264,
+        10.6109
       ]
     ]
   },
@@ -55,11 +101,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2233",
-    "lon": -1.5929,
-    "lat": 51.6898,
-    "alt": 853.44,
-    "velocity": 112.92,
-    "heading": 76.03,
+    "lon": -1.469,
+    "lat": 51.7709,
+    "alt": 457.2,
+    "velocity": 66.43,
+    "heading": 253.81,
     "trace": [
       [
         36.5714,
@@ -116,6 +162,10 @@
       [
         51.6898,
         -1.5929
+      ],
+      [
+        51.7709,
+        -1.469
       ]
     ]
   },
@@ -124,11 +174,11 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA913",
-    "lon": 16.4981,
-    "lat": 43.8742,
+    "lon": 15.7786,
+    "lat": 44.5065,
     "alt": 10363.2,
-    "velocity": 233.32,
-    "heading": 320.91,
+    "velocity": 232.78,
+    "heading": 320.47,
     "trace": [
       [
         34.1494,
@@ -157,6 +207,27 @@
       [
         43.8742,
         16.4981
+      ],
+      [
+        44.5065,
+        15.7786
+      ]
+    ]
+  },
+  {
+    "hex": "157712",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD950",
+    "lon": 39.8673,
+    "lat": 59.2072,
+    "alt": 10058.4,
+    "velocity": 27.08,
+    "heading": 308.83,
+    "trace": [
+      [
+        59.2072,
+        39.8673
       ]
     ]
   }
