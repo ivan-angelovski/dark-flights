@@ -1,18 +1,90 @@
 [
   {
+    "hex": "89607a",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB6",
+    "lon": 54.2422,
+    "lat": 25.5419,
+    "alt": 8488.68,
+    "velocity": 188.72,
+    "heading": 287.94,
+    "trace": [
+      [
+        25.5419,
+        54.2422
+      ]
+    ]
+  },
+  {
+    "hex": "a95c2f",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR575",
+    "lon": 113.9179,
+    "lat": 22.2987,
+    "alt": null,
+    "velocity": 4.37,
+    "heading": 264.38,
+    "trace": [
+      [
+        22.2987,
+        113.9179
+      ]
+    ]
+  },
+  {
     "hex": "aa3086",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR649",
-    "lon": -160.6067,
-    "lat": 60.8697,
+    "lon": -155.0858,
+    "lat": 61.0841,
     "alt": 10668,
-    "velocity": 250.14,
-    "heading": 82.44,
+    "velocity": 255.35,
+    "heading": 92.19,
     "trace": [
       [
         60.8697,
         -160.6067
+      ],
+      [
+        61.0841,
+        -155.0858
+      ]
+    ]
+  },
+  {
+    "hex": "70c0b4",
+    "name": "Oman Royal Flight",
+    "category": "Dictator Alert",
+    "callsign": "ORF4",
+    "lon": 29.1382,
+    "lat": 40.8574,
+    "alt": 6225.54,
+    "velocity": 218.61,
+    "heading": 124.55,
+    "trace": [
+      [
+        40.8574,
+        29.1382
+      ]
+    ]
+  },
+  {
+    "hex": "6830ed",
+    "name": "Gov of Kazakhstan",
+    "category": "Dictator Alert",
+    "callsign": "",
+    "lon": 64.8209,
+    "lat": 53.4068,
+    "alt": 10363.2,
+    "velocity": 215.81,
+    "heading": 299.25,
+    "trace": [
+      [
+        53.4068,
+        64.8209
       ]
     ]
   },
@@ -21,15 +93,36 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT4614",
-    "lon": -79.7932,
-    "lat": 25.433,
-    "alt": 3893.82,
-    "velocity": 195.09,
-    "heading": 306.21,
+    "lon": -80.3176,
+    "lat": 25.786,
+    "alt": 0,
+    "velocity": 75.69,
+    "heading": 87.66,
     "trace": [
       [
         25.433,
         -79.7932
+      ],
+      [
+        25.786,
+        -80.3176
+      ]
+    ]
+  },
+  {
+    "hex": "894011",
+    "name": "Bahrain Defence Force",
+    "category": "Dictator Alert",
+    "callsign": "BAH09",
+    "lon": 50.6241,
+    "lat": 26.3367,
+    "alt": 4899.66,
+    "velocity": 152.82,
+    "heading": 339.92,
+    "trace": [
+      [
+        26.3367,
+        50.6241
       ]
     ]
   },
@@ -38,11 +131,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR608",
-    "lon": 6.9836,
-    "lat": 50.3119,
+    "lon": 10.9573,
+    "lat": 49.5477,
     "alt": 10668,
-    "velocity": 250.52,
-    "heading": 101.61,
+    "velocity": 252.05,
+    "heading": 110.8,
     "trace": [
       [
         50.7133,
@@ -51,6 +144,10 @@
       [
         50.3119,
         6.9836
+      ],
+      [
+        49.5477,
+        10.9573
       ]
     ]
   },
@@ -59,11 +156,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6142",
-    "lon": -75.8447,
-    "lat": 40.0519,
-    "alt": 9334.5,
-    "velocity": 186.39,
-    "heading": 242.37,
+    "lon": -78.0435,
+    "lat": 39.1407,
+    "alt": 10363.2,
+    "velocity": 182.58,
+    "heading": 241.2,
     "trace": [
       [
         40.5643,
@@ -72,6 +169,10 @@
       [
         40.0519,
         -75.8447
+      ],
+      [
+        39.1407,
+        -78.0435
       ]
     ]
   },
@@ -80,11 +181,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR658",
-    "lon": -152.8015,
-    "lat": 60.7767,
-    "alt": 8412.48,
-    "velocity": 212.54,
-    "heading": 77.28,
+    "lon": -149.955,
+    "lat": 61.0935,
+    "alt": 518.16,
+    "velocity": 69.53,
+    "heading": 344.11,
     "trace": [
       [
         60.4974,
@@ -93,6 +194,10 @@
       [
         60.7767,
         -152.8015
+      ],
+      [
+        61.0935,
+        -149.955
       ]
     ]
   },
@@ -101,11 +206,11 @@
     "name": "Gov of Turkey",
     "category": "Dictator Alert",
     "callsign": "TRK5",
-    "lon": 1.6639,
-    "lat": 52.9077,
+    "lon": 6.1618,
+    "lat": 52.3237,
     "alt": 13106.4,
-    "velocity": 262.97,
-    "heading": 100.25,
+    "velocity": 258.53,
+    "heading": 103.82,
     "trace": [
       [
         53.4239,
@@ -118,40 +223,10 @@
       [
         52.9077,
         1.6639
-      ]
-    ]
-  },
-  {
-    "hex": "157713",
-    "name": "Russia Special Flight Detachment",
-    "category": "Dictator Alert",
-    "callsign": "RSD951",
-    "lon": 37.4258,
-    "lat": 55.9634,
-    "alt": 6987.54,
-    "velocity": 27.7,
-    "heading": 248.2,
-    "trace": [
+      ],
       [
-        55.9634,
-        37.4258
-      ]
-    ]
-  },
-  {
-    "hex": "157712",
-    "name": "Russia Special Flight Detachment",
-    "category": "Dictator Alert",
-    "callsign": "RSD953",
-    "lon": 53.6002,
-    "lat": 54.593,
-    "alt": 10058.4,
-    "velocity": 29.93,
-    "heading": 298.77,
-    "trace": [
-      [
-        54.593,
-        53.6002
+        52.3237,
+        6.1618
       ]
     ]
   }
