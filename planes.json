@@ -3,12 +3,12 @@
     "hex": "8002cd",
     "name": "Gov of India",
     "category": "Dictator Alert",
-    "callsign": "VUAVU",
-    "lon": 84.229,
-    "lat": 26.6206,
-    "alt": 10363.2,
-    "velocity": 200.34,
-    "heading": 285.64,
+    "callsign": "",
+    "lon": null,
+    "lat": null,
+    "alt": null,
+    "velocity": 197.14,
+    "heading": 284.51,
     "trace": [
       [
         26.6206,
@@ -21,11 +21,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB1",
-    "lon": -93.1217,
-    "lat": 39.6325,
+    "lon": -94.5572,
+    "lat": 37.0215,
     "alt": 11582.4,
-    "velocity": 224.25,
-    "heading": 204.39,
+    "velocity": 225.37,
+    "heading": 202.41,
     "trace": [
       [
         47.2769,
@@ -50,6 +50,10 @@
       [
         39.6325,
         -93.1217
+      ],
+      [
+        37.0215,
+        -94.5572
       ]
     ]
   },
@@ -58,15 +62,19 @@
     "name": "Oman Royal Flight",
     "category": "Dictator Alert",
     "callsign": "ORF3",
-    "lon": 32.0644,
-    "lat": 40.9113,
+    "lon": 28.3569,
+    "lat": 42.3723,
     "alt": 12192,
-    "velocity": 248.45,
-    "heading": 300.76,
+    "velocity": 240.61,
+    "heading": 288.71,
     "trace": [
       [
         40.9113,
         32.0644
+      ],
+      [
+        42.3723,
+        28.3569
       ]
     ]
   },
@@ -91,12 +99,12 @@
     "hex": "6830ed",
     "name": "Gov of Kazakhstan",
     "category": "Dictator Alert",
-    "callsign": "BEC001",
-    "lon": 48.6887,
-    "lat": 59.2104,
-    "alt": 10370.82,
-    "velocity": 186.91,
-    "heading": 283.69,
+    "callsign": "",
+    "lon": 38.9929,
+    "lat": 58.1611,
+    "alt": 10363.2,
+    "velocity": 27.31,
+    "heading": 3.24,
     "trace": [
       [
         57.0018,
@@ -113,6 +121,27 @@
       [
         59.2104,
         48.6887
+      ],
+      [
+        58.1611,
+        38.9929
+      ]
+    ]
+  },
+  {
+    "hex": "894011",
+    "name": "Bahrain Defence Force",
+    "category": "Dictator Alert",
+    "callsign": "BAH09",
+    "lon": 50.5882,
+    "lat": 26.8806,
+    "alt": 3596.64,
+    "velocity": 183.25,
+    "heading": 167.68,
+    "trace": [
+      [
+        26.8806,
+        50.5882
       ]
     ]
   },
@@ -121,11 +150,11 @@
     "name": "Gov of Brunei",
     "category": "Dictator Alert",
     "callsign": "V8BKH",
-    "lon": 13.5901,
-    "lat": 48.7687,
+    "lon": 9.336,
+    "lat": 49.9476,
     "alt": 10965.18,
-    "velocity": 236.21,
-    "heading": 290.53,
+    "velocity": 238.94,
+    "heading": 292.53,
     "trace": [
       [
         44.3296,
@@ -154,6 +183,27 @@
       [
         48.7687,
         13.5901
+      ],
+      [
+        49.9476,
+        9.336
+      ]
+    ]
+  },
+  {
+    "hex": "0101d0",
+    "name": "Government of Egypt",
+    "category": "Dictator Alert",
+    "callsign": "SUBTU",
+    "lon": 30.351,
+    "lat": 31.0288,
+    "alt": 7315.2,
+    "velocity": 194.74,
+    "heading": 317.03,
+    "trace": [
+      [
+        31.0288,
+        30.351
       ]
     ]
   },
@@ -215,11 +265,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6142",
-    "lon": -89.327,
-    "lat": 33.3593,
-    "alt": 10355.58,
-    "velocity": 209.55,
-    "heading": 234.59,
+    "lon": -91.9369,
+    "lat": 31.7367,
+    "alt": 10370.82,
+    "velocity": 215.96,
+    "heading": 232.94,
     "trace": [
       [
         40.5643,
@@ -264,6 +314,27 @@
       [
         33.3593,
         -89.327
+      ],
+      [
+        31.7367,
+        -91.9369
+      ]
+    ]
+  },
+  {
+    "hex": "a87876",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "CMB548",
+    "lon": 7.8479,
+    "lat": 49.9564,
+    "alt": 7239,
+    "velocity": 230.63,
+    "heading": 80.37,
+    "trace": [
+      [
+        49.9564,
+        7.8479
       ]
     ]
   },
@@ -272,11 +343,11 @@
     "name": "Gov of Turkey",
     "category": "Dictator Alert",
     "callsign": "TRK5",
-    "lon": 23.7961,
-    "lat": 44.0619,
+    "lon": 27.2877,
+    "lat": 41.7716,
     "alt": 13106.4,
-    "velocity": 271.35,
-    "heading": 139.15,
+    "velocity": 273.54,
+    "heading": 110.82,
     "trace": [
       [
         53.4239,
@@ -325,6 +396,10 @@
       [
         44.0619,
         23.7961
+      ],
+      [
+        41.7716,
+        27.2877
       ]
     ]
   }
