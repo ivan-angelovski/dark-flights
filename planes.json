@@ -1,146 +1,14 @@
 [
   {
-    "hex": "89607a",
-    "name": "Dubai Air Wing",
-    "category": "Dictator Alert",
-    "callsign": "DUB6",
-    "lon": 36.2372,
-    "lat": 40.886,
-    "alt": 11582.4,
-    "velocity": 231.63,
-    "heading": 290.41,
-    "trace": [
-      [
-        40.1548,
-        38.4317
-      ],
-      [
-        40.886,
-        36.2372
-      ]
-    ]
-  },
-  {
-    "hex": "8960b4",
-    "name": "Dubai Air Wing",
-    "category": "Dictator Alert",
-    "callsign": "DUB1",
-    "lon": -97.6722,
-    "lat": 30.1961,
-    "alt": null,
-    "velocity": 4.37,
-    "heading": 177.19,
-    "trace": [
-      [
-        47.2769,
-        -86.7849
-      ],
-      [
-        46.5607,
-        -87.5285
-      ],
-      [
-        44.3658,
-        -89.6594
-      ],
-      [
-        41.6893,
-        -91.6808
-      ],
-      [
-        40.3657,
-        -92.687
-      ],
-      [
-        39.6325,
-        -93.1217
-      ],
-      [
-        37.0215,
-        -94.5572
-      ],
-      [
-        35.4756,
-        -95.3331
-      ],
-      [
-        34.4656,
-        -95.8147
-      ],
-      [
-        33.7192,
-        -96.1459
-      ],
-      [
-        32.8765,
-        -96.5124
-      ],
-      [
-        30.6178,
-        -97.4685
-      ],
-      [
-        30.1961,
-        -97.6722
-      ]
-    ]
-  },
-  {
-    "hex": "a95c2f",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR575",
-    "lon": 142.1936,
-    "lat": 37.3816,
-    "alt": 10058.4,
-    "velocity": 318.64,
-    "heading": 67.2,
-    "trace": [
-      [
-        33.5907,
-        135.3555
-      ],
-      [
-        35.9739,
-        138.8013
-      ],
-      [
-        37.3816,
-        142.1936
-      ]
-    ]
-  },
-  {
-    "hex": "70c0b4",
-    "name": "Oman Royal Flight",
-    "category": "Dictator Alert",
-    "callsign": "ORF4",
-    "lon": 55.2715,
-    "lat": 25.3066,
-    "alt": 12496.8,
-    "velocity": 272.41,
-    "heading": 132.24,
-    "trace": [
-      [
-        27.3598,
-        53.1963
-      ],
-      [
-        25.3066,
-        55.2715
-      ]
-    ]
-  },
-  {
     "hex": "70c0b3",
     "name": "Oman Royal Flight",
     "category": "Dictator Alert",
     "callsign": "ORF3",
-    "lon": 15.195,
-    "lat": 44.764,
+    "lon": 13.4728,
+    "lat": 45.0081,
     "alt": 12192,
-    "velocity": 242.57,
-    "heading": 282.12,
+    "velocity": 243.96,
+    "heading": 285.03,
     "trace": [
       [
         40.9113,
@@ -173,6 +41,10 @@
       [
         44.764,
         15.195
+      ],
+      [
+        45.0081,
+        13.4728
       ]
     ]
   },
@@ -180,33 +52,16 @@
     "hex": "896436",
     "name": "Sharjah Rulers Flight",
     "category": "Dictator Alert",
-    "callsign": "",
-    "lon": null,
-    "lat": null,
-    "alt": null,
+    "callsign": "SHJ01",
+    "lon": 8.5474,
+    "lat": 47.4512,
+    "alt": 441.96,
     "velocity": 0,
     "heading": 112.5,
     "trace": [
       [
         47.4512,
         8.5474
-      ]
-    ]
-  },
-  {
-    "hex": "a3defb",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT870",
-    "lon": -73.8494,
-    "lat": 5.5712,
-    "alt": 7955.28,
-    "velocity": 241.13,
-    "heading": 11.69,
-    "trace": [
-      [
-        5.5712,
-        -73.8494
       ]
     ]
   },
@@ -232,15 +87,32 @@
     ]
   },
   {
+    "hex": "0a4005",
+    "name": "Gov of Algeria",
+    "category": "Dictator Alert",
+    "callsign": "7TVPR",
+    "lon": 24.3212,
+    "lat": 34.2467,
+    "alt": 13106.4,
+    "velocity": 203.38,
+    "heading": 289.35,
+    "trace": [
+      [
+        34.2467,
+        24.3212
+      ]
+    ]
+  },
+  {
     "hex": "a9c52e",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR658",
-    "lon": -148.3031,
-    "lat": 61.7372,
-    "alt": 6926.58,
-    "velocity": 213.69,
-    "heading": 78.47,
+    "lon": -145.9479,
+    "lat": 61.9467,
+    "alt": 9448.8,
+    "velocity": 228.01,
+    "heading": 80.39,
     "trace": [
       [
         61.1712,
@@ -249,6 +121,10 @@
       [
         61.7372,
         -148.3031
+      ],
+      [
+        61.9467,
+        -145.9479
       ]
     ]
   },
@@ -257,11 +133,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "CMB548",
-    "lon": 21.2167,
-    "lat": 46.8306,
+    "lon": 22.6692,
+    "lat": 46.1374,
     "alt": 11894.82,
-    "velocity": 238.71,
-    "heading": 126.5,
+    "velocity": 240.02,
+    "heading": 124.61,
     "trace": [
       [
         49.9564,
@@ -290,6 +166,10 @@
       [
         46.8306,
         21.2167
+      ],
+      [
+        46.1374,
+        22.6692
       ]
     ]
   }
