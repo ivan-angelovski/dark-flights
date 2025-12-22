@@ -1,14 +1,31 @@
 [
   {
+    "hex": "89607a",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB6",
+    "lon": 1.1752,
+    "lat": 51.9911,
+    "alt": 5913.12,
+    "velocity": 187.91,
+    "heading": 70.82,
+    "trace": [
+      [
+        51.9911,
+        1.1752
+      ]
+    ]
+  },
+  {
     "hex": "4009d6",
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "DRAKEN01",
-    "lon": 49.4044,
-    "lat": 24.7209,
+    "lon": 49.4315,
+    "lat": 24.7956,
     "alt": 7315.2,
-    "velocity": 148.25,
-    "heading": 236.03,
+    "velocity": 175.7,
+    "heading": 161.57,
     "trace": [
       [
         25.9726,
@@ -25,6 +42,10 @@
       [
         24.7209,
         49.4044
+      ],
+      [
+        24.7956,
+        49.4315
       ]
     ]
   },
@@ -33,15 +54,36 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT8620",
-    "lon": 4.3049,
-    "lat": 50.9223,
-    "alt": 1409.7,
-    "velocity": 126.54,
-    "heading": 280.3,
+    "lon": 2.4523,
+    "lat": 51.3892,
+    "alt": 8450.58,
+    "velocity": 247.79,
+    "heading": 280.89,
     "trace": [
       [
         50.9223,
         4.3049
+      ],
+      [
+        51.3892,
+        2.4523
+      ]
+    ]
+  },
+  {
+    "hex": "89404d",
+    "name": "Bahrain Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "BAH3",
+    "lon": 53.0874,
+    "lat": 25.5287,
+    "alt": 7924.8,
+    "velocity": 231.51,
+    "heading": 282.71,
+    "trace": [
+      [
+        25.5287,
+        53.0874
       ]
     ]
   },
@@ -50,15 +92,19 @@
     "name": "Polish Air Force",
     "category": "Dictator Alert",
     "callsign": "PLF120",
-    "lon": 20.4262,
-    "lat": 52.1136,
-    "alt": 4777.74,
-    "velocity": 185.3,
-    "heading": 271.91,
+    "lon": 18.5651,
+    "lat": 52.4461,
+    "alt": 7924.8,
+    "velocity": 202.36,
+    "heading": 294.48,
     "trace": [
       [
         52.1136,
         20.4262
+      ],
+      [
+        52.4461,
+        18.5651
       ]
     ]
   },
@@ -67,11 +113,11 @@
     "name": "Polish Air Force",
     "category": "Dictator Alert",
     "callsign": "PLF105",
-    "lon": 18.1531,
-    "lat": 50.6698,
-    "alt": 6812.28,
-    "velocity": 219.95,
-    "heading": 97.39,
+    "lon": 19.3339,
+    "lat": 50.4749,
+    "alt": 1158.24,
+    "velocity": 90.03,
+    "heading": 270,
     "trace": [
       [
         52.2635,
@@ -104,6 +150,10 @@
       [
         50.6698,
         18.1531
+      ],
+      [
+        50.4749,
+        19.3339
       ]
     ]
   },
@@ -112,11 +162,11 @@
     "name": "Gov of Algeria",
     "category": "Dictator Alert",
     "callsign": "7TVPM",
-    "lon": 4.4992,
-    "lat": 50.9105,
-    "alt": null,
-    "velocity": 0.9,
-    "heading": 22.5,
+    "lon": 5.1081,
+    "lat": 50.4436,
+    "alt": 7315.2,
+    "velocity": 190.63,
+    "heading": 145.67,
     "trace": [
       [
         39.2605,
@@ -153,6 +203,27 @@
       [
         50.9105,
         4.4992
+      ],
+      [
+        50.4436,
+        5.1081
+      ]
+    ]
+  },
+  {
+    "hex": "0a4009",
+    "name": "Gov of Algeria",
+    "category": "Dictator Alert",
+    "callsign": "7TVPC",
+    "lon": 33.6178,
+    "lat": 28.569,
+    "alt": 12199.62,
+    "velocity": 192.1,
+    "heading": 308.8,
+    "trace": [
+      [
+        28.569,
+        33.6178
       ]
     ]
   },
@@ -161,68 +232,36 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8409",
-    "lon": 126.9905,
-    "lat": 34.9649,
-    "alt": 6926.58,
-    "velocity": 219.47,
-    "heading": 4.98,
+    "lon": 126.9725,
+    "lat": 36.1074,
+    "alt": 4579.62,
+    "velocity": 185.93,
+    "heading": 5.08,
     "trace": [
       [
         34.9649,
         126.9905
+      ],
+      [
+        36.1074,
+        126.9725
       ]
     ]
   },
   {
-    "hex": "010057",
-    "name": "Gov of Egypt",
+    "hex": "06a0a4",
+    "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
-    "callsign": "SUBNO",
-    "lon": 19.2252,
-    "lat": 47.4395,
-    "alt": null,
-    "velocity": 0,
-    "heading": 216.56,
+    "callsign": "A7MBK",
+    "lon": 38.4966,
+    "lat": 40.1156,
+    "alt": 10355.58,
+    "velocity": 211.54,
+    "heading": 308.68,
     "trace": [
       [
-        32.561,
-        29.0797
-      ],
-      [
-        33.5577,
-        28.4276
-      ],
-      [
-        34.1855,
-        28.0054
-      ],
-      [
-        36.6449,
-        26.4458
-      ],
-      [
-        40.0652,
-        24.3097
-      ],
-      [
-        41.7383,
-        23.7121
-      ],
-      [
-        45.7378,
-        21.8648
-      ],
-      [
-        47.2438,
-        19.914
-      ],
-      [
-        47.589,
-        19.2392
-      ],
-      [
-        47.4395,
-        19.2252
+        40.1156,
+        38.4966
       ]
     ]
   }
