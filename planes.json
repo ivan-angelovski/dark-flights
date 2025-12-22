@@ -4,15 +4,19 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8354",
-    "lon": -149.8699,
-    "lat": 60.912,
-    "alt": 5890.26,
-    "velocity": 226.45,
-    "heading": 140.16,
+    "lon": -142.4025,
+    "lat": 58.1249,
+    "alt": 11277.6,
+    "velocity": 250.84,
+    "heading": 124.05,
     "trace": [
       [
         60.912,
         -149.8699
+      ],
+      [
+        58.1249,
+        -142.4025
       ]
     ]
   },
@@ -21,15 +25,36 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR807",
-    "lon": -118.3919,
-    "lat": 33.9352,
-    "alt": null,
-    "velocity": 12.86,
-    "heading": 84.38,
+    "lon": -114.4593,
+    "lat": 36.7329,
+    "alt": 11277.6,
+    "velocity": 284.96,
+    "heading": 35.67,
     "trace": [
       [
         33.9352,
         -118.3919
+      ],
+      [
+        36.7329,
+        -114.4593
+      ]
+    ]
+  },
+  {
+    "hex": "a0c62d",
+    "name": "Eastern Air Express",
+    "category": "Hired Gun",
+    "callsign": "BBQ2214",
+    "lon": -80.8539,
+    "lat": 25.2891,
+    "alt": 4221.48,
+    "velocity": 203.07,
+    "heading": 356.51,
+    "trace": [
+      [
+        25.2891,
+        -80.8539
       ]
     ]
   },
@@ -38,15 +63,19 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "NOS739",
-    "lon": 22.4899,
-    "lat": 36.1139,
+    "lon": 17.756,
+    "lat": 39.244,
     "alt": 12192,
-    "velocity": 230.62,
-    "heading": 311.84,
+    "velocity": 243.13,
+    "heading": 306.48,
     "trace": [
       [
         36.1139,
         22.4899
+      ],
+      [
+        39.244,
+        17.756
       ]
     ]
   },
@@ -55,11 +84,11 @@
     "name": "Skyways Charter LLC",
     "category": "Hired Gun",
     "callsign": "N751GT",
-    "lon": -86.04,
-    "lat": 27.9619,
-    "alt": 13716,
-    "velocity": 286.11,
-    "heading": 91.34,
+    "lon": -81.428,
+    "lat": 28.2769,
+    "alt": -22.86,
+    "velocity": 57.97,
+    "heading": 328.43,
     "trace": [
       [
         28.0511,
@@ -68,6 +97,10 @@
       [
         27.9619,
         -86.04
+      ],
+      [
+        28.2769,
+        -81.428
       ]
     ]
   },
@@ -76,49 +109,19 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8409",
-    "lon": 87.5295,
-    "lat": 22.7356,
+    "lon": 93.2523,
+    "lat": 22.1618,
     "alt": 10675.62,
-    "velocity": 269.14,
-    "heading": 93.84,
+    "velocity": 259.5,
+    "heading": 94.32,
     "trace": [
       [
         22.7356,
         87.5295
-      ]
-    ]
-  },
-  {
-    "hex": "acb84d",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR515",
-    "lon": 53.5122,
-    "lat": 25.5025,
-    "alt": 9753.6,
-    "velocity": 240.56,
-    "heading": 319.77,
-    "trace": [
+      ],
       [
-        25.5025,
-        53.5122
-      ]
-    ]
-  },
-  {
-    "hex": "06a0a2",
-    "name": "Qatar Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "QAF1",
-    "lon": 51.5711,
-    "lat": 25.2647,
-    "alt": null,
-    "velocity": 4.37,
-    "heading": 247.5,
-    "trace": [
-      [
-        25.2647,
-        51.5711
+        22.1618,
+        93.2523
       ]
     ]
   }
