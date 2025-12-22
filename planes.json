@@ -1,18 +1,56 @@
 [
   {
+    "hex": "4009cd",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "AMBER1",
+    "lon": -2.4606,
+    "lat": 50.7296,
+    "alt": 1188.72,
+    "velocity": 125.22,
+    "heading": 257.91,
+    "trace": [
+      [
+        50.7296,
+        -2.4606
+      ]
+    ]
+  },
+  {
+    "hex": "4009ca",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "AMBER2",
+    "lon": -2.2176,
+    "lat": 50.7636,
+    "alt": 899.16,
+    "velocity": 134.69,
+    "heading": 254.27,
+    "trace": [
+      [
+        50.7636,
+        -2.2176
+      ]
+    ]
+  },
+  {
     "hex": "89407f",
     "name": "Bahrain Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "BAH6",
-    "lon": 55.0465,
-    "lat": 24.4267,
-    "alt": 4236.72,
-    "velocity": 184.44,
-    "heading": 286.36,
+    "lon": 51.8455,
+    "lat": 26.1832,
+    "alt": 6850.38,
+    "velocity": 220.95,
+    "heading": 308.95,
     "trace": [
       [
         24.4267,
         55.0465
+      ],
+      [
+        26.1832,
+        51.8455
       ]
     ]
   },
@@ -21,15 +59,19 @@
     "name": "Polish Air Force",
     "category": "Dictator Alert",
     "callsign": "PLF105",
-    "lon": 17.9707,
-    "lat": 52.2635,
-    "alt": 12192,
-    "velocity": 215.11,
-    "heading": 284.4,
+    "lon": 12.3003,
+    "lat": 53.0158,
+    "alt": 7940.04,
+    "velocity": 195.29,
+    "heading": 279.86,
     "trace": [
       [
         52.2635,
         17.9707
+      ],
+      [
+        53.0158,
+        12.3003
       ]
     ]
   },
@@ -38,11 +80,11 @@
     "name": "Gov of Algeria",
     "category": "Dictator Alert",
     "callsign": "7TVPM",
-    "lon": 4.0421,
-    "lat": 47.0066,
-    "alt": 12192,
-    "velocity": 249.02,
-    "heading": 344.3,
+    "lon": 3.6099,
+    "lat": 50.5797,
+    "alt": 4968.24,
+    "velocity": 191.51,
+    "heading": 34.71,
     "trace": [
       [
         39.2605,
@@ -63,6 +105,27 @@
       [
         47.0066,
         4.0421
+      ],
+      [
+        50.5797,
+        3.6099
+      ]
+    ]
+  },
+  {
+    "hex": "a87876",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI8409",
+    "lon": 121.8111,
+    "lat": 20.3964,
+    "alt": 11894.82,
+    "velocity": 276.77,
+    "heading": 48.99,
+    "trace": [
+      [
+        20.3964,
+        121.8111
       ]
     ]
   },
@@ -71,53 +134,36 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR515",
-    "lon": 25.5543,
-    "lat": 44.7813,
-    "alt": 10363.2,
-    "velocity": 238.33,
-    "heading": 304.89,
+    "lon": 20.8561,
+    "lat": 46.9031,
+    "alt": 8275.32,
+    "velocity": 228.33,
+    "heading": 300.61,
     "trace": [
       [
         44.7813,
         25.5543
-      ]
-    ]
-  },
-  {
-    "hex": "06a0a4",
-    "name": "Qatar Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "A7MBK",
-    "lon": 51.2919,
-    "lat": 25.9817,
-    "alt": 5631.18,
-    "velocity": 203.42,
-    "heading": 297.73,
-    "trace": [
-      [
-        25.9817,
-        51.2919
-      ]
-    ]
-  },
-  {
-    "hex": "06a0a2",
-    "name": "Qatar Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "QAF1",
-    "lon": 52.331,
-    "lat": 28.2751,
-    "alt": 9144,
-    "velocity": 256.63,
-    "heading": 3.33,
-    "trace": [
-      [
-        25.482,
-        51.5777
       ],
       [
-        28.2751,
-        52.331
+        46.9031,
+        20.8561
+      ]
+    ]
+  },
+  {
+    "hex": "4b9c30",
+    "name": "Gov of Turkey",
+    "category": "Dictator Alert",
+    "callsign": "TRK5",
+    "lon": 35.0916,
+    "lat": 35.534,
+    "alt": 11887.2,
+    "velocity": 268.96,
+    "heading": 162.64,
+    "trace": [
+      [
+        35.534,
+        35.0916
       ]
     ]
   },
@@ -126,11 +172,11 @@
     "name": "Gov of Egypt",
     "category": "Dictator Alert",
     "callsign": "SUBNO",
-    "lon": 26.4458,
-    "lat": 36.6449,
+    "lon": 24.3097,
+    "lat": 40.0652,
     "alt": 12192,
-    "velocity": 233.12,
-    "heading": 334.79,
+    "velocity": 237.21,
+    "heading": 333.88,
     "trace": [
       [
         32.561,
@@ -147,6 +193,10 @@
       [
         36.6449,
         26.4458
+      ],
+      [
+        40.0652,
+        24.3097
       ]
     ]
   }
