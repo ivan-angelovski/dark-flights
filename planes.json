@@ -1,80 +1,14 @@
 [
   {
-    "hex": "4009cd",
-    "name": "Draken Europe",
-    "category": "Hired Gun",
-    "callsign": "AMBER1",
-    "lon": -1.8786,
-    "lat": 50.4385,
-    "alt": 533.4,
-    "velocity": 127.45,
-    "heading": 12.35,
-    "trace": [
-      [
-        50.7296,
-        -2.4606
-      ],
-      [
-        50.704,
-        -2.8276
-      ],
-      [
-        50.1381,
-        -2.6564
-      ],
-      [
-        50.2709,
-        -2.4998
-      ],
-      [
-        50.4385,
-        -1.8786
-      ]
-    ]
-  },
-  {
-    "hex": "4009ca",
-    "name": "Draken Europe",
-    "category": "Hired Gun",
-    "callsign": "AMBER2",
-    "lon": -1.8788,
-    "lat": 50.4387,
-    "alt": 533.4,
-    "velocity": 127.71,
-    "heading": 9.27,
-    "trace": [
-      [
-        50.7636,
-        -2.2176
-      ],
-      [
-        50.7028,
-        -2.7908
-      ],
-      [
-        50.1384,
-        -2.6572
-      ],
-      [
-        50.2716,
-        -2.4982
-      ],
-      [
-        50.4387,
-        -1.8788
-      ]
-    ]
-  },
-  {
     "hex": "4009d6",
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "DRAKEN01",
-    "lon": 49.7828,
-    "lat": 25.4265,
-    "alt": 6667.5,
-    "velocity": 159.56,
-    "heading": 200.77,
+    "lon": 49.1634,
+    "lat": 24.8672,
+    "alt": 7315.2,
+    "velocity": 145,
+    "heading": 302.39,
     "trace": [
       [
         25.9726,
@@ -83,6 +17,10 @@
       [
         25.4265,
         49.7828
+      ],
+      [
+        24.8672,
+        49.1634
       ]
     ]
   },
@@ -91,11 +29,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB2",
-    "lon": -2.6219,
-    "lat": 34.5957,
+    "lon": 1.3857,
+    "lat": 36.075,
     "alt": 11277.6,
-    "velocity": 287.13,
-    "heading": 71.73,
+    "velocity": 284.2,
+    "heading": 66.08,
     "trace": [
       [
         34.2628,
@@ -104,31 +42,27 @@
       [
         34.5957,
         -2.6219
+      ],
+      [
+        36.075,
+        1.3857
       ]
     ]
   },
   {
-    "hex": "a7a2be",
-    "name": "ISR Platforms",
+    "hex": "a3defb",
+    "name": "Amerijet International",
     "category": "Hired Gun",
-    "callsign": "",
-    "lon": 127.1438,
-    "lat": 36.8821,
-    "alt": 731.52,
-    "velocity": 75.06,
-    "heading": 311.67,
+    "callsign": "AJT8141",
+    "lon": -66.1629,
+    "lat": 18.4341,
+    "alt": 754.38,
+    "velocity": 90.59,
+    "heading": 91.95,
     "trace": [
       [
-        35.5875,
-        126.9153
-      ],
-      [
-        36.837,
-        127.2124
-      ],
-      [
-        36.8821,
-        127.1438
+        18.4341,
+        -66.1629
       ]
     ]
   },
@@ -137,11 +71,11 @@
     "name": "Polish Air Force",
     "category": "Dictator Alert",
     "callsign": "PLF105",
-    "lon": 10.4453,
-    "lat": 53.3579,
-    "alt": 5303.52,
-    "velocity": 201.2,
-    "heading": 170.73,
+    "lon": 14.1537,
+    "lat": 51.693,
+    "alt": 11902.44,
+    "velocity": 239.55,
+    "heading": 119.32,
     "trace": [
       [
         52.2635,
@@ -166,27 +100,10 @@
       [
         53.3579,
         10.4453
-      ]
-    ]
-  },
-  {
-    "hex": "4b8c2e",
-    "name": "Gov of Turkey",
-    "category": "Dictator Alert",
-    "callsign": "TRK1",
-    "lon": 31.2958,
-    "lat": 40.4406,
-    "alt": 6400.8,
-    "velocity": 226.95,
-    "heading": 109.05,
-    "trace": [
-      [
-        40.7236,
-        30.1923
       ],
       [
-        40.4406,
-        31.2958
+        51.693,
+        14.1537
       ]
     ]
   },
@@ -240,11 +157,11 @@
     "name": "Gov of Egypt",
     "category": "Dictator Alert",
     "callsign": "SUBNO",
-    "lon": 19.2392,
-    "lat": 47.589,
-    "alt": 2110.74,
-    "velocity": 140.75,
-    "heading": 306.83,
+    "lon": 19.2252,
+    "lat": 47.4395,
+    "alt": null,
+    "velocity": 0,
+    "heading": 216.56,
     "trace": [
       [
         32.561,
@@ -281,6 +198,10 @@
       [
         47.589,
         19.2392
+      ],
+      [
+        47.4395,
+        19.2252
       ]
     ]
   }
