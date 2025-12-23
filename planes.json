@@ -1,26 +1,35 @@
 [
   {
-    "hex": "a7a2be",
-    "name": "ISR Platforms",
-    "category": "Hired Gun",
-    "callsign": "",
-    "lon": 127.2589,
-    "lat": 36.8176,
-    "alt": 929.64,
-    "velocity": 102.5,
-    "heading": 130.73,
+    "hex": "8960b1",
+    "name": "Abu Dhabi Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "AUH11",
+    "lon": 33.6845,
+    "lat": 29.3186,
+    "alt": 10972.8,
+    "velocity": 196.85,
+    "heading": 287.96,
     "trace": [
       [
-        35.0381,
-        126.8555
-      ],
+        29.3186,
+        33.6845
+      ]
+    ]
+  },
+  {
+    "hex": "70c0b3",
+    "name": "Oman Royal Flight",
+    "category": "Dictator Alert",
+    "callsign": "ORF3",
+    "lon": 8.7166,
+    "lat": 45.6441,
+    "alt": 655.32,
+    "velocity": 81.46,
+    "heading": 332.14,
+    "trace": [
       [
-        36.7216,
-        126.9933
-      ],
-      [
-        36.8176,
-        127.2589
+        45.6441,
+        8.7166
       ]
     ]
   },
@@ -29,15 +38,19 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "UBT903",
-    "lon": -1.9695,
-    "lat": 51.5779,
-    "alt": 3048,
-    "velocity": 142.11,
-    "heading": 146.37,
+    "lon": -0.3064,
+    "lat": 51.132,
+    "alt": 434.34,
+    "velocity": 59.83,
+    "heading": 78.59,
     "trace": [
       [
         51.5779,
         -1.9695
+      ],
+      [
+        51.132,
+        -0.3064
       ]
     ]
   },
@@ -46,76 +59,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR607",
-    "lon": 141.716,
-    "lat": 39.0087,
-    "alt": 10972.8,
-    "velocity": 223.86,
-    "heading": 243.67,
+    "lon": 138.7435,
+    "lat": 37.8293,
+    "alt": 11582.4,
+    "velocity": 214.21,
+    "heading": 246.21,
     "trace": [
       [
         39.0087,
         141.716
-      ]
-    ]
-  },
-  {
-    "hex": "a2f016",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA6142",
-    "lon": -97.3456,
-    "lat": 26.7358,
-    "alt": 2339.34,
-    "velocity": 148.04,
-    "heading": 221.05,
-    "trace": [
-      [
-        40.3963,
-        -75.2551
       ],
       [
-        39.2908,
-        -77.8867
-      ],
-      [
-        37.8381,
-        -81.0383
-      ],
-      [
-        36.8512,
-        -83.0168
-      ],
-      [
-        36.2655,
-        -84.1379
-      ],
-      [
-        35.8564,
-        -84.8995
-      ],
-      [
-        34.0748,
-        -88.035
-      ],
-      [
-        32.3787,
-        -90.7858
-      ],
-      [
-        31.3798,
-        -92.3159
-      ],
-      [
-        28.9236,
-        -95.6749
-      ],
-      [
-        27.3434,
-        -96.8487
-      ],
-      [
-        26.7358,
-        -97.3456
+        37.8293,
+        138.7435
       ]
     ]
   },
@@ -124,11 +80,11 @@
     "name": "Polish Government",
     "category": "Dictator Alert",
     "callsign": "PLF110",
-    "lon": 16.8726,
-    "lat": 51.1095,
-    "alt": null,
-    "velocity": 0,
-    "heading": 295.31,
+    "lon": 16.8253,
+    "lat": 51.3664,
+    "alt": 4846.32,
+    "velocity": 163.56,
+    "heading": 337.63,
     "trace": [
       [
         51.4288,
@@ -141,27 +97,10 @@
       [
         51.1095,
         16.8726
-      ]
-    ]
-  },
-  {
-    "hex": "a5776c",
-    "name": "Southern Cross Aircraft",
-    "category": "Hired Gun",
-    "callsign": "N451SJ",
-    "lon": -80.1759,
-    "lat": 26.0769,
-    "alt": -7.62,
-    "velocity": 62.25,
-    "heading": 90,
-    "trace": [
-      [
-        26.121,
-        -80.3342
       ],
       [
-        26.0769,
-        -80.1759
+        51.3664,
+        16.8253
       ]
     ]
   },
@@ -170,11 +109,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2231",
-    "lon": -3.4758,
-    "lat": 51.274,
-    "alt": 6972.3,
-    "velocity": 212.29,
-    "heading": 37.81,
+    "lon": -1.6264,
+    "lat": 51.742,
+    "alt": 152.4,
+    "velocity": 60.21,
+    "heading": 73.11,
     "trace": [
       [
         37.2606,
@@ -203,27 +142,10 @@
       [
         51.274,
         -3.4758
-      ]
-    ]
-  },
-  {
-    "hex": "600bc4",
-    "name": "Gov of Azerbaijan",
-    "category": "Dictator Alert",
-    "callsign": "AHY615",
-    "lon": 55.7931,
-    "lat": 26.1966,
-    "alt": 8602.98,
-    "velocity": 239.05,
-    "heading": 3.08,
-    "trace": [
-      [
-        25.4763,
-        55.3336
       ],
       [
-        26.1966,
-        55.7931
+        51.742,
+        -1.6264
       ]
     ]
   }
