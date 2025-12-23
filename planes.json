@@ -1,18 +1,73 @@
 [
   {
+    "hex": "a0d062",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI8835",
+    "lon": -80.071,
+    "lat": 25.755,
+    "alt": 2964.18,
+    "velocity": 148.88,
+    "heading": 47.1,
+    "trace": [
+      [
+        25.755,
+        -80.071
+      ]
+    ]
+  },
+  {
+    "hex": "a2d25e",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA155",
+    "lon": -93.2436,
+    "lat": 30.7592,
+    "alt": 7848.6,
+    "velocity": 211.35,
+    "heading": 221.65,
+    "trace": [
+      [
+        30.7592,
+        -93.2436
+      ]
+    ]
+  },
+  {
     "hex": "a2d615",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA625",
-    "lon": -83.9997,
-    "lat": 30.5012,
-    "alt": 10988.04,
-    "velocity": 211.18,
-    "heading": 326.93,
+    "lon": -85.9907,
+    "lat": 33.0562,
+    "alt": 10980.42,
+    "velocity": 210.75,
+    "heading": 325.84,
     "trace": [
       [
         30.5012,
         -83.9997
+      ],
+      [
+        33.0562,
+        -85.9907
+      ]
+    ]
+  },
+  {
+    "hex": "406b79",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "TOW2231",
+    "lon": -18,
+    "lat": 14.3912,
+    "alt": 12496.8,
+    "velocity": 235.62,
+    "heading": 0,
+    "trace": [
+      [
+        14.3912,
+        -18
       ]
     ]
   },
@@ -38,44 +93,19 @@
     ]
   },
   {
-    "hex": "a4d4cc",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA1121",
-    "lon": -74.9331,
-    "lat": 39.6897,
-    "alt": 1684.02,
-    "velocity": 131.46,
-    "heading": 22.55,
+    "hex": "710100",
+    "name": "Saudi Ministry of Finance",
+    "category": "Dictator Alert",
+    "callsign": "SVA993",
+    "lon": 55.9157,
+    "lat": 23.0314,
+    "alt": 9144,
+    "velocity": 236.68,
+    "heading": 271,
     "trace": [
       [
-        41.6398,
-        -72.5247
-      ],
-      [
-        39.6897,
-        -74.9331
-      ]
-    ]
-  },
-  {
-    "hex": "a5b769",
-    "name": "Omni Air International",
-    "category": "Hired Gun",
-    "callsign": "OAE272",
-    "lon": 140.2521,
-    "lat": 38.8011,
-    "alt": 10675.62,
-    "velocity": 237.69,
-    "heading": 47.02,
-    "trace": [
-      [
-        36.3242,
-        135.3569
-      ],
-      [
-        38.8011,
-        140.2521
+        23.0314,
+        55.9157
       ]
     ]
   }
