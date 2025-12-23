@@ -1,31 +1,14 @@
 [
   {
-    "hex": "a49951",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT817",
-    "lon": -74.539,
-    "lat": 4.9951,
-    "alt": 3970.02,
-    "velocity": 159.95,
-    "heading": 123.59,
-    "trace": [
-      [
-        4.9951,
-        -74.539
-      ]
-    ]
-  },
-  {
     "hex": "a95c2f",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR809",
-    "lon": -67.6206,
-    "lat": 44.1144,
-    "alt": 11887.2,
-    "velocity": 272.11,
-    "heading": 55.71,
+    "lon": -62.599,
+    "lat": 46.9552,
+    "alt": 12496.8,
+    "velocity": 269.41,
+    "heading": 52.06,
     "trace": [
       [
         33.626,
@@ -62,52 +45,40 @@
       [
         44.1144,
         -67.6206
-      ]
-    ]
-  },
-  {
-    "hex": "894042",
-    "name": "Bahrain Defence Force",
-    "category": "Dictator Alert",
-    "callsign": "BAH53",
-    "lon": 52.3606,
-    "lat": 25.8288,
-    "alt": 7383.78,
-    "velocity": 203.85,
-    "heading": 297.02,
-    "trace": [
-      [
-        25.069,
-        53.6928
       ],
       [
-        25.8288,
-        52.3606
+        46.9552,
+        -62.599
       ]
     ]
   },
   {
-    "hex": "89407f",
-    "name": "Bahrain Amiri Flight",
-    "category": "Dictator Alert",
+    "hex": "a7a2be",
+    "name": "ISR Platforms",
+    "category": "Hired Gun",
     "callsign": "",
-    "lon": null,
-    "lat": null,
-    "alt": null,
-    "velocity": 106.18,
-    "heading": 150.7,
-    "trace": []
+    "lon": 126.8555,
+    "lat": 35.0381,
+    "alt": 7620,
+    "velocity": 222.07,
+    "heading": 5.05,
+    "trace": [
+      [
+        35.0381,
+        126.8555
+      ]
+    ]
   },
   {
     "hex": "a2f016",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6142",
-    "lon": -92.3159,
-    "lat": 31.3798,
+    "lon": -95.6749,
+    "lat": 28.9236,
     "alt": 10980.42,
-    "velocity": 229.89,
-    "heading": 232.18,
+    "velocity": 228.15,
+    "heading": 213.69,
     "trace": [
       [
         40.3963,
@@ -144,6 +115,10 @@
       [
         31.3798,
         -92.3159
+      ],
+      [
+        28.9236,
+        -95.6749
       ]
     ]
   },
@@ -152,15 +127,36 @@
     "name": "Polish Air Force",
     "category": "Dictator Alert",
     "callsign": "PLF130",
-    "lon": 20.4517,
-    "lat": 52.1373,
-    "alt": 4960.62,
-    "velocity": 171.91,
-    "heading": 276.53,
+    "lon": 15.7232,
+    "lat": 53.1837,
+    "alt": 3048,
+    "velocity": 134.63,
+    "heading": 295.1,
     "trace": [
       [
         52.1373,
         20.4517
+      ],
+      [
+        53.1837,
+        15.7232
+      ]
+    ]
+  },
+  {
+    "hex": "48d980",
+    "name": "Polish Government",
+    "category": "Dictator Alert",
+    "callsign": "PLF110",
+    "lon": 17.3618,
+    "lat": 51.4288,
+    "alt": 3573.78,
+    "velocity": 126.45,
+    "heading": 250.02,
+    "trace": [
+      [
+        51.4288,
+        17.3618
       ]
     ]
   },
@@ -169,11 +165,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2231",
-    "lon": -7.1147,
-    "lat": 44.6151,
+    "lon": -4.7167,
+    "lat": 48.3113,
     "alt": 11582.4,
-    "velocity": 238.52,
-    "heading": 32.04,
+    "velocity": 246.65,
+    "heading": 24,
     "trace": [
       [
         37.2606,
@@ -190,6 +186,10 @@
       [
         44.6151,
         -7.1147
+      ],
+      [
+        48.3113,
+        -4.7167
       ]
     ]
   },
@@ -198,11 +198,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8409",
-    "lon": 134.8862,
-    "lat": 36.3949,
+    "lon": 140.0868,
+    "lat": 37.9722,
     "alt": 11285.22,
-    "velocity": 266.65,
-    "heading": 63.78,
+    "velocity": 262.5,
+    "heading": 88.2,
     "trace": [
       [
         37.6494,
@@ -215,31 +215,10 @@
       [
         36.3949,
         134.8862
-      ]
-    ]
-  },
-  {
-    "hex": "157717",
-    "name": "Russia Special Flight Detachment",
-    "category": "Dictator Alert",
-    "callsign": "RSD477",
-    "lon": 32.321,
-    "lat": 59.7938,
-    "alt": 1371.6,
-    "velocity": 40.85,
-    "heading": 143.71,
-    "trace": [
-      [
-        57.582,
-        34.0975
       ],
       [
-        59.794,
-        32.3208
-      ],
-      [
-        59.7938,
-        32.321
+        37.9722,
+        140.0868
       ]
     ]
   }
