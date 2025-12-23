@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a2f9dd",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA613",
+    "lon": -77.6115,
+    "lat": 24.1041,
+    "alt": 10477.5,
+    "velocity": 263.67,
+    "heading": 129.93,
+    "trace": [
+      [
+        24.1041,
+        -77.6115
+      ]
+    ]
+  },
+  {
     "hex": "a0d062",
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8835",
-    "lon": -77.0958,
-    "lat": 27.1006,
-    "alt": 10980.42,
-    "velocity": 259.38,
-    "heading": 155.01,
+    "lon": -74.1485,
+    "lat": 21.1764,
+    "alt": 8069.58,
+    "velocity": 224.08,
+    "heading": 156.02,
     "trace": [
       [
         30.31,
@@ -17,6 +34,10 @@
       [
         27.1006,
         -77.0958
+      ],
+      [
+        21.1764,
+        -74.1485
       ]
     ]
   },
@@ -25,11 +46,11 @@
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "AUH11",
-    "lon": 21.4492,
-    "lat": 37.7667,
+    "lon": 15.1252,
+    "lat": 40.9125,
     "alt": 11582.4,
-    "velocity": 215.01,
-    "heading": 309.17,
+    "velocity": 245.5,
+    "heading": 302.16,
     "trace": [
       [
         35.4707,
@@ -42,6 +63,61 @@
       [
         37.7667,
         21.4492
+      ],
+      [
+        40.9125,
+        15.1252
+      ]
+    ]
+  },
+  {
+    "hex": "a95c2f",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR809",
+    "lon": -12.1802,
+    "lat": 54.0742,
+    "alt": 12496.8,
+    "velocity": 264.36,
+    "heading": 105.58,
+    "trace": [
+      [
+        54.0742,
+        -12.1802
+      ]
+    ]
+  },
+  {
+    "hex": "a2d25e",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6161",
+    "lon": -97.5089,
+    "lat": 26.8236,
+    "alt": 5814.06,
+    "velocity": 199.82,
+    "heading": 28.61,
+    "trace": [
+      [
+        26.8236,
+        -97.5089
+      ]
+    ]
+  },
+  {
+    "hex": "ad5ff9",
+    "name": "IBC Airways",
+    "category": "Hired Gun",
+    "callsign": "CSQ111",
+    "lon": -80.1043,
+    "lat": 25.7665,
+    "alt": 1501.14,
+    "velocity": 100.28,
+    "heading": 106.39,
+    "trace": [
+      [
+        25.7665,
+        -80.1043
       ]
     ]
   },
@@ -50,11 +126,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI7065",
-    "lon": -92.6899,
-    "lat": 32.8812,
-    "alt": 10363.2,
-    "velocity": 236.11,
-    "heading": 225.79,
+    "lon": -97.408,
+    "lat": 28.4382,
+    "alt": 10980.42,
+    "velocity": 238.05,
+    "heading": 220.09,
     "trace": [
       [
         34.9124,
@@ -63,88 +139,112 @@
       [
         32.8812,
         -92.6899
+      ],
+      [
+        28.4382,
+        -97.408
       ]
     ]
   },
   {
-    "hex": "70c0b3",
-    "name": "Oman Royal Flight",
-    "category": "Dictator Alert",
-    "callsign": "ORF3",
-    "lon": 30.3552,
-    "lat": 40.7439,
-    "alt": 12496.8,
-    "velocity": 272.01,
-    "heading": 108.64,
+    "hex": "a5e6e1",
+    "name": "Phoenix Air",
+    "category": "Hired Gun",
+    "callsign": "48GL",
+    "lon": -81.4037,
+    "lat": 29.34,
+    "alt": 6256.02,
+    "velocity": 199.54,
+    "heading": 354.38,
     "trace": [
       [
-        45.6441,
-        8.7166
-      ],
-      [
-        45.0982,
-        12.3803
-      ],
-      [
-        44.7561,
-        14.4755
-      ],
-      [
-        44.2142,
-        17.3785
-      ],
-      [
-        43.4067,
-        21.0514
-      ],
-      [
-        42.8115,
-        23.3295
-      ],
-      [
-        42.4182,
-        24.7097
-      ],
-      [
-        42.0817,
-        25.8692
-      ],
-      [
-        40.7439,
-        30.3552
+        29.34,
+        -81.4037
       ]
     ]
   },
   {
-    "hex": "ab7437",
+    "hex": "a57311",
+    "name": "Unbridled Air LLC",
+    "category": "Hired Gun",
+    "callsign": "N450KV",
+    "lon": -79.5306,
+    "lat": 26.2358,
+    "alt": 4175.76,
+    "velocity": 193.31,
+    "heading": 86.34,
+    "trace": [
+      [
+        26.2358,
+        -79.5306
+      ]
+    ]
+  },
+  {
+    "hex": "406d26",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "UBT70A",
+    "lon": -0.168,
+    "lat": 51.1566,
+    "alt": null,
+    "velocity": 1.29,
+    "heading": 233.44,
+    "trace": [
+      [
+        51.1566,
+        -0.168
+      ]
+    ]
+  },
+  {
+    "hex": "ad7274",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "GXA6181",
-    "lon": -83.5137,
-    "lat": 27.3342,
-    "alt": 11277.6,
-    "velocity": 260.51,
-    "heading": 111.55,
+    "callsign": "GXA6111",
+    "lon": -90.0352,
+    "lat": 27.946,
+    "alt": 10058.4,
+    "velocity": 237.51,
+    "heading": 176.9,
     "trace": [
       [
-        30.255,
-        -90.6353
-      ],
+        27.946,
+        -90.0352
+      ]
+    ]
+  },
+  {
+    "hex": "4ba674",
+    "name": "Gov of Turkey",
+    "category": "Dictator Alert",
+    "callsign": "TRK4",
+    "lon": 46.605,
+    "lat": 39.9597,
+    "alt": 10363.2,
+    "velocity": 207.72,
+    "heading": 266.45,
+    "trace": [
       [
-        29.3716,
-        -89.153
-      ],
+        39.9597,
+        46.605
+      ]
+    ]
+  },
+  {
+    "hex": "a4d4cc",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA5027",
+    "lon": -72.9032,
+    "lat": 41.9204,
+    "alt": 2034.54,
+    "velocity": 136.39,
+    "heading": 268.27,
+    "trace": [
       [
-        28.9052,
-        -88.1185
-      ],
-      [
-        28.5836,
-        -87.2109
-      ],
-      [
-        27.3342,
-        -83.5137
+        41.9204,
+        -72.9032
       ]
     ]
   },
@@ -153,15 +253,19 @@
     "name": "Russia Special Flight Detachment",
     "category": "Dictator Alert",
     "callsign": "RSD477",
-    "lon": 30.9788,
-    "lat": 59.9713,
-    "alt": 8503.92,
-    "velocity": 101.74,
-    "heading": 157.71,
+    "lon": 37.0582,
+    "lat": 55.3672,
+    "alt": 2903.22,
+    "velocity": 18.55,
+    "heading": 86.82,
     "trace": [
       [
         59.9713,
         30.9788
+      ],
+      [
+        55.3672,
+        37.0582
       ]
     ]
   }
