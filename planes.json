@@ -1,71 +1,22 @@
 [
   {
-    "hex": "a95c2f",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR809",
-    "lon": -62.599,
-    "lat": 46.9552,
-    "alt": 12496.8,
-    "velocity": 269.41,
-    "heading": 52.06,
-    "trace": [
-      [
-        33.626,
-        -84.4277
-      ],
-      [
-        33.6203,
-        -84.4125
-      ],
-      [
-        35.4658,
-        -81.2246
-      ],
-      [
-        36.8139,
-        -78.9439
-      ],
-      [
-        37.6902,
-        -77.8101
-      ],
-      [
-        38.3091,
-        -77.0258
-      ],
-      [
-        40.8397,
-        -73.4578
-      ],
-      [
-        43.006,
-        -69.7905
-      ],
-      [
-        44.1144,
-        -67.6206
-      ],
-      [
-        46.9552,
-        -62.599
-      ]
-    ]
-  },
-  {
     "hex": "a7a2be",
     "name": "ISR Platforms",
     "category": "Hired Gun",
     "callsign": "",
-    "lon": 126.8555,
-    "lat": 35.0381,
-    "alt": 7620,
-    "velocity": 222.07,
-    "heading": 5.05,
+    "lon": 126.9933,
+    "lat": 36.7216,
+    "alt": 3162.3,
+    "velocity": 138.52,
+    "heading": 2.55,
     "trace": [
       [
         35.0381,
         126.8555
+      ],
+      [
+        36.7216,
+        126.9933
       ]
     ]
   },
@@ -74,11 +25,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6142",
-    "lon": -95.6749,
-    "lat": 28.9236,
-    "alt": 10980.42,
-    "velocity": 228.15,
-    "heading": 213.69,
+    "lon": -96.8487,
+    "lat": 27.3434,
+    "alt": 6096,
+    "velocity": 191.49,
+    "heading": 213.05,
     "trace": [
       [
         40.3963,
@@ -119,27 +70,10 @@
       [
         28.9236,
         -95.6749
-      ]
-    ]
-  },
-  {
-    "hex": "48d981",
-    "name": "Polish Air Force",
-    "category": "Dictator Alert",
-    "callsign": "PLF130",
-    "lon": 15.7232,
-    "lat": 53.1837,
-    "alt": 3048,
-    "velocity": 134.63,
-    "heading": 295.1,
-    "trace": [
-      [
-        52.1373,
-        20.4517
       ],
       [
-        53.1837,
-        15.7232
+        27.3434,
+        -96.8487
       ]
     ]
   },
@@ -148,15 +82,36 @@
     "name": "Polish Government",
     "category": "Dictator Alert",
     "callsign": "PLF110",
-    "lon": 17.3618,
-    "lat": 51.4288,
-    "alt": 3573.78,
-    "velocity": 126.45,
-    "heading": 250.02,
+    "lon": 16.8622,
+    "lat": 51.11,
+    "alt": 76.2,
+    "velocity": 66.27,
+    "heading": 115.77,
     "trace": [
       [
         51.4288,
         17.3618
+      ],
+      [
+        51.11,
+        16.8622
+      ]
+    ]
+  },
+  {
+    "hex": "a5776c",
+    "name": "Southern Cross Aircraft",
+    "category": "Hired Gun",
+    "callsign": "N451SJ",
+    "lon": -80.3342,
+    "lat": 26.121,
+    "alt": 556.26,
+    "velocity": 109.7,
+    "heading": 177.31,
+    "trace": [
+      [
+        26.121,
+        -80.3342
       ]
     ]
   },
@@ -165,11 +120,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2231",
-    "lon": -4.7167,
-    "lat": 48.3113,
-    "alt": 11582.4,
-    "velocity": 246.65,
-    "heading": 24,
+    "lon": -3.7242,
+    "lat": 50.2793,
+    "alt": 10363.2,
+    "velocity": 247.83,
+    "heading": 10.28,
     "trace": [
       [
         37.2606,
@@ -190,6 +145,10 @@
       [
         48.3113,
         -4.7167
+      ],
+      [
+        50.2793,
+        -3.7242
       ]
     ]
   },
@@ -198,11 +157,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8409",
-    "lon": 140.0868,
-    "lat": 37.9722,
+    "lon": 142.0082,
+    "lat": 38.0083,
     "alt": 11285.22,
-    "velocity": 262.5,
-    "heading": 88.2,
+    "velocity": 260.69,
+    "heading": 85.25,
     "trace": [
       [
         37.6494,
@@ -219,6 +178,27 @@
       [
         37.9722,
         140.0868
+      ],
+      [
+        38.0083,
+        142.0082
+      ]
+    ]
+  },
+  {
+    "hex": "600bc4",
+    "name": "Gov of Azerbaijan",
+    "category": "Dictator Alert",
+    "callsign": "AHY615",
+    "lon": 55.3336,
+    "lat": 25.4763,
+    "alt": 2834.64,
+    "velocity": 145.98,
+    "heading": 22.59,
+    "trace": [
+      [
+        25.4763,
+        55.3336
       ]
     ]
   }
