@@ -4,11 +4,11 @@
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "AUH11",
-    "lon": 51.3731,
-    "lat": 26.4268,
+    "lon": 50.6158,
+    "lat": 26.6645,
     "alt": 10965.18,
-    "velocity": 213.96,
-    "heading": 289.52,
+    "velocity": 214.26,
+    "heading": 288.04,
     "trace": [
       [
         24.9732,
@@ -21,6 +21,10 @@
       [
         26.4268,
         51.3731
+      ],
+      [
+        26.6645,
+        50.6158
       ]
     ]
   },
@@ -29,11 +33,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB1",
-    "lon": 6.7472,
-    "lat": 46.6482,
-    "alt": 4930.14,
-    "velocity": 159.44,
-    "heading": 206.65,
+    "lon": 6.2997,
+    "lat": 46.2284,
+    "alt": 3124.2,
+    "velocity": 153.51,
+    "heading": 225.27,
     "trace": [
       [
         52.8652,
@@ -66,6 +70,10 @@
       [
         46.6482,
         6.7472
+      ],
+      [
+        46.2284,
+        6.2997
       ]
     ]
   },
@@ -74,11 +82,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR809",
-    "lon": -77.8101,
-    "lat": 37.6902,
+    "lon": -77.0258,
+    "lat": 38.3091,
     "alt": 11887.2,
-    "velocity": 257.55,
-    "heading": 44.84,
+    "velocity": 259.73,
+    "heading": 45.32,
     "trace": [
       [
         33.626,
@@ -99,19 +107,35 @@
       [
         37.6902,
         -77.8101
+      ],
+      [
+        38.3091,
+        -77.0258
       ]
     ]
+  },
+  {
+    "hex": "a3defb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": null,
+    "lat": null,
+    "alt": null,
+    "velocity": 223.98,
+    "heading": 168.74,
+    "trace": []
   },
   {
     "hex": "a2f016",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6142",
-    "lon": -84.1379,
-    "lat": 36.2655,
-    "alt": 10988.04,
-    "velocity": 219.59,
-    "heading": 236.76,
+    "lon": -84.8995,
+    "lat": 35.8564,
+    "alt": 10980.42,
+    "velocity": 221.01,
+    "heading": 236.2,
     "trace": [
       [
         40.3963,
@@ -132,6 +156,10 @@
       [
         36.2655,
         -84.1379
+      ],
+      [
+        35.8564,
+        -84.8995
       ]
     ]
   },
@@ -139,24 +167,29 @@
     "hex": "406b79",
     "name": "AirTanker",
     "category": "Hired Gun",
-    "callsign": "",
-    "lon": null,
-    "lat": null,
-    "alt": null,
-    "velocity": 225.19,
-    "heading": 11.46,
-    "trace": []
+    "callsign": "TOW2231",
+    "lon": -10.6451,
+    "lat": 37.2606,
+    "alt": 11582.4,
+    "velocity": 223.28,
+    "heading": 11.7,
+    "trace": [
+      [
+        37.2606,
+        -10.6451
+      ]
+    ]
   },
   {
     "hex": "600bc4",
     "name": "Gov of Azerbaijan",
     "category": "Dictator Alert",
     "callsign": "AHY614",
-    "lon": 53.7824,
-    "lat": 26.309,
-    "alt": 7650.48,
-    "velocity": 249.27,
-    "heading": 145.85,
+    "lon": 54.4575,
+    "lat": 25.8648,
+    "alt": 5920.74,
+    "velocity": 199.3,
+    "heading": 109.14,
     "trace": [
       [
         27.4622,
@@ -165,6 +198,10 @@
       [
         26.309,
         53.7824
+      ],
+      [
+        25.8648,
+        54.4575
       ]
     ]
   }
