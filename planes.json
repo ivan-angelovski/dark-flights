@@ -1,92 +1,14 @@
 [
   {
-    "hex": "8960b1",
-    "name": "Abu Dhabi Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "AUH11",
-    "lon": 50.6158,
-    "lat": 26.6645,
-    "alt": 10965.18,
-    "velocity": 214.26,
-    "heading": 288.04,
-    "trace": [
-      [
-        24.9732,
-        54.06
-      ],
-      [
-        25.9699,
-        52.4424
-      ],
-      [
-        26.4268,
-        51.3731
-      ],
-      [
-        26.6645,
-        50.6158
-      ]
-    ]
-  },
-  {
-    "hex": "8960b4",
-    "name": "Dubai Air Wing",
-    "category": "Dictator Alert",
-    "callsign": "DUB1",
-    "lon": 6.2997,
-    "lat": 46.2284,
-    "alt": 3124.2,
-    "velocity": 153.51,
-    "heading": 225.27,
-    "trace": [
-      [
-        52.8652,
-        -13.8019
-      ],
-      [
-        52.4587,
-        -11.2318
-      ],
-      [
-        52.2268,
-        -9.9225
-      ],
-      [
-        51.4486,
-        -1.7963
-      ],
-      [
-        50.888,
-        2.5269
-      ],
-      [
-        49.2425,
-        7.1072
-      ],
-      [
-        47.4763,
-        7.5962
-      ],
-      [
-        46.6482,
-        6.7472
-      ],
-      [
-        46.2284,
-        6.2997
-      ]
-    ]
-  },
-  {
     "hex": "a95c2f",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR809",
-    "lon": -77.0258,
-    "lat": 38.3091,
+    "lon": -73.4578,
+    "lat": 40.8397,
     "alt": 11887.2,
-    "velocity": 259.73,
-    "heading": 45.32,
+    "velocity": 262.16,
+    "heading": 49.94,
     "trace": [
       [
         33.626,
@@ -111,6 +33,27 @@
       [
         38.3091,
         -77.0258
+      ],
+      [
+        40.8397,
+        -73.4578
+      ]
+    ]
+  },
+  {
+    "hex": "a1f3aa",
+    "name": "Omni Air International",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": -70.784,
+    "lat": -33.4492,
+    "alt": 1173.48,
+    "velocity": 108.58,
+    "heading": 178.64,
+    "trace": [
+      [
+        -33.4492,
+        -70.784
       ]
     ]
   },
@@ -118,24 +61,29 @@
     "hex": "a3defb",
     "name": "Amerijet International",
     "category": "Hired Gun",
-    "callsign": "",
-    "lon": null,
-    "lat": null,
-    "alt": null,
-    "velocity": 223.98,
-    "heading": 168.74,
-    "trace": []
+    "callsign": "AJT429",
+    "lon": -74.1643,
+    "lat": 4.7225,
+    "alt": 2560.32,
+    "velocity": 84.58,
+    "heading": 126.59,
+    "trace": [
+      [
+        4.7225,
+        -74.1643
+      ]
+    ]
   },
   {
     "hex": "a2f016",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6142",
-    "lon": -84.8995,
-    "lat": 35.8564,
-    "alt": 10980.42,
-    "velocity": 221.01,
-    "heading": 236.2,
+    "lon": -88.035,
+    "lat": 34.0748,
+    "alt": 10972.8,
+    "velocity": 216.55,
+    "heading": 234.57,
     "trace": [
       [
         40.3963,
@@ -160,6 +108,10 @@
       [
         35.8564,
         -84.8995
+      ],
+      [
+        34.0748,
+        -88.035
       ]
     ]
   },
@@ -168,15 +120,36 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2231",
-    "lon": -10.6451,
-    "lat": 37.2606,
+    "lon": -9.7916,
+    "lat": 40.4344,
     "alt": 11582.4,
-    "velocity": 223.28,
-    "heading": 11.7,
+    "velocity": 223.7,
+    "heading": 12.21,
     "trace": [
       [
         37.2606,
         -10.6451
+      ],
+      [
+        40.4344,
+        -9.7916
+      ]
+    ]
+  },
+  {
+    "hex": "a87876",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI8409",
+    "lon": 128.8613,
+    "lat": 37.6494,
+    "alt": 10035.54,
+    "velocity": 252.59,
+    "heading": 120.74,
+    "trace": [
+      [
+        37.6494,
+        128.8613
       ]
     ]
   },
@@ -185,11 +158,11 @@
     "name": "Gov of Azerbaijan",
     "category": "Dictator Alert",
     "callsign": "AHY614",
-    "lon": 54.4575,
-    "lat": 25.8648,
-    "alt": 5920.74,
-    "velocity": 199.3,
-    "heading": 109.14,
+    "lon": 55.4042,
+    "lat": 25.2308,
+    "alt": 15.24,
+    "velocity": 69.7,
+    "heading": 301.11,
     "trace": [
       [
         27.4622,
@@ -202,6 +175,44 @@
       [
         25.8648,
         54.4575
+      ],
+      [
+        25.2308,
+        55.4042
+      ]
+    ]
+  },
+  {
+    "hex": "157713",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD953",
+    "lon": 42.4936,
+    "lat": 57.2466,
+    "alt": 10668,
+    "velocity": 4.15,
+    "heading": 277.13,
+    "trace": [
+      [
+        57.2466,
+        42.4936
+      ]
+    ]
+  },
+  {
+    "hex": "157717",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD477",
+    "lon": 34.0975,
+    "lat": 57.582,
+    "alt": 9738.36,
+    "velocity": 3.13,
+    "heading": 279.46,
+    "trace": [
+      [
+        57.582,
+        34.0975
       ]
     ]
   }
