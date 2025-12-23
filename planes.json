@@ -1,18 +1,39 @@
 [
   {
+    "hex": "89607a",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB6",
+    "lon": 50.4335,
+    "lat": 27.0266,
+    "alt": 11887.2,
+    "velocity": 257.36,
+    "heading": 111.95,
+    "trace": [
+      [
+        27.0266,
+        50.4335
+      ]
+    ]
+  },
+  {
     "hex": "8960b1",
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "AUH11",
-    "lon": 33.6845,
-    "lat": 29.3186,
+    "lon": 30.8972,
+    "lat": 30.5478,
     "alt": 10972.8,
-    "velocity": 196.85,
-    "heading": 287.96,
+    "velocity": 211.46,
+    "heading": 316.87,
     "trace": [
       [
         29.3186,
         33.6845
+      ],
+      [
+        30.5478,
+        30.8972
       ]
     ]
   },
@@ -21,36 +42,36 @@
     "name": "Oman Royal Flight",
     "category": "Dictator Alert",
     "callsign": "ORF3",
-    "lon": 8.7166,
-    "lat": 45.6441,
-    "alt": 655.32,
-    "velocity": 81.46,
-    "heading": 332.14,
+    "lon": 12.3803,
+    "lat": 45.0982,
+    "alt": 12496.8,
+    "velocity": 249.93,
+    "heading": 102.12,
     "trace": [
       [
         45.6441,
         8.7166
+      ],
+      [
+        45.0982,
+        12.3803
       ]
     ]
   },
   {
-    "hex": "406d26",
-    "name": "AirTanker",
-    "category": "Hired Gun",
-    "callsign": "UBT903",
-    "lon": -0.3064,
-    "lat": 51.132,
-    "alt": 434.34,
-    "velocity": 59.83,
-    "heading": 78.59,
+    "hex": "6830a5",
+    "name": "Gov of Kazakhstan",
+    "category": "Dictator Alert",
+    "callsign": "BEC009",
+    "lon": 9.2089,
+    "lat": 48.9725,
+    "alt": 9136.38,
+    "velocity": 219.92,
+    "heading": 16.44,
     "trace": [
       [
-        51.5779,
-        -1.9695
-      ],
-      [
-        51.132,
-        -0.3064
+        48.9725,
+        9.2089
       ]
     ]
   },
@@ -59,11 +80,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR607",
-    "lon": 138.7435,
-    "lat": 37.8293,
-    "alt": 11582.4,
-    "velocity": 214.21,
-    "heading": 246.21,
+    "lon": 135.281,
+    "lat": 36.9901,
+    "alt": 10363.2,
+    "velocity": 214.64,
+    "heading": 253,
     "trace": [
       [
         39.0087,
@@ -72,6 +93,27 @@
       [
         37.8293,
         138.7435
+      ],
+      [
+        36.9901,
+        135.281
+      ]
+    ]
+  },
+  {
+    "hex": "48d981",
+    "name": "Polish Air Force",
+    "category": "Dictator Alert",
+    "callsign": "PLF130",
+    "lon": 18.9687,
+    "lat": 52.5465,
+    "alt": 6286.5,
+    "velocity": 223.39,
+    "heading": 105.22,
+    "trace": [
+      [
+        52.5465,
+        18.9687
       ]
     ]
   },
@@ -80,11 +122,11 @@
     "name": "Polish Government",
     "category": "Dictator Alert",
     "callsign": "PLF110",
-    "lon": 16.8253,
-    "lat": 51.3664,
-    "alt": 4846.32,
-    "velocity": 163.56,
-    "heading": 337.63,
+    "lon": 15.4309,
+    "lat": 53.3666,
+    "alt": 2865.12,
+    "velocity": 137.01,
+    "heading": 318.35,
     "trace": [
       [
         51.4288,
@@ -101,51 +143,27 @@
       [
         51.3664,
         16.8253
+      ],
+      [
+        53.3666,
+        15.4309
       ]
     ]
   },
   {
-    "hex": "406b79",
-    "name": "AirTanker",
+    "hex": "a4d4cc",
+    "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "TOW2231",
-    "lon": -1.6264,
-    "lat": 51.742,
-    "alt": 152.4,
-    "velocity": 60.21,
-    "heading": 73.11,
+    "callsign": "GXA1122",
+    "lon": -73.0038,
+    "lat": 41.0493,
+    "alt": 5143.5,
+    "velocity": 199.73,
+    "heading": 41.45,
     "trace": [
       [
-        37.2606,
-        -10.6451
-      ],
-      [
-        40.4344,
-        -9.7916
-      ],
-      [
-        43.1716,
-        -8.3502
-      ],
-      [
-        44.6151,
-        -7.1147
-      ],
-      [
-        48.3113,
-        -4.7167
-      ],
-      [
-        50.2793,
-        -3.7242
-      ],
-      [
-        51.274,
-        -3.4758
-      ],
-      [
-        51.742,
-        -1.6264
+        41.0493,
+        -73.0038
       ]
     ]
   }
