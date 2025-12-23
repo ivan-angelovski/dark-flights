@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a49951",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT817",
+    "lon": -74.539,
+    "lat": 4.9951,
+    "alt": 3970.02,
+    "velocity": 159.95,
+    "heading": 123.59,
+    "trace": [
+      [
+        4.9951,
+        -74.539
+      ]
+    ]
+  },
+  {
     "hex": "a95c2f",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR809",
-    "lon": -69.7905,
-    "lat": 43.006,
+    "lon": -67.6206,
+    "lat": 44.1144,
     "alt": 11887.2,
-    "velocity": 265.71,
-    "heading": 54.22,
+    "velocity": 272.11,
+    "heading": 55.71,
     "trace": [
       [
         33.626,
@@ -41,6 +58,10 @@
       [
         43.006,
         -69.7905
+      ],
+      [
+        44.1144,
+        -67.6206
       ]
     ]
   },
@@ -49,28 +70,44 @@
     "name": "Bahrain Defence Force",
     "category": "Dictator Alert",
     "callsign": "BAH53",
-    "lon": 53.6928,
-    "lat": 25.069,
-    "alt": 7018.02,
-    "velocity": 192.81,
-    "heading": 305,
+    "lon": 52.3606,
+    "lat": 25.8288,
+    "alt": 7383.78,
+    "velocity": 203.85,
+    "heading": 297.02,
     "trace": [
       [
         25.069,
         53.6928
+      ],
+      [
+        25.8288,
+        52.3606
       ]
     ]
+  },
+  {
+    "hex": "89407f",
+    "name": "Bahrain Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "",
+    "lon": null,
+    "lat": null,
+    "alt": null,
+    "velocity": 106.18,
+    "heading": 150.7,
+    "trace": []
   },
   {
     "hex": "a2f016",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6142",
-    "lon": -90.7858,
-    "lat": 32.3787,
-    "alt": 10972.8,
-    "velocity": 229.55,
-    "heading": 232.92,
+    "lon": -92.3159,
+    "lat": 31.3798,
+    "alt": 10980.42,
+    "velocity": 229.89,
+    "heading": 232.18,
     "trace": [
       [
         40.3963,
@@ -103,6 +140,27 @@
       [
         32.3787,
         -90.7858
+      ],
+      [
+        31.3798,
+        -92.3159
+      ]
+    ]
+  },
+  {
+    "hex": "48d981",
+    "name": "Polish Air Force",
+    "category": "Dictator Alert",
+    "callsign": "PLF130",
+    "lon": 20.4517,
+    "lat": 52.1373,
+    "alt": 4960.62,
+    "velocity": 171.91,
+    "heading": 276.53,
+    "trace": [
+      [
+        52.1373,
+        20.4517
       ]
     ]
   },
@@ -111,11 +169,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2231",
-    "lon": -8.3502,
-    "lat": 43.1716,
+    "lon": -7.1147,
+    "lat": 44.6151,
     "alt": 11582.4,
-    "velocity": 235.04,
-    "heading": 31.39,
+    "velocity": 238.52,
+    "heading": 32.04,
     "trace": [
       [
         37.2606,
@@ -128,6 +186,10 @@
       [
         43.1716,
         -8.3502
+      ],
+      [
+        44.6151,
+        -7.1147
       ]
     ]
   },
@@ -136,11 +198,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8409",
-    "lon": 132.5783,
-    "lat": 36.3338,
-    "alt": 11277.6,
-    "velocity": 261.68,
-    "heading": 92.93,
+    "lon": 134.8862,
+    "lat": 36.3949,
+    "alt": 11285.22,
+    "velocity": 266.65,
+    "heading": 63.78,
     "trace": [
       [
         37.6494,
@@ -149,6 +211,10 @@
       [
         36.3338,
         132.5783
+      ],
+      [
+        36.3949,
+        134.8862
       ]
     ]
   },
@@ -157,8 +223,8 @@
     "name": "Russia Special Flight Detachment",
     "category": "Dictator Alert",
     "callsign": "RSD477",
-    "lon": 32.3208,
-    "lat": 59.794,
+    "lon": 32.321,
+    "lat": 59.7938,
     "alt": 1371.6,
     "velocity": 40.85,
     "heading": 143.71,
@@ -170,6 +236,10 @@
       [
         59.794,
         32.3208
+      ],
+      [
+        59.7938,
+        32.321
       ]
     ]
   }
