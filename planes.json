@@ -1,18 +1,35 @@
 [
   {
-    "hex": "894011",
-    "name": "Bahrain Defence Force",
-    "category": "Dictator Alert",
-    "callsign": "BAH09",
-    "lon": 49.6735,
-    "lat": 27.5143,
-    "alt": 6713.22,
-    "velocity": 191.11,
-    "heading": 319.15,
+    "hex": "a95c2f",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR830",
+    "lon": -84.4285,
+    "lat": 33.6267,
+    "alt": null,
+    "velocity": 0,
+    "heading": 0,
     "trace": [
       [
-        27.5143,
-        49.6735
+        33.6267,
+        -84.4285
+      ]
+    ]
+  },
+  {
+    "hex": "710100",
+    "name": "Saudi Ministry of Finance",
+    "category": "Dictator Alert",
+    "callsign": "SVA933",
+    "lon": 31.4011,
+    "lat": 30.0856,
+    "alt": 10363.2,
+    "velocity": 234.28,
+    "heading": 314.29,
+    "trace": [
+      [
+        30.0856,
+        31.4011
       ]
     ]
   },
@@ -21,15 +38,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR508",
-    "lon": 113.4734,
-    "lat": 22.06,
-    "alt": 6035.04,
-    "velocity": 232.45,
-    "heading": 135.09,
+    "lon": 113.9271,
+    "lat": 22.3016,
+    "alt": null,
+    "velocity": 4.12,
+    "heading": 236.25,
     "trace": [
       [
         22.06,
         113.4734
+      ],
+      [
+        22.3016,
+        113.9271
       ]
     ]
   }
