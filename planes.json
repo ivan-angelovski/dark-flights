@@ -1,18 +1,56 @@
 [
   {
+    "hex": "a0d062",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "BWA8042",
+    "lon": -79.6933,
+    "lat": 24.6949,
+    "alt": 7917.18,
+    "velocity": 264.91,
+    "heading": 157.87,
+    "trace": [
+      [
+        24.6949,
+        -79.6933
+      ]
+    ]
+  },
+  {
+    "hex": "a49951",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT8341",
+    "lon": -72.5503,
+    "lat": 22.132,
+    "alt": 11277.6,
+    "velocity": 283.01,
+    "heading": 119.03,
+    "trace": [
+      [
+        22.132,
+        -72.5503
+      ]
+    ]
+  },
+  {
     "hex": "a95c2f",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR830",
-    "lon": -84.4285,
-    "lat": 33.6267,
+    "lon": -84.4196,
+    "lat": 33.6336,
     "alt": null,
-    "velocity": 0,
-    "heading": 0,
+    "velocity": 7.46,
+    "heading": 90,
     "trace": [
       [
         33.6267,
         -84.4285
+      ],
+      [
+        33.6336,
+        -84.4196
       ]
     ]
   },
@@ -21,36 +59,19 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA933",
-    "lon": 31.4011,
-    "lat": 30.0856,
+    "lon": 30.0597,
+    "lat": 31.158,
     "alt": 10363.2,
-    "velocity": 234.28,
-    "heading": 314.29,
+    "velocity": 224.71,
+    "heading": 287.31,
     "trace": [
       [
         30.0856,
         31.4011
-      ]
-    ]
-  },
-  {
-    "hex": "acb84d",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR508",
-    "lon": 113.9271,
-    "lat": 22.3016,
-    "alt": null,
-    "velocity": 4.12,
-    "heading": 236.25,
-    "trace": [
-      [
-        22.06,
-        113.4734
       ],
       [
-        22.3016,
-        113.9271
+        31.158,
+        30.0597
       ]
     ]
   }
