@@ -4,15 +4,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR607",
-    "lon": 126.4679,
-    "lat": 35.6608,
+    "lon": 125.6305,
+    "lat": 33.446,
     "alt": 11582.4,
-    "velocity": 226.66,
-    "heading": 189.14,
+    "velocity": 208.88,
+    "heading": 198.52,
     "trace": [
       [
         35.6608,
         126.4679
+      ],
+      [
+        33.446,
+        125.6305
       ]
     ]
   },
@@ -21,15 +25,19 @@
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "AUH11",
-    "lon": 11.7998,
-    "lat": 42.9331,
+    "lon": 11.5336,
+    "lat": 45.1366,
     "alt": 7315.2,
-    "velocity": 205.22,
-    "heading": 333.82,
+    "velocity": 206.12,
+    "heading": 356.71,
     "trace": [
       [
         42.9331,
         11.7998
+      ],
+      [
+        45.1366,
+        11.5336
       ]
     ]
   },
@@ -38,11 +46,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR830",
-    "lon": -79.3329,
-    "lat": 36.4273,
+    "lon": -76.5304,
+    "lat": 38.1203,
     "alt": 12496.8,
-    "velocity": 250.78,
-    "heading": 52.17,
+    "velocity": 249.93,
+    "heading": 53.79,
     "trace": [
       [
         33.6267,
@@ -63,23 +71,10 @@
       [
         36.4273,
         -79.3329
-      ]
-    ]
-  },
-  {
-    "hex": "894081",
-    "name": "Bahrain Defence Force",
-    "category": "Dictator Alert",
-    "callsign": "BAH11",
-    "lon": 50.7284,
-    "lat": 25.8258,
-    "alt": 563.88,
-    "velocity": 92.26,
-    "heading": 243.86,
-    "trace": [
+      ],
       [
-        25.8258,
-        50.7284
+        38.1203,
+        -76.5304
       ]
     ]
   },
@@ -88,15 +83,19 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA933",
-    "lon": 26.4927,
-    "lat": 36.6492,
-    "alt": 10363.2,
-    "velocity": 242.76,
-    "heading": 332.35,
+    "lon": 24.7925,
+    "lat": 38.9575,
+    "alt": 10774.68,
+    "velocity": 242.5,
+    "heading": 327.83,
     "trace": [
       [
         36.6492,
         26.4927
+      ],
+      [
+        38.9575,
+        24.7925
       ]
     ]
   },
@@ -105,15 +104,36 @@
     "name": "Kalitta Charters II",
     "category": "Hired Gun",
     "callsign": "KII614",
-    "lon": -87.0923,
-    "lat": 39.3204,
+    "lon": -88.1472,
+    "lat": 41.2205,
     "alt": 9144,
-    "velocity": 185.22,
-    "heading": 322.33,
+    "velocity": 186.38,
+    "heading": 338.46,
     "trace": [
       [
         39.3204,
         -87.0923
+      ],
+      [
+        41.2205,
+        -88.1472
+      ]
+    ]
+  },
+  {
+    "hex": "157712",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD956",
+    "lon": 46.1604,
+    "lat": 55.7991,
+    "alt": 10668,
+    "velocity": 4.12,
+    "heading": 270,
+    "trace": [
+      [
+        55.7991,
+        46.1604
       ]
     ]
   }
