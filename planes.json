@@ -1,14 +1,31 @@
 [
   {
+    "hex": "8960b1",
+    "name": "Abu Dhabi Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "AUH11",
+    "lon": 13.181,
+    "lat": 35.9048,
+    "alt": 10668,
+    "velocity": 279.51,
+    "heading": 96.34,
+    "trace": [
+      [
+        35.9048,
+        13.181
+      ]
+    ]
+  },
+  {
     "hex": "a95c2f",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR867",
-    "lon": 24.4434,
-    "lat": 45.5455,
-    "alt": 11887.2,
-    "velocity": 243.88,
-    "heading": 120.13,
+    "lon": 27.5691,
+    "lat": 44.1946,
+    "alt": 12496.8,
+    "velocity": 253.19,
+    "heading": 122.3,
     "trace": [
       [
         55.8057,
@@ -61,6 +78,10 @@
       [
         45.5455,
         24.4434
+      ],
+      [
+        44.1946,
+        27.5691
       ]
     ]
   },
@@ -69,11 +90,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR809",
-    "lon": -77.3757,
-    "lat": 45.5125,
+    "lon": -74.2918,
+    "lat": 46.8012,
     "alt": 8229.6,
-    "velocity": 241.08,
-    "heading": 57.9,
+    "velocity": 240.18,
+    "heading": 59.92,
     "trace": [
       [
         42.7996,
@@ -90,6 +111,44 @@
       [
         45.5125,
         -77.3757
+      ],
+      [
+        46.8012,
+        -74.2918
+      ]
+    ]
+  },
+  {
+    "hex": "a86e85",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA202",
+    "lon": -79.5672,
+    "lat": 25.538,
+    "alt": 5516.88,
+    "velocity": 209.14,
+    "heading": 116.12,
+    "trace": [
+      [
+        25.538,
+        -79.5672
+      ]
+    ]
+  },
+  {
+    "hex": "ab7437",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6181",
+    "lon": -81.4899,
+    "lat": 26.8942,
+    "alt": 9044.94,
+    "velocity": 229.6,
+    "heading": 316.36,
+    "trace": [
+      [
+        26.8942,
+        -81.4899
       ]
     ]
   },
@@ -98,11 +157,11 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7MBK",
-    "lon": 1.4132,
-    "lat": 44.2464,
-    "alt": 10683.24,
-    "velocity": 213.23,
-    "heading": 223.63,
+    "lon": -0.6094,
+    "lat": 42.5059,
+    "alt": 10668,
+    "velocity": 226.22,
+    "heading": 210.47,
     "trace": [
       [
         45.4292,
@@ -115,6 +174,10 @@
       [
         44.2464,
         1.4132
+      ],
+      [
+        42.5059,
+        -0.6094
       ]
     ]
   }
