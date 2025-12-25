@@ -1,71 +1,39 @@
 [
   {
-    "hex": "ad3c48",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR852",
-    "lon": -97.0547,
-    "lat": 32.9047,
-    "alt": 160.02,
-    "velocity": 69.45,
-    "heading": 179.58,
-    "trace": [
-      [
-        41.99,
-        -87.9123
-      ],
-      [
-        40.6469,
-        -88.664
-      ],
-      [
-        39.5133,
-        -89.8325
-      ],
-      [
-        38.7848,
-        -90.5939
-      ],
-      [
-        38.1806,
-        -91.3671
-      ],
-      [
-        36.6953,
-        -92.9475
-      ],
-      [
-        34.3309,
-        -95.3807
-      ],
-      [
-        33.2959,
-        -96.5318
-      ],
-      [
-        33.2141,
-        -97.0241
-      ],
-      [
-        32.9047,
-        -97.0547
-      ]
-    ]
-  },
-  {
     "hex": "710333",
     "name": "Gov of Saudi Arabia",
     "category": "Dictator Alert",
     "callsign": "SRA318",
-    "lon": -73.809,
-    "lat": 40.6476,
+    "lon": -73.7749,
+    "lat": 40.6317,
     "alt": null,
-    "velocity": 5.4,
+    "velocity": 0.06,
     "heading": 120.94,
     "trace": [
       [
         40.6476,
         -73.809
+      ],
+      [
+        40.6317,
+        -73.7749
+      ]
+    ]
+  },
+  {
+    "hex": "a047d4",
+    "name": "US Department of Energy",
+    "category": "Nuclear",
+    "callsign": "N117SR",
+    "lon": -81.6574,
+    "lat": 33.2164,
+    "alt": 297.18,
+    "velocity": 38.67,
+    "heading": 273.81,
+    "trace": [
+      [
+        33.2164,
+        -81.6574
       ]
     ]
   },
@@ -74,11 +42,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6142",
-    "lon": -92.108,
-    "lat": 30.7456,
-    "alt": 7315.2,
-    "velocity": 210.32,
-    "heading": 228.67,
+    "lon": -94.2304,
+    "lat": 29.0889,
+    "alt": 9144,
+    "velocity": 225.04,
+    "heading": 227.59,
     "trace": [
       [
         40.7023,
@@ -135,6 +103,10 @@
       [
         30.7456,
         -92.108
+      ],
+      [
+        29.0889,
+        -94.2304
       ]
     ]
   },
@@ -143,15 +115,19 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA131",
-    "lon": -90.1294,
-    "lat": 38.733,
-    "alt": 2377.44,
-    "velocity": 160.93,
-    "heading": 82.28,
+    "lon": -87.0189,
+    "lat": 39.4776,
+    "alt": 11887.2,
+    "velocity": 233.75,
+    "heading": 63.04,
     "trace": [
       [
         38.733,
         -90.1294
+      ],
+      [
+        39.4776,
+        -87.0189
       ]
     ]
   },
@@ -160,11 +136,11 @@
     "name": "Gov of Saudi Arabia",
     "category": "Dictator Alert",
     "callsign": "SVA7148",
-    "lon": 2.2591,
-    "lat": 41.3688,
+    "lon": 5.8362,
+    "lat": 40.5889,
     "alt": 10972.8,
-    "velocity": 251.51,
-    "heading": 98.11,
+    "velocity": 260.41,
+    "heading": 98.98,
     "trace": [
       [
         44.8318,
@@ -193,6 +169,10 @@
       [
         41.3688,
         2.2591
+      ],
+      [
+        40.5889,
+        5.8362
       ]
     ]
   }
