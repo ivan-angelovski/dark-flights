@@ -1,18 +1,18 @@
 [
   {
-    "hex": "8002cd",
-    "name": "Gov of India",
-    "category": "Dictator Alert",
-    "callsign": "VUAVU",
-    "lon": 77.5898,
-    "lat": 31.8901,
-    "alt": 10668,
-    "velocity": 245.98,
-    "heading": 3.96,
+    "hex": "ad3c48",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR831",
+    "lon": -80.9998,
+    "lat": 15.3583,
+    "alt": 10058.4,
+    "velocity": 265.61,
+    "heading": 133.74,
     "trace": [
       [
-        31.8901,
-        77.5898
+        15.3583,
+        -80.9998
       ]
     ]
   },
@@ -21,11 +21,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6233",
-    "lon": -102.5974,
-    "lat": 32.7808,
-    "alt": 11894.82,
-    "velocity": 247.05,
-    "heading": 112.4,
+    "lon": -99.7578,
+    "lat": 31.7273,
+    "alt": 11026.14,
+    "velocity": 252.41,
+    "heading": 111.02,
     "trace": [
       [
         34.3857,
@@ -34,6 +34,61 @@
       [
         32.7808,
         -102.5974
+      ],
+      [
+        31.7273,
+        -99.7578
+      ]
+    ]
+  },
+  {
+    "hex": "89629f",
+    "name": "Abu Dhabi Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "AUH02",
+    "lon": 56.1689,
+    "lat": 23.8118,
+    "alt": 10058.4,
+    "velocity": 284.86,
+    "heading": 117.54,
+    "trace": [
+      [
+        23.8118,
+        56.1689
+      ]
+    ]
+  },
+  {
+    "hex": "a9c52e",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR660",
+    "lon": 132.5927,
+    "lat": 35.1406,
+    "alt": 9448.8,
+    "velocity": 295.25,
+    "heading": 60,
+    "trace": [
+      [
+        35.1406,
+        132.5927
+      ]
+    ]
+  },
+  {
+    "hex": "a4cb6f",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI812",
+    "lon": -171.5359,
+    "lat": 58.7089,
+    "alt": 10668,
+    "velocity": 265.49,
+    "heading": 68.76,
+    "trace": [
+      [
+        58.7089,
+        -171.5359
       ]
     ]
   },
@@ -42,11 +97,16 @@
     "name": "Gov of Saudi Arabia",
     "category": "Dictator Alert",
     "callsign": "SVA7114",
-    "lon": null,
-    "lat": null,
-    "alt": null,
-    "velocity": 220.87,
-    "heading": 321.72,
-    "trace": []
+    "lon": 24.3468,
+    "lat": 36.519,
+    "alt": 10363.2,
+    "velocity": 216.71,
+    "heading": 320.49,
+    "trace": [
+      [
+        36.519,
+        24.3468
+      ]
+    ]
   }
 ]
