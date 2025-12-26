@@ -4,11 +4,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR831",
-    "lon": -56.3519,
-    "lat": -14.5056,
+    "lon": -55.4502,
+    "lat": -15.5744,
     "alt": 11277.6,
-    "velocity": 254.53,
-    "heading": 140.91,
+    "velocity": 253.99,
+    "heading": 140.51,
     "trace": [
       [
         -12.8414,
@@ -17,6 +17,10 @@
       [
         -14.5056,
         -56.3519
+      ],
+      [
+        -15.5744,
+        -55.4502
       ]
     ]
   },
@@ -25,11 +29,11 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA7117",
-    "lon": 6.3613,
-    "lat": 45.8268,
-    "alt": 10668,
-    "velocity": 210.58,
-    "heading": 128.35,
+    "lon": 7.6066,
+    "lat": 45.116,
+    "alt": 11277.6,
+    "velocity": 209.72,
+    "heading": 129.63,
     "trace": [
       [
         52.7125,
@@ -62,6 +66,10 @@
       [
         45.8268,
         6.3613
+      ],
+      [
+        45.116,
+        7.6066
       ]
     ]
   },
@@ -70,15 +78,53 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR870",
-    "lon": 56.8946,
-    "lat": 24.8349,
-    "alt": 7589.52,
-    "velocity": 209.31,
-    "heading": 292.09,
+    "lon": 56.0343,
+    "lat": 25.248,
+    "alt": 2766.06,
+    "velocity": 127.94,
+    "heading": 292.96,
     "trace": [
       [
         24.8349,
         56.8946
+      ],
+      [
+        25.248,
+        56.0343
+      ]
+    ]
+  },
+  {
+    "hex": "a9c52e",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR660",
+    "lon": -172.8506,
+    "lat": 58.433,
+    "alt": 10058.4,
+    "velocity": 282.79,
+    "heading": 67.54,
+    "trace": [
+      [
+        58.433,
+        -172.8506
+      ]
+    ]
+  },
+  {
+    "hex": "010148",
+    "name": "Government of Egypt",
+    "category": "Dictator Alert",
+    "callsign": "SUBRG",
+    "lon": 31.5885,
+    "lat": 29.3052,
+    "alt": 9296.4,
+    "velocity": 226.85,
+    "heading": 156.05,
+    "trace": [
+      [
+        29.3052,
+        31.5885
       ]
     ]
   },
@@ -87,15 +133,19 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI812",
-    "lon": -133.6388,
-    "lat": 58.6872,
+    "lon": -130.9967,
+    "lat": 58.2494,
     "alt": 10668,
-    "velocity": 270.4,
-    "heading": 107.61,
+    "velocity": 270.53,
+    "heading": 103.19,
     "trace": [
       [
         58.6872,
         -133.6388
+      ],
+      [
+        58.2494,
+        -130.9967
       ]
     ]
   },
@@ -104,11 +154,11 @@
     "name": "C2D LLC",
     "category": "Hired Gun",
     "callsign": "GRB472",
-    "lon": -80.0488,
-    "lat": 36.1712,
+    "lon": -78.8366,
+    "lat": 36.9847,
     "alt": 13693.14,
-    "velocity": 237.19,
-    "heading": 54,
+    "velocity": 235.32,
+    "heading": 48.01,
     "trace": [
       [
         34.8992,
@@ -117,23 +167,10 @@
       [
         36.1712,
         -80.0488
-      ]
-    ]
-  },
-  {
-    "hex": "acb84d",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR556",
-    "lon": 116.8259,
-    "lat": 21.7231,
-    "alt": 10972.8,
-    "velocity": 205.12,
-    "heading": 220.32,
-    "trace": [
+      ],
       [
-        21.7231,
-        116.8259
+        36.9847,
+        -78.8366
       ]
     ]
   }
