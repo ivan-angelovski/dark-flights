@@ -1,18 +1,39 @@
 [
   {
+    "hex": "a95c2f",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR836",
+    "lon": 25.4736,
+    "lat": 44.6901,
+    "alt": 10980.42,
+    "velocity": 242.71,
+    "heading": 300.86,
+    "trace": [
+      [
+        44.6901,
+        25.4736
+      ]
+    ]
+  },
+  {
     "hex": "a047d4",
     "name": "US Department of Energy",
     "category": "Nuclear",
     "callsign": "N117SR",
-    "lon": -81.4751,
-    "lat": 33.2869,
-    "alt": 327.66,
-    "velocity": 48.24,
-    "heading": 352.65,
+    "lon": -81.7436,
+    "lat": 33.3368,
+    "alt": 342.9,
+    "velocity": 48.82,
+    "heading": 187.87,
     "trace": [
       [
         33.2869,
         -81.4751
+      ],
+      [
+        33.3368,
+        -81.7436
       ]
     ]
   },
@@ -21,11 +42,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA616",
-    "lon": -90.0104,
-    "lat": 46.3238,
-    "alt": 10972.8,
-    "velocity": 182.65,
-    "heading": 269.19,
+    "lon": -91.847,
+    "lat": 46.2909,
+    "alt": 10965.18,
+    "velocity": 173.52,
+    "heading": 267.62,
     "trace": [
       [
         42.4685,
@@ -70,6 +91,10 @@
       [
         46.3238,
         -90.0104
+      ],
+      [
+        46.2909,
+        -91.847
       ]
     ]
   },
@@ -78,11 +103,11 @@
     "name": "Phoenix Air",
     "category": "Hired Gun",
     "callsign": "48GL",
-    "lon": -91.4305,
-    "lat": 37.6866,
+    "lon": -92.8271,
+    "lat": 38.5875,
     "alt": 13106.4,
-    "velocity": 206.03,
-    "heading": 309.73,
+    "velocity": 199.33,
+    "heading": 309.03,
     "trace": [
       [
         28.1074,
@@ -119,31 +144,52 @@
       [
         37.6866,
         -91.4305
+      ],
+      [
+        38.5875,
+        -92.8271
       ]
     ]
   },
   {
-    "hex": "ad7274",
-    "name": "Global Crossing Airlines",
+    "hex": "a0c62d",
+    "name": "Eastern Air Express",
     "category": "Hired Gun",
     "callsign": "",
     "lon": null,
     "lat": null,
     "alt": null,
-    "velocity": 227.63,
-    "heading": 340.46,
+    "velocity": 214,
+    "heading": 348.07,
     "trace": []
+  },
+  {
+    "hex": "ad7274",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6129",
+    "lon": -91.2628,
+    "lat": 28.2772,
+    "alt": 10363.2,
+    "velocity": 217.25,
+    "heading": 340.06,
+    "trace": [
+      [
+        28.2772,
+        -91.2628
+      ]
+    ]
   },
   {
     "hex": "06a001",
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7HHK",
-    "lon": -65.8026,
-    "lat": 48.8864,
-    "alt": 11887.2,
-    "velocity": 241.18,
-    "heading": 224.57,
+    "lon": -68.0037,
+    "lat": 47.2155,
+    "alt": 11894.82,
+    "velocity": 245.02,
+    "heading": 206.83,
     "trace": [
       [
         49.9444,
@@ -152,6 +198,10 @@
       [
         48.8864,
         -65.8026
+      ],
+      [
+        47.2155,
+        -68.0037
       ]
     ]
   },
@@ -160,11 +210,11 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7AAH",
-    "lon": -79.1004,
-    "lat": 47.6736,
+    "lon": -81.191,
+    "lat": 47.0843,
     "alt": 10972.8,
-    "velocity": 213.8,
-    "heading": 248.25,
+    "velocity": 222.17,
+    "heading": 246.82,
     "trace": [
       [
         48.7466,
@@ -177,6 +227,10 @@
       [
         47.6736,
         -79.1004
+      ],
+      [
+        47.0843,
+        -81.191
       ]
     ]
   },
@@ -185,15 +239,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR860",
-    "lon": -133.0237,
-    "lat": 58.5845,
+    "lon": -130.0337,
+    "lat": 58.1,
     "alt": 10058.4,
-    "velocity": 292.67,
-    "heading": 108.02,
+    "velocity": 281.96,
+    "heading": 106.32,
     "trace": [
       [
         58.5845,
         -133.0237
+      ],
+      [
+        58.1,
+        -130.0337
       ]
     ]
   },
@@ -201,12 +259,12 @@
     "hex": "71012e",
     "name": "Gov of Saudi Arabia",
     "category": "Dictator Alert",
-    "callsign": "SVA7114",
-    "lon": -73.7849,
-    "lat": 40.6361,
+    "callsign": "",
+    "lon": -73.7696,
+    "lat": 40.6313,
     "alt": null,
-    "velocity": 7.72,
-    "heading": 120.94,
+    "velocity": 0.9,
+    "heading": 191.25,
     "trace": [
       [
         40.6526,
@@ -215,6 +273,10 @@
       [
         40.6361,
         -73.7849
+      ],
+      [
+        40.6313,
+        -73.7696
       ]
     ]
   }
