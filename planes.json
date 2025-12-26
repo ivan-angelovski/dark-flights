@@ -1,39 +1,14 @@
 [
   {
-    "hex": "ad3c48",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR831",
-    "lon": -47.2389,
-    "lat": -23.0597,
-    "alt": 2819.4,
-    "velocity": 152.19,
-    "heading": 127.72,
-    "trace": [
-      [
-        -21.3802,
-        -49.4942
-      ],
-      [
-        -21.8936,
-        -48.7482
-      ],
-      [
-        -23.0597,
-        -47.2389
-      ]
-    ]
-  },
-  {
     "hex": "7101e3",
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA7117",
-    "lon": 17.7189,
-    "lat": 38.0466,
+    "lon": 20.0295,
+    "lat": 36.4728,
     "alt": 11277.6,
-    "velocity": 258.4,
-    "heading": 136.77,
+    "velocity": 265.83,
+    "heading": 123.07,
     "trace": [
       [
         52.7125,
@@ -94,23 +69,10 @@
       [
         38.0466,
         17.7189
-      ]
-    ]
-  },
-  {
-    "hex": "89629f",
-    "name": "Abu Dhabi Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "AUH02",
-    "lon": 71.6015,
-    "lat": 29.7876,
-    "alt": 9753.6,
-    "velocity": 223.62,
-    "heading": 219.59,
-    "trace": [
+      ],
       [
-        29.7876,
-        71.6015
+        36.4728,
+        20.0295
       ]
     ]
   },
@@ -119,11 +81,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI7065",
-    "lon": -93.0728,
-    "lat": 31.8988,
-    "alt": 9753.6,
-    "velocity": 237.99,
-    "heading": 213.45,
+    "lon": -94.2662,
+    "lat": 30.3245,
+    "alt": 9761.22,
+    "velocity": 236.74,
+    "heading": 212.76,
     "trace": [
       [
         34.3184,
@@ -136,6 +98,10 @@
       [
         31.8988,
         -93.0728
+      ],
+      [
+        30.3245,
+        -94.2662
       ]
     ]
   },
@@ -144,15 +110,36 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT8541",
-    "lon": -80.1761,
-    "lat": 25.6033,
-    "alt": 4168.14,
-    "velocity": 211.01,
-    "heading": 88.32,
+    "lon": -78.3683,
+    "lat": 25.0253,
+    "alt": 10683.24,
+    "velocity": 247.36,
+    "heading": 115.5,
     "trace": [
       [
         25.6033,
         -80.1761
+      ],
+      [
+        25.0253,
+        -78.3683
+      ]
+    ]
+  },
+  {
+    "hex": "06a014",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "A7HHJ",
+    "lon": 36.5255,
+    "lat": 33.8065,
+    "alt": 11582.4,
+    "velocity": 205.68,
+    "heading": 5.45,
+    "trace": [
+      [
+        33.8065,
+        36.5255
       ]
     ]
   },
@@ -161,11 +148,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR660",
-    "lon": -150.1767,
-    "lat": 61.1675,
-    "alt": 434.34,
-    "velocity": 80.77,
-    "heading": 90,
+    "lon": -150.0015,
+    "lat": 61.1866,
+    "alt": null,
+    "velocity": 0,
+    "heading": 329.06,
     "trace": [
       [
         58.433,
@@ -194,6 +181,10 @@
       [
         61.1675,
         -150.1767
+      ],
+      [
+        61.1866,
+        -150.0015
       ]
     ]
   },
@@ -202,11 +193,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI812",
-    "lon": -110.2744,
-    "lat": 54.0955,
+    "lon": -107.11,
+    "lat": 53.2364,
     "alt": 10668,
-    "velocity": 263.85,
-    "heading": 113.32,
+    "velocity": 262.76,
+    "heading": 115.76,
     "trace": [
       [
         55.0448,
@@ -215,6 +206,10 @@
       [
         54.0955,
         -110.2744
+      ],
+      [
+        53.2364,
+        -107.11
       ]
     ]
   }
