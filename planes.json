@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a047d4",
+    "name": "US Department of Energy",
+    "category": "Nuclear",
+    "callsign": "N117SR",
+    "lon": -81.4751,
+    "lat": 33.2869,
+    "alt": 327.66,
+    "velocity": 48.24,
+    "heading": 352.65,
+    "trace": [
+      [
+        33.2869,
+        -81.4751
+      ]
+    ]
+  },
+  {
     "hex": "a2d615",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA616",
-    "lon": -87.6806,
-    "lat": 46.323,
+    "lon": -90.0104,
+    "lat": 46.3238,
     "alt": 10972.8,
-    "velocity": 188.3,
-    "heading": 270.78,
+    "velocity": 182.65,
+    "heading": 269.19,
     "trace": [
       [
         42.4685,
@@ -49,6 +66,10 @@
       [
         46.323,
         -87.6806
+      ],
+      [
+        46.3238,
+        -90.0104
       ]
     ]
   },
@@ -57,11 +78,11 @@
     "name": "Phoenix Air",
     "category": "Hired Gun",
     "callsign": "48GL",
-    "lon": -89.7367,
-    "lat": 36.541,
+    "lon": -91.4305,
+    "lat": 37.6866,
     "alt": 13106.4,
-    "velocity": 207.91,
-    "heading": 310.79,
+    "velocity": 206.03,
+    "heading": 309.73,
     "trace": [
       [
         28.1074,
@@ -94,44 +115,43 @@
       [
         36.541,
         -89.7367
+      ],
+      [
+        37.6866,
+        -91.4305
       ]
     ]
   },
   {
-    "hex": "a86e85",
+    "hex": "ad7274",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "GXA201",
-    "lon": -74.2859,
-    "lat": 21.2964,
-    "alt": 10355.58,
-    "velocity": 223.78,
-    "heading": 318.54,
-    "trace": [
-      [
-        20.7174,
-        -73.7463
-      ],
-      [
-        21.2964,
-        -74.2859
-      ]
-    ]
+    "callsign": "",
+    "lon": null,
+    "lat": null,
+    "alt": null,
+    "velocity": 227.63,
+    "heading": 340.46,
+    "trace": []
   },
   {
     "hex": "06a001",
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7HHK",
-    "lon": -64.1545,
-    "lat": 49.9444,
+    "lon": -65.8026,
+    "lat": 48.8864,
     "alt": 11887.2,
-    "velocity": 241.95,
-    "heading": 226.12,
+    "velocity": 241.18,
+    "heading": 224.57,
     "trace": [
       [
         49.9444,
         -64.1545
+      ],
+      [
+        48.8864,
+        -65.8026
       ]
     ]
   },
@@ -140,11 +160,11 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7AAH",
-    "lon": -76.5848,
-    "lat": 48.316,
+    "lon": -79.1004,
+    "lat": 47.6736,
     "alt": 10972.8,
-    "velocity": 209.43,
-    "heading": 250.19,
+    "velocity": 213.8,
+    "heading": 248.25,
     "trace": [
       [
         48.7466,
@@ -153,6 +173,27 @@
       [
         48.316,
         -76.5848
+      ],
+      [
+        47.6736,
+        -79.1004
+      ]
+    ]
+  },
+  {
+    "hex": "a9c52e",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR860",
+    "lon": -133.0237,
+    "lat": 58.5845,
+    "alt": 10058.4,
+    "velocity": 292.67,
+    "heading": 108.02,
+    "trace": [
+      [
+        58.5845,
+        -133.0237
       ]
     ]
   },
@@ -161,60 +202,19 @@
     "name": "Gov of Saudi Arabia",
     "category": "Dictator Alert",
     "callsign": "SVA7114",
-    "lon": -73.8162,
-    "lat": 40.6526,
+    "lon": -73.7849,
+    "lat": 40.6361,
     "alt": null,
-    "velocity": 1.54,
-    "heading": 286.88,
+    "velocity": 7.72,
+    "heading": 120.94,
     "trace": [
       [
         40.6526,
         -73.8162
-      ]
-    ]
-  },
-  {
-    "hex": "ab8560",
-    "name": "Wheels Up Private Jets",
-    "category": "Hired Gun",
-    "callsign": "WUP841",
-    "lon": -74.1216,
-    "lat": 40.1839,
-    "alt": null,
-    "velocity": 7.72,
-    "heading": 132.19,
-    "trace": [
-      [
-        34.4538,
-        -80.3682
       ],
       [
-        35.6741,
-        -79.1473
-      ],
-      [
-        36.4364,
-        -78.3773
-      ],
-      [
-        36.8566,
-        -77.944
-      ],
-      [
-        37.3225,
-        -77.5429
-      ],
-      [
-        38.6671,
-        -75.6455
-      ],
-      [
-        40.0434,
-        -73.9742
-      ],
-      [
-        40.1839,
-        -74.1216
+        40.6361,
+        -73.7849
       ]
     ]
   }
