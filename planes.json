@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a49951",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT863",
+    "lon": -73.4945,
+    "lat": 22.0379,
+    "alt": 10668,
+    "velocity": 256.67,
+    "heading": 125.54,
+    "trace": [
+      [
+        22.0379,
+        -73.4945
+      ]
+    ]
+  },
+  {
     "hex": "a95c2f",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR836",
-    "lon": -85.3305,
-    "lat": 44.998,
+    "lon": -86.3933,
+    "lat": 43.9104,
     "alt": 10363.2,
-    "velocity": 223.96,
-    "heading": 215.37,
+    "velocity": 224.47,
+    "heading": 214.64,
     "trace": [
       [
         49.9471,
@@ -29,27 +46,27 @@
       [
         44.998,
         -85.3305
+      ],
+      [
+        43.9104,
+        -86.3933
       ]
     ]
   },
   {
-    "hex": "a3defb",
-    "name": "Amerijet International",
+    "hex": "a2d615",
+    "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "AJT8542",
-    "lon": -83.9281,
-    "lat": 20.4816,
-    "alt": 10972.8,
-    "velocity": 252.13,
-    "heading": 38.04,
+    "callsign": "GXA1615",
+    "lon": -71.2934,
+    "lat": 42.4611,
+    "alt": null,
+    "velocity": 0,
+    "heading": 298.12,
     "trace": [
       [
-        18.459,
-        -85.5702
-      ],
-      [
-        20.4816,
-        -83.9281
+        42.4611,
+        -71.2934
       ]
     ]
   },
@@ -58,15 +75,19 @@
     "name": "Gov of PRC",
     "category": "Dictator Alert",
     "callsign": "CCA813",
-    "lon": 88.195,
-    "lat": 54.0417,
+    "lon": 87.0788,
+    "lat": 55.1287,
     "alt": 11582.4,
-    "velocity": 217.15,
-    "heading": 329.85,
+    "velocity": 213.34,
+    "heading": 328.61,
     "trace": [
       [
         54.0417,
         88.195
+      ],
+      [
+        55.1287,
+        87.0788
       ]
     ]
   }
