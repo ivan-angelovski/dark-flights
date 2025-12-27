@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a0c62d",
+    "name": "Eastern Air Express",
+    "category": "Hired Gun",
+    "callsign": "BBQ2205",
+    "lon": -80.5943,
+    "lat": 25.7847,
+    "alt": 3048,
+    "velocity": 156.45,
+    "heading": 268.49,
+    "trace": [
+      [
+        25.7847,
+        -80.5943
+      ]
+    ]
+  },
+  {
     "hex": "710100",
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA972",
-    "lon": 87.0479,
-    "lat": 22.7646,
+    "lon": 88.687,
+    "lat": 22.6368,
     "alt": 11277.6,
-    "velocity": 279.38,
-    "heading": 93.59,
+    "velocity": 276.59,
+    "heading": 100.29,
     "trace": [
       [
         22.9621,
@@ -17,6 +34,10 @@
       [
         22.7646,
         87.0479
+      ],
+      [
+        22.6368,
+        88.687
       ]
     ]
   }
