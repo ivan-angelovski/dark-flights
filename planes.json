@@ -4,15 +4,53 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB5",
-    "lon": 55.1743,
-    "lat": 25.2384,
-    "alt": 1912.62,
-    "velocity": 121.64,
-    "heading": 215.71,
+    "lon": 55.4492,
+    "lat": 24.2397,
+    "alt": 8100.06,
+    "velocity": 221.47,
+    "heading": 175.2,
     "trace": [
       [
         25.2384,
         55.1743
+      ],
+      [
+        24.2397,
+        55.4492
+      ]
+    ]
+  },
+  {
+    "hex": "a451cb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT8641",
+    "lon": -74.0749,
+    "lat": 23.0556,
+    "alt": 11292.84,
+    "velocity": 255.04,
+    "heading": 119.62,
+    "trace": [
+      [
+        23.0556,
+        -74.0749
+      ]
+    ]
+  },
+  {
+    "hex": "06a014",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "A7HHJ",
+    "lon": 3.6344,
+    "lat": 36.3362,
+    "alt": 11574.78,
+    "velocity": 212.36,
+    "heading": 263.32,
+    "trace": [
+      [
+        36.3362,
+        3.6344
       ]
     ]
   },
@@ -21,11 +59,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR860",
-    "lon": -74.0156,
-    "lat": 40.7692,
-    "alt": 4495.8,
-    "velocity": 225.43,
-    "heading": 126.56,
+    "lon": -73.8298,
+    "lat": 40.5492,
+    "alt": 594.36,
+    "velocity": 77.73,
+    "heading": 30.64,
     "trace": [
       [
         39.9471,
@@ -42,6 +80,10 @@
       [
         40.7692,
         -74.0156
+      ],
+      [
+        40.5492,
+        -73.8298
       ]
     ]
   }
