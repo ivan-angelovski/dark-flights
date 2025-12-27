@@ -4,11 +4,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB5",
-    "lon": 55.4492,
-    "lat": 24.2397,
-    "alt": 8100.06,
-    "velocity": 221.47,
-    "heading": 175.2,
+    "lon": 55.3933,
+    "lat": 23.5178,
+    "alt": 8839.2,
+    "velocity": 221.23,
+    "heading": 180.8,
     "trace": [
       [
         25.2384,
@@ -17,6 +17,10 @@
       [
         24.2397,
         55.4492
+      ],
+      [
+        23.5178,
+        55.3933
       ]
     ]
   },
@@ -25,15 +29,36 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT8641",
-    "lon": -74.0749,
-    "lat": 23.0556,
-    "alt": 11292.84,
-    "velocity": 255.04,
-    "heading": 119.62,
+    "lon": -72.8013,
+    "lat": 22.3748,
+    "alt": 11285.22,
+    "velocity": 252.18,
+    "heading": 120.12,
     "trace": [
       [
         23.0556,
         -74.0749
+      ],
+      [
+        22.3748,
+        -72.8013
+      ]
+    ]
+  },
+  {
+    "hex": "a0c62d",
+    "name": "Eastern Air Express",
+    "category": "Hired Gun",
+    "callsign": "BBQ2206",
+    "lon": -81.5948,
+    "lat": 24.5085,
+    "alt": 7620,
+    "velocity": 226.52,
+    "heading": 50.34,
+    "trace": [
+      [
+        24.5085,
+        -81.5948
       ]
     ]
   },
@@ -42,15 +67,19 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7HHJ",
-    "lon": 3.6344,
-    "lat": 36.3362,
+    "lon": 2.4201,
+    "lat": 36.2158,
     "alt": 11574.78,
-    "velocity": 212.36,
-    "heading": 263.32,
+    "velocity": 213.25,
+    "heading": 262.51,
     "trace": [
       [
         36.3362,
         3.6344
+      ],
+      [
+        36.2158,
+        2.4201
       ]
     ]
   },
@@ -59,11 +88,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR860",
-    "lon": -73.8298,
-    "lat": 40.5492,
-    "alt": 594.36,
-    "velocity": 77.73,
-    "heading": 30.64,
+    "lon": -73.7659,
+    "lat": 40.6502,
+    "alt": null,
+    "velocity": 4.63,
+    "heading": 210.94,
     "trace": [
       [
         39.9471,
@@ -84,6 +113,10 @@
       [
         40.5492,
         -73.8298
+      ],
+      [
+        40.6502,
+        -73.7659
       ]
     ]
   }
