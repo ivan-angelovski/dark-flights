@@ -4,11 +4,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA1626",
-    "lon": -81.6423,
-    "lat": 35.1282,
+    "lon": -81.151,
+    "lat": 31.6265,
     "alt": 11887.2,
-    "velocity": 239.77,
-    "heading": 164.44,
+    "velocity": 243.62,
+    "heading": 172.97,
     "trace": [
       [
         42.7045,
@@ -33,6 +33,27 @@
       [
         35.1282,
         -81.6423
+      ],
+      [
+        31.6265,
+        -81.151
+      ]
+    ]
+  },
+  {
+    "hex": "a0d062",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI8831",
+    "lon": -157.5025,
+    "lat": 21.4373,
+    "alt": 3070.86,
+    "velocity": 161.57,
+    "heading": 250.47,
+    "trace": [
+      [
+        21.4373,
+        -157.5025
       ]
     ]
   },
@@ -41,36 +62,53 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB5",
-    "lon": 54.5938,
-    "lat": 25.4381,
-    "alt": 7665.72,
-    "velocity": 192.33,
-    "heading": 287.27,
+    "lon": 51.9628,
+    "lat": 26.367,
+    "alt": 10972.8,
+    "velocity": 164.75,
+    "heading": 295.52,
     "trace": [
       [
         25.4381,
         54.5938
+      ],
+      [
+        26.367,
+        51.9628
       ]
     ]
   },
   {
-    "hex": "aa3086",
-    "name": "National Airlines",
+    "hex": "a3defb",
+    "name": "Amerijet International",
     "category": "Hired Gun",
-    "callsign": "NCR808",
-    "lon": -121.6417,
-    "lat": 57.1075,
-    "alt": 12192,
-    "velocity": 220.99,
-    "heading": 289.87,
+    "callsign": "AJT4614",
+    "lon": -80.855,
+    "lat": 25.3904,
+    "alt": 4777.74,
+    "velocity": 184.22,
+    "heading": 32.8,
     "trace": [
       [
-        56.2581,
-        -117.7261
-      ],
+        25.3904,
+        -80.855
+      ]
+    ]
+  },
+  {
+    "hex": "06a014",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "QQE923",
+    "lon": 49.9362,
+    "lat": 26.4874,
+    "alt": 9144,
+    "velocity": 195.93,
+    "heading": 304.73,
+    "trace": [
       [
-        57.1075,
-        -121.6417
+        26.4874,
+        49.9362
       ]
     ]
   }
