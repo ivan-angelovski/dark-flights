@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a83f98",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA169",
+    "lon": -74.1714,
+    "lat": 40.7011,
+    "alt": null,
+    "velocity": 4.37,
+    "heading": 95.62,
+    "trace": [
+      [
+        40.7011,
+        -74.1714
+      ]
+    ]
+  },
+  {
     "hex": "89605a",
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB5",
-    "lon": 20.8501,
-    "lat": 46.7639,
-    "alt": 10972.8,
-    "velocity": 195.1,
-    "heading": 296.63,
+    "lon": 18.4421,
+    "lat": 47.5147,
+    "alt": 11582.4,
+    "velocity": 206.7,
+    "heading": 293.31,
     "trace": [
       [
         44.1626,
@@ -25,6 +42,10 @@
       [
         46.7639,
         20.8501
+      ],
+      [
+        47.5147,
+        18.4421
       ]
     ]
   },
@@ -33,15 +54,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR808",
-    "lon": -149.9882,
-    "lat": 61.1771,
+    "lon": -149.9942,
+    "lat": 61.1712,
     "alt": null,
-    "velocity": 0.45,
-    "heading": 278.44,
+    "velocity": 1.54,
+    "heading": 270,
     "trace": [
       [
         61.1771,
         -149.9882
+      ],
+      [
+        61.1712,
+        -149.9942
       ]
     ]
   },
@@ -50,15 +75,19 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6141",
-    "lon": -97.5482,
-    "lat": 25.8295,
-    "alt": 4282.44,
-    "velocity": 190.27,
-    "heading": 159.75,
+    "lon": -97.2303,
+    "lat": 23.723,
+    "alt": 11269.98,
+    "velocity": 252.05,
+    "heading": 172.73,
     "trace": [
       [
         25.8295,
         -97.5482
+      ],
+      [
+        23.723,
+        -97.2303
       ]
     ]
   },
@@ -67,15 +96,19 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "NOS738",
-    "lon": 12.2422,
-    "lat": 41.5432,
-    "alt": 2537.46,
-    "velocity": 144.79,
-    "heading": 134.42,
+    "lon": 14.3653,
+    "lat": 40.6419,
+    "alt": 9022.08,
+    "velocity": 232.6,
+    "heading": 119.12,
     "trace": [
       [
         41.5432,
         12.2422
+      ],
+      [
+        40.6419,
+        14.3653
       ]
     ]
   },
@@ -84,11 +117,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR603",
-    "lon": -84.923,
-    "lat": 42.5506,
+    "lon": -86.1518,
+    "lat": 44.5177,
     "alt": 10363.2,
-    "velocity": 228.35,
-    "heading": 322.05,
+    "velocity": 240.17,
+    "heading": 335.85,
     "trace": [
       [
         40.6669,
@@ -101,6 +134,10 @@
       [
         42.5506,
         -84.923
+      ],
+      [
+        44.5177,
+        -86.1518
       ]
     ]
   },
@@ -108,24 +145,29 @@
     "hex": "ad7274",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "",
-    "lon": null,
-    "lat": null,
-    "alt": null,
-    "velocity": 231.24,
-    "heading": 177.32,
-    "trace": []
+    "callsign": "GXA6128",
+    "lon": -89.0715,
+    "lat": 19.4732,
+    "alt": 10668,
+    "velocity": 240.78,
+    "heading": 159.36,
+    "trace": [
+      [
+        19.4732,
+        -89.0715
+      ]
+    ]
   },
   {
     "hex": "06a014",
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "QQE923",
-    "lon": 27.433,
-    "lat": 38.3278,
-    "alt": 11582.4,
-    "velocity": 195.2,
-    "heading": 303.06,
+    "lon": 25.4276,
+    "lat": 39.1615,
+    "alt": 11590.02,
+    "velocity": 199.96,
+    "heading": 292.54,
     "trace": [
       [
         36.1489,
@@ -142,6 +184,27 @@
       [
         38.3278,
         27.433
+      ],
+      [
+        39.1615,
+        25.4276
+      ]
+    ]
+  },
+  {
+    "hex": "a6d932",
+    "name": "Phoenix Air",
+    "category": "Hired Gun",
+    "callsign": "GRB338",
+    "lon": -83.7287,
+    "lat": 33.2389,
+    "alt": 9083.04,
+    "velocity": 224.57,
+    "heading": 133.05,
+    "trace": [
+      [
+        33.2389,
+        -83.7287
       ]
     ]
   },
@@ -150,11 +213,11 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA918",
-    "lon": 30.2845,
-    "lat": 34.2689,
+    "lon": 31.0648,
+    "lat": 32.0653,
     "alt": 10668,
-    "velocity": 256.1,
-    "heading": 154.41,
+    "velocity": 253.19,
+    "heading": 174.64,
     "trace": [
       [
         50.3105,
@@ -199,6 +262,10 @@
       [
         34.2689,
         30.2845
+      ],
+      [
+        32.0653,
+        31.0648
       ]
     ]
   },
@@ -207,11 +274,11 @@
     "name": "C2D LLC",
     "category": "Hired Gun",
     "callsign": "GRB214",
-    "lon": -82.94,
-    "lat": 27.8335,
-    "alt": 1752.6,
-    "velocity": 145.91,
-    "heading": 133.71,
+    "lon": -82.543,
+    "lat": 27.385,
+    "alt": -15.24,
+    "velocity": 67.68,
+    "heading": 313.77,
     "trace": [
       [
         33.7612,
@@ -228,83 +295,10 @@
       [
         27.8335,
         -82.94
-      ]
-    ]
-  },
-  {
-    "hex": "06a0d6",
-    "name": "Qatar Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "A7MHH",
-    "lon": 35.3405,
-    "lat": 29.501,
-    "alt": 11292.84,
-    "velocity": 313.95,
-    "heading": 75.19,
-    "trace": [
-      [
-        47.4483,
-        8.549
       ],
       [
-        47.4557,
-        8.5681
-      ],
-      [
-        47.2114,
-        10.7138
-      ],
-      [
-        46.8038,
-        12.7133
-      ],
-      [
-        46.3044,
-        13.7262
-      ],
-      [
-        45.0636,
-        15.7989
-      ],
-      [
-        43.6356,
-        18.0096
-      ],
-      [
-        42.7604,
-        19.2835
-      ],
-      [
-        42.0233,
-        20.228
-      ],
-      [
-        41.502,
-        21.0899
-      ],
-      [
-        41.0117,
-        21.9855
-      ],
-      [
-        37.8888,
-        26.2236
-      ],
-      [
-        34.3299,
-        30.4297
-      ],
-      [
-        31.0301,
-        33.3548
-      ],
-      [
-        29.6599,
-        34.2662
-      ],
-      [
-        29.501,
-        35.3405
+        27.385,
+        -82.543
       ]
     ]
   }
