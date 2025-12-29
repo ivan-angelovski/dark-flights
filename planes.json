@@ -4,15 +4,19 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA613",
-    "lon": -79.1829,
-    "lat": 25.1505,
-    "alt": 7940.04,
-    "velocity": 232.6,
-    "heading": 128.26,
+    "lon": -73.7578,
+    "lat": 21.0262,
+    "alt": 10668,
+    "velocity": 249.26,
+    "heading": 130.4,
     "trace": [
       [
         25.1505,
         -79.1829
+      ],
+      [
+        21.0262,
+        -73.7578
       ]
     ]
   },
@@ -21,11 +25,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB5",
-    "lon": 17.0355,
-    "lat": 48.8147,
+    "lon": 27.7964,
+    "lat": 43.4311,
     "alt": 11277.6,
-    "velocity": 269.56,
-    "heading": 134.46,
+    "velocity": 273.2,
+    "heading": 127.73,
     "trace": [
       [
         51.8431,
@@ -54,6 +58,10 @@
       [
         48.8147,
         17.0355
+      ],
+      [
+        43.4311,
+        27.7964
       ]
     ]
   },
@@ -62,11 +70,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR603",
-    "lon": -87.1737,
-    "lat": 43.8851,
+    "lon": -93.7561,
+    "lat": 47.738,
     "alt": 12192,
-    "velocity": 239.2,
-    "heading": 312.65,
+    "velocity": 227.36,
+    "heading": 301.21,
     "trace": [
       [
         39.9652,
@@ -79,6 +87,27 @@
       [
         43.8851,
         -87.1737
+      ],
+      [
+        47.738,
+        -93.7561
+      ]
+    ]
+  },
+  {
+    "hex": "896264",
+    "name": "Abu Dhabi Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "AUH03",
+    "lon": 1.783,
+    "lat": 36.4623,
+    "alt": 12192,
+    "velocity": 234.47,
+    "heading": 247.15,
+    "trace": [
+      [
+        36.4623,
+        1.783
       ]
     ]
   },
@@ -87,15 +116,36 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI7065",
-    "lon": -91.1636,
-    "lat": 34.4598,
-    "alt": 9753.6,
-    "velocity": 199.03,
-    "heading": 215.74,
+    "lon": -94.7524,
+    "lat": 29.9144,
+    "alt": 10370.82,
+    "velocity": 218.98,
+    "heading": 210.96,
     "trace": [
       [
         34.4598,
         -91.1636
+      ],
+      [
+        29.9144,
+        -94.7524
+      ]
+    ]
+  },
+  {
+    "hex": "a5e6e1",
+    "name": "Phoenix Air",
+    "category": "Hired Gun",
+    "callsign": "48GL",
+    "lon": -81.3265,
+    "lat": 29.368,
+    "alt": 13708.38,
+    "velocity": 226.24,
+    "heading": 356.61,
+    "trace": [
+      [
+        29.368,
+        -81.3265
       ]
     ]
   },
@@ -104,32 +154,19 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT8620",
-    "lon": -0.9946,
-    "lat": 51.4079,
+    "lon": -10.7388,
+    "lat": 51.1533,
     "alt": 9753.6,
-    "velocity": 229.94,
-    "heading": 264.61,
+    "velocity": 240.35,
+    "heading": 268.28,
     "trace": [
       [
         51.4079,
         -0.9946
-      ]
-    ]
-  },
-  {
-    "hex": "ad7274",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA6126",
-    "lon": -91.9834,
-    "lat": 30.9182,
-    "alt": 4960.62,
-    "velocity": 214.68,
-    "heading": 133.64,
-    "trace": [
+      ],
       [
-        30.9182,
-        -91.9834
+        51.1533,
+        -10.7388
       ]
     ]
   },
@@ -138,11 +175,11 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "QAF6",
-    "lon": 17.4487,
-    "lat": 44.3391,
+    "lon": 26.4643,
+    "lat": 42.6922,
     "alt": 11887.2,
-    "velocity": 251.04,
-    "heading": 107.66,
+    "velocity": 272.72,
+    "heading": 97.15,
     "trace": [
       [
         47.4464,
@@ -167,39 +204,44 @@
       [
         44.3391,
         17.4487
+      ],
+      [
+        42.6922,
+        26.4643
       ]
     ]
   },
   {
-    "hex": "acb84d",
+    "hex": "a9c52e",
     "name": "National Airlines",
     "category": "Hired Gun",
-    "callsign": "NCR607",
-    "lon": 132.4887,
-    "lat": 35.1491,
-    "alt": 12192,
-    "velocity": 203.54,
-    "heading": 232.29,
+    "callsign": "NCR636",
+    "lon": 126.6177,
+    "lat": 37.3022,
+    "alt": 845.82,
+    "velocity": 94.96,
+    "heading": 291.28,
     "trace": [
       [
-        38.4113,
-        140.0372
-      ],
+        37.3022,
+        126.6177
+      ]
+    ]
+  },
+  {
+    "hex": "ab8560",
+    "name": "Wheels Up Private Jets",
+    "category": "Hired Gun",
+    "callsign": "WUP841",
+    "lon": -81.0698,
+    "lat": 33.9677,
+    "alt": 2026.92,
+    "velocity": 79.43,
+    "heading": 184.09,
+    "trace": [
       [
-        37.8058,
-        138.4624
-      ],
-      [
-        37.4195,
-        137.4977
-      ],
-      [
-        37.0815,
-        136.6747
-      ],
-      [
-        35.1491,
-        132.4887
+        33.9677,
+        -81.0698
       ]
     ]
   }
