@@ -4,11 +4,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR615",
-    "lon": -154.2397,
-    "lat": 60.5566,
-    "alt": 10629.9,
-    "velocity": 247.94,
-    "heading": 75.21,
+    "lon": -149.999,
+    "lat": 61.1781,
+    "alt": null,
+    "velocity": 8.75,
+    "heading": 345.94,
     "trace": [
       [
         57.5911,
@@ -29,69 +29,45 @@
       [
         60.5566,
         -154.2397
+      ],
+      [
+        61.1781,
+        -149.999
       ]
     ]
   },
   {
-    "hex": "a2c129",
-    "name": "Global Crossing Airlines",
+    "hex": "89407f",
+    "name": "Bahrain Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "BAH6",
+    "lon": 53.7825,
+    "lat": 25.004,
+    "alt": 7924.8,
+    "velocity": 195.76,
+    "heading": 303.86,
+    "trace": [
+      [
+        25.004,
+        53.7825
+      ]
+    ]
+  },
+  {
+    "hex": "a4cb6f",
+    "name": "Atlas Air",
     "category": "Hired Gun",
-    "callsign": "GXA6102",
-    "lon": -90.4475,
-    "lat": 30.129,
-    "alt": 10637.52,
-    "velocity": 198.62,
-    "heading": 304.02,
+    "callsign": "GTI532",
+    "lon": 133.7773,
+    "lat": 35.7499,
+    "alt": 10058.4,
+    "velocity": 298.61,
+    "heading": 61.27,
     "trace": [
       [
-        26.6612,
-        -81.5527
-      ],
-      [
-        27.9337,
-        -85.4217
-      ],
-      [
-        28.4491,
-        -87.1673
-      ],
-      [
-        28.717,
-        -88.0931
-      ],
-      [
-        30.129,
-        -90.4475
+        35.7499,
+        133.7773
       ]
     ]
-  },
-  {
-    "hex": "51005e",
-    "name": "Gov of Belarus",
-    "category": "Dictator Alert",
-    "callsign": "BRU4001",
-    "lon": 28.5092,
-    "lat": 54.1605,
-    "alt": 7315.2,
-    "velocity": 191.7,
-    "heading": 64.74,
-    "trace": [
-      [
-        54.1605,
-        28.5092
-      ]
-    ]
-  },
-  {
-    "hex": "15770e",
-    "name": "Russia Special Flight Detachment",
-    "category": "Dictator Alert",
-    "callsign": "RSD956",
-    "lon": null,
-    "lat": null,
-    "alt": null,
-    "velocity": 305.28,
-    "heading": 310.83,
-    "trace": []
   }
 ]
