@@ -1,39 +1,14 @@
 [
   {
-    "hex": "4009d6",
-    "name": "Draken Europe",
-    "category": "Hired Gun",
-    "callsign": "DRAKEN02",
-    "lon": 49.6663,
-    "lat": 25.9208,
-    "alt": 3726.18,
-    "velocity": 188.26,
-    "heading": 80.56,
-    "trace": [
-      [
-        26.0598,
-        49.7296
-      ],
-      [
-        25.4201,
-        49.1144
-      ],
-      [
-        25.9208,
-        49.6663
-      ]
-    ]
-  },
-  {
     "hex": "aa3086",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR561",
-    "lon": 90.4541,
-    "lat": 22.4219,
+    "lon": 88.1423,
+    "lat": 22.6968,
     "alt": 9753.6,
-    "velocity": 214.21,
-    "heading": 277.31,
+    "velocity": 210.9,
+    "heading": 273.92,
     "trace": [
       [
         22.3334,
@@ -42,48 +17,10 @@
       [
         22.4219,
         90.4541
-      ]
-    ]
-  },
-  {
-    "hex": "896264",
-    "name": "Abu Dhabi Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "AUH03",
-    "lon": 30.0626,
-    "lat": 31.157,
-    "alt": 12192,
-    "velocity": 194.11,
-    "heading": 287.43,
-    "trace": [
-      [
-        30.0001,
-        31.5917
       ],
       [
-        31.157,
-        30.0626
-      ]
-    ]
-  },
-  {
-    "hex": "4b85cb",
-    "name": "Gov of Turkey",
-    "category": "Dictator Alert",
-    "callsign": "TRK25",
-    "lon": 29.0196,
-    "lat": 41.0625,
-    "alt": 891.54,
-    "velocity": 82.23,
-    "heading": 238.3,
-    "trace": [
-      [
-        40.6222,
-        29.704
-      ],
-      [
-        41.0625,
-        29.0196
+        22.6968,
+        88.1423
       ]
     ]
   },
@@ -92,11 +29,11 @@
     "name": "Bahrain Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "BAH3",
-    "lon": 52.4418,
-    "lat": 25.8128,
-    "alt": 7315.2,
-    "velocity": 193.77,
-    "heading": 305.93,
+    "lon": 50.8519,
+    "lat": 26.1915,
+    "alt": 2682.24,
+    "velocity": 122.3,
+    "heading": 214.89,
     "trace": [
       [
         25.3027,
@@ -105,27 +42,44 @@
       [
         25.8128,
         52.4418
+      ],
+      [
+        26.1915,
+        50.8519
       ]
     ]
   },
   {
-    "hex": "06a0d6",
-    "name": "Qatar Amiri Flight",
+    "hex": "51002b",
+    "name": "Gov of Belarus",
     "category": "Dictator Alert",
-    "callsign": "A7MHH",
-    "lon": 55.6266,
-    "lat": 24.0691,
-    "alt": 10683.24,
-    "velocity": 280.5,
-    "heading": 114.03,
+    "callsign": "BRU4003",
+    "lon": 27.9581,
+    "lat": 53.974,
+    "alt": 2103.12,
+    "velocity": 132.57,
+    "heading": 15.76,
     "trace": [
       [
-        24.8162,
-        53.2275
-      ],
+        53.974,
+        27.9581
+      ]
+    ]
+  },
+  {
+    "hex": "157715",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD936",
+    "lon": 39.7162,
+    "lat": 55.624,
+    "alt": 8793.48,
+    "velocity": 27.7,
+    "heading": 111.8,
+    "trace": [
       [
-        24.0691,
-        55.6266
+        55.624,
+        39.7162
       ]
     ]
   },
@@ -134,8 +88,8 @@
     "name": "Russia Special Flight Detachment",
     "category": "Dictator Alert",
     "callsign": "RSD956",
-    "lon": 49.9757,
-    "lat": 53.1076,
+    "lon": 49.9749,
+    "lat": 53.1085,
     "alt": 10347.96,
     "velocity": 27.82,
     "heading": 250.56,
@@ -143,6 +97,10 @@
       [
         53.1076,
         49.9757
+      ],
+      [
+        53.1085,
+        49.9749
       ]
     ]
   }
