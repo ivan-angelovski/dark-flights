@@ -1,18 +1,39 @@
 [
   {
+    "hex": "a49951",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT815",
+    "lon": -80.3795,
+    "lat": 25.7858,
+    "alt": 754.38,
+    "velocity": 123.4,
+    "heading": 256.25,
+    "trace": [
+      [
+        25.7858,
+        -80.3795
+      ]
+    ]
+  },
+  {
     "hex": "89404d",
     "name": "Bahrain Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "BAH3",
-    "lon": 52.4549,
-    "lat": 26.3284,
-    "alt": 7620,
-    "velocity": 297.76,
-    "heading": 113.2,
+    "lon": 55.1512,
+    "lat": 25.3749,
+    "alt": 1219.2,
+    "velocity": 114.96,
+    "heading": 121.27,
     "trace": [
       [
         26.3284,
         52.4549
+      ],
+      [
+        25.3749,
+        55.1512
       ]
     ]
   },
@@ -21,11 +42,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA156",
-    "lon": -117.3998,
-    "lat": 34.7758,
+    "lon": -114.2923,
+    "lat": 33.8466,
     "alt": 11887.2,
-    "velocity": 240.22,
-    "heading": 117.55,
+    "velocity": 263.25,
+    "heading": 107.51,
     "trace": [
       [
         37.019,
@@ -34,6 +55,10 @@
       [
         34.7758,
         -117.3998
+      ],
+      [
+        33.8466,
+        -114.2923
       ]
     ]
   },
@@ -42,15 +67,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR635",
-    "lon": 127.1105,
-    "lat": 37.3134,
-    "alt": 11582.4,
-    "velocity": 196.36,
-    "heading": 304.65,
+    "lon": 124.6311,
+    "lat": 37.3855,
+    "alt": 11612.88,
+    "velocity": 190.93,
+    "heading": 268.46,
     "trace": [
       [
         37.3134,
         127.1105
+      ],
+      [
+        37.3855,
+        124.6311
       ]
     ]
   },
@@ -59,15 +88,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR607",
-    "lon": -155.9531,
-    "lat": 56.7262,
+    "lon": -160.8683,
+    "lat": 57.0972,
     "alt": 11277.6,
-    "velocity": 262.28,
-    "heading": 280.05,
+    "velocity": 252.42,
+    "heading": 275.97,
     "trace": [
       [
         56.7262,
         -155.9531
+      ],
+      [
+        57.0972,
+        -160.8683
       ]
     ]
   }
