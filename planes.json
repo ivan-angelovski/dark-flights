@@ -1,22 +1,18 @@
 [
   {
-    "hex": "a0441d",
-    "name": "US Department of Energy",
-    "category": "Nuclear",
-    "callsign": "N116SR",
-    "lon": -81.5615,
-    "lat": 33.3388,
-    "alt": 106.68,
-    "velocity": 33.82,
-    "heading": 26.18,
+    "hex": "a2f9dd",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA614",
+    "lon": -73.6157,
+    "lat": 20.9102,
+    "alt": 10645.14,
+    "velocity": 220.88,
+    "heading": 311.41,
     "trace": [
       [
-        33.339,
-        -81.5615
-      ],
-      [
-        33.3388,
-        -81.5615
+        20.9102,
+        -73.6157
       ]
     ]
   },
@@ -25,11 +21,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA1627",
-    "lon": -79.6224,
-    "lat": 43.6713,
-    "alt": 289.56,
-    "velocity": 0,
-    "heading": 227.81,
+    "lon": -79.6226,
+    "lat": 43.671,
+    "alt": null,
+    "velocity": 2.31,
+    "heading": 202.5,
     "trace": [
       [
         43.6871,
@@ -38,6 +34,10 @@
       [
         43.6713,
         -79.6224
+      ],
+      [
+        43.671,
+        -79.6226
       ]
     ]
   },
@@ -46,15 +46,19 @@
     "name": "Phoenix Air",
     "category": "Hired Gun",
     "callsign": "N189PA",
-    "lon": -119.1883,
-    "lat": 33.7813,
-    "alt": 1470.66,
-    "velocity": 126.27,
-    "heading": 9.62,
+    "lon": -119.1757,
+    "lat": 34.068,
+    "alt": 426.72,
+    "velocity": 57.12,
+    "heading": 358.45,
     "trace": [
       [
         33.7813,
         -119.1883
+      ],
+      [
+        34.068,
+        -119.1757
       ]
     ]
   },
@@ -63,11 +67,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI9121",
-    "lon": -97.4862,
-    "lat": 28.0115,
-    "alt": 10980.42,
-    "velocity": 216.48,
-    "heading": 226.06,
+    "lon": -98.5236,
+    "lat": 27.1153,
+    "alt": 10972.8,
+    "velocity": 215.37,
+    "heading": 225.77,
     "trace": [
       [
         34.9095,
@@ -96,6 +100,61 @@
       [
         28.0115,
         -97.4862
+      ],
+      [
+        27.1153,
+        -98.5236
+      ]
+    ]
+  },
+  {
+    "hex": "7277a9",
+    "name": "Air Koryo",
+    "category": "Dictator Alert",
+    "callsign": "KOR151",
+    "lon": 125.2359,
+    "lat": 39.6675,
+    "alt": 6278.88,
+    "velocity": 143.85,
+    "heading": 317.75,
+    "trace": [
+      [
+        39.6675,
+        125.2359
+      ]
+    ]
+  },
+  {
+    "hex": "a86e85",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA130",
+    "lon": -80.5024,
+    "lat": 26.2647,
+    "alt": 4777.74,
+    "velocity": 198.66,
+    "heading": 13.17,
+    "trace": [
+      [
+        26.2647,
+        -80.5024
+      ]
+    ]
+  },
+  {
+    "hex": "06a00f",
+    "name": "Gov of Qatar",
+    "category": "Dictator Alert",
+    "callsign": "QAF7",
+    "lon": 12.6303,
+    "lat": 37.7182,
+    "alt": 11582.4,
+    "velocity": 252.03,
+    "heading": 70.57,
+    "trace": [
+      [
+        37.7182,
+        12.6303
       ]
     ]
   },
@@ -104,11 +163,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI532",
-    "lon": -81.3059,
-    "lat": 29.661,
-    "alt": 11582.4,
-    "velocity": 257.18,
-    "heading": 157.54,
+    "lon": -80.7038,
+    "lat": 28.2339,
+    "alt": 11590.02,
+    "velocity": 253.52,
+    "heading": 160.31,
     "trace": [
       [
         54.0668,
@@ -173,6 +232,10 @@
       [
         29.661,
         -81.3059
+      ],
+      [
+        28.2339,
+        -80.7038
       ]
     ]
   }
