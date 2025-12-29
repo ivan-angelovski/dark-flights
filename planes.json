@@ -4,15 +4,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR615",
-    "lon": -172.5336,
-    "lat": 57.5911,
-    "alt": 10668,
-    "velocity": 252.29,
-    "heading": 68.09,
+    "lon": -165.1272,
+    "lat": 59.0274,
+    "alt": 10675.62,
+    "velocity": 240.46,
+    "heading": 72.19,
     "trace": [
       [
         57.5911,
         -172.5336
+      ],
+      [
+        59.0274,
+        -165.1272
       ]
     ]
   },
@@ -21,53 +25,36 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6102",
-    "lon": -81.5527,
-    "lat": 26.6612,
-    "alt": 10690.86,
-    "velocity": 227.94,
-    "heading": 292.28,
+    "lon": -85.4217,
+    "lat": 27.9337,
+    "alt": 11590.02,
+    "velocity": 218.49,
+    "heading": 288.82,
     "trace": [
       [
         26.6612,
         -81.5527
-      ]
-    ]
-  },
-  {
-    "hex": "a49951",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT815",
-    "lon": -71.7852,
-    "lat": 21.4837,
-    "alt": 10058.4,
-    "velocity": 259.74,
-    "heading": 120.73,
-    "trace": [
-      [
-        21.4837,
-        -71.7852
-      ]
-    ]
-  },
-  {
-    "hex": "896264",
-    "name": "Abu Dhabi Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "AUH03",
-    "lon": 48.443,
-    "lat": 27.4953,
-    "alt": 11582.4,
-    "velocity": 192.72,
-    "heading": 298.89,
-    "trace": [
-      [
-        26.6818,
-        50.5564
       ],
       [
-        27.4953,
-        48.443
+        27.9337,
+        -85.4217
+      ]
+    ]
+  },
+  {
+    "hex": "aa3086",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR561",
+    "lon": 107.8459,
+    "lat": 22.9666,
+    "alt": 9174.48,
+    "velocity": 246.37,
+    "heading": 313.39,
+    "trace": [
+      [
+        22.9666,
+        107.8459
       ]
     ]
   },
@@ -76,11 +63,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB9",
-    "lon": 55.9145,
-    "lat": 25.6936,
-    "alt": 388.62,
-    "velocity": 64.52,
-    "heading": 164.74,
+    "lon": 55.9525,
+    "lat": 25.5619,
+    "alt": 922.02,
+    "velocity": 93.63,
+    "heading": 180,
     "trace": [
       [
         25.8477,
@@ -89,6 +76,44 @@
       [
         25.6936,
         55.9145
+      ],
+      [
+        25.5619,
+        55.9525
+      ]
+    ]
+  },
+  {
+    "hex": "89407f",
+    "name": "Bahrain Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "BAH6",
+    "lon": 53.8491,
+    "lat": 24.8288,
+    "alt": 5196.84,
+    "velocity": 226.04,
+    "heading": 121.41,
+    "trace": [
+      [
+        24.8288,
+        53.8491
+      ]
+    ]
+  },
+  {
+    "hex": "78048c",
+    "name": "Gov of PRC",
+    "category": "Dictator Alert",
+    "callsign": "CCA1357",
+    "lon": 116.5709,
+    "lat": 40.2412,
+    "alt": 1927.86,
+    "velocity": 132.11,
+    "heading": 350.13,
+    "trace": [
+      [
+        40.2412,
+        116.5709
       ]
     ]
   },
@@ -97,11 +122,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA156",
-    "lon": -103.4552,
-    "lat": 30.7137,
+    "lon": -99.8473,
+    "lat": 28.0851,
     "alt": 11879.58,
-    "velocity": 259.6,
-    "heading": 115.09,
+    "velocity": 246.05,
+    "heading": 147.64,
     "trace": [
       [
         37.019,
@@ -126,6 +151,10 @@
       [
         30.7137,
         -103.4552
+      ],
+      [
+        28.0851,
+        -99.8473
       ]
     ]
   },
@@ -134,32 +163,19 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "QAF6",
-    "lon": 1.3432,
-    "lat": 51.4648,
-    "alt": 6697.98,
-    "velocity": 224.04,
-    "heading": 147.19,
+    "lon": 4.8048,
+    "lat": 49.9598,
+    "alt": 11887.2,
+    "velocity": 240.05,
+    "heading": 127.34,
     "trace": [
       [
         51.4648,
         1.3432
-      ]
-    ]
-  },
-  {
-    "hex": "0a400a",
-    "name": "Gov of Algeria",
-    "category": "Dictator Alert",
-    "callsign": "7TVPM",
-    "lon": 1.3429,
-    "lat": 36.0844,
-    "alt": 7726.68,
-    "velocity": 200.51,
-    "heading": 75.89,
-    "trace": [
+      ],
       [
-        36.0844,
-        1.3429
+        49.9598,
+        4.8048
       ]
     ]
   }
