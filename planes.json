@@ -3,15 +3,19 @@
     "hex": "a0441d",
     "name": "US Department of Energy",
     "category": "Nuclear",
-    "callsign": "",
+    "callsign": "N116SR",
     "lon": -81.5615,
-    "lat": 33.339,
-    "alt": 114.3,
-    "velocity": 28.34,
-    "heading": 356.88,
+    "lat": 33.3388,
+    "alt": 106.68,
+    "velocity": 33.82,
+    "heading": 26.18,
     "trace": [
       [
         33.339,
+        -81.5615
+      ],
+      [
+        33.3388,
         -81.5615
       ]
     ]
@@ -21,48 +25,36 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA1627",
-    "lon": -79.6447,
-    "lat": 43.6871,
-    "alt": null,
-    "velocity": 3.86,
-    "heading": 67.5,
+    "lon": -79.6224,
+    "lat": 43.6713,
+    "alt": 289.56,
+    "velocity": 0,
+    "heading": 227.81,
     "trace": [
       [
         43.6871,
         -79.6447
+      ],
+      [
+        43.6713,
+        -79.6224
       ]
     ]
   },
   {
-    "hex": "aa3086",
-    "name": "National Airlines",
+    "hex": "a16361",
+    "name": "Phoenix Air",
     "category": "Hired Gun",
-    "callsign": "NCR561",
-    "lon": 19.2591,
-    "lat": 47.4445,
-    "alt": null,
-    "velocity": 9.77,
-    "heading": 312.19,
+    "callsign": "N189PA",
+    "lon": -119.1883,
+    "lat": 33.7813,
+    "alt": 1470.66,
+    "velocity": 126.27,
+    "heading": 9.62,
     "trace": [
       [
-        45.3764,
-        24.245
-      ],
-      [
-        46.1522,
-        22.5636
-      ],
-      [
-        46.5726,
-        21.6124
-      ],
-      [
-        46.9044,
-        20.8333
-      ],
-      [
-        47.4445,
-        19.2591
+        33.7813,
+        -119.1883
       ]
     ]
   },
@@ -71,11 +63,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI9121",
-    "lon": -96.1484,
-    "lat": 29.1315,
-    "alt": 10972.8,
-    "velocity": 211.11,
-    "heading": 226.97,
+    "lon": -97.4862,
+    "lat": 28.0115,
+    "alt": 10980.42,
+    "velocity": 216.48,
+    "heading": 226.06,
     "trace": [
       [
         34.9095,
@@ -100,6 +92,10 @@
       [
         29.1315,
         -96.1484
+      ],
+      [
+        28.0115,
+        -97.4862
       ]
     ]
   },
@@ -108,11 +104,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI532",
-    "lon": -82.3795,
-    "lat": 31.3799,
+    "lon": -81.3059,
+    "lat": 29.661,
     "alt": 11582.4,
-    "velocity": 262.14,
-    "heading": 145.31,
+    "velocity": 257.18,
+    "heading": 157.54,
     "trace": [
       [
         54.0668,
@@ -173,6 +169,10 @@
       [
         31.3799,
         -82.3795
+      ],
+      [
+        29.661,
+        -81.3059
       ]
     ]
   }
