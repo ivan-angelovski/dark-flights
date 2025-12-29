@@ -1,39 +1,39 @@
 [
   {
-    "hex": "89605a",
-    "name": "Dubai Air Wing",
-    "category": "Dictator Alert",
-    "callsign": "DUB5",
-    "lon": 0.5665,
-    "lat": 51.8431,
-    "alt": 1866.9,
-    "velocity": 130.72,
-    "heading": 115.15,
+    "hex": "4009c8",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "DRAKEN01",
+    "lon": 49.6027,
+    "lat": 25.4666,
+    "alt": 6400.8,
+    "velocity": 132.85,
+    "heading": 196.19,
     "trace": [
       [
-        51.8431,
-        0.5665
+        25.4666,
+        49.6027
       ]
     ]
   },
   {
-    "hex": "896264",
-    "name": "Abu Dhabi Amiri Flight",
+    "hex": "89605a",
+    "name": "Dubai Air Wing",
     "category": "Dictator Alert",
-    "callsign": "AUH03",
-    "lon": 23.5384,
-    "lat": 34.4731,
-    "alt": 12192,
-    "velocity": 202.39,
-    "heading": 288.99,
+    "callsign": "DUB5",
+    "lon": 3.2782,
+    "lat": 52.0941,
+    "alt": 10744.2,
+    "velocity": 248.14,
+    "heading": 85.72,
     "trace": [
       [
-        34.0849,
-        24.8673
+        51.8431,
+        0.5665
       ],
       [
-        34.4731,
-        23.5384
+        52.0941,
+        3.2782
       ]
     ]
   },
@@ -42,36 +42,53 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR684",
-    "lon": 131.2686,
-    "lat": 34.4608,
+    "lon": 133.865,
+    "lat": 35.7379,
     "alt": 9448.8,
-    "velocity": 299.38,
-    "heading": 58.28,
+    "velocity": 303.55,
+    "heading": 60.79,
     "trace": [
       [
         34.4608,
         131.2686
+      ],
+      [
+        35.7379,
+        133.865
       ]
     ]
   },
   {
-    "hex": "157715",
-    "name": "Russia Special Flight Detachment",
+    "hex": "06a01c",
+    "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
-    "callsign": "RSD936",
-    "lon": 36.7232,
-    "lat": 55.1412,
-    "alt": 1386.84,
-    "velocity": 4.63,
-    "heading": 270,
+    "callsign": "QAF6",
+    "lon": 8.5614,
+    "lat": 47.4464,
+    "alt": 350.52,
+    "velocity": 0,
+    "heading": 337.5,
     "trace": [
       [
-        55.624,
-        39.7162
-      ],
+        47.4464,
+        8.5614
+      ]
+    ]
+  },
+  {
+    "hex": "15770e",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD956",
+    "lon": 37.9144,
+    "lat": 55.4616,
+    "alt": 2004.06,
+    "velocity": 3.75,
+    "heading": 254.05,
+    "trace": [
       [
-        55.1412,
-        36.7232
+        55.4616,
+        37.9144
       ]
     ]
   }
