@@ -4,15 +4,36 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR615",
-    "lon": -150.0014,
-    "lat": 61.1865,
+    "lon": -150.0019,
+    "lat": 61.1717,
     "alt": null,
-    "velocity": 0,
-    "heading": 329.06,
+    "velocity": 3.86,
+    "heading": 163.12,
     "trace": [
       [
         61.1865,
         -150.0014
+      ],
+      [
+        61.1717,
+        -150.0019
+      ]
+    ]
+  },
+  {
+    "hex": "a2c129",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6121",
+    "lon": -91.6185,
+    "lat": 30.727,
+    "alt": 7155.18,
+    "velocity": 240.05,
+    "heading": 130.65,
+    "trace": [
+      [
+        30.727,
+        -91.6185
       ]
     ]
   },
@@ -21,11 +42,11 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "DRAKEN01",
-    "lon": 49.5516,
-    "lat": 25.3508,
-    "alt": 6400.8,
-    "velocity": 184.04,
-    "heading": 30.58,
+    "lon": 50.1509,
+    "lat": 25.8905,
+    "alt": 2804.16,
+    "velocity": 137.37,
+    "heading": 25.51,
     "trace": [
       [
         25.4666,
@@ -34,6 +55,10 @@
       [
         25.3508,
         49.5516
+      ],
+      [
+        25.8905,
+        50.1509
       ]
     ]
   },
@@ -42,11 +67,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB5",
-    "lon": 7.5618,
-    "lat": 51.8595,
+    "lon": 10.2148,
+    "lat": 51.5261,
     "alt": 11277.6,
-    "velocity": 253.78,
-    "heading": 94.18,
+    "velocity": 260.67,
+    "heading": 104.75,
     "trace": [
       [
         51.8431,
@@ -59,6 +84,27 @@
       [
         51.8595,
         7.5618
+      ],
+      [
+        51.5261,
+        10.2148
+      ]
+    ]
+  },
+  {
+    "hex": "896264",
+    "name": "Abu Dhabi Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "AUH03",
+    "lon": 16.9492,
+    "lat": 35.5066,
+    "alt": 12192,
+    "velocity": 218.92,
+    "heading": 278.38,
+    "trace": [
+      [
+        35.5066,
+        16.9492
       ]
     ]
   },
@@ -67,15 +113,19 @@
     "name": "Gov of Morocco",
     "category": "Dictator Alert",
     "callsign": "MRS1203",
-    "lon": 2.2703,
-    "lat": 49.109,
-    "alt": 1120.14,
-    "velocity": 127.73,
-    "heading": 250.47,
+    "lon": 2.5147,
+    "lat": 49.0241,
+    "alt": 76.2,
+    "velocity": 70.75,
+    "heading": 84.99,
     "trace": [
       [
         49.109,
         2.2703
+      ],
+      [
+        49.0241,
+        2.5147
       ]
     ]
   },
@@ -84,11 +134,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR684",
-    "lon": 137.4202,
-    "lat": 37.2804,
+    "lon": 139.7986,
+    "lat": 37.8794,
     "alt": 9448.8,
-    "velocity": 303.74,
-    "heading": 64.52,
+    "velocity": 299.64,
+    "heading": 73.34,
     "trace": [
       [
         34.4608,
@@ -101,6 +151,10 @@
       [
         37.2804,
         137.4202
+      ],
+      [
+        37.8794,
+        139.7986
       ]
     ]
   },
@@ -109,11 +163,11 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "QAF6",
-    "lon": 8.562,
-    "lat": 47.4561,
-    "alt": null,
-    "velocity": 6.69,
-    "heading": 95.62,
+    "lon": 9.2859,
+    "lat": 47.2958,
+    "alt": 6309.36,
+    "velocity": 211.26,
+    "heading": 104.81,
     "trace": [
       [
         47.4464,
@@ -122,23 +176,43 @@
       [
         47.4561,
         8.562
+      ],
+      [
+        47.2958,
+        9.2859
       ]
     ]
+  },
+  {
+    "hex": "710100",
+    "name": "Saudi Ministry of Finance",
+    "category": "Dictator Alert",
+    "callsign": "",
+    "lon": null,
+    "lat": null,
+    "alt": 10058.4,
+    "velocity": 307.43,
+    "heading": 99.15,
+    "trace": []
   },
   {
     "hex": "acb84d",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR607",
-    "lon": 140.0372,
-    "lat": 38.4113,
+    "lon": 138.4624,
+    "lat": 37.8058,
     "alt": 12192,
-    "velocity": 210.78,
-    "heading": 244.56,
+    "velocity": 204.53,
+    "heading": 243.56,
     "trace": [
       [
         38.4113,
         140.0372
+      ],
+      [
+        37.8058,
+        138.4624
       ]
     ]
   }
