@@ -1,14 +1,31 @@
 [
   {
+    "hex": "896103",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB12",
+    "lon": 55.8559,
+    "lat": 23.4433,
+    "alt": 9753.6,
+    "velocity": 229.61,
+    "heading": 352.02,
+    "trace": [
+      [
+        23.4433,
+        55.8559
+      ]
+    ]
+  },
+  {
     "hex": "a2d615",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA1628",
-    "lon": -120.0444,
-    "lat": 43.4756,
-    "alt": 11597.64,
-    "velocity": 232.66,
-    "heading": 199.24,
+    "lon": -120.7661,
+    "lat": 42.1022,
+    "alt": 11590.02,
+    "velocity": 236.74,
+    "heading": 206.18,
     "trace": [
       [
         52.4115,
@@ -29,6 +46,10 @@
       [
         43.4756,
         -120.0444
+      ],
+      [
+        42.1022,
+        -120.7661
       ]
     ]
   },
@@ -50,31 +71,6 @@
       [
         52.6197,
         20.5209
-      ]
-    ]
-  },
-  {
-    "hex": "a4d4cc",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA1122",
-    "lon": -72.6752,
-    "lat": 41.9291,
-    "alt": 190.5,
-    "velocity": 63.3,
-    "heading": 315,
-    "trace": [
-      [
-        39.767,
-        -75.0991
-      ],
-      [
-        41.618,
-        -72.6003
-      ],
-      [
-        41.9291,
-        -72.6752
       ]
     ]
   }
