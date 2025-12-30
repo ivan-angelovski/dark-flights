@@ -1,52 +1,73 @@
 [
   {
-    "hex": "a150ce",
-    "name": "Phoenix Air",
-    "category": "Hired Gun",
-    "callsign": "GRB341",
-    "lon": -85.4418,
-    "lat": 30.0535,
-    "alt": 8823.96,
-    "velocity": 269.37,
-    "heading": 99.79,
-    "trace": [
-      [
-        30.0535,
-        -85.4418
-      ]
-    ]
-  },
-  {
     "hex": "a95c2f",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR651",
-    "lon": 141.5913,
-    "lat": 38.9816,
+    "lon": 134.4303,
+    "lat": 35.9942,
     "alt": 12192,
-    "velocity": 206.84,
-    "heading": 242.93,
+    "velocity": 186.42,
+    "heading": 239.12,
     "trace": [
       [
         38.9816,
         141.5913
+      ],
+      [
+        35.9942,
+        134.4303
       ]
     ]
   },
   {
-    "hex": "aa3086",
-    "name": "National Airlines",
+    "hex": "a0f8f9",
+    "name": "Atlas Air",
     "category": "Hired Gun",
-    "callsign": "NCR614",
-    "lon": 9.2067,
-    "lat": 49.6882,
-    "alt": 8001,
-    "velocity": 188.98,
-    "heading": 272.5,
+    "callsign": "GTI7066",
+    "lon": -100.358,
+    "lat": 25.2822,
+    "alt": 10675.62,
+    "velocity": 256.69,
+    "heading": 40.04,
     "trace": [
       [
-        49.6882,
-        9.2067
+        25.2822,
+        -100.358
+      ]
+    ]
+  },
+  {
+    "hex": "8953e3",
+    "name": "Gov of Brunei",
+    "category": "Dictator Alert",
+    "callsign": "V8OAS",
+    "lon": 88.4696,
+    "lat": 22.6267,
+    "alt": 10972.8,
+    "velocity": 226.41,
+    "heading": 337.98,
+    "trace": [
+      [
+        22.6267,
+        88.4696
+      ]
+    ]
+  },
+  {
+    "hex": "4b8d42",
+    "name": "Gov of Turkey",
+    "category": "Dictator Alert",
+    "callsign": "TCCJB",
+    "lon": 36.2026,
+    "lat": 36.8317,
+    "alt": 12496.8,
+    "velocity": 232.02,
+    "heading": 61.67,
+    "trace": [
+      [
+        36.8317,
+        36.2026
       ]
     ]
   },
@@ -54,16 +75,20 @@
     "hex": "406b79",
     "name": "AirTanker",
     "category": "Hired Gun",
-    "callsign": "",
-    "lon": null,
-    "lat": null,
-    "alt": null,
-    "velocity": 252.71,
-    "heading": 23.64,
+    "callsign": "TOW2231",
+    "lon": -10.6278,
+    "lat": 37.6631,
+    "alt": 12192,
+    "velocity": 240.89,
+    "heading": 12.58,
     "trace": [
       [
         16.7541,
         -17.9999
+      ],
+      [
+        37.6631,
+        -10.6278
       ]
     ]
   },
@@ -72,11 +97,11 @@
     "name": "Gov of Qatar",
     "category": "Dictator Alert",
     "callsign": "QAF7",
-    "lon": 28.473,
-    "lat": 41.0896,
-    "alt": 3863.34,
-    "velocity": 152.12,
-    "heading": 256.9,
+    "lon": 20.0266,
+    "lat": 40.5409,
+    "alt": 10972.8,
+    "velocity": 229.12,
+    "heading": 274.51,
     "trace": [
       [
         37.7182,
@@ -97,27 +122,27 @@
       [
         41.0896,
         28.473
+      ],
+      [
+        40.5409,
+        20.0266
       ]
     ]
   },
   {
-    "hex": "acb84d",
-    "name": "National Airlines",
+    "hex": "a4d4cc",
+    "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "NCR617",
-    "lon": -150.0061,
-    "lat": 61.1846,
-    "alt": 137.16,
-    "velocity": 34.7,
-    "heading": 344.52,
+    "callsign": "GXA1121",
+    "lon": -72.69,
+    "lat": 41.0486,
+    "alt": 6705.6,
+    "velocity": 184.09,
+    "heading": 214.76,
     "trace": [
       [
-        58.0984,
-        -174.3699
-      ],
-      [
-        61.1846,
-        -150.0061
+        41.0486,
+        -72.69
       ]
     ]
   }
