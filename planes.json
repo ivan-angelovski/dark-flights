@@ -4,11 +4,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR869",
-    "lon": 51.6023,
-    "lat": 26.3439,
+    "lon": 49.6651,
+    "lat": 26.9378,
     "alt": 12192,
-    "velocity": 196.94,
-    "heading": 296.36,
+    "velocity": 190.18,
+    "heading": 288.29,
     "trace": [
       [
         24.9207,
@@ -17,31 +17,61 @@
       [
         26.3439,
         51.6023
+      ],
+      [
+        26.9378,
+        49.6651
       ]
     ]
   },
   {
-    "hex": "70c0b4",
-    "name": "Oman Royal Flight",
-    "category": "Dictator Alert",
-    "callsign": "ORF4",
-    "lon": 49.408,
-    "lat": 22.8133,
-    "alt": 12184.38,
-    "velocity": 216.45,
-    "heading": 278.61,
+    "hex": "a0d062",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI8842",
+    "lon": -77.0882,
+    "lat": 37.0536,
+    "alt": 9906,
+    "velocity": 191.7,
+    "heading": 281.61,
     "trace": [
       [
-        23.0046,
-        55.1142
-      ],
+        37.0536,
+        -77.0882
+      ]
+    ]
+  },
+  {
+    "hex": "a83f98",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA1682",
+    "lon": -82.6573,
+    "lat": 38.8225,
+    "alt": 9265.92,
+    "velocity": 262.53,
+    "heading": 170.98,
+    "trace": [
       [
-        22.4428,
-        52.3094
-      ],
+        38.8225,
+        -82.6573
+      ]
+    ]
+  },
+  {
+    "hex": "a95c2f",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR852",
+    "lon": -83.9517,
+    "lat": 40.2496,
+    "alt": 6096,
+    "velocity": 172.18,
+    "heading": 308.21,
+    "trace": [
       [
-        22.8133,
-        49.408
+        40.2496,
+        -83.9517
       ]
     ]
   },
@@ -50,15 +80,19 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "QAF3",
-    "lon": 51.1879,
-    "lat": 26.0363,
-    "alt": 7063.74,
-    "velocity": 200.87,
-    "heading": 295.65,
+    "lon": 49.1016,
+    "lat": 26.5036,
+    "alt": 10363.2,
+    "velocity": 198.5,
+    "heading": 280,
     "trace": [
       [
         26.0363,
         51.1879
+      ],
+      [
+        26.5036,
+        49.1016
       ]
     ]
   },
@@ -67,15 +101,36 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "QAF4",
-    "lon": 51.3913,
-    "lat": 25.9964,
-    "alt": 6248.4,
-    "velocity": 188.05,
-    "heading": 310.01,
+    "lon": 49.9352,
+    "lat": 27.4744,
+    "alt": 10972.8,
+    "velocity": 205.12,
+    "heading": 321.72,
     "trace": [
       [
         25.9964,
         51.3913
+      ],
+      [
+        27.4744,
+        49.9352
+      ]
+    ]
+  },
+  {
+    "hex": "0a404c",
+    "name": "Gov of Algeria",
+    "category": "Dictator Alert",
+    "callsign": "7TVPE",
+    "lon": 0.4099,
+    "lat": 34.9348,
+    "alt": 6400.8,
+    "velocity": 148.05,
+    "heading": 135.14,
+    "trace": [
+      [
+        34.9348,
+        0.4099
       ]
     ]
   },
@@ -84,11 +139,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI9493",
-    "lon": 34.6629,
-    "lat": 32.3041,
-    "alt": 1836.42,
-    "velocity": 140.98,
-    "heading": 113.67,
+    "lon": 34.8927,
+    "lat": 31.9972,
+    "alt": null,
+    "velocity": 0.51,
+    "heading": 286.88,
     "trace": [
       [
         46.0195,
@@ -133,19 +188,35 @@
       [
         32.3041,
         34.6629
+      ],
+      [
+        31.9972,
+        34.8927
       ]
     ]
+  },
+  {
+    "hex": "a5b769",
+    "name": "Omni Air International",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": null,
+    "lat": null,
+    "alt": null,
+    "velocity": 261.81,
+    "heading": 119.94,
+    "trace": []
   },
   {
     "hex": "acb84d",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR823",
-    "lon": -7.6156,
-    "lat": 53.2211,
+    "lon": -3.9141,
+    "lat": 52.2778,
     "alt": 12496.8,
-    "velocity": 253.97,
-    "heading": 109.28,
+    "velocity": 256.76,
+    "heading": 116.15,
     "trace": [
       [
         54.1862,
@@ -154,6 +225,10 @@
       [
         53.2211,
         -7.6156
+      ],
+      [
+        52.2778,
+        -3.9141
       ]
     ]
   }
