@@ -4,11 +4,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA1631",
-    "lon": -104.6633,
-    "lat": 39.8402,
+    "lon": -104.664,
+    "lat": 39.839,
     "alt": null,
-    "velocity": 4.37,
-    "heading": 258.75,
+    "velocity": 0,
+    "heading": 272.81,
     "trace": [
       [
         41.1639,
@@ -73,6 +73,10 @@
       [
         39.8402,
         -104.6633
+      ],
+      [
+        39.839,
+        -104.664
       ]
     ]
   },
@@ -81,11 +85,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR604",
-    "lon": 135.0353,
-    "lat": 36.3718,
+    "lon": 133.9153,
+    "lat": 35.8929,
     "alt": 12192,
-    "velocity": 193.74,
-    "heading": 242.48,
+    "velocity": 187.8,
+    "heading": 241.89,
     "trace": [
       [
         38.6732,
@@ -106,6 +110,10 @@
       [
         36.3718,
         135.0353
+      ],
+      [
+        35.8929,
+        133.9153
       ]
     ]
   },
@@ -114,11 +122,11 @@
     "name": "Oman Royal Flight",
     "category": "Dictator Alert",
     "callsign": "ORF6",
-    "lon": 19.3818,
-    "lat": 47.3346,
+    "lon": 18.1245,
+    "lat": 47.8807,
     "alt": 11582.4,
-    "velocity": 193.63,
-    "heading": 303.18,
+    "velocity": 193.26,
+    "heading": 302.17,
     "trace": [
       [
         40.9105,
@@ -151,60 +159,44 @@
       [
         47.3346,
         19.3818
+      ],
+      [
+        47.8807,
+        18.1245
       ]
     ]
   },
   {
-    "hex": "894011",
-    "name": "Bahrain Defence Force",
+    "hex": "06a021",
+    "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
-    "callsign": "BAH09",
-    "lon": 50.7439,
-    "lat": 25.7788,
-    "alt": 586.74,
-    "velocity": 107.33,
-    "heading": 240.73,
+    "callsign": "QAF3",
+    "lon": 10.9735,
+    "lat": 36.104,
+    "alt": 11887.2,
+    "velocity": 258.86,
+    "heading": 98.23,
     "trace": [
       [
-        24.6569,
-        54.3346
-      ],
-      [
-        25.2151,
-        53.4549
-      ],
-      [
-        25.6295,
-        52.7772
-      ],
-      [
-        26.1861,
-        50.851
-      ],
-      [
-        25.7788,
-        50.7439
+        36.104,
+        10.9735
       ]
     ]
   },
   {
-    "hex": "a0c62d",
-    "name": "Eastern Air Express",
-    "category": "Hired Gun",
-    "callsign": "BBQ562",
-    "lon": -79.4134,
-    "lat": 24.1559,
-    "alt": 8229.6,
-    "velocity": 259.41,
-    "heading": 145.59,
+    "hex": "710100",
+    "name": "Saudi Ministry of Finance",
+    "category": "Dictator Alert",
+    "callsign": "SVA992",
+    "lon": 49.7843,
+    "lat": 23.2476,
+    "alt": 11887.2,
+    "velocity": 275.12,
+    "heading": 99.15,
     "trace": [
       [
-        25.2398,
-        -80.0198
-      ],
-      [
-        24.1559,
-        -79.4134
+        23.2476,
+        49.7843
       ]
     ]
   }
