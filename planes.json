@@ -1,80 +1,14 @@
 [
   {
-    "hex": "a2f9dd",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA613",
-    "lon": -79.7084,
-    "lat": 25.5964,
-    "alt": 6248.4,
-    "velocity": 240.73,
-    "heading": 101.21,
-    "trace": [
-      [
-        25.7215,
-        -80.4436
-      ],
-      [
-        25.5964,
-        -79.7084
-      ]
-    ]
-  },
-  {
-    "hex": "aa3086",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR604",
-    "lon": 132.4487,
-    "lat": 35.1236,
-    "alt": 12192,
-    "velocity": 188.83,
-    "heading": 232.19,
-    "trace": [
-      [
-        38.6732,
-        140.923
-      ],
-      [
-        38.2011,
-        139.7176
-      ],
-      [
-        37.8823,
-        138.8495
-      ],
-      [
-        36.8646,
-        136.2297
-      ],
-      [
-        36.3718,
-        135.0353
-      ],
-      [
-        35.8929,
-        133.9153
-      ],
-      [
-        35.5449,
-        133.1248
-      ],
-      [
-        35.1236,
-        132.4487
-      ]
-    ]
-  },
-  {
     "hex": "70c0ba",
     "name": "Oman Royal Flight",
     "category": "Dictator Alert",
     "callsign": "ORF6",
-    "lon": 16.3078,
-    "lat": 48.6267,
-    "alt": 11597.64,
-    "velocity": 190.13,
-    "heading": 300.94,
+    "lon": 10.9519,
+    "lat": 50.3357,
+    "alt": 12192,
+    "velocity": 185.08,
+    "heading": 286.47,
     "trace": [
       [
         40.9105,
@@ -119,31 +53,61 @@
       [
         48.6267,
         16.3078
+      ],
+      [
+        50.3357,
+        10.9519
       ]
     ]
   },
   {
-    "hex": "06a021",
-    "name": "Qatar Amiri Flight",
+    "hex": "894081",
+    "name": "Bahrain Defence Force",
     "category": "Dictator Alert",
-    "callsign": "QAF3",
-    "lon": 13.3381,
-    "lat": 35.8922,
-    "alt": 11887.2,
-    "velocity": 258.26,
-    "heading": 96.29,
+    "callsign": "BAH11",
+    "lon": 50.7165,
+    "lat": 25.8081,
+    "alt": 647.7,
+    "velocity": 94.78,
+    "heading": 202.67,
     "trace": [
       [
-        36.104,
-        10.9735
-      ],
+        25.8081,
+        50.7165
+      ]
+    ]
+  },
+  {
+    "hex": "78048c",
+    "name": "Gov of PRC",
+    "category": "Dictator Alert",
+    "callsign": "CCA721",
+    "lon": 38.4065,
+    "lat": 57.5999,
+    "alt": 11582.4,
+    "velocity": 39.38,
+    "heading": 289.86,
+    "trace": [
       [
-        35.9902,
-        12.1818
-      ],
+        57.5999,
+        38.4065
+      ]
+    ]
+  },
+  {
+    "hex": "06a038",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "QAF4",
+    "lon": 50.1877,
+    "lat": 26.522,
+    "alt": 10058.4,
+    "velocity": 301.94,
+    "heading": 108.68,
+    "trace": [
       [
-        35.8922,
-        13.3381
+        26.522,
+        50.1877
       ]
     ]
   },
@@ -152,11 +116,11 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA992",
-    "lon": 52.0763,
-    "lat": 22.8923,
+    "lon": 57.6487,
+    "lat": 23.012,
     "alt": 11887.2,
-    "velocity": 276.31,
-    "heading": 99.97,
+    "velocity": 280.52,
+    "heading": 88.11,
     "trace": [
       [
         23.2476,
@@ -169,6 +133,10 @@
       [
         22.8923,
         52.0763
+      ],
+      [
+        23.012,
+        57.6487
       ]
     ]
   }
