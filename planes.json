@@ -4,11 +4,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR615",
-    "lon": -113.0745,
-    "lat": 55.0543,
+    "lon": -108.0813,
+    "lat": 53.4268,
     "alt": 10058.4,
-    "velocity": 294.73,
-    "heading": 117.1,
+    "velocity": 298.65,
+    "heading": 121.12,
     "trace": [
       [
         57.407,
@@ -17,6 +17,10 @@
       [
         55.0543,
         -113.0745
+      ],
+      [
+        53.4268,
+        -108.0813
       ]
     ]
   },
@@ -25,11 +29,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR660",
-    "lon": -98.3114,
-    "lat": 49.4247,
+    "lon": -93.9163,
+    "lat": 47.3919,
     "alt": 11277.6,
-    "velocity": 313.97,
-    "heading": 118.37,
+    "velocity": 313.76,
+    "heading": 127.94,
     "trace": [
       [
         56.062,
@@ -54,6 +58,61 @@
       [
         49.4247,
         -98.3114
+      ],
+      [
+        47.3919,
+        -93.9163
+      ]
+    ]
+  },
+  {
+    "hex": "a451cb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT451",
+    "lon": -67.4156,
+    "lat": 32.6547,
+    "alt": 11894.82,
+    "velocity": 264.86,
+    "heading": 67.02,
+    "trace": [
+      [
+        32.6547,
+        -67.4156
+      ]
+    ]
+  },
+  {
+    "hex": "406e9f",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "TOW016",
+    "lon": 3.2219,
+    "lat": 51.318,
+    "alt": 7315.2,
+    "velocity": 189.39,
+    "heading": 280.49,
+    "trace": [
+      [
+        51.318,
+        3.2219
+      ]
+    ]
+  },
+  {
+    "hex": "010148",
+    "name": "Government of Egypt",
+    "category": "Dictator Alert",
+    "callsign": "SUBRG",
+    "lon": 31.9587,
+    "lat": 29.2831,
+    "alt": 6400.8,
+    "velocity": 198.21,
+    "heading": 141.85,
+    "trace": [
+      [
+        29.2831,
+        31.9587
       ]
     ]
   }
