@@ -4,11 +4,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR615",
-    "lon": -86.901,
-    "lat": 42.9754,
-    "alt": 10668,
-    "velocity": 312.98,
-    "heading": 130.73,
+    "lon": -84.8638,
+    "lat": 41.7163,
+    "alt": 9113.52,
+    "velocity": 305.9,
+    "heading": 129.47,
     "trace": [
       [
         57.407,
@@ -45,6 +45,27 @@
       [
         42.9754,
         -86.901
+      ],
+      [
+        41.7163,
+        -84.8638
+      ]
+    ]
+  },
+  {
+    "hex": "a0f8f9",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI7065",
+    "lon": -90.6614,
+    "lat": 34.3242,
+    "alt": 7452.36,
+    "velocity": 218.13,
+    "heading": 216.46,
+    "trace": [
+      [
+        34.3242,
+        -90.6614
       ]
     ]
   },
@@ -53,11 +74,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3386",
-    "lon": -79.1934,
-    "lat": 36.821,
-    "alt": 12199.62,
-    "velocity": 204.65,
-    "heading": 219.49,
+    "lon": -80.2095,
+    "lat": 35.8043,
+    "alt": 12192,
+    "velocity": 208.82,
+    "heading": 218.2,
     "trace": [
       [
         38.933,
@@ -66,6 +87,10 @@
       [
         36.821,
         -79.1934
+      ],
+      [
+        35.8043,
+        -80.2095
       ]
     ]
   },
@@ -74,11 +99,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3954",
-    "lon": -91.7127,
-    "lat": 34.7002,
+    "lon": -93.2859,
+    "lat": 34.905,
     "alt": 12192,
-    "velocity": 204.33,
-    "heading": 279.27,
+    "velocity": 215.86,
+    "heading": 278.5,
     "trace": [
       [
         34.2597,
@@ -87,6 +112,10 @@
       [
         34.7002,
         -91.7127
+      ],
+      [
+        34.905,
+        -93.2859
       ]
     ]
   },
@@ -95,32 +124,19 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7AAH",
-    "lon": 30.7468,
-    "lat": 40.3164,
+    "lon": 29.0231,
+    "lat": 40.5262,
     "alt": 11582.4,
-    "velocity": 213.9,
-    "heading": 277.74,
+    "velocity": 206.66,
+    "heading": 289.79,
     "trace": [
       [
         40.3164,
         30.7468
-      ]
-    ]
-  },
-  {
-    "hex": "010057",
-    "name": "Gov of Egypt",
-    "category": "Dictator Alert",
-    "callsign": "SUBNO",
-    "lon": 33.3094,
-    "lat": 29.1606,
-    "alt": 6400.8,
-    "velocity": 236.9,
-    "heading": 124.83,
-    "trace": [
+      ],
       [
-        29.1606,
-        33.3094
+        40.5262,
+        29.0231
       ]
     ]
   }
