@@ -4,11 +4,11 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA7139",
-    "lon": 15.321,
-    "lat": 44.8997,
+    "lon": 12.4827,
+    "lat": 47.1815,
     "alt": 10972.8,
-    "velocity": 209.66,
-    "heading": 320.18,
+    "velocity": 206.91,
+    "heading": 318.02,
     "trace": [
       [
         35.7907,
@@ -49,6 +49,10 @@
       [
         44.8997,
         15.321
+      ],
+      [
+        47.1815,
+        12.4827
       ]
     ]
   },
@@ -57,11 +61,11 @@
     "name": "Oman Royal Flight",
     "category": "Dictator Alert",
     "callsign": "ORF3",
-    "lon": 9.0344,
-    "lat": 47.7108,
-    "alt": 8488.68,
-    "velocity": 197.27,
-    "heading": 267.16,
+    "lon": 7.4969,
+    "lat": 47.6363,
+    "alt": 411.48,
+    "velocity": 62.59,
+    "heading": 154.7,
     "trace": [
       [
         42.5425,
@@ -110,6 +114,10 @@
       [
         47.7108,
         9.0344
+      ],
+      [
+        47.6363,
+        7.4969
       ]
     ]
   },
@@ -118,11 +126,11 @@
     "name": "Sharjah Rulers Flight",
     "category": "Dictator Alert",
     "callsign": "SHJ01",
-    "lon": 9.7805,
-    "lat": 42.2517,
+    "lon": 6.6937,
+    "lat": 44.5356,
     "alt": 11582.4,
-    "velocity": 220.06,
-    "heading": 308.45,
+    "velocity": 224.08,
+    "heading": 321.53,
     "trace": [
       [
         39.1807,
@@ -143,6 +151,27 @@
       [
         42.2517,
         9.7805
+      ],
+      [
+        44.5356,
+        6.6937
+      ]
+    ]
+  },
+  {
+    "hex": "a9e61f",
+    "name": "Eagle Intl Establishment",
+    "category": "Hired Gun",
+    "callsign": "N737M",
+    "lon": 20.0791,
+    "lat": 47.2432,
+    "alt": 11887.2,
+    "velocity": 261.93,
+    "heading": 103.05,
+    "trace": [
+      [
+        47.2432,
+        20.0791
       ]
     ]
   },
@@ -151,11 +180,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "NOS738",
-    "lon": 11.6703,
-    "lat": 44.185,
-    "alt": 8839.2,
-    "velocity": 211,
-    "heading": 161.96,
+    "lon": 12.238,
+    "lat": 41.9021,
+    "alt": 441.96,
+    "velocity": 69.63,
+    "heading": 162.37,
     "trace": [
       [
         45.2947,
@@ -168,6 +197,44 @@
       [
         44.185,
         11.6703
+      ],
+      [
+        41.9021,
+        12.238
+      ]
+    ]
+  },
+  {
+    "hex": "78048c",
+    "name": "Gov of PRC",
+    "category": "Dictator Alert",
+    "callsign": "CCA4110",
+    "lon": 114.2629,
+    "lat": 39.0006,
+    "alt": 11612.88,
+    "velocity": 223.06,
+    "heading": 216.84,
+    "trace": [
+      [
+        39.0006,
+        114.2629
+      ]
+    ]
+  },
+  {
+    "hex": "ad7274",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6126",
+    "lon": -90.7383,
+    "lat": 29.7621,
+    "alt": 10652.76,
+    "velocity": 265.28,
+    "heading": 136.49,
+    "trace": [
+      [
+        29.7621,
+        -90.7383
       ]
     ]
   }
