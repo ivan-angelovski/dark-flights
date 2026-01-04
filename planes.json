@@ -4,40 +4,19 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA7139",
-    "lon": 25.0948,
-    "lat": 35.7907,
+    "lon": 23.0251,
+    "lat": 37.7902,
     "alt": 10972.8,
-    "velocity": 225.94,
-    "heading": 320.73,
+    "velocity": 214.27,
+    "heading": 319.77,
     "trace": [
       [
         35.7907,
         25.0948
-      ]
-    ]
-  },
-  {
-    "hex": "8002cd",
-    "name": "Gov of India",
-    "category": "Dictator Alert",
-    "callsign": "IFC1",
-    "lon": 77.1178,
-    "lat": 28.5699,
-    "alt": 205.74,
-    "velocity": 69.99,
-    "heading": 271.68,
-    "trace": [
-      [
-        27.1606,
-        77.2157
       ],
       [
-        27.8184,
-        77.2073
-      ],
-      [
-        28.5699,
-        77.1178
+        37.7902,
+        23.0251
       ]
     ]
   },
@@ -46,11 +25,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR803",
-    "lon": -73.4177,
-    "lat": 42.8554,
+    "lon": -68.932,
+    "lat": 43.9928,
     "alt": 10668,
-    "velocity": 289.13,
-    "heading": 69.37,
+    "velocity": 295.29,
+    "heading": 72.35,
     "trace": [
       [
         40.5798,
@@ -71,6 +50,10 @@
       [
         42.8554,
         -73.4177
+      ],
+      [
+        43.9928,
+        -68.932
       ]
     ]
   },
@@ -79,11 +62,11 @@
     "name": "Oman Royal Flight",
     "category": "Dictator Alert",
     "callsign": "ORF3",
-    "lon": 25.233,
-    "lat": 45.2059,
-    "alt": 12184.38,
-    "velocity": 212.58,
-    "heading": 296.75,
+    "lon": 21.9039,
+    "lat": 46.2834,
+    "alt": 12192,
+    "velocity": 213.23,
+    "heading": 292.11,
     "trace": [
       [
         42.5425,
@@ -96,35 +79,10 @@
       [
         45.2059,
         25.233
-      ]
-    ]
-  },
-  {
-    "hex": "894011",
-    "name": "Bahrain Defence Force",
-    "category": "Dictator Alert",
-    "callsign": "BAH09",
-    "lon": 51.216,
-    "lat": 26.4769,
-    "alt": 3322.32,
-    "velocity": 145.83,
-    "heading": 290.22,
-    "trace": [
-      [
-        24.8939,
-        53.9898
       ],
       [
-        25.2733,
-        53.3822
-      ],
-      [
-        25.6346,
-        52.7665
-      ],
-      [
-        26.4769,
-        51.216
+        46.2834,
+        21.9039
       ]
     ]
   },
@@ -133,48 +91,19 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE556",
-    "lon": -11.5633,
-    "lat": 52.8997,
-    "alt": 10218.42,
-    "velocity": 255.8,
-    "heading": 94.04,
+    "lon": -8.82,
+    "lat": 52.7512,
+    "alt": 381,
+    "velocity": 71.52,
+    "heading": 232.31,
     "trace": [
       [
         52.8997,
         -11.5633
-      ]
-    ]
-  },
-  {
-    "hex": "06a014",
-    "name": "Qatar Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "A7HHJ",
-    "lon": 11.2933,
-    "lat": 34.9339,
-    "alt": 11590.02,
-    "velocity": 193.79,
-    "heading": 250.46,
-    "trace": [
-      [
-        35.4892,
-        16.6256
       ],
       [
-        35.3849,
-        15.1535
-      ],
-      [
-        35.3134,
-        14.2653
-      ],
-      [
-        35.2392,
-        13.4244
-      ],
-      [
-        34.9339,
-        11.2933
+        52.7512,
+        -8.82
       ]
     ]
   },
@@ -182,12 +111,51 @@
     "hex": "600bc4",
     "name": "Gov of Azerbaijan",
     "category": "Dictator Alert",
-    "callsign": "",
-    "lon": null,
-    "lat": null,
+    "callsign": "AHY617",
+    "lon": 55.1875,
+    "lat": 25.4675,
     "alt": 11277.6,
-    "velocity": 277.24,
-    "heading": 166.04,
-    "trace": []
+    "velocity": 297.77,
+    "heading": 120.64,
+    "trace": [
+      [
+        25.4675,
+        55.1875
+      ]
+    ]
+  },
+  {
+    "hex": "acb84d",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR617",
+    "lon": 131.8661,
+    "lat": 34.7634,
+    "alt": 10058.4,
+    "velocity": 322.3,
+    "heading": 58.64,
+    "trace": [
+      [
+        34.7634,
+        131.8661
+      ]
+    ]
+  },
+  {
+    "hex": "06a0a4",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "A7MBK",
+    "lon": 51.556,
+    "lat": 25.2821,
+    "alt": 266.7,
+    "velocity": 76.42,
+    "heading": 338.27,
+    "trace": [
+      [
+        25.2821,
+        51.556
+      ]
+    ]
   }
 ]
