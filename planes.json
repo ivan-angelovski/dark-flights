@@ -1,51 +1,22 @@
 [
   {
-    "hex": "aa3086",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR803",
-    "lon": -4.5316,
-    "lat": 55.4877,
-    "alt": 289.56,
-    "velocity": 74.11,
-    "heading": 301.37,
-    "trace": [
-      [
-        53.455,
-        -12.6521
-      ],
-      [
-        53.7852,
-        -10.7387
-      ],
-      [
-        54.0585,
-        -9.1952
-      ],
-      [
-        54.7991,
-        -5.612
-      ],
-      [
-        55.4877,
-        -4.5316
-      ]
-    ]
-  },
-  {
     "hex": "a451cb",
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT450",
-    "lon": 5.3156,
-    "lat": 51.4072,
-    "alt": 1203.96,
-    "velocity": 90.64,
-    "heading": 222.93,
+    "lon": 3.7063,
+    "lat": 51.7433,
+    "alt": 9189.72,
+    "velocity": 213.07,
+    "heading": 268.34,
     "trace": [
       [
         51.4072,
         5.3156
+      ],
+      [
+        51.7433,
+        3.7063
       ]
     ]
   },
@@ -54,11 +25,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "NOS738",
-    "lon": 23.2416,
-    "lat": 42.8514,
+    "lon": 25.0357,
+    "lat": 42.3387,
     "alt": 11277.6,
-    "velocity": 262.76,
-    "heading": 110.63,
+    "velocity": 262.4,
+    "heading": 110.42,
     "trace": [
       [
         41.6503,
@@ -83,23 +54,43 @@
       [
         42.8514,
         23.2416
+      ],
+      [
+        42.3387,
+        25.0357
       ]
     ]
+  },
+  {
+    "hex": "ad7274",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6127",
+    "lon": null,
+    "lat": null,
+    "alt": 4427.22,
+    "velocity": 179.22,
+    "heading": 350.92,
+    "trace": []
   },
   {
     "hex": "06a014",
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7HHJ",
-    "lon": 13.4426,
-    "lat": 33.2182,
+    "lon": 15.3888,
+    "lat": 32.9298,
     "alt": 11277.6,
-    "velocity": 261.76,
-    "heading": 99.39,
+    "velocity": 255.88,
+    "heading": 100.54,
     "trace": [
       [
         33.2182,
         13.4426
+      ],
+      [
+        32.9298,
+        15.3888
       ]
     ]
   },
@@ -108,11 +99,11 @@
     "name": "Dynamic Avlease Inc",
     "category": "Hired Gun",
     "callsign": "N75V",
-    "lon": -96.6496,
-    "lat": 18.7726,
+    "lon": -96.586,
+    "lat": 19.161,
     "alt": 3467.1,
-    "velocity": 80.77,
-    "heading": 9.16,
+    "velocity": 80.54,
+    "heading": 8.08,
     "trace": [
       [
         17.9271,
@@ -153,6 +144,10 @@
       [
         18.7726,
         -96.6496
+      ],
+      [
+        19.161,
+        -96.586
       ]
     ]
   },
@@ -161,11 +156,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6181",
-    "lon": -86.8628,
-    "lat": 28.5637,
-    "alt": 10972.8,
-    "velocity": 203.4,
-    "heading": 295.79,
+    "lon": -90.0244,
+    "lat": 29.8619,
+    "alt": 7993.38,
+    "velocity": 186.55,
+    "heading": 302.16,
     "trace": [
       [
         27.0507,
@@ -190,6 +185,10 @@
       [
         28.5637,
         -86.8628
+      ],
+      [
+        29.8619,
+        -90.0244
       ]
     ]
   },
@@ -198,11 +197,11 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA918",
-    "lon": 6.6199,
-    "lat": 46.133,
+    "lon": 8.3364,
+    "lat": 45.0285,
     "alt": 9448.8,
-    "velocity": 262.88,
-    "heading": 159.61,
+    "velocity": 267.56,
+    "heading": 130.24,
     "trace": [
       [
         50.4717,
@@ -215,6 +214,10 @@
       [
         46.133,
         6.6199
+      ],
+      [
+        45.0285,
+        8.3364
       ]
     ]
   },
@@ -223,15 +226,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR617",
-    "lon": -172.3449,
-    "lat": 57.6318,
+    "lon": -169.0898,
+    "lat": 58.3059,
     "alt": 10058.4,
-    "velocity": 282.77,
-    "heading": 68.1,
+    "velocity": 289.98,
+    "heading": 69.22,
     "trace": [
       [
         57.6318,
         -172.3449
+      ],
+      [
+        58.3059,
+        -169.0898
       ]
     ]
   },
@@ -240,11 +247,11 @@
     "name": "Gov of Turkey",
     "category": "Dictator Alert",
     "callsign": "TRK5",
-    "lon": 5.2725,
-    "lat": 41.0383,
+    "lon": 3.3267,
+    "lat": 41.2077,
     "alt": 13106.4,
-    "velocity": 244.4,
-    "heading": 273.86,
+    "velocity": 246.5,
+    "heading": 276.59,
     "trace": [
       [
         41.4091,
@@ -289,6 +296,10 @@
       [
         41.0383,
         5.2725
+      ],
+      [
+        41.2077,
+        3.3267
       ]
     ]
   }
