@@ -1,43 +1,14 @@
 [
   {
-    "hex": "7101e3",
-    "name": "Saudi Ministry of Finance",
-    "category": "Dictator Alert",
-    "callsign": "SVA7139",
-    "lon": 2.4601,
-    "lat": 48.9659,
-    "alt": 114.3,
-    "velocity": 66.14,
-    "heading": 264.64,
-    "trace": [
-      [
-        50.8767,
-        -7.7096
-      ],
-      [
-        49.59,
-        -3.043
-      ],
-      [
-        49.4318,
-        2.1757
-      ],
-      [
-        48.9659,
-        2.4601
-      ]
-    ]
-  },
-  {
     "hex": "a2f9dd",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA631",
-    "lon": -78.2764,
-    "lat": 30.7063,
+    "lon": -77.4923,
+    "lat": 32.9516,
     "alt": 10668,
-    "velocity": 214.54,
-    "heading": 16.44,
+    "velocity": 221.34,
+    "heading": 16.75,
     "trace": [
       [
         28.0845,
@@ -46,27 +17,44 @@
       [
         30.7063,
         -78.2764
+      ],
+      [
+        32.9516,
+        -77.4923
       ]
     ]
   },
   {
-    "hex": "4009c8",
-    "name": "Draken Europe",
-    "category": "Hired Gun",
-    "callsign": "DRAKEN01",
-    "lon": 49.3973,
-    "lat": 25.7269,
-    "alt": 5524.5,
-    "velocity": 207.41,
-    "heading": 46.41,
+    "hex": "89615a",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB8",
+    "lon": 32.4815,
+    "lat": 41.8673,
+    "alt": 11582.4,
+    "velocity": 204.18,
+    "heading": 287.75,
     "trace": [
       [
-        25.7682,
-        49.155
-      ],
+        41.8673,
+        32.4815
+      ]
+    ]
+  },
+  {
+    "hex": "896430",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB9",
+    "lon": 29.9757,
+    "lat": 42.4397,
+    "alt": 10972.8,
+    "velocity": 209.87,
+    "heading": 286.08,
+    "trace": [
       [
-        25.7269,
-        49.3973
+        42.4397,
+        29.9757
       ]
     ]
   },
@@ -75,32 +63,36 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT8620",
-    "lon": -87.2692,
-    "lat": 16.2976,
-    "alt": 8374.38,
-    "velocity": 259.88,
-    "heading": 41.39,
+    "lon": -85.4461,
+    "lat": 18.5165,
+    "alt": 10980.42,
+    "velocity": 254.89,
+    "heading": 35.97,
     "trace": [
       [
         16.2976,
         -87.2692
+      ],
+      [
+        18.5165,
+        -85.4461
       ]
     ]
   },
   {
-    "hex": "896571",
-    "name": "Abu Dhabi Amiri Flight",
+    "hex": "600806",
+    "name": "Gov of Azerbaijan",
     "category": "Dictator Alert",
-    "callsign": "AUH06",
-    "lon": 58.2544,
-    "lat": 23.5901,
-    "alt": 11879.58,
-    "velocity": 310.05,
-    "heading": 79.19,
+    "callsign": "",
+    "lon": 58.3189,
+    "lat": 26.0383,
+    "alt": 12496.8,
+    "velocity": 289.36,
+    "heading": 131.54,
     "trace": [
       [
-        23.5901,
-        58.2544
+        26.0383,
+        58.3189
       ]
     ]
   },
@@ -109,11 +101,11 @@
     "name": "Bahrain Defence Force",
     "category": "Dictator Alert",
     "callsign": "BAH09",
-    "lon": 51.5573,
-    "lat": 26.3533,
-    "alt": 4930.14,
-    "velocity": 184.49,
-    "heading": 290.91,
+    "lon": 50.7764,
+    "lat": 25.7783,
+    "alt": 472.44,
+    "velocity": 114.75,
+    "heading": 228.09,
     "trace": [
       [
         24.5719,
@@ -122,6 +114,10 @@
       [
         26.3533,
         51.5573
+      ],
+      [
+        25.7783,
+        50.7764
       ]
     ]
   },
@@ -130,11 +126,11 @@
     "name": "Polish Air Force",
     "category": "Dictator Alert",
     "callsign": "PLF130",
-    "lon": 17.689,
-    "lat": 52.2995,
-    "alt": 3040.38,
-    "velocity": 127.92,
-    "heading": 274.15,
+    "lon": 16.826,
+    "lat": 52.4173,
+    "alt": null,
+    "velocity": 0,
+    "heading": 182.81,
     "trace": [
       [
         52.197,
@@ -143,27 +139,10 @@
       [
         52.2995,
         17.689
-      ]
-    ]
-  },
-  {
-    "hex": "06a01c",
-    "name": "Qatar Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "QAF6",
-    "lon": 1.8661,
-    "lat": 36.1617,
-    "alt": 11887.2,
-    "velocity": 275.52,
-    "heading": 81.73,
-    "trace": [
-      [
-        34.047,
-        -1.377
       ],
       [
-        36.1617,
-        1.8661
+        52.4173,
+        16.826
       ]
     ]
   }
