@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a95c2f",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR820",
+    "lon": -83.4877,
+    "lat": 39.9583,
+    "alt": 4991.1,
+    "velocity": 193.13,
+    "heading": 294.72,
+    "trace": [
+      [
+        39.9583,
+        -83.4877
+      ]
+    ]
+  },
+  {
     "hex": "aa3086",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR806",
-    "lon": 15.3526,
-    "lat": 45.4644,
-    "alt": 9753.6,
-    "velocity": 244.91,
-    "heading": 313.38,
+    "lon": 11.0703,
+    "lat": 48.0541,
+    "alt": 10363.2,
+    "velocity": 240.71,
+    "heading": 308.93,
     "trace": [
       [
         35.7463,
@@ -33,6 +50,10 @@
       [
         45.4644,
         15.3526
+      ],
+      [
+        48.0541,
+        11.0703
       ]
     ]
   },
@@ -41,32 +62,36 @@
     "name": "Gov of Morocco",
     "category": "Dictator Alert",
     "callsign": "MRS0603",
-    "lon": 2.2449,
-    "lat": 48.9339,
-    "alt": 1668.78,
-    "velocity": 134.37,
-    "heading": 267.81,
+    "lon": -1.3731,
+    "lat": 46.6274,
+    "alt": 11277.6,
+    "velocity": 248.01,
+    "heading": 206.62,
     "trace": [
       [
         48.9339,
         2.2449
+      ],
+      [
+        46.6274,
+        -1.3731
       ]
     ]
   },
   {
-    "hex": "a3defb",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT8213",
-    "lon": -79.8794,
-    "lat": 25.6577,
-    "alt": 3817.62,
-    "velocity": 206.71,
-    "heading": 110.24,
+    "hex": "89407f",
+    "name": "Bahrain Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "BAH6",
+    "lon": 53.7032,
+    "lat": 25.0717,
+    "alt": 7924.8,
+    "velocity": 210.19,
+    "heading": 304.43,
     "trace": [
       [
-        25.6577,
-        -79.8794
+        25.0717,
+        53.7032
       ]
     ]
   },
@@ -75,11 +100,11 @@
     "name": "Gov of Sudan",
     "category": "Dictator Alert",
     "callsign": "",
-    "lon": 21.7811,
-    "lat": 38.9948,
-    "alt": 9738.36,
-    "velocity": 196.89,
-    "heading": 313.2,
+    "lon": 18.6146,
+    "lat": 41.0811,
+    "alt": 9715.5,
+    "velocity": 212.72,
+    "heading": 298.61,
     "trace": [
       [
         35.4429,
@@ -96,6 +121,27 @@
       [
         38.9948,
         21.7811
+      ],
+      [
+        41.0811,
+        18.6146
+      ]
+    ]
+  },
+  {
+    "hex": "3cd05e",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD2",
+    "lon": 8.7214,
+    "lat": 53.8044,
+    "alt": 2125.98,
+    "velocity": 136.82,
+    "heading": 229.42,
+    "trace": [
+      [
+        53.8044,
+        8.7214
       ]
     ]
   },
@@ -104,8 +150,8 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "",
-    "lon": 34.9045,
-    "lat": 31.999,
+    "lon": 34.9044,
+    "lat": 31.9991,
     "alt": null,
     "velocity": 0,
     "heading": 95.62,
@@ -113,6 +159,10 @@
       [
         31.999,
         34.9045
+      ],
+      [
+        31.9991,
+        34.9044
       ]
     ]
   },
@@ -121,11 +171,11 @@
     "name": "C2D LLC",
     "category": "Hired Gun",
     "callsign": "GRB625",
-    "lon": -113.6445,
-    "lat": 35.6183,
+    "lon": -117.9802,
+    "lat": 36.8026,
     "alt": 13091.16,
-    "velocity": 219.33,
-    "heading": 289.45,
+    "velocity": 242.81,
+    "heading": 300.42,
     "trace": [
       [
         29.5686,
@@ -158,6 +208,27 @@
       [
         35.6183,
         -113.6445
+      ],
+      [
+        36.8026,
+        -117.9802
+      ]
+    ]
+  },
+  {
+    "hex": "157718",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD392",
+    "lon": 37.4487,
+    "lat": 55.9057,
+    "alt": 830.58,
+    "velocity": 28.08,
+    "heading": 171.57,
+    "trace": [
+      [
+        55.9057,
+        37.4487
       ]
     ]
   }
