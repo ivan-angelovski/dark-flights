@@ -1,14 +1,48 @@
 [
   {
+    "hex": "4009ce",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "ASPRIN41",
+    "lon": -1.1649,
+    "lat": 54.2601,
+    "alt": 3322.32,
+    "velocity": 132.92,
+    "heading": 140.02,
+    "trace": [
+      [
+        54.2601,
+        -1.1649
+      ]
+    ]
+  },
+  {
+    "hex": "4009cc",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "ASPRIN42",
+    "lon": -1.1911,
+    "lat": 54.2848,
+    "alt": 3284.22,
+    "velocity": 151.83,
+    "heading": 139.67,
+    "trace": [
+      [
+        54.2848,
+        -1.1911
+      ]
+    ]
+  },
+  {
     "hex": "a95c2f",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR820",
-    "lon": -91.5182,
-    "lat": 42.4219,
+    "lon": -92.5387,
+    "lat": 42.6829,
     "alt": 11582.4,
-    "velocity": 211.03,
-    "heading": 289.36,
+    "velocity": 213.44,
+    "heading": 288.7,
     "trace": [
       [
         39.9583,
@@ -25,6 +59,10 @@
       [
         42.4219,
         -91.5182
+      ],
+      [
+        42.6829,
+        -92.5387
       ]
     ]
   },
@@ -33,11 +71,11 @@
     "name": "Gov of Morocco",
     "category": "Dictator Alert",
     "callsign": "MRS0603",
-    "lon": -4.8142,
-    "lat": 38.7334,
-    "alt": 10584.18,
-    "velocity": 229.41,
-    "heading": 200.75,
+    "lon": -5.214,
+    "lat": 37.895,
+    "alt": 10058.4,
+    "velocity": 244.34,
+    "heading": 200.46,
     "trace": [
       [
         48.9339,
@@ -58,6 +96,10 @@
       [
         38.7334,
         -4.8142
+      ],
+      [
+        37.895,
+        -5.214
       ]
     ]
   },
@@ -66,11 +108,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB9",
-    "lon": -2.2307,
-    "lat": 36.8768,
+    "lon": -1.692,
+    "lat": 37.7011,
     "alt": 10363.2,
-    "velocity": 251.29,
-    "heading": 27.82,
+    "velocity": 243.89,
+    "heading": 27.38,
     "trace": [
       [
         35.234,
@@ -79,27 +121,10 @@
       [
         36.8768,
         -2.2307
-      ]
-    ]
-  },
-  {
-    "hex": "a451cb",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT8242",
-    "lon": -73.2962,
-    "lat": 21.5975,
-    "alt": 11597.64,
-    "velocity": 209.61,
-    "heading": 303.18,
-    "trace": [
-      [
-        20.4815,
-        -71.4945
       ],
       [
-        21.5975,
-        -73.2962
+        37.7011,
+        -1.692
       ]
     ]
   },
@@ -108,11 +133,11 @@
     "name": "Gov of Sudan",
     "category": "Dictator Alert",
     "callsign": "",
-    "lon": 10.4127,
-    "lat": 44.9854,
-    "alt": 10355.58,
-    "velocity": 202.78,
-    "heading": 299.82,
+    "lon": 9.4522,
+    "lat": 45.3382,
+    "alt": 10995.66,
+    "velocity": 201.98,
+    "heading": 292.78,
     "trace": [
       [
         35.4429,
@@ -145,6 +170,10 @@
       [
         44.9854,
         10.4127
+      ],
+      [
+        45.3382,
+        9.4522
       ]
     ]
   },
@@ -153,11 +182,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD4",
-    "lon": 9.6349,
-    "lat": 54.3178,
-    "alt": 853.44,
-    "velocity": 113.94,
-    "heading": 81.43,
+    "lon": 9.6327,
+    "lat": 54.1529,
+    "alt": 1234.44,
+    "velocity": 104.44,
+    "heading": 269.15,
     "trace": [
       [
         54.3035,
@@ -166,6 +195,10 @@
       [
         54.3178,
         9.6349
+      ],
+      [
+        54.1529,
+        9.6327
       ]
     ]
   },
@@ -174,11 +207,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD5",
-    "lon": 9.2759,
-    "lat": 54.2804,
-    "alt": 624.84,
-    "velocity": 91.53,
-    "heading": 67.18,
+    "lon": 9.8196,
+    "lat": 54.265,
+    "alt": 1234.44,
+    "velocity": 114.37,
+    "heading": 171.72,
     "trace": [
       [
         54.2081,
@@ -187,6 +220,10 @@
       [
         54.2804,
         9.2759
+      ],
+      [
+        54.265,
+        9.8196
       ]
     ]
   },
@@ -195,11 +232,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD2",
-    "lon": 7.6739,
-    "lat": 53.6171,
-    "alt": 906.78,
-    "velocity": 127.55,
-    "heading": 72.15,
+    "lon": 7.6089,
+    "lat": 53.521,
+    "alt": 922.02,
+    "velocity": 98.78,
+    "heading": 179.4,
     "trace": [
       [
         53.8044,
@@ -216,6 +253,10 @@
       [
         53.6171,
         7.6739
+      ],
+      [
+        53.521,
+        7.6089
       ]
     ]
   },
@@ -224,11 +265,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD1",
-    "lon": 8.6549,
-    "lat": 50.7931,
+    "lon": 8.4008,
+    "lat": 50.547,
     "alt": 1844.04,
-    "velocity": 123.79,
-    "heading": 191.26,
+    "velocity": 76.01,
+    "heading": 309.51,
     "trace": [
       [
         52.3781,
@@ -237,6 +278,10 @@
       [
         50.7931,
         8.6549
+      ],
+      [
+        50.547,
+        8.4008
       ]
     ]
   },
@@ -245,11 +290,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD3",
-    "lon": 7.756,
-    "lat": 53.5589,
-    "alt": 281.94,
-    "velocity": 68.25,
-    "heading": 260.89,
+    "lon": 7.8118,
+    "lat": 53.5663,
+    "alt": 487.68,
+    "velocity": 72.68,
+    "heading": 262.27,
     "trace": [
       [
         53.588,
@@ -262,6 +307,27 @@
       [
         53.5589,
         7.756
+      ],
+      [
+        53.5663,
+        7.8118
+      ]
+    ]
+  },
+  {
+    "hex": "406ad0",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "GFFMV",
+    "lon": -3.9948,
+    "lat": 50.4277,
+    "alt": 914.4,
+    "velocity": 55.15,
+    "heading": 252.07,
+    "trace": [
+      [
+        50.4277,
+        -3.9948
       ]
     ]
   },
@@ -270,7 +336,7 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "",
-    "lon": 34.9042,
+    "lon": 34.9045,
     "lat": 31.9992,
     "alt": null,
     "velocity": 0,
@@ -295,6 +361,10 @@
       [
         31.9992,
         34.9042
+      ],
+      [
+        31.9992,
+        34.9045
       ]
     ]
   }
