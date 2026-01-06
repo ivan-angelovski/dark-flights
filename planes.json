@@ -1,18 +1,39 @@
 [
   {
+    "hex": "ad3c48",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR520",
+    "lon": 114.9191,
+    "lat": 21.7439,
+    "alt": 5768.34,
+    "velocity": 262.37,
+    "heading": 89.66,
+    "trace": [
+      [
+        21.7439,
+        114.9191
+      ]
+    ]
+  },
+  {
     "hex": "a0d062",
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8617",
-    "lon": -66.1347,
-    "lat": 18.384,
-    "alt": 3215.64,
-    "velocity": 179.69,
-    "heading": 207.08,
+    "lon": -70.3938,
+    "lat": 13.8372,
+    "alt": 11590.02,
+    "velocity": 206.74,
+    "heading": 234.21,
     "trace": [
       [
         18.384,
         -66.1347
+      ],
+      [
+        13.8372,
+        -70.3938
       ]
     ]
   },
@@ -21,11 +42,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR619",
-    "lon": -91.0803,
-    "lat": 45.7737,
-    "alt": 10050.78,
-    "velocity": 266.68,
-    "heading": 133.98,
+    "lon": -83.1611,
+    "lat": 40.3638,
+    "alt": 3048,
+    "velocity": 153.17,
+    "heading": 135.95,
     "trace": [
       [
         59.7098,
@@ -42,6 +63,10 @@
       [
         45.7737,
         -91.0803
+      ],
+      [
+        40.3638,
+        -83.1611
       ]
     ]
   },
@@ -50,32 +75,19 @@
     "name": "Gov of Morocco",
     "category": "Dictator Alert",
     "callsign": "MRS0603",
-    "lon": -6.4417,
-    "lat": 34.9959,
-    "alt": 8023.86,
-    "velocity": 220.25,
-    "heading": 11.18,
+    "lon": -2.7059,
+    "lat": 41.4749,
+    "alt": 11582.4,
+    "velocity": 232.97,
+    "heading": 24.53,
     "trace": [
       [
         34.9959,
         -6.4417
-      ]
-    ]
-  },
-  {
-    "hex": "abc95e",
-    "name": "ISR Platforms",
-    "category": "Hired Gun",
-    "callsign": "",
-    "lon": -74.15,
-    "lat": 4.7092,
-    "alt": null,
-    "velocity": 3.09,
-    "heading": 241.88,
-    "trace": [
+      ],
       [
-        4.7092,
-        -74.15
+        41.4749,
+        -2.7059
       ]
     ]
   },
@@ -84,11 +96,11 @@
     "name": "C2D LLC",
     "category": "Hired Gun",
     "callsign": "GRB625",
-    "lon": -85.8446,
-    "lat": 28.0608,
-    "alt": 11559.54,
-    "velocity": 216.04,
-    "heading": 288.61,
+    "lon": -93.1717,
+    "lat": 29.2967,
+    "alt": 9845.04,
+    "velocity": 207.59,
+    "heading": 274.98,
     "trace": [
       [
         22.9422,
@@ -97,6 +109,27 @@
       [
         28.0608,
         -85.8446
+      ],
+      [
+        29.2967,
+        -93.1717
+      ]
+    ]
+  },
+  {
+    "hex": "06a0d6",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "A7MHH",
+    "lon": -65.9512,
+    "lat": 47.1174,
+    "alt": 10370.82,
+    "velocity": 216.17,
+    "heading": 236.65,
+    "trace": [
+      [
+        47.1174,
+        -65.9512
       ]
     ]
   }
