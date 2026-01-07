@@ -4,32 +4,82 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR803",
-    "lon": -87.8939,
-    "lat": 41.972,
-    "alt": null,
-    "velocity": 7.46,
-    "heading": 90,
+    "lon": -86.4543,
+    "lat": 39.565,
+    "alt": 10972.8,
+    "velocity": 288.33,
+    "heading": 154.53,
     "trace": [
       [
         41.972,
         -87.8939
+      ],
+      [
+        39.565,
+        -86.4543
       ]
     ]
   },
   {
-    "hex": "4009d1",
+    "hex": "4009c8",
     "name": "Draken Europe",
     "category": "Hired Gun",
-    "callsign": "CRIMSON2",
-    "lon": -1.834,
-    "lat": 50.784,
+    "callsign": "",
+    "lon": null,
+    "lat": null,
     "alt": null,
-    "velocity": 0,
-    "heading": 5.62,
+    "velocity": 146.54,
+    "heading": 238.93,
+    "trace": []
+  },
+  {
+    "hex": "896272",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB4",
+    "lon": 37.8455,
+    "lat": 40.4194,
+    "alt": 12199.62,
+    "velocity": 216,
+    "heading": 291.37,
     "trace": [
       [
-        50.784,
-        -1.834
+        40.4194,
+        37.8455
+      ]
+    ]
+  },
+  {
+    "hex": "70c0b4",
+    "name": "Oman Royal Flight",
+    "category": "Dictator Alert",
+    "callsign": "",
+    "lon": 35.371,
+    "lat": 29.0521,
+    "alt": 12192,
+    "velocity": 221.96,
+    "heading": 267.34,
+    "trace": [
+      [
+        29.0521,
+        35.371
+      ]
+    ]
+  },
+  {
+    "hex": "c01479",
+    "name": "Top Aces Inc",
+    "category": "Hired Gun",
+    "callsign": "RUSTY1",
+    "lon": 13.4332,
+    "lat": 54.5071,
+    "alt": 3078.48,
+    "velocity": 121.43,
+    "heading": 209.71,
+    "trace": [
+      [
+        54.5071,
+        13.4332
       ]
     ]
   },
@@ -38,11 +88,11 @@
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "AUH06",
-    "lon": 22.7766,
-    "lat": 40.6436,
+    "lon": 18.864,
+    "lat": 40.8933,
     "alt": 11574.78,
-    "velocity": 206.45,
-    "heading": 263.85,
+    "velocity": 215.2,
+    "heading": 272.19,
     "trace": [
       [
         40.1735,
@@ -59,57 +109,44 @@
       [
         40.6436,
         22.7766
+      ],
+      [
+        40.8933,
+        18.864
       ]
     ]
   },
   {
-    "hex": "14fa3a",
-    "name": "Russia Special Flight Detachment",
+    "hex": "06a001",
+    "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
-    "callsign": "RSD702",
-    "lon": 42.5214,
-    "lat": 44.4467,
-    "alt": 10066.02,
-    "velocity": 243.05,
-    "heading": 66.42,
+    "callsign": "A7HHK",
+    "lon": 35.4922,
+    "lat": 34.1478,
+    "alt": 2148.84,
+    "velocity": 146.47,
+    "heading": 218.44,
     "trace": [
       [
-        44.4467,
-        42.5214
+        34.1478,
+        35.4922
       ]
     ]
   },
   {
-    "hex": "a451cb",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT8341",
-    "lon": -65.9934,
-    "lat": 18.4346,
-    "alt": null,
-    "velocity": 5.14,
-    "heading": 270,
+    "hex": "710100",
+    "name": "Saudi Ministry of Finance",
+    "category": "Dictator Alert",
+    "callsign": "SVA962",
+    "lon": 107.1458,
+    "lat": 23.8198,
+    "alt": 11917.68,
+    "velocity": 279.63,
+    "heading": 94.33,
     "trace": [
       [
-        18.4346,
-        -65.9934
-      ]
-    ]
-  },
-  {
-    "hex": "a87876",
-    "name": "Atlas Air",
-    "category": "Hired Gun",
-    "callsign": "",
-    "lon": 34.9042,
-    "lat": 31.9991,
-    "alt": null,
-    "velocity": 0,
-    "heading": 95.62,
-    "trace": [
-      [
-        31.9991,
-        34.9042
+        23.8198,
+        107.1458
       ]
     ]
   },
@@ -118,11 +155,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "CMB529",
-    "lon": 23.8108,
-    "lat": 42.9366,
+    "lon": 26.6025,
+    "lat": 39.9975,
     "alt": 11887.2,
-    "velocity": 235.11,
-    "heading": 179.5,
+    "velocity": 270.65,
+    "heading": 135.46,
     "trace": [
       [
         61.7382,
@@ -159,51 +196,10 @@
       [
         42.9366,
         23.8108
-      ]
-    ]
-  },
-  {
-    "hex": "4b9030",
-    "name": "Turkish Government",
-    "category": "Dictator Alert",
-    "callsign": "TRK6",
-    "lon": 4.4757,
-    "lat": 50.9004,
-    "alt": null,
-    "velocity": 3.34,
-    "heading": 154.69,
-    "trace": [
-      [
-        42.0016,
-        27.7299
       ],
       [
-        44.9671,
-        22.532
-      ],
-      [
-        46.4877,
-        19.3561
-      ],
-      [
-        48.2492,
-        14.5641
-      ],
-      [
-        49.1641,
-        11.6957
-      ],
-      [
-        49.7334,
-        10.2387
-      ],
-      [
-        50.6611,
-        6.4603
-      ],
-      [
-        50.9004,
-        4.4757
+        39.9975,
+        26.6025
       ]
     ]
   }
