@@ -4,11 +4,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2231",
-    "lon": -3.305,
-    "lat": 50.7656,
-    "alt": 7239,
-    "velocity": 186.41,
-    "heading": 27.98,
+    "lon": -2.8515,
+    "lat": 51.2999,
+    "alt": 3581.4,
+    "velocity": 168.41,
+    "heading": 26.88,
     "trace": [
       [
         40.4794,
@@ -29,23 +29,60 @@
       [
         50.7656,
         -3.305
+      ],
+      [
+        51.2999,
+        -2.8515
       ]
     ]
+  },
+  {
+    "hex": "a87876",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": null,
+    "lat": null,
+    "alt": null,
+    "velocity": 0,
+    "heading": 95.62,
+    "trace": []
   },
   {
     "hex": "acb84d",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "CMB529",
-    "lon": 0.535,
-    "lat": 61.7382,
+    "lon": 1.9214,
+    "lat": 61.0283,
     "alt": 10668,
-    "velocity": 272.55,
-    "heading": 136.45,
+    "velocity": 273.8,
+    "heading": 137.44,
     "trace": [
       [
         61.7382,
         0.535
+      ],
+      [
+        61.0283,
+        1.9214
+      ]
+    ]
+  },
+  {
+    "hex": "4b9030",
+    "name": "Turkish Government",
+    "category": "Dictator Alert",
+    "callsign": "TRK6",
+    "lon": 27.7299,
+    "lat": 42.0016,
+    "alt": 13106.4,
+    "velocity": 227.76,
+    "heading": 313.9,
+    "trace": [
+      [
+        42.0016,
+        27.7299
       ]
     ]
   },
