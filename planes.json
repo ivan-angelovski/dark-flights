@@ -1,14 +1,31 @@
 [
   {
+    "hex": "ad3c48",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR803",
+    "lon": -84.128,
+    "lat": 12.12,
+    "alt": 11277.6,
+    "velocity": 235.08,
+    "heading": 191.36,
+    "trace": [
+      [
+        12.12,
+        -84.128
+      ]
+    ]
+  },
+  {
     "hex": "a2f9dd",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA613",
-    "lon": -78.616,
-    "lat": 25.1121,
-    "alt": 8633.46,
-    "velocity": 256.52,
-    "heading": 116.57,
+    "lon": -73.8391,
+    "lat": 21.1157,
+    "alt": 11285.22,
+    "velocity": 249.19,
+    "heading": 135.42,
     "trace": [
       [
         25.7068,
@@ -21,6 +38,27 @@
       [
         25.1121,
         -78.616
+      ],
+      [
+        21.1157,
+        -73.8391
+      ]
+    ]
+  },
+  {
+    "hex": "8002cd",
+    "name": "Gov of India",
+    "category": "Dictator Alert",
+    "callsign": "VUAVU",
+    "lon": 77.1024,
+    "lat": 28.5687,
+    "alt": null,
+    "velocity": 11.83,
+    "heading": 90,
+    "trace": [
+      [
+        28.5687,
+        77.1024
       ]
     ]
   },
@@ -29,11 +67,11 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "WRTHOG91",
-    "lon": 0.2537,
-    "lat": 53.8082,
-    "alt": 8252.46,
-    "velocity": 190.03,
-    "heading": 96.53,
+    "lon": 0.1381,
+    "lat": 53.9138,
+    "alt": 8564.88,
+    "velocity": 164.31,
+    "heading": 299.86,
     "trace": [
       [
         54.2891,
@@ -46,6 +84,10 @@
       [
         53.8082,
         0.2537
+      ],
+      [
+        53.9138,
+        0.1381
       ]
     ]
   },
@@ -54,11 +96,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR654",
-    "lon": 134.3814,
-    "lat": 36.0217,
-    "alt": 9441.18,
-    "velocity": 302.92,
-    "heading": 61.61,
+    "lon": 142.1129,
+    "lat": 38.1309,
+    "alt": 9448.8,
+    "velocity": 295.52,
+    "heading": 84.71,
     "trace": [
       [
         34.8803,
@@ -71,51 +113,10 @@
       [
         36.0217,
         134.3814
-      ]
-    ]
-  },
-  {
-    "hex": "aa3086",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR511",
-    "lon": 24.9045,
-    "lat": 45.1418,
-    "alt": 11887.2,
-    "velocity": 263.1,
-    "heading": 118.37,
-    "trace": [
-      [
-        51.0464,
-        2.7644
       ],
       [
-        50.5843,
-        5.2825
-      ],
-      [
-        49.8803,
-        9.3111
-      ],
-      [
-        48.3561,
-        15.0883
-      ],
-      [
-        47.62,
-        17.439
-      ],
-      [
-        46.6053,
-        20.76
-      ],
-      [
-        45.4197,
-        24.1649
-      ],
-      [
-        45.1418,
-        24.9045
+        38.1309,
+        142.1129
       ]
     ]
   },
@@ -124,11 +125,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB4",
-    "lon": 12.2521,
-    "lat": 49.1937,
-    "alt": 12192,
-    "velocity": 244,
-    "heading": 294.67,
+    "lon": 4.3151,
+    "lat": 51.2058,
+    "alt": 11544.3,
+    "velocity": 212.3,
+    "heading": 288.22,
     "trace": [
       [
         44.5337,
@@ -157,79 +158,44 @@
       [
         49.1937,
         12.2521
+      ],
+      [
+        51.2058,
+        4.3151
       ]
     ]
   },
   {
-    "hex": "896571",
-    "name": "Abu Dhabi Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "AUH06",
-    "lon": -6.1771,
-    "lat": 34.6839,
-    "alt": 3154.68,
-    "velocity": 168.96,
-    "heading": 214.71,
+    "hex": "c01479",
+    "name": "Top Aces Inc",
+    "category": "Hired Gun",
+    "callsign": "RUSTY2",
+    "lon": 10.4544,
+    "lat": 53.7392,
+    "alt": 6705.6,
+    "velocity": 180.29,
+    "heading": 337.17,
     "trace": [
       [
-        40.1735,
-        32.0479
-      ],
+        53.7392,
+        10.4544
+      ]
+    ]
+  },
+  {
+    "hex": "89407f",
+    "name": "Bahrain Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "BAH6",
+    "lon": 14.2463,
+    "lat": 48.3478,
+    "alt": 14325.6,
+    "velocity": 237.99,
+    "heading": 292.63,
+    "trace": [
       [
-        40.311,
-        30.794
-      ],
-      [
-        40.9167,
-        27.5594
-      ],
-      [
-        40.6436,
-        22.7766
-      ],
-      [
-        40.8933,
-        18.864
-      ],
-      [
-        40.9029,
-        14.5144
-      ],
-      [
-        40.7852,
-        12.4031
-      ],
-      [
-        40.5517,
-        9.4166
-      ],
-      [
-        39.9345,
-        4.7008
-      ],
-      [
-        39.439,
-        2.6763
-      ],
-      [
-        38.4932,
-        -0.2414
-      ],
-      [
-        37.1066,
-        -2.9683
-      ],
-      [
-        36.1036,
-        -4.6931
-      ],
-      [
-        35.3135,
-        -5.6494
-      ],
-      [
-        34.6839,
-        -6.1771
+        48.3478,
+        14.2463
       ]
     ]
   },
@@ -238,11 +204,11 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "WRTHOG92",
-    "lon": -0.0073,
-    "lat": 53.846,
-    "alt": 8077.2,
-    "velocity": 103.34,
-    "heading": 324.73,
+    "lon": 0.4596,
+    "lat": 53.9014,
+    "alt": 8244.84,
+    "velocity": 226.93,
+    "heading": 208.13,
     "trace": [
       [
         54.3322,
@@ -255,31 +221,44 @@
       [
         53.846,
         -0.0073
+      ],
+      [
+        53.9014,
+        0.4596
       ]
     ]
   },
   {
-    "hex": "06a014",
-    "name": "Qatar Amiri Flight",
+    "hex": "48d961",
+    "name": "Polish Government",
     "category": "Dictator Alert",
-    "callsign": "QQE907",
-    "lon": 50.5364,
-    "lat": 26.5671,
-    "alt": 8534.4,
-    "velocity": 205.14,
-    "heading": 341.43,
+    "callsign": "PLF106",
+    "lon": 20.8408,
+    "lat": 52.1804,
+    "alt": 1386.84,
+    "velocity": 125.53,
+    "heading": 269.3,
     "trace": [
       [
-        25.6181,
-        51.5553
-      ],
+        52.1804,
+        20.8408
+      ]
+    ]
+  },
+  {
+    "hex": "06a05a",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "A7AAH",
+    "lon": 16.5493,
+    "lat": 35.937,
+    "alt": 11582.4,
+    "velocity": 187.93,
+    "heading": 279.77,
+    "trace": [
       [
-        26.0879,
-        51.0643
-      ],
-      [
-        26.5671,
-        50.5364
+        35.937,
+        16.5493
       ]
     ]
   },
@@ -288,11 +267,11 @@
     "name": "Top Aces Inc",
     "category": "Hired Gun",
     "callsign": "RUSTY1",
-    "lon": 11.0493,
-    "lat": 53.7861,
-    "alt": 6111.24,
-    "velocity": 148.61,
-    "heading": 258.42,
+    "lon": 10.8323,
+    "lat": 53.691,
+    "alt": 6103.62,
+    "velocity": 222.41,
+    "heading": 94.51,
     "trace": [
       [
         53.8971,
@@ -301,27 +280,10 @@
       [
         53.7861,
         11.0493
-      ]
-    ]
-  },
-  {
-    "hex": "a5b769",
-    "name": "Omni Air International",
-    "category": "Hired Gun",
-    "callsign": "OAE3975",
-    "lon": -90.5594,
-    "lat": 30.1823,
-    "alt": 10058.4,
-    "velocity": 262.12,
-    "heading": 124.28,
-    "trace": [
-      [
-        30.7125,
-        -91.464
       ],
       [
-        30.1823,
-        -90.5594
+        53.691,
+        10.8323
       ]
     ]
   }
