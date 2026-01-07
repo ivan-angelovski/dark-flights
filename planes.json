@@ -1,14 +1,31 @@
 [
   {
+    "hex": "8002cd",
+    "name": "Gov of India",
+    "category": "Dictator Alert",
+    "callsign": "VUAVU",
+    "lon": 76.8449,
+    "lat": 28.2453,
+    "alt": 2979.42,
+    "velocity": 158.21,
+    "heading": 183.36,
+    "trace": [
+      [
+        28.2453,
+        76.8449
+      ]
+    ]
+  },
+  {
     "hex": "a1ac1a",
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3921",
-    "lon": -98.3132,
-    "lat": 32.4199,
-    "alt": 4053.84,
-    "velocity": 196.46,
-    "heading": 84.29,
+    "lon": -97.3067,
+    "lat": 32.9329,
+    "alt": 472.44,
+    "velocity": 68.93,
+    "heading": 350.12,
     "trace": [
       [
         31.8655,
@@ -21,31 +38,78 @@
       [
         32.4199,
         -98.3132
+      ],
+      [
+        32.9329,
+        -97.3067
       ]
     ]
   },
   {
-    "hex": "70c0b4",
-    "name": "Oman Royal Flight",
+    "hex": "896571",
+    "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
-    "callsign": "ORF4",
-    "lon": 49.1185,
-    "lat": 27.1599,
-    "alt": 12192,
-    "velocity": 220.66,
-    "heading": 299.31,
+    "callsign": "AUH06",
+    "lon": 32.0479,
+    "lat": 40.1735,
+    "alt": 11582.4,
+    "velocity": 210.26,
+    "heading": 276.6,
     "trace": [
       [
-        24.5034,
-        55.1203
-      ],
+        40.1735,
+        32.0479
+      ]
+    ]
+  },
+  {
+    "hex": "a451cb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT8341",
+    "lon": -72.3965,
+    "lat": 22.0549,
+    "alt": 11292.84,
+    "velocity": 253.28,
+    "heading": 118.91,
+    "trace": [
       [
-        25.8741,
-        52.6569
-      ],
+        22.0549,
+        -72.3965
+      ]
+    ]
+  },
+  {
+    "hex": "89407f",
+    "name": "Bahrain Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "BAH6",
+    "lon": 49.9243,
+    "lat": 27.2709,
+    "alt": 10980.42,
+    "velocity": 220.55,
+    "heading": 321.82,
+    "trace": [
       [
-        27.1599,
-        49.1185
+        27.2709,
+        49.9243
+      ]
+    ]
+  },
+  {
+    "hex": "06a05a",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "A7AAH",
+    "lon": 51.5417,
+    "lat": 25.3152,
+    "alt": 327.66,
+    "velocity": 85.8,
+    "heading": 339.28,
+    "trace": [
+      [
+        25.3152,
+        51.5417
       ]
     ]
   },
@@ -54,11 +118,11 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA962",
-    "lon": 91.1974,
-    "lat": 22.3319,
+    "lon": 93.1449,
+    "lat": 22.4373,
     "alt": 11887.2,
-    "velocity": 277.06,
-    "heading": 97.47,
+    "velocity": 279.52,
+    "heading": 81.96,
     "trace": [
       [
         22.7949,
@@ -67,6 +131,10 @@
       [
         22.3319,
         91.1974
+      ],
+      [
+        22.4373,
+        93.1449
       ]
     ]
   },
@@ -75,11 +143,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "CMB529",
-    "lon": 14.6166,
-    "lat": 50.8166,
-    "alt": 10888.98,
-    "velocity": 254.22,
-    "heading": 125.36,
+    "lon": 17.4111,
+    "lat": 49.4836,
+    "alt": 11277.6,
+    "velocity": 254.16,
+    "heading": 127.68,
     "trace": [
       [
         61.7382,
@@ -100,6 +168,10 @@
       [
         50.8166,
         14.6166
+      ],
+      [
+        49.4836,
+        17.4111
       ]
     ]
   },
@@ -108,11 +180,11 @@
     "name": "Turkish Government",
     "category": "Dictator Alert",
     "callsign": "TRK6",
-    "lon": 14.5641,
-    "lat": 48.2492,
+    "lon": 11.6957,
+    "lat": 49.1641,
     "alt": 13106.4,
-    "velocity": 237.89,
-    "heading": 296.73,
+    "velocity": 238.51,
+    "heading": 294.46,
     "trace": [
       [
         42.0016,
@@ -129,6 +201,10 @@
       [
         48.2492,
         14.5641
+      ],
+      [
+        49.1641,
+        11.6957
       ]
     ]
   }
