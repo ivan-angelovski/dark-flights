@@ -1,18 +1,73 @@
 [
   {
+    "hex": "a0d062",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI8621",
+    "lon": -66.1481,
+    "lat": 18.4455,
+    "alt": 586.74,
+    "velocity": 89.53,
+    "heading": 110.52,
+    "trace": [
+      [
+        18.4455,
+        -66.1481
+      ]
+    ]
+  },
+  {
     "hex": "406d26",
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2232",
-    "lon": -17.9999,
-    "lat": 15.9665,
-    "alt": 11582.4,
-    "velocity": 252.08,
+    "lon": -18.0001,
+    "lat": 12.0818,
+    "alt": 11521.44,
+    "velocity": 258.25,
     "heading": 180,
     "trace": [
       [
         15.9665,
         -17.9999
+      ],
+      [
+        12.0818,
+        -18.0001
+      ]
+    ]
+  },
+  {
+    "hex": "4b8c4b",
+    "name": "Turkish Government",
+    "category": "Dictator Alert",
+    "callsign": "TRK4",
+    "lon": 29.4532,
+    "lat": 41.0655,
+    "alt": 2644.14,
+    "velocity": 102.22,
+    "heading": 277.52,
+    "trace": [
+      [
+        41.0655,
+        29.4532
+      ]
+    ]
+  },
+  {
+    "hex": "06a0a2",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "QAF1",
+    "lon": -25.5984,
+    "lat": 64.9563,
+    "alt": 10058.4,
+    "velocity": 251.3,
+    "heading": 103.5,
+    "trace": [
+      [
+        64.9563,
+        -25.5984
       ]
     ]
   },
@@ -21,11 +76,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR654",
-    "lon": -88.2848,
-    "lat": 42.5885,
-    "alt": 7620,
-    "velocity": 229.36,
-    "heading": 155.91,
+    "lon": -86.2925,
+    "lat": 39.8396,
+    "alt": 1287.78,
+    "velocity": 124.07,
+    "heading": 43.82,
     "trace": [
       [
         51.9198,
@@ -42,77 +97,10 @@
       [
         42.5885,
         -88.2848
-      ]
-    ]
-  },
-  {
-    "hex": "aa3086",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR505",
-    "lon": 114.0879,
-    "lat": 22.2474,
-    "alt": 1562.1,
-    "velocity": 146.1,
-    "heading": 180,
-    "trace": [
-      [
-        22.2474,
-        114.0879
-      ]
-    ]
-  },
-  {
-    "hex": "a2d615",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA4663",
-    "lon": -80.1873,
-    "lat": 25.8778,
-    "alt": 2377.44,
-    "velocity": 149.74,
-    "heading": 268.82,
-    "trace": [
-      [
-        33.4184,
-        -80.76
       ],
       [
-        28.3876,
-        -80.5241
-      ],
-      [
-        25.8778,
-        -80.1873
-      ]
-    ]
-  },
-  {
-    "hex": "a3ac55",
-    "name": "Kalitta Charters II",
-    "category": "Hired Gun",
-    "callsign": "KII336",
-    "lon": -99.0404,
-    "lat": 30.9572,
-    "alt": 10972.8,
-    "velocity": 187.4,
-    "heading": 226.45,
-    "trace": [
-      [
-        38.1182,
-        -89.0045
-      ],
-      [
-        35.1058,
-        -93.5837
-      ],
-      [
-        32.5099,
-        -97.0932
-      ],
-      [
-        30.9572,
-        -99.0404
+        39.8396,
+        -86.2925
       ]
     ]
   }
