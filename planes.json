@@ -1,18 +1,18 @@
 [
   {
-    "hex": "7277d0",
-    "name": "Air Koryo",
+    "hex": "8002cd",
+    "name": "Gov of India",
     "category": "Dictator Alert",
-    "callsign": "KOR152",
-    "lon": 116.5477,
-    "lat": 40.5197,
-    "alt": 4213.86,
-    "velocity": 144.82,
-    "heading": 3.46,
+    "callsign": "VUAVU",
+    "lon": 73.6808,
+    "lat": 18.6899,
+    "alt": 4259.58,
+    "velocity": 161.97,
+    "heading": 296.4,
     "trace": [
       [
-        40.5197,
-        116.5477
+        18.6899,
+        73.6808
       ]
     ]
   },
@@ -21,11 +21,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2233",
-    "lon": -7.8226,
-    "lat": 43.7291,
+    "lon": -6.2925,
+    "lat": 45.9612,
     "alt": 11582.4,
-    "velocity": 228.89,
-    "heading": 30.08,
+    "velocity": 207.58,
+    "heading": 23.52,
     "trace": [
       [
         37.4886,
@@ -38,6 +38,10 @@
       [
         43.7291,
         -7.8226
+      ],
+      [
+        45.9612,
+        -6.2925
       ]
     ]
   },
@@ -46,11 +50,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR898",
-    "lon": 87.0664,
-    "lat": 23.4601,
+    "lon": 89.7747,
+    "lat": 21.7186,
     "alt": 11277.6,
-    "velocity": 276.75,
-    "heading": 122.24,
+    "velocity": 266.43,
+    "heading": 117.11,
     "trace": [
       [
         28.0541,
@@ -63,31 +67,44 @@
       [
         23.4601,
         87.0664
+      ],
+      [
+        21.7186,
+        89.7747
       ]
     ]
   },
   {
-    "hex": "a394aa",
-    "name": "ISR Platforms",
-    "category": "Hired Gun",
-    "callsign": "N33NH",
-    "lon": -106.8717,
-    "lat": 32.2633,
-    "alt": 2781.3,
-    "velocity": 59.21,
-    "heading": 209.68,
+    "hex": "70c0ba",
+    "name": "Oman Royal Flight",
+    "category": "Dictator Alert",
+    "callsign": "ORF6",
+    "lon": 57.1399,
+    "lat": 24.7898,
+    "alt": 6096,
+    "velocity": 176.74,
+    "heading": 328.21,
     "trace": [
       [
-        32.242,
-        -106.9409
-      ],
+        24.7898,
+        57.1399
+      ]
+    ]
+  },
+  {
+    "hex": "a0c62d",
+    "name": "Eastern Air Express",
+    "category": "Hired Gun",
+    "callsign": "TYSON48",
+    "lon": -106.2623,
+    "lat": 31.6982,
+    "alt": 3741.42,
+    "velocity": 170.48,
+    "heading": 116.33,
+    "trace": [
       [
-        32.2423,
-        -106.9022
-      ],
-      [
-        32.2633,
-        -106.8717
+        31.6982,
+        -106.2623
       ]
     ]
   }
