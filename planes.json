@@ -1,14 +1,31 @@
 [
   {
+    "hex": "7277d0",
+    "name": "Air Koryo",
+    "category": "Dictator Alert",
+    "callsign": "KOR152",
+    "lon": 116.5477,
+    "lat": 40.5197,
+    "alt": 4213.86,
+    "velocity": 144.82,
+    "heading": 3.46,
+    "trace": [
+      [
+        40.5197,
+        116.5477
+      ]
+    ]
+  },
+  {
     "hex": "406d26",
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2233",
-    "lon": -9.3075,
-    "lat": 41.8002,
+    "lon": -7.8226,
+    "lat": 43.7291,
     "alt": 11582.4,
-    "velocity": 234.9,
-    "heading": 29.09,
+    "velocity": 228.89,
+    "heading": 30.08,
     "trace": [
       [
         37.4886,
@@ -17,6 +34,10 @@
       [
         41.8002,
         -9.3075
+      ],
+      [
+        43.7291,
+        -7.8226
       ]
     ]
   },
@@ -25,11 +46,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR898",
-    "lon": 84.6494,
-    "lat": 24.9306,
+    "lon": 87.0664,
+    "lat": 23.4601,
     "alt": 11277.6,
-    "velocity": 272.17,
-    "heading": 125.07,
+    "velocity": 276.75,
+    "heading": 122.24,
     "trace": [
       [
         28.0541,
@@ -38,6 +59,10 @@
       [
         24.9306,
         84.6494
+      ],
+      [
+        23.4601,
+        87.0664
       ]
     ]
   },
@@ -46,11 +71,11 @@
     "name": "ISR Platforms",
     "category": "Hired Gun",
     "callsign": "N33NH",
-    "lon": -106.9022,
-    "lat": 32.2423,
+    "lon": -106.8717,
+    "lat": 32.2633,
     "alt": 2781.3,
-    "velocity": 58.9,
-    "heading": 250.62,
+    "velocity": 59.21,
+    "heading": 209.68,
     "trace": [
       [
         32.242,
@@ -59,23 +84,10 @@
       [
         32.2423,
         -106.9022
-      ]
-    ]
-  },
-  {
-    "hex": "70c0b4",
-    "name": "Oman Royal Flight",
-    "category": "Dictator Alert",
-    "callsign": "ORF4",
-    "lon": 56.2949,
-    "lat": 26.0833,
-    "alt": 2225.04,
-    "velocity": 102.35,
-    "heading": 328.15,
-    "trace": [
+      ],
       [
-        26.0833,
-        56.2949
+        32.2633,
+        -106.8717
       ]
     ]
   }
