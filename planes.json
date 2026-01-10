@@ -4,15 +4,19 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2233",
-    "lon": -10.6715,
-    "lat": 37.4886,
+    "lon": -9.3075,
+    "lat": 41.8002,
     "alt": 11582.4,
-    "velocity": 226.55,
-    "heading": 12.46,
+    "velocity": 234.9,
+    "heading": 29.09,
     "trace": [
       [
         37.4886,
         -10.6715
+      ],
+      [
+        41.8002,
+        -9.3075
       ]
     ]
   },
@@ -21,15 +25,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR898",
-    "lon": 79.7397,
-    "lat": 28.0541,
+    "lon": 84.6494,
+    "lat": 24.9306,
     "alt": 11277.6,
-    "velocity": 280.24,
-    "heading": 125.59,
+    "velocity": 272.17,
+    "heading": 125.07,
     "trace": [
       [
         28.0541,
         79.7397
+      ],
+      [
+        24.9306,
+        84.6494
       ]
     ]
   },
@@ -38,15 +46,36 @@
     "name": "ISR Platforms",
     "category": "Hired Gun",
     "callsign": "N33NH",
-    "lon": -106.9409,
-    "lat": 32.242,
+    "lon": -106.9022,
+    "lat": 32.2423,
     "alt": 2781.3,
-    "velocity": 59.87,
-    "heading": 289.06,
+    "velocity": 58.9,
+    "heading": 250.62,
     "trace": [
       [
         32.242,
         -106.9409
+      ],
+      [
+        32.2423,
+        -106.9022
+      ]
+    ]
+  },
+  {
+    "hex": "70c0b4",
+    "name": "Oman Royal Flight",
+    "category": "Dictator Alert",
+    "callsign": "ORF4",
+    "lon": 56.2949,
+    "lat": 26.0833,
+    "alt": 2225.04,
+    "velocity": 102.35,
+    "heading": 328.15,
+    "trace": [
+      [
+        26.0833,
+        56.2949
       ]
     ]
   }
