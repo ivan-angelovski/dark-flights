@@ -1,14 +1,82 @@
 [
   {
+    "hex": "8002cd",
+    "name": "Gov of India",
+    "category": "Dictator Alert",
+    "callsign": "VUAVU",
+    "lon": 75.2325,
+    "lat": 26.8235,
+    "alt": 9448.8,
+    "velocity": 274.5,
+    "heading": 20.74,
+    "trace": [
+      [
+        26.8235,
+        75.2325
+      ]
+    ]
+  },
+  {
+    "hex": "89607a",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB6",
+    "lon": 53.3069,
+    "lat": 25.808,
+    "alt": 10119.36,
+    "velocity": 213.17,
+    "heading": 287.12,
+    "trace": [
+      [
+        25.808,
+        53.3069
+      ]
+    ]
+  },
+  {
+    "hex": "7277d0",
+    "name": "Air Koryo",
+    "category": "Dictator Alert",
+    "callsign": "KOR152",
+    "lon": 126.4113,
+    "lat": 39.6858,
+    "alt": 4785.36,
+    "velocity": 172.79,
+    "heading": 117.1,
+    "trace": [
+      [
+        39.6858,
+        126.4113
+      ]
+    ]
+  },
+  {
+    "hex": "7bc006",
+    "name": "Gov of PRC",
+    "category": "Dictator Alert",
+    "callsign": "CCA1327",
+    "lon": 116.0667,
+    "lat": 40.0265,
+    "alt": 5783.58,
+    "velocity": 186.28,
+    "heading": 241.1,
+    "trace": [
+      [
+        40.0265,
+        116.0667
+      ]
+    ]
+  },
+  {
     "hex": "406d26",
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2233",
-    "lon": -3.7377,
-    "lat": 49.8981,
-    "alt": 11582.4,
-    "velocity": 220.37,
-    "heading": 6.03,
+    "lon": -1.8851,
+    "lat": 51.7434,
+    "alt": 1668.78,
+    "velocity": 141.05,
+    "heading": 87.91,
     "trace": [
       [
         37.4886,
@@ -37,6 +105,44 @@
       [
         49.8981,
         -3.7377
+      ],
+      [
+        51.7434,
+        -1.8851
+      ]
+    ]
+  },
+  {
+    "hex": "a95c2f",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR898",
+    "lon": 97.906,
+    "lat": 14.6314,
+    "alt": 11277.6,
+    "velocity": 12.56,
+    "heading": 235.01,
+    "trace": [
+      [
+        14.6314,
+        97.906
+      ]
+    ]
+  },
+  {
+    "hex": "a2d25e",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA625",
+    "lon": -112.5175,
+    "lat": 40.1117,
+    "alt": 7040.88,
+    "velocity": 227.21,
+    "heading": 208.54,
+    "trace": [
+      [
+        40.1117,
+        -112.5175
       ]
     ]
   },
@@ -45,11 +151,11 @@
     "name": "Eastern Air Express",
     "category": "Hired Gun",
     "callsign": "TYSON48",
-    "lon": -100.2446,
-    "lat": 31.0548,
-    "alt": 10668,
-    "velocity": 276.67,
-    "heading": 85.31,
+    "lon": -97.8177,
+    "lat": 31.0343,
+    "alt": 876.3,
+    "velocity": 92,
+    "heading": 285.9,
     "trace": [
       [
         31.6982,
@@ -66,6 +172,10 @@
       [
         31.0548,
         -100.2446
+      ],
+      [
+        31.0343,
+        -97.8177
       ]
     ]
   }
