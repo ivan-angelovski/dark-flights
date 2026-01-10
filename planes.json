@@ -4,11 +4,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB6",
-    "lon": 19.0377,
-    "lat": 46.3547,
+    "lon": 17.888,
+    "lat": 46.5073,
     "alt": 11582.4,
-    "velocity": 220.35,
-    "heading": 281.31,
+    "velocity": 219.58,
+    "heading": 280.26,
     "trace": [
       [
         43.4258,
@@ -33,6 +33,10 @@
       [
         46.3547,
         19.0377
+      ],
+      [
+        46.5073,
+        17.888
       ]
     ]
   },
@@ -41,11 +45,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "FDX104",
-    "lon": -84.2494,
-    "lat": 30.5126,
+    "lon": -83.6666,
+    "lat": 29.7536,
     "alt": 10675.62,
-    "velocity": 251.55,
-    "heading": 132.76,
+    "velocity": 242.86,
+    "heading": 150.29,
     "trace": [
       [
         34.9226,
@@ -66,6 +70,27 @@
       [
         30.5126,
         -84.2494
+      ],
+      [
+        29.7536,
+        -83.6666
+      ]
+    ]
+  },
+  {
+    "hex": "a451cb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT880",
+    "lon": -66.1654,
+    "lat": 18.7149,
+    "alt": 3139.44,
+    "velocity": 160.45,
+    "heading": 305.47,
+    "trace": [
+      [
+        18.7149,
+        -66.1654
       ]
     ]
   },
@@ -74,11 +99,11 @@
     "name": "Bahrain Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "BAH6",
-    "lon": -1.0511,
-    "lat": 52.4819,
-    "alt": 5387.34,
-    "velocity": 208.93,
-    "heading": 120.48,
+    "lon": 0.2744,
+    "lat": 52.2048,
+    "alt": 9563.1,
+    "velocity": 255.17,
+    "heading": 112.27,
     "trace": [
       [
         52.8296,
@@ -87,6 +112,10 @@
       [
         52.4819,
         -1.0511
+      ],
+      [
+        52.2048,
+        0.2744
       ]
     ]
   },
@@ -95,11 +124,11 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7HHK",
-    "lon": 16.6656,
-    "lat": 35.8577,
+    "lon": 18.0014,
+    "lat": 35.7744,
     "alt": 11277.6,
-    "velocity": 297.03,
-    "heading": 93.97,
+    "velocity": 299.4,
+    "heading": 94.73,
     "trace": [
       [
         36.0049,
@@ -112,6 +141,27 @@
       [
         35.8577,
         16.6656
+      ],
+      [
+        35.7744,
+        18.0014
+      ]
+    ]
+  },
+  {
+    "hex": "a2f9dd",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA613",
+    "lon": -80.2061,
+    "lat": 25.7827,
+    "alt": 739.14,
+    "velocity": 118.5,
+    "heading": 120.24,
+    "trace": [
+      [
+        25.7827,
+        -80.2061
       ]
     ]
   }
