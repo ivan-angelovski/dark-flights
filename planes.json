@@ -4,11 +4,11 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT880",
-    "lon": -80.7407,
-    "lat": 29.1863,
-    "alt": 12504.42,
-    "velocity": 230.29,
-    "heading": 328.33,
+    "lon": -81.1139,
+    "lat": 32.0267,
+    "alt": 12512.04,
+    "velocity": 244.4,
+    "heading": 0.96,
     "trace": [
       [
         25.3876,
@@ -25,6 +25,10 @@
       [
         29.1863,
         -80.7407
+      ],
+      [
+        32.0267,
+        -81.1139
       ]
     ]
   },
@@ -33,11 +37,11 @@
     "name": "Bahrain Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "BAH6",
-    "lon": 27.3742,
-    "lat": 43.2405,
-    "alt": 13723.62,
-    "velocity": 278.4,
-    "heading": 117.28,
+    "lon": 28.4156,
+    "lat": 42.8432,
+    "alt": 13716,
+    "velocity": 280.77,
+    "heading": 117.97,
     "trace": [
       [
         52.8296,
@@ -78,6 +82,10 @@
       [
         43.2405,
         27.3742
+      ],
+      [
+        42.8432,
+        28.4156
       ]
     ]
   },
@@ -86,11 +94,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "RRR3396",
-    "lon": 4.2053,
-    "lat": 43.2416,
+    "lon": 5.6718,
+    "lat": 40.24,
     "alt": 11277.6,
-    "velocity": 279.86,
-    "heading": 159.33,
+    "velocity": 286.12,
+    "heading": 165.31,
     "trace": [
       [
         51.507,
@@ -111,6 +119,10 @@
       [
         43.2416,
         4.2053
+      ],
+      [
+        40.24,
+        5.6718
       ]
     ]
   },
@@ -119,45 +131,61 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR870",
-    "lon": -54.8319,
-    "lat": -13.9722,
+    "lon": -56.7915,
+    "lat": -12.201,
     "alt": 10363.2,
-    "velocity": 271.65,
-    "heading": 312.39,
+    "velocity": 272.29,
+    "heading": 312.86,
     "trace": [
       [
         -13.9722,
         -54.8319
+      ],
+      [
+        -12.201,
+        -56.7915
       ]
     ]
   },
   {
-    "hex": "78048c",
-    "name": "Gov of PRC",
-    "category": "Dictator Alert",
-    "callsign": "CCA813",
-    "lon": 44.0107,
-    "lat": 56.0862,
-    "alt": 11582.4,
-    "velocity": 9.9,
-    "heading": 8.97,
+    "hex": "ad7274",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GSX6126",
+    "lon": -89.6703,
+    "lat": 21.2069,
+    "alt": 10668,
+    "velocity": 221.47,
+    "heading": 177.2,
     "trace": [
       [
-        56.0862,
-        44.0107
+        21.2069,
+        -89.6703
       ]
     ]
+  },
+  {
+    "hex": "a96fb1",
+    "name": "Omega Air",
+    "category": "Hired Gun",
+    "callsign": "OME71",
+    "lon": null,
+    "lat": null,
+    "alt": null,
+    "velocity": 165.28,
+    "heading": 18.32,
+    "trace": []
   },
   {
     "hex": "a2c4e0",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6151",
-    "lon": -91.4346,
-    "lat": 28.619,
-    "alt": 11879.58,
-    "velocity": 243.85,
-    "heading": 93.75,
+    "lon": -89.038,
+    "lat": 28.4614,
+    "alt": 11887.2,
+    "velocity": 241.59,
+    "heading": 94.76,
     "trace": [
       [
         28.8507,
@@ -174,6 +202,44 @@
       [
         28.619,
         -91.4346
+      ],
+      [
+        28.4614,
+        -89.038
+      ]
+    ]
+  },
+  {
+    "hex": "a75013",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6141",
+    "lon": -97.6334,
+    "lat": 26.4327,
+    "alt": 2788.92,
+    "velocity": 154.7,
+    "heading": 6.11,
+    "trace": [
+      [
+        26.4327,
+        -97.6334
+      ]
+    ]
+  },
+  {
+    "hex": "a6d932",
+    "name": "Phoenix Air",
+    "category": "Hired Gun",
+    "callsign": "N540PA",
+    "lon": -83.7655,
+    "lat": 34.7162,
+    "alt": 7010.4,
+    "velocity": 240.63,
+    "heading": 78.91,
+    "trace": [
+      [
+        34.7162,
+        -83.7655
       ]
     ]
   },
@@ -182,11 +248,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6181",
-    "lon": -82.8162,
-    "lat": 27.4319,
-    "alt": 10965.18,
-    "velocity": 229.47,
-    "heading": 286.81,
+    "lon": -82.9236,
+    "lat": 27.461,
+    "alt": 10980.42,
+    "velocity": 228.34,
+    "heading": 286.76,
     "trace": [
       [
         26.0448,
@@ -199,35 +265,10 @@
       [
         27.4319,
         -82.8162
-      ]
-    ]
-  },
-  {
-    "hex": "710100",
-    "name": "Saudi Ministry of Finance",
-    "category": "Dictator Alert",
-    "callsign": "SVA972",
-    "lon": 91.612,
-    "lat": 22.2828,
-    "alt": 12496.8,
-    "velocity": 259.13,
-    "heading": 96.96,
-    "trace": [
-      [
-        22.7999,
-        86.4236
       ],
       [
-        22.6941,
-        88.1832
-      ],
-      [
-        22.5662,
-        89.1944
-      ],
-      [
-        22.2828,
-        91.612
+        27.461,
+        -82.9236
       ]
     ]
   },
@@ -236,11 +277,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6161",
-    "lon": -106.5333,
-    "lat": 31.8348,
-    "alt": 10363.2,
-    "velocity": 207.54,
-    "heading": 274.83,
+    "lon": -109.3908,
+    "lat": 32.3004,
+    "alt": 10378.44,
+    "velocity": 221.11,
+    "heading": 286.07,
     "trace": [
       [
         28.2863,
@@ -261,6 +302,10 @@
       [
         31.8348,
         -106.5333
+      ],
+      [
+        32.3004,
+        -109.3908
       ]
     ]
   }
