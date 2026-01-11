@@ -1,18 +1,73 @@
 [
   {
+    "hex": "8960b1",
+    "name": "Abu Dhabi Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "AUH11",
+    "lon": 56.9228,
+    "lat": 23.9098,
+    "alt": 11018.52,
+    "velocity": 199.16,
+    "heading": 283.14,
+    "trace": [
+      [
+        23.9098,
+        56.9228
+      ]
+    ]
+  },
+  {
     "hex": "8960b4",
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB1",
-    "lon": 37.3856,
-    "lat": 40.5547,
+    "lon": 35.0309,
+    "lat": 41.218,
     "alt": 10980.42,
-    "velocity": 226.04,
-    "heading": 291.07,
+    "velocity": 228.6,
+    "heading": 289.45,
     "trace": [
       [
         40.5547,
         37.3856
+      ],
+      [
+        41.218,
+        35.0309
+      ]
+    ]
+  },
+  {
+    "hex": "a9c52e",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR611",
+    "lon": -104.7731,
+    "lat": 53.8497,
+    "alt": 10058.4,
+    "velocity": 283.26,
+    "heading": 124.64,
+    "trace": [
+      [
+        53.8497,
+        -104.7731
+      ]
+    ]
+  },
+  {
+    "hex": "acb84d",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR830",
+    "lon": 7.032,
+    "lat": 49.1259,
+    "alt": 3657.6,
+    "velocity": 171.8,
+    "heading": 18.87,
+    "trace": [
+      [
+        49.1259,
+        7.032
       ]
     ]
   },
@@ -21,11 +76,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR615",
-    "lon": -98.6051,
-    "lat": 51.007,
+    "lon": -94.8789,
+    "lat": 48.8915,
     "alt": 10668,
-    "velocity": 283.1,
-    "heading": 129.77,
+    "velocity": 289.34,
+    "heading": 133.2,
     "trace": [
       [
         53.81,
@@ -38,6 +93,10 @@
       [
         51.007,
         -98.6051
+      ],
+      [
+        48.8915,
+        -94.8789
       ]
     ]
   },
@@ -46,11 +105,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA4632",
-    "lon": -120.8107,
-    "lat": 37.8031,
-    "alt": 6682.74,
-    "velocity": 206.85,
-    "heading": 257.8,
+    "lon": -122.2201,
+    "lat": 37.7146,
+    "alt": null,
+    "velocity": 7.46,
+    "heading": 47.81,
     "trace": [
       [
         37.4545,
@@ -115,6 +174,27 @@
       [
         37.8031,
         -120.8107
+      ],
+      [
+        37.7146,
+        -122.2201
+      ]
+    ]
+  },
+  {
+    "hex": "0101d0",
+    "name": "Government of Egypt",
+    "category": "Dictator Alert",
+    "callsign": "SUBTU",
+    "lon": 31.7004,
+    "lat": 29.0869,
+    "alt": 8846.82,
+    "velocity": 282.98,
+    "heading": 157.44,
+    "trace": [
+      [
+        29.0869,
+        31.7004
       ]
     ]
   }
