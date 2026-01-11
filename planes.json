@@ -1,18 +1,73 @@
 [
   {
+    "hex": "8960b4",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB1",
+    "lon": 27.3554,
+    "lat": 43.5257,
+    "alt": 11582.4,
+    "velocity": 245.54,
+    "heading": 299.36,
+    "trace": [
+      [
+        43.5257,
+        27.3554
+      ]
+    ]
+  },
+  {
+    "hex": "a3defb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT775",
+    "lon": -78.568,
+    "lat": 24.9851,
+    "alt": 10675.62,
+    "velocity": 247.77,
+    "heading": 120.03,
+    "trace": [
+      [
+        24.9851,
+        -78.568
+      ]
+    ]
+  },
+  {
     "hex": "acfc26",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR605",
-    "lon": -87.9574,
-    "lat": 41.9649,
-    "alt": 624.84,
-    "velocity": 80.33,
-    "heading": 267.43,
+    "lon": -88.9862,
+    "lat": 43.6763,
+    "alt": 10363.2,
+    "velocity": 219.6,
+    "heading": 324.15,
     "trace": [
       [
         41.9649,
         -87.9574
+      ],
+      [
+        43.6763,
+        -88.9862
+      ]
+    ]
+  },
+  {
+    "hex": "06a038",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "QAF4",
+    "lon": 51.5227,
+    "lat": 25.3696,
+    "alt": 876.3,
+    "velocity": 134.06,
+    "heading": 340.73,
+    "trace": [
+      [
+        25.3696,
+        51.5227
       ]
     ]
   },
@@ -21,11 +76,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR611",
-    "lon": -99.7374,
-    "lat": 51.5716,
-    "alt": 10058.4,
-    "velocity": 292.77,
-    "heading": 128.72,
+    "lon": -95.9683,
+    "lat": 49.5473,
+    "alt": 10668,
+    "velocity": 292.99,
+    "heading": 131.58,
     "trace": [
       [
         53.8497,
@@ -42,35 +97,10 @@
       [
         51.5716,
         -99.7374
-      ]
-    ]
-  },
-  {
-    "hex": "acb84d",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR830",
-    "lon": 7.3009,
-    "lat": 49.9861,
-    "alt": 624.84,
-    "velocity": 74.93,
-    "heading": 212.38,
-    "trace": [
-      [
-        49.1259,
-        7.032
       ],
       [
-        49.9988,
-        7.5156
-      ],
-      [
-        50.0287,
-        7.3429
-      ],
-      [
-        49.9861,
-        7.3009
+        49.5473,
+        -95.9683
       ]
     ]
   },
@@ -79,11 +109,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR658",
-    "lon": -105.4682,
-    "lat": 54.0785,
+    "lon": -101.5469,
+    "lat": 52.4093,
     "alt": 10668,
-    "velocity": 283.36,
-    "heading": 123.75,
+    "velocity": 287.68,
+    "heading": 126.93,
     "trace": [
       [
         55.1668,
@@ -96,6 +126,10 @@
       [
         54.0785,
         -105.4682
+      ],
+      [
+        52.4093,
+        -101.5469
       ]
     ]
   },
@@ -104,11 +138,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR615",
-    "lon": -91.2167,
-    "lat": 45.8655,
+    "lon": -88.1632,
+    "lat": 43.7549,
     "alt": 11277.6,
-    "velocity": 277.99,
-    "heading": 133.65,
+    "velocity": 276.91,
+    "heading": 129.72,
     "trace": [
       [
         53.81,
@@ -137,6 +171,10 @@
       [
         45.8655,
         -91.2167
+      ],
+      [
+        43.7549,
+        -88.1632
       ]
     ]
   },
@@ -145,11 +183,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR836",
-    "lon": 5.9575,
-    "lat": 50.2705,
-    "alt": 6278.88,
-    "velocity": 208.89,
-    "heading": 304.16,
+    "lon": 2.5314,
+    "lat": 51.4053,
+    "alt": 9144,
+    "velocity": 230.42,
+    "heading": 294.68,
     "trace": [
       [
         49.891,
@@ -158,6 +196,27 @@
       [
         50.2705,
         5.9575
+      ],
+      [
+        51.4053,
+        2.5314
+      ]
+    ]
+  },
+  {
+    "hex": "710100",
+    "name": "Saudi Ministry of Finance",
+    "category": "Dictator Alert",
+    "callsign": "SVA917",
+    "lon": 32.0492,
+    "lat": 29.6609,
+    "alt": 9753.6,
+    "velocity": 203.13,
+    "heading": 307.8,
+    "trace": [
+      [
+        29.6609,
+        32.0492
       ]
     ]
   }
