@@ -4,11 +4,11 @@
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "AUH11",
-    "lon": 55.6886,
-    "lat": 24.2224,
-    "alt": 4411.98,
-    "velocity": 162.18,
-    "heading": 275.1,
+    "lon": 55.1253,
+    "lat": 24.2674,
+    "alt": 1882.14,
+    "velocity": 137.82,
+    "heading": 274.71,
     "trace": [
       [
         23.9098,
@@ -17,19 +17,35 @@
       [
         24.2224,
         55.6886
+      ],
+      [
+        24.2674,
+        55.1253
       ]
     ]
+  },
+  {
+    "hex": "acfc26",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": null,
+    "lat": null,
+    "alt": null,
+    "velocity": 7.2,
+    "heading": 180,
+    "trace": []
   },
   {
     "hex": "a9c52e",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR611",
-    "lon": -102.3875,
-    "lat": 52.8268,
+    "lon": -101.879,
+    "lat": 52.596,
     "alt": 10058.4,
-    "velocity": 275.02,
-    "heading": 126.63,
+    "velocity": 280.07,
+    "heading": 127.31,
     "trace": [
       [
         53.8497,
@@ -38,6 +54,10 @@
       [
         52.8268,
         -102.3875
+      ],
+      [
+        52.596,
+        -101.879
       ]
     ]
   },
@@ -46,11 +66,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR830",
-    "lon": 7.5156,
-    "lat": 49.9988,
-    "alt": 1440.18,
-    "velocity": 130.54,
-    "heading": 20.29,
+    "lon": 7.3429,
+    "lat": 50.0287,
+    "alt": 937.26,
+    "velocity": 76.35,
+    "heading": 212.62,
     "trace": [
       [
         49.1259,
@@ -59,6 +79,10 @@
       [
         49.9988,
         7.5156
+      ],
+      [
+        50.0287,
+        7.3429
       ]
     ]
   },
@@ -67,15 +91,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR658",
-    "lon": -108.4026,
-    "lat": 55.1668,
+    "lon": -106.845,
+    "lat": 54.6052,
     "alt": 10668,
-    "velocity": 280.74,
-    "heading": 121.36,
+    "velocity": 281.4,
+    "heading": 122.76,
     "trace": [
       [
         55.1668,
         -108.4026
+      ],
+      [
+        54.6052,
+        -106.845
       ]
     ]
   },
@@ -84,11 +112,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR615",
-    "lon": -93.0227,
-    "lat": 47.5472,
-    "alt": 10668,
-    "velocity": 297.05,
-    "heading": 138.58,
+    "lon": -92.0906,
+    "lat": 46.6849,
+    "alt": 11231.88,
+    "velocity": 290.93,
+    "heading": 146.03,
     "trace": [
       [
         53.81,
@@ -109,91 +137,27 @@
       [
         47.5472,
         -93.0227
+      ],
+      [
+        46.6849,
+        -92.0906
       ]
     ]
   },
   {
-    "hex": "a2d615",
-    "name": "Global Crossing Airlines",
+    "hex": "aa3086",
+    "name": "National Airlines",
     "category": "Hired Gun",
-    "callsign": "GXA4632",
-    "lon": -122.2083,
-    "lat": 37.7275,
-    "alt": null,
-    "velocity": 0,
-    "heading": 213.75,
+    "callsign": "NCR836",
+    "lon": 6.8092,
+    "lat": 49.891,
+    "alt": 3017.52,
+    "velocity": 160.83,
+    "heading": 304.71,
     "trace": [
       [
-        37.4545,
-        -80.9672
-      ],
-      [
-        38.0665,
-        -84.4583
-      ],
-      [
-        38.5363,
-        -88.0837
-      ],
-      [
-        38.7642,
-        -90.3364
-      ],
-      [
-        38.8526,
-        -91.3536
-      ],
-      [
-        39.1056,
-        -95.2293
-      ],
-      [
-        39.2292,
-        -99.1324
-      ],
-      [
-        39.2401,
-        -100.1801
-      ],
-      [
-        39.1789,
-        -104.7008
-      ],
-      [
-        39.0997,
-        -106.6218
-      ],
-      [
-        39.0306,
-        -107.8788
-      ],
-      [
-        38.9603,
-        -108.9575
-      ],
-      [
-        38.7223,
-        -111.8457
-      ],
-      [
-        38.3293,
-        -115.3927
-      ],
-      [
-        38.0329,
-        -118.217
-      ],
-      [
-        37.8031,
-        -120.8107
-      ],
-      [
-        37.7146,
-        -122.2201
-      ],
-      [
-        37.7275,
-        -122.2083
+        49.891,
+        6.8092
       ]
     ]
   }
