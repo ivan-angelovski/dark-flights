@@ -1,39 +1,14 @@
 [
   {
-    "hex": "8002cd",
-    "name": "Gov of India",
-    "category": "Dictator Alert",
-    "callsign": "VUAVU",
-    "lon": 76.4099,
-    "lat": 25.8816,
-    "alt": 9448.8,
-    "velocity": 211.87,
-    "heading": 174.57,
-    "trace": [
-      [
-        28.5945,
-        76.9677
-      ],
-      [
-        26.9292,
-        76.6685
-      ],
-      [
-        25.8816,
-        76.4099
-      ]
-    ]
-  },
-  {
     "hex": "a1ac1a",
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3944",
-    "lon": -90.6701,
-    "lat": 33.7238,
+    "lon": -86.4113,
+    "lat": 34.28,
     "alt": 11887.2,
-    "velocity": 267.02,
-    "heading": 79.9,
+    "velocity": 272.03,
+    "heading": 82.28,
     "trace": [
       [
         32.9298,
@@ -46,23 +21,44 @@
       [
         33.7238,
         -90.6701
+      ],
+      [
+        34.28,
+        -86.4113
       ]
     ]
   },
   {
-    "hex": "a3defb",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT815",
-    "lon": -66.858,
-    "lat": 17.9525,
-    "alt": 10675.62,
-    "velocity": 267.02,
-    "heading": 138.05,
+    "hex": "896430",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB9",
+    "lon": 31.2699,
+    "lat": 40.2583,
+    "alt": 10972.8,
+    "velocity": 215.35,
+    "heading": 278.52,
     "trace": [
       [
-        17.9525,
-        -66.858
+        40.2583,
+        31.2699
+      ]
+    ]
+  },
+  {
+    "hex": "a7a2be",
+    "name": "ISR Platforms",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": 121.8769,
+    "lat": 26.6919,
+    "alt": 12954,
+    "velocity": 213.27,
+    "heading": 336.09,
+    "trace": [
+      [
+        26.6919,
+        121.8769
       ]
     ]
   },
@@ -71,11 +67,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA4647",
-    "lon": -87.9167,
-    "lat": 42.2117,
-    "alt": 11887.2,
-    "velocity": 266.98,
-    "heading": 110.53,
+    "lon": -83.8421,
+    "lat": 40.56,
+    "alt": 5966.46,
+    "velocity": 239.81,
+    "heading": 112.71,
     "trace": [
       [
         44.9303,
@@ -92,6 +88,10 @@
       [
         42.2117,
         -87.9167
+      ],
+      [
+        40.56,
+        -83.8421
       ]
     ]
   },
@@ -100,15 +100,36 @@
     "name": "Gov of Turkmenistan",
     "category": "Dictator Alert",
     "callsign": "TUG3025",
-    "lon": 38.0155,
-    "lat": 40.2435,
-    "alt": 10675.62,
-    "velocity": 265.32,
-    "heading": 50.51,
+    "lon": 42.305,
+    "lat": 41.3441,
+    "alt": 10668,
+    "velocity": 258.63,
+    "heading": 80.61,
     "trace": [
       [
         40.2435,
         38.0155
+      ],
+      [
+        41.3441,
+        42.305
+      ]
+    ]
+  },
+  {
+    "hex": "157719",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD934",
+    "lon": 39.7034,
+    "lat": 55.6259,
+    "alt": 8366.76,
+    "velocity": 28.03,
+    "heading": 47.23,
+    "trace": [
+      [
+        55.6259,
+        39.7034
       ]
     ]
   }
