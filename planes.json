@@ -1,22 +1,52 @@
 [
   {
-    "hex": "896430",
-    "name": "Dubai Air Wing",
+    "hex": "78048c",
+    "name": "Gov of PRC",
     "category": "Dictator Alert",
-    "callsign": "DUB9",
-    "lon": 50.1969,
-    "lat": 27.3257,
-    "alt": 10363.2,
-    "velocity": 190.65,
-    "heading": 313.91,
+    "callsign": "CCA863",
+    "lon": 28.1141,
+    "lat": 38.4819,
+    "alt": 12192,
+    "velocity": 206.65,
+    "heading": 259.53,
     "trace": [
       [
-        25.6912,
-        53.7231
-      ],
+        38.4819,
+        28.1141
+      ]
+    ]
+  },
+  {
+    "hex": "406e9f",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "TOV2230",
+    "lon": -18.0001,
+    "lat": 13.1436,
+    "alt": 10972.8,
+    "velocity": 258.25,
+    "heading": 180,
+    "trace": [
       [
-        27.3257,
-        50.1969
+        13.1436,
+        -18.0001
+      ]
+    ]
+  },
+  {
+    "hex": "a9c52e",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR842",
+    "lon": 5.3729,
+    "lat": 50.2937,
+    "alt": 7589.52,
+    "velocity": 226.01,
+    "heading": 303.58,
+    "trace": [
+      [
+        50.2937,
+        5.3729
       ]
     ]
   },
@@ -25,11 +55,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR601",
-    "lon": -108.3497,
-    "lat": 35.5084,
+    "lon": -113.9521,
+    "lat": 34.5276,
     "alt": 10972.8,
-    "velocity": 253.23,
-    "heading": 265.92,
+    "velocity": 244.02,
+    "heading": 262.25,
     "trace": [
       [
         34.7349,
@@ -42,6 +72,10 @@
       [
         35.5084,
         -108.3497
+      ],
+      [
+        34.5276,
+        -113.9521
       ]
     ]
   },
@@ -50,15 +84,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR814",
-    "lon": -146.0345,
-    "lat": 66.5466,
+    "lon": -157.3892,
+    "lat": 65.6656,
     "alt": 11582.4,
-    "velocity": 253.33,
-    "heading": 264.29,
+    "velocity": 252.7,
+    "heading": 253.93,
     "trace": [
       [
         66.5466,
         -146.0345
+      ],
+      [
+        65.6656,
+        -157.3892
       ]
     ]
   },
@@ -67,11 +105,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA4647",
-    "lon": -120.0214,
-    "lat": 47.1811,
-    "alt": 9136.38,
-    "velocity": 242.65,
-    "heading": 101,
+    "lon": -113.3914,
+    "lat": 46.6853,
+    "alt": 11269.98,
+    "velocity": 240.56,
+    "heading": 92.94,
     "trace": [
       [
         38.7507,
@@ -132,6 +170,61 @@
       [
         47.1811,
         -120.0214
+      ],
+      [
+        46.6853,
+        -113.3914
+      ]
+    ]
+  },
+  {
+    "hex": "aa3086",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR600",
+    "lon": -153.3029,
+    "lat": 66.0866,
+    "alt": 11582.4,
+    "velocity": 251.15,
+    "heading": 257.7,
+    "trace": [
+      [
+        66.0866,
+        -153.3029
+      ]
+    ]
+  },
+  {
+    "hex": "70c0b4",
+    "name": "Oman Royal Flight",
+    "category": "Dictator Alert",
+    "callsign": "ORF4",
+    "lon": 56.7304,
+    "lat": 25.4504,
+    "alt": 6400.8,
+    "velocity": 220.18,
+    "heading": 152.9,
+    "trace": [
+      [
+        25.4504,
+        56.7304
+      ]
+    ]
+  },
+  {
+    "hex": "60183e",
+    "name": "Gov of Turkmenistan",
+    "category": "Dictator Alert",
+    "callsign": "TUG3024",
+    "lon": 31.3886,
+    "lat": 36.9097,
+    "alt": 4450.08,
+    "velocity": 134.86,
+    "heading": 235.1,
+    "trace": [
+      [
+        36.9097,
+        31.3886
       ]
     ]
   }
