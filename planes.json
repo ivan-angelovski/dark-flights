@@ -4,11 +4,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB9",
-    "lon": 11.2217,
-    "lat": 40.6629,
+    "lon": 8.2154,
+    "lat": 40.4312,
     "alt": 11277.6,
-    "velocity": 205.37,
-    "heading": 265.55,
+    "velocity": 207.38,
+    "heading": 260.86,
     "trace": [
       [
         40.2583,
@@ -33,6 +33,61 @@
       [
         40.6629,
         11.2217
+      ],
+      [
+        40.4312,
+        8.2154
+      ]
+    ]
+  },
+  {
+    "hex": "a7a2be",
+    "name": "ISR Platforms",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": 126.8115,
+    "lat": 34.2356,
+    "alt": 11277.6,
+    "velocity": 311.11,
+    "heading": 64.54,
+    "trace": [
+      [
+        34.2356,
+        126.8115
+      ]
+    ]
+  },
+  {
+    "hex": "48d961",
+    "name": "Polish Government",
+    "category": "Dictator Alert",
+    "callsign": "PLF106",
+    "lon": 15.9547,
+    "lat": 53.1029,
+    "alt": 7399.02,
+    "velocity": 237.87,
+    "heading": 111.57,
+    "trace": [
+      [
+        53.1029,
+        15.9547
+      ]
+    ]
+  },
+  {
+    "hex": "4b8c2e",
+    "name": "Gov of Turkey",
+    "category": "Dictator Alert",
+    "callsign": "TRK1",
+    "lon": 31.0065,
+    "lat": 40.5585,
+    "alt": 7010.4,
+    "velocity": 235.55,
+    "heading": 110.45,
+    "trace": [
+      [
+        40.5585,
+        31.0065
       ]
     ]
   },
@@ -41,11 +96,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR601",
-    "lon": -120.3807,
-    "lat": 35.2474,
+    "lon": -122.7325,
+    "lat": 37.1836,
     "alt": 9753.6,
-    "velocity": 242.71,
-    "heading": 318.44,
+    "velocity": 245.91,
+    "heading": 314.83,
     "trace": [
       [
         33.9345,
@@ -54,6 +109,10 @@
       [
         35.2474,
         -120.3807
+      ],
+      [
+        37.1836,
+        -122.7325
       ]
     ]
   },
@@ -62,15 +121,36 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "CRIMSON1",
-    "lon": -2.5571,
-    "lat": 51.1563,
-    "alt": 792.48,
-    "velocity": 108.03,
-    "heading": 40.36,
+    "lon": -2.6526,
+    "lat": 51,
+    "alt": 929.64,
+    "velocity": 82.53,
+    "heading": 219.94,
     "trace": [
       [
         51.1563,
         -2.5571
+      ],
+      [
+        51,
+        -2.6526
+      ]
+    ]
+  },
+  {
+    "hex": "a0c62d",
+    "name": "Eastern Air Express",
+    "category": "Hired Gun",
+    "callsign": "BBQ502",
+    "lon": -80.1998,
+    "lat": 25.982,
+    "alt": 2933.7,
+    "velocity": 148.4,
+    "heading": 309.37,
+    "trace": [
+      [
+        25.982,
+        -80.1998
       ]
     ]
   }
