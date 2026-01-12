@@ -4,15 +4,19 @@
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "AUH11",
-    "lon": 55.246,
-    "lat": 24.212,
-    "alt": 6400.8,
-    "velocity": 219.29,
-    "heading": 110.6,
+    "lon": 58.1337,
+    "lat": 23.6151,
+    "alt": 11277.6,
+    "velocity": 268.6,
+    "heading": 71.11,
     "trace": [
       [
         24.212,
         55.246
+      ],
+      [
+        23.6151,
+        58.1337
       ]
     ]
   },
@@ -21,11 +25,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3944",
-    "lon": -80.8213,
-    "lat": 34.7774,
-    "alt": 11887.2,
-    "velocity": 287.95,
-    "heading": 85.49,
+    "lon": -77.0895,
+    "lat": 34.8264,
+    "alt": 3048,
+    "velocity": 153.58,
+    "heading": 109.16,
     "trace": [
       [
         32.9298,
@@ -46,6 +50,27 @@
       [
         34.7774,
         -80.8213
+      ],
+      [
+        34.8264,
+        -77.0895
+      ]
+    ]
+  },
+  {
+    "hex": "0200cc",
+    "name": "Gov of Morocco",
+    "category": "Dictator Alert",
+    "callsign": "MRS1203",
+    "lon": 3.3004,
+    "lat": 48.9587,
+    "alt": 5791.2,
+    "velocity": 204.5,
+    "heading": 114.05,
+    "trace": [
+      [
+        48.9587,
+        3.3004
       ]
     ]
   },
@@ -54,11 +79,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB9",
-    "lon": 26.535,
-    "lat": 40.8998,
+    "lon": 22.2512,
+    "lat": 41.088,
     "alt": 10972.8,
-    "velocity": 219.3,
-    "heading": 265.56,
+    "velocity": 221.01,
+    "heading": 273.07,
     "trace": [
       [
         40.2583,
@@ -67,6 +92,10 @@
       [
         40.8998,
         26.535
+      ],
+      [
+        41.088,
+        22.2512
       ]
     ]
   },
@@ -75,61 +104,87 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT815",
-    "lon": -61.702,
-    "lat": 11.8814,
-    "alt": 10675.62,
-    "velocity": 253.22,
-    "heading": 142.59,
+    "lon": -59.5743,
+    "lat": 8.8986,
+    "alt": 10668,
+    "velocity": 243.36,
+    "heading": 155.66,
     "trace": [
       [
         11.8814,
         -61.702
+      ],
+      [
+        8.8986,
+        -59.5743
       ]
     ]
   },
   {
-    "hex": "60183e",
-    "name": "Gov of Turkmenistan",
+    "hex": "896571",
+    "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
-    "callsign": "TUG3025",
-    "lon": 46.9765,
-    "lat": 40.8564,
-    "alt": 10668,
-    "velocity": 248.02,
-    "heading": 110.01,
+    "callsign": "AUH06",
+    "lon": 55.4792,
+    "lat": 24.1262,
+    "alt": 6781.8,
+    "velocity": 235.89,
+    "heading": 112.71,
     "trace": [
       [
-        40.2435,
-        38.0155
-      ],
-      [
-        41.3441,
-        42.305
-      ],
-      [
-        40.8564,
-        46.9765
+        24.1262,
+        55.4792
       ]
     ]
   },
   {
-    "hex": "157719",
-    "name": "Russia Special Flight Detachment",
+    "hex": "7bc006",
+    "name": "Gov of PRC",
     "category": "Dictator Alert",
-    "callsign": "RSD934",
-    "lon": 37.4039,
-    "lat": 55.9675,
-    "alt": 4442.46,
-    "velocity": 125.5,
-    "heading": 315.5,
+    "callsign": "CCA1342",
+    "lon": 113.7001,
+    "lat": 22.9069,
+    "alt": 5303.52,
+    "velocity": 208.07,
+    "heading": 341.25,
     "trace": [
       [
-        55.6259,
-        39.7034
-      ],
+        22.9069,
+        113.7001
+      ]
+    ]
+  },
+  {
+    "hex": "48d961",
+    "name": "Polish Government",
+    "category": "Dictator Alert",
+    "callsign": "PLF106",
+    "lon": 18.9607,
+    "lat": 52.47,
+    "alt": 7924.8,
+    "velocity": 187.79,
+    "heading": 287.05,
+    "trace": [
       [
-        55.9675,
-        37.4039
+        52.47,
+        18.9607
+      ]
+    ]
+  },
+  {
+    "hex": "06a021",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "QAF3",
+    "lon": 17.2908,
+    "lat": 35.5347,
+    "alt": 9753.6,
+    "velocity": 220.16,
+    "heading": 277.79,
+    "trace": [
+      [
+        35.5347,
+        17.2908
       ]
     ]
   }
