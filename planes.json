@@ -1,22 +1,69 @@
 [
   {
-    "hex": "a7000f",
-    "name": "N550GP LLC",
+    "hex": "89407f",
+    "name": "Bahrain Amiri Flight",
     "category": "Dictator Alert",
-    "callsign": "N550GP",
-    "lon": 128.0887,
-    "lat": 36.7671,
-    "alt": 6835.14,
-    "velocity": 180.13,
-    "heading": 305.23,
+    "callsign": "BAH6",
+    "lon": 51.5546,
+    "lat": 25.9963,
+    "alt": 7002.78,
+    "velocity": 243.69,
+    "heading": 119.32,
     "trace": [
       [
-        36.4736,
-        135.0855
-      ],
+        25.9963,
+        51.5546
+      ]
+    ]
+  },
+  {
+    "hex": "78048c",
+    "name": "Gov of PRC",
+    "category": "Dictator Alert",
+    "callsign": "CCA111",
+    "lon": 114.3755,
+    "lat": 21.8981,
+    "alt": 1783.08,
+    "velocity": 132.77,
+    "heading": 78.6,
+    "trace": [
       [
-        36.7671,
-        128.0887
+        21.8981,
+        114.3755
+      ]
+    ]
+  },
+  {
+    "hex": "06a001",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "A7HHK",
+    "lon": 48.8529,
+    "lat": 26.729,
+    "alt": 10972.8,
+    "velocity": 187.7,
+    "heading": 285.26,
+    "trace": [
+      [
+        26.729,
+        48.8529
+      ]
+    ]
+  },
+  {
+    "hex": "acb84d",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR619",
+    "lon": 131.1809,
+    "lat": 34.341,
+    "alt": 9448.8,
+    "velocity": 312.19,
+    "heading": 52.43,
+    "trace": [
+      [
+        34.341,
+        131.1809
       ]
     ]
   },
@@ -25,11 +72,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA4615",
-    "lon": -101.2385,
-    "lat": 37.0158,
+    "lon": -108.0692,
+    "lat": 37.8453,
     "alt": 11582.4,
-    "velocity": 223.58,
-    "heading": 280.74,
+    "velocity": 233.04,
+    "heading": 276.59,
     "trace": [
       [
         36.1529,
@@ -38,23 +85,10 @@
       [
         37.0158,
         -101.2385
-      ]
-    ]
-  },
-  {
-    "hex": "a2f016",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA6103",
-    "lon": -93.0837,
-    "lat": 30.5486,
-    "alt": 6492.24,
-    "velocity": 202.22,
-    "heading": 30.41,
-    "trace": [
+      ],
       [
-        30.5486,
-        -93.0837
+        37.8453,
+        -108.0692
       ]
     ]
   }
