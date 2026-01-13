@@ -4,15 +4,36 @@
     "name": "Bahrain Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "BAH6",
-    "lon": 51.5546,
-    "lat": 25.9963,
-    "alt": 7002.78,
-    "velocity": 243.69,
-    "heading": 119.32,
+    "lon": 53.5029,
+    "lat": 25.0175,
+    "alt": 5158.74,
+    "velocity": 163.13,
+    "heading": 120.93,
     "trace": [
       [
         25.9963,
         51.5546
+      ],
+      [
+        25.0175,
+        53.5029
+      ]
+    ]
+  },
+  {
+    "hex": "406d26",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "NOS789",
+    "lon": -11.1977,
+    "lat": 50.27,
+    "alt": 11887.2,
+    "velocity": 262.35,
+    "heading": 96.19,
+    "trace": [
+      [
+        50.27,
+        -11.1977
       ]
     ]
   },
@@ -21,32 +42,19 @@
     "name": "Gov of PRC",
     "category": "Dictator Alert",
     "callsign": "CCA111",
-    "lon": 114.3755,
-    "lat": 21.8981,
-    "alt": 1783.08,
-    "velocity": 132.77,
-    "heading": 78.6,
+    "lon": 113.9015,
+    "lat": 22.326,
+    "alt": null,
+    "velocity": 13.38,
+    "heading": 70.31,
     "trace": [
       [
         21.8981,
         114.3755
-      ]
-    ]
-  },
-  {
-    "hex": "06a001",
-    "name": "Qatar Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "A7HHK",
-    "lon": 48.8529,
-    "lat": 26.729,
-    "alt": 10972.8,
-    "velocity": 187.7,
-    "heading": 285.26,
-    "trace": [
+      ],
       [
-        26.729,
-        48.8529
+        22.326,
+        113.9015
       ]
     ]
   },
@@ -55,15 +63,53 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR619",
-    "lon": 131.1809,
-    "lat": 34.341,
+    "lon": 134.3544,
+    "lat": 35.923,
     "alt": 9448.8,
-    "velocity": 312.19,
-    "heading": 52.43,
+    "velocity": 319.5,
+    "heading": 60.59,
     "trace": [
       [
         34.341,
         131.1809
+      ],
+      [
+        35.923,
+        134.3544
+      ]
+    ]
+  },
+  {
+    "hex": "a83f98",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA631",
+    "lon": -83.8447,
+    "lat": 41.3174,
+    "alt": 7757.16,
+    "velocity": 218.34,
+    "heading": 206.14,
+    "trace": [
+      [
+        41.3174,
+        -83.8447
+      ]
+    ]
+  },
+  {
+    "hex": "a95c2f",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR844",
+    "lon": 7.1992,
+    "lat": 49.8842,
+    "alt": 1203.96,
+    "velocity": 95.04,
+    "heading": 214.64,
+    "trace": [
+      [
+        49.8842,
+        7.1992
       ]
     ]
   },
@@ -72,11 +118,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA4615",
-    "lon": -108.0692,
-    "lat": 37.8453,
+    "lon": -110.8731,
+    "lat": 38.0674,
     "alt": 11582.4,
-    "velocity": 233.04,
-    "heading": 276.59,
+    "velocity": 229.2,
+    "heading": 274.76,
     "trace": [
       [
         36.1529,
@@ -89,6 +135,27 @@
       [
         37.8453,
         -108.0692
+      ],
+      [
+        38.0674,
+        -110.8731
+      ]
+    ]
+  },
+  {
+    "hex": "8953e3",
+    "name": "Gov of Brunei",
+    "category": "Dictator Alert",
+    "callsign": "V8OAS",
+    "lon": 114.6986,
+    "lat": 5.0099,
+    "alt": 2514.6,
+    "velocity": 148.49,
+    "heading": 305.84,
+    "trace": [
+      [
+        5.0099,
+        114.6986
       ]
     ]
   }
