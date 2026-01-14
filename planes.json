@@ -1,18 +1,56 @@
 [
   {
+    "hex": "896103",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB12",
+    "lon": 55.4552,
+    "lat": 25.5124,
+    "alt": 2087.88,
+    "velocity": 150.39,
+    "heading": 56.58,
+    "trace": [
+      [
+        25.5124,
+        55.4552
+      ]
+    ]
+  },
+  {
     "hex": "a1ac1a",
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3922",
-    "lon": -89.3036,
-    "lat": 29.6225,
+    "lon": -87.4397,
+    "lat": 28.9253,
     "alt": 10668,
-    "velocity": 281.28,
-    "heading": 113.61,
+    "velocity": 303.08,
+    "heading": 105.76,
     "trace": [
       [
         29.6225,
         -89.3036
+      ],
+      [
+        28.9253,
+        -87.4397
+      ]
+    ]
+  },
+  {
+    "hex": "3cd05e",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD41",
+    "lon": 8.8682,
+    "lat": 54.0162,
+    "alt": 3040.38,
+    "velocity": 161.95,
+    "heading": 232.88,
+    "trace": [
+      [
+        54.0162,
+        8.8682
       ]
     ]
   },
@@ -21,11 +59,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD1B",
-    "lon": 8.0368,
-    "lat": 52.655,
-    "alt": 6057.9,
-    "velocity": 166.98,
-    "heading": 191.55,
+    "lon": 8.2802,
+    "lat": 52.573,
+    "alt": 6103.62,
+    "velocity": 189.97,
+    "heading": 187.63,
     "trace": [
       [
         54.1802,
@@ -34,6 +72,10 @@
       [
         52.655,
         8.0368
+      ],
+      [
+        52.573,
+        8.2802
       ]
     ]
   },
@@ -42,11 +84,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD1A",
-    "lon": 8.0343,
-    "lat": 52.6204,
+    "lon": 8.2375,
+    "lat": 52.9267,
     "alt": 6690.36,
-    "velocity": 154.4,
-    "heading": 192.51,
+    "velocity": 148.54,
+    "heading": 310.36,
     "trace": [
       [
         54.3069,
@@ -55,6 +97,27 @@
       [
         52.6204,
         8.0343
+      ],
+      [
+        52.9267,
+        8.2375
+      ]
+    ]
+  },
+  {
+    "hex": "4009c8",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "DRAKEN01",
+    "lon": 49.2273,
+    "lat": 25.9535,
+    "alt": 6057.9,
+    "velocity": 116.46,
+    "heading": 248.76,
+    "trace": [
+      [
+        25.9535,
+        49.2273
       ]
     ]
   },
@@ -63,11 +126,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR813",
-    "lon": -6.7838,
-    "lat": 50.6836,
+    "lon": -4.3043,
+    "lat": 50.741,
     "alt": 12192,
-    "velocity": 264.82,
-    "heading": 86.88,
+    "velocity": 258.81,
+    "heading": 88.97,
     "trace": [
       [
         50.6091,
@@ -76,6 +139,10 @@
       [
         50.6836,
         -6.7838
+      ],
+      [
+        50.741,
+        -4.3043
       ]
     ]
   },
@@ -84,15 +151,19 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA962",
-    "lon": 88.2032,
-    "lat": 22.6928,
+    "lon": 89.9707,
+    "lat": 22.4784,
     "alt": 12496.8,
-    "velocity": 273.87,
-    "heading": 94.09,
+    "velocity": 276.87,
+    "heading": 97.15,
     "trace": [
       [
         22.6928,
         88.2032
+      ],
+      [
+        22.4784,
+        89.9707
       ]
     ]
   }
