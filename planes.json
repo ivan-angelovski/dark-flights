@@ -4,15 +4,19 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8290",
-    "lon": 128.437,
-    "lat": 35.9394,
-    "alt": 8823.96,
-    "velocity": 276.87,
-    "heading": 135.98,
+    "lon": 132.6801,
+    "lat": 35.587,
+    "alt": 10066.02,
+    "velocity": 292.89,
+    "heading": 93.93,
     "trace": [
       [
         35.9394,
         128.437
+      ],
+      [
+        35.587,
+        132.6801
       ]
     ]
   },
@@ -21,11 +25,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA153",
-    "lon": -86.2076,
-    "lat": 28.1473,
-    "alt": 11567.16,
-    "velocity": 179.44,
-    "heading": 288.9,
+    "lon": -88.6057,
+    "lat": 29.1566,
+    "alt": 11582.4,
+    "velocity": 190.1,
+    "heading": 302.4,
     "trace": [
       [
         26.0126,
@@ -38,6 +42,10 @@
       [
         28.1473,
         -86.2076
+      ],
+      [
+        29.1566,
+        -88.6057
       ]
     ]
   },
@@ -46,11 +54,11 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA905",
-    "lon": 23.0355,
-    "lat": 39.9205,
+    "lon": 20.2396,
+    "lat": 41.9179,
     "alt": 10363.2,
-    "velocity": 237.49,
-    "heading": 323.9,
+    "velocity": 231.73,
+    "heading": 315.45,
     "trace": [
       [
         37.6578,
@@ -59,6 +67,10 @@
       [
         39.9205,
         23.0355
+      ],
+      [
+        41.9179,
+        20.2396
       ]
     ]
   },
@@ -67,15 +79,36 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3985",
-    "lon": -73.3035,
-    "lat": 4.1584,
+    "lon": -75.3147,
+    "lat": 5.5989,
     "alt": 10972.8,
-    "velocity": 240.41,
-    "heading": 305.59,
+    "velocity": 230.24,
+    "heading": 305.36,
     "trace": [
       [
         4.1584,
         -73.3035
+      ],
+      [
+        5.5989,
+        -75.3147
+      ]
+    ]
+  },
+  {
+    "hex": "157717",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD956",
+    "lon": 37.4264,
+    "lat": 55.9671,
+    "alt": 9563.1,
+    "velocity": 27.68,
+    "heading": 221.99,
+    "trace": [
+      [
+        55.9671,
+        37.4264
       ]
     ]
   }
