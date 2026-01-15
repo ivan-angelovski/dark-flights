@@ -4,15 +4,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR508",
-    "lon": 113.9209,
-    "lat": 22.3165,
+    "lon": 113.912,
+    "lat": 22.3047,
     "alt": null,
-    "velocity": 5.92,
+    "velocity": 0.9,
     "heading": 250.31,
     "trace": [
       [
         22.3165,
         113.9209
+      ],
+      [
+        22.3047,
+        113.912
       ]
     ]
   },
@@ -21,11 +25,11 @@
     "name": "Airborne Tactical Advantage",
     "category": "Hired Gun",
     "callsign": "N334AX",
-    "lon": -98.5045,
-    "lat": 27.4772,
-    "alt": 4518.66,
-    "velocity": 180.12,
-    "heading": 344.26,
+    "lon": -98.5545,
+    "lat": 27.4657,
+    "alt": 4457.7,
+    "velocity": 188.21,
+    "heading": 247.5,
     "trace": [
       [
         27.3481,
@@ -34,6 +38,10 @@
       [
         27.4772,
         -98.5045
+      ],
+      [
+        27.4657,
+        -98.5545
       ]
     ]
   },
@@ -42,11 +50,11 @@
     "name": "Airborne Tactical Advantage",
     "category": "Hired Gun",
     "callsign": "N348AX",
-    "lon": -78.2644,
-    "lat": 34.4375,
-    "alt": 5829.3,
-    "velocity": 257.02,
-    "heading": 32.58,
+    "lon": -77.5271,
+    "lat": 35.4087,
+    "alt": 5806.44,
+    "velocity": 248.8,
+    "heading": 31.13,
     "trace": [
       [
         32.8489,
@@ -55,6 +63,10 @@
       [
         34.4375,
         -78.2644
+      ],
+      [
+        35.4087,
+        -77.5271
       ]
     ]
   },
@@ -63,11 +75,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8290",
-    "lon": -123.4595,
-    "lat": 48.7003,
-    "alt": 9403.08,
-    "velocity": 251.73,
-    "heading": 147.35,
+    "lon": -122.6775,
+    "lat": 47.8484,
+    "alt": 4290.06,
+    "velocity": 186.25,
+    "heading": 148.9,
     "trace": [
       [
         58.5554,
@@ -108,23 +120,27 @@
       [
         48.7003,
         -123.4595
+      ],
+      [
+        47.8484,
+        -122.6775
       ]
     ]
   },
   {
-    "hex": "a100fa",
-    "name": "Draken Intl",
+    "hex": "a2d615",
+    "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "SCOOTA1",
-    "lon": -78.1858,
-    "lat": 34.0709,
-    "alt": 4945.38,
-    "velocity": 168.24,
-    "heading": 201.15,
+    "callsign": "GXA4664",
+    "lon": -86.3284,
+    "lat": 41.617,
+    "alt": 1104.9,
+    "velocity": 138.45,
+    "heading": 144.83,
     "trace": [
       [
-        34.0709,
-        -78.1858
+        41.617,
+        -86.3284
       ]
     ]
   },
@@ -133,15 +149,19 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6142",
-    "lon": -74.1644,
-    "lat": 40.7028,
-    "alt": null,
-    "velocity": 2.57,
-    "heading": 95.62,
+    "lon": -74.8204,
+    "lat": 40.578,
+    "alt": 5303.52,
+    "velocity": 164.76,
+    "heading": 263.19,
     "trace": [
       [
         40.7028,
         -74.1644
+      ],
+      [
+        40.578,
+        -74.8204
       ]
     ]
   },
@@ -150,11 +170,11 @@
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A6PFH",
-    "lon": -127.4167,
-    "lat": 43.6005,
+    "lon": -126.9213,
+    "lat": 43.2313,
     "alt": 12489.18,
-    "velocity": 235.1,
-    "heading": 180,
+    "velocity": 256.22,
+    "heading": 43.21,
     "trace": [
       [
         48.1172,
@@ -183,6 +203,10 @@
       [
         43.6005,
         -127.4167
+      ],
+      [
+        43.2313,
+        -126.9213
       ]
     ]
   },
@@ -191,11 +215,11 @@
     "name": "Russia Special Flight Detachment",
     "category": "Dictator Alert",
     "callsign": "RSD791",
-    "lon": 39.3951,
-    "lat": 54.0062,
-    "alt": 9890.76,
-    "velocity": 236.61,
-    "heading": 308.29,
+    "lon": 38.2663,
+    "lat": 54.6922,
+    "alt": 5585.46,
+    "velocity": 188.33,
+    "heading": 320.88,
     "trace": [
       [
         52.3782,
@@ -204,39 +228,10 @@
       [
         54.0062,
         39.3951
-      ]
-    ]
-  },
-  {
-    "hex": "a451cb",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT741",
-    "lon": -89.2029,
-    "lat": 13.5844,
-    "alt": 2263.14,
-    "velocity": 145.2,
-    "heading": 217.8,
-    "trace": [
-      [
-        19.8076,
-        -84.455
       ],
       [
-        18.7297,
-        -85.2839
-      ],
-      [
-        18.2169,
-        -85.6734
-      ],
-      [
-        14.8225,
-        -88.3689
-      ],
-      [
-        13.5844,
-        -89.2029
+        54.6922,
+        38.2663
       ]
     ]
   },
@@ -245,11 +240,11 @@
     "name": "Phoenix Air",
     "category": "Hired Gun",
     "callsign": "N465PA",
-    "lon": -118.2254,
-    "lat": 35.0858,
-    "alt": 4084.32,
-    "velocity": 134.2,
-    "heading": 35.64,
+    "lon": -117.8661,
+    "lat": 35.5703,
+    "alt": 1524,
+    "velocity": 115.92,
+    "heading": 78.74,
     "trace": [
       [
         34.3068,
@@ -258,6 +253,10 @@
       [
         35.0858,
         -118.2254
+      ],
+      [
+        35.5703,
+        -117.8661
       ]
     ]
   },
@@ -266,11 +265,11 @@
     "name": "Airborne Tactical Advantage",
     "category": "Hired Gun",
     "callsign": "N331AX",
-    "lon": -98.1066,
-    "lat": 26.6897,
-    "alt": 4503.42,
-    "velocity": 206.09,
-    "heading": 35.04,
+    "lon": -98.2151,
+    "lat": 26.7038,
+    "alt": 4518.66,
+    "velocity": 216.96,
+    "heading": 210.33,
     "trace": [
       [
         26.8135,
@@ -279,23 +278,27 @@
       [
         26.6897,
         -98.1066
+      ],
+      [
+        26.7038,
+        -98.2151
       ]
     ]
   },
   {
-    "hex": "a37d42",
-    "name": "Airborne Tactical Advantage",
+    "hex": "406d27",
+    "name": "AirTanker",
     "category": "Hired Gun",
-    "callsign": "N324AX",
-    "lon": -157.7092,
-    "lat": 21.0019,
-    "alt": 4244.34,
-    "velocity": 156.59,
-    "heading": 275.47,
+    "callsign": "RRR3399",
+    "lon": -82.0341,
+    "lat": 24.4546,
+    "alt": 12496.8,
+    "velocity": 293.62,
+    "heading": 58.76,
     "trace": [
       [
-        21.0019,
-        -157.7092
+        24.4546,
+        -82.0341
       ]
     ]
   },
@@ -304,15 +307,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR656",
-    "lon": 131.2205,
-    "lat": 34.4363,
+    "lon": 132.6117,
+    "lat": 35.1716,
     "alt": 10058.4,
-    "velocity": 304.94,
-    "heading": 58.24,
+    "velocity": 301.18,
+    "heading": 60.19,
     "trace": [
       [
         34.4363,
         131.2205
+      ],
+      [
+        35.1716,
+        132.6117
       ]
     ]
   },
@@ -321,11 +328,11 @@
     "name": "Polish Government",
     "category": "Dictator Alert",
     "callsign": "PLF106",
-    "lon": 20.863,
-    "lat": 52.195,
-    "alt": 381,
-    "velocity": 63.1,
-    "heading": 114.06,
+    "lon": 20.9676,
+    "lat": 52.1698,
+    "alt": null,
+    "velocity": 9.26,
+    "heading": 331.88,
     "trace": [
       [
         34.7103,
@@ -366,27 +373,27 @@
       [
         52.195,
         20.863
+      ],
+      [
+        52.1698,
+        20.9676
       ]
     ]
   },
   {
-    "hex": "ab453e",
-    "name": "Wheels Up Private Jets",
+    "hex": "a9c52e",
+    "name": "National Airlines",
     "category": "Hired Gun",
-    "callsign": "WUP825",
-    "lon": -79.466,
-    "lat": 26.5905,
-    "alt": 1234.44,
-    "velocity": 100.07,
-    "heading": 76.32,
+    "callsign": "NCR575",
+    "lon": -115.5749,
+    "lat": 52.0468,
+    "alt": 10058.4,
+    "velocity": 325.34,
+    "heading": 142.84,
     "trace": [
       [
-        26.5642,
-        -80.2803
-      ],
-      [
-        26.5905,
-        -79.466
+        52.0468,
+        -115.5749
       ]
     ]
   },
@@ -395,15 +402,19 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6216",
-    "lon": -96.3422,
-    "lat": 19.4337,
-    "alt": 10668,
-    "velocity": 239.73,
-    "heading": 153.49,
+    "lon": -95.5116,
+    "lat": 18.7084,
+    "alt": 10675.62,
+    "velocity": 243.71,
+    "heading": 124.16,
     "trace": [
       [
         19.4337,
         -96.3422
+      ],
+      [
+        18.7084,
+        -95.5116
       ]
     ]
   }
