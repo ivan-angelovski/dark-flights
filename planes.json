@@ -4,11 +4,11 @@
     "name": "Oman Royal Flight",
     "category": "Dictator Alert",
     "callsign": "ORF4",
-    "lon": 54.07,
-    "lat": 25.0499,
+    "lon": 50.2749,
+    "lat": 27.0991,
     "alt": 10363.2,
-    "velocity": 228.33,
-    "heading": 308.78,
+    "velocity": 231.9,
+    "heading": 312.75,
     "trace": [
       [
         23.6663,
@@ -17,6 +17,10 @@
       [
         25.0499,
         54.07
+      ],
+      [
+        27.0991,
+        50.2749
       ]
     ]
   },
@@ -25,32 +29,70 @@
     "name": "Oman Royal Flight",
     "category": "Dictator Alert",
     "callsign": "ORF1",
-    "lon": 55.1698,
-    "lat": 24.4359,
+    "lon": 51.4155,
+    "lat": 26.5517,
     "alt": 10363.2,
-    "velocity": 230.26,
-    "heading": 308.56,
+    "velocity": 224.29,
+    "heading": 290.26,
     "trace": [
       [
         24.4359,
         55.1698
+      ],
+      [
+        26.5517,
+        51.4155
       ]
     ]
   },
   {
-    "hex": "7277d0",
-    "name": "Air Koryo",
-    "category": "Dictator Alert",
-    "callsign": "KOR372",
-    "lon": 127.678,
-    "lat": 39.9962,
-    "alt": 9555.48,
-    "velocity": 174.25,
-    "heading": 238.89,
+    "hex": "a3defb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT8441",
+    "lon": -74.1459,
+    "lat": 4.7032,
+    "alt": null,
+    "velocity": 7.72,
+    "heading": 216.56,
     "trace": [
       [
-        39.9962,
-        127.678
+        4.7032,
+        -74.1459
+      ]
+    ]
+  },
+  {
+    "hex": "a4d4cc",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA2965",
+    "lon": -80.3223,
+    "lat": 25.7852,
+    "alt": 327.66,
+    "velocity": 86.1,
+    "heading": 266.23,
+    "trace": [
+      [
+        25.7852,
+        -80.3223
+      ]
+    ]
+  },
+  {
+    "hex": "acb84d",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR449",
+    "lon": -83.7349,
+    "lat": 40.1961,
+    "alt": 6568.44,
+    "velocity": 208.55,
+    "heading": 313.1,
+    "trace": [
+      [
+        40.1961,
+        -83.7349
       ]
     ]
   }
