@@ -1,18 +1,35 @@
 [
   {
-    "hex": "a8699a",
-    "name": "Atlas Air",
+    "hex": "a2d25e",
+    "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "GTI8290",
-    "lon": -122.0181,
-    "lat": 47.3232,
-    "alt": 1066.8,
-    "velocity": 98.22,
-    "heading": 247.2,
+    "callsign": "GXA4661",
+    "lon": -79.5465,
+    "lat": 33.2745,
+    "alt": 11582.4,
+    "velocity": 216.72,
+    "heading": 206.5,
     "trace": [
       [
-        47.3232,
-        -122.0181
+        33.2745,
+        -79.5465
+      ]
+    ]
+  },
+  {
+    "hex": "aa3086",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR554",
+    "lon": 87.1714,
+    "lat": 22.7572,
+    "alt": 10363.2,
+    "velocity": 223.22,
+    "heading": 273.7,
+    "trace": [
+      [
+        22.7572,
+        87.1714
       ]
     ]
   },
@@ -21,15 +38,53 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "FDX1261",
-    "lon": -84.0401,
-    "lat": 30.3982,
-    "alt": 10980.42,
-    "velocity": 200.32,
-    "heading": 319.48,
+    "lon": -89.7576,
+    "lat": 34.9021,
+    "alt": 2781.3,
+    "velocity": 121.4,
+    "heading": 301.13,
     "trace": [
       [
         30.3982,
         -84.0401
+      ],
+      [
+        34.9021,
+        -89.7576
+      ]
+    ]
+  },
+  {
+    "hex": "406d27",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "RRR3399",
+    "lon": -6.6928,
+    "lat": 51.2858,
+    "alt": 12496.8,
+    "velocity": 266.13,
+    "heading": 81.78,
+    "trace": [
+      [
+        51.2858,
+        -6.6928
+      ]
+    ]
+  },
+  {
+    "hex": "acfc26",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR656",
+    "lon": -150.0015,
+    "lat": 61.1866,
+    "alt": null,
+    "velocity": 0,
+    "heading": 329.06,
+    "trace": [
+      [
+        61.1866,
+        -150.0015
       ]
     ]
   }
