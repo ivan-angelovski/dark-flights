@@ -1,52 +1,22 @@
 [
   {
-    "hex": "a0441d",
-    "name": "US Department of Energy",
-    "category": "Nuclear",
-    "callsign": "N116SR",
-    "lon": -81.6449,
-    "lat": 33.2216,
-    "alt": 388.62,
-    "velocity": 36.89,
-    "heading": 219.91,
-    "trace": [
-      [
-        33.2216,
-        -81.6449
-      ]
-    ]
-  },
-  {
-    "hex": "a2c129",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA6126",
-    "lon": -90.683,
-    "lat": 28.5172,
-    "alt": 10652.76,
-    "velocity": 236.28,
-    "heading": 162.91,
-    "trace": [
-      [
-        28.5172,
-        -90.683
-      ]
-    ]
-  },
-  {
     "hex": "a95c2f",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR567",
-    "lon": 52.2974,
-    "lat": 26.0345,
+    "lon": 48.7538,
+    "lat": 27.3414,
     "alt": 9753.6,
-    "velocity": 218.33,
-    "heading": 296.44,
+    "velocity": 217.61,
+    "heading": 298.99,
     "trace": [
       [
         26.0345,
         52.2974
+      ],
+      [
+        27.3414,
+        48.7538
       ]
     ]
   },
@@ -55,32 +25,36 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR846",
-    "lon": 2.4313,
-    "lat": 51.3916,
+    "lon": -1.9468,
+    "lat": 54.1269,
     "alt": 9144,
-    "velocity": 244.76,
-    "heading": 281.03,
+    "velocity": 268.51,
+    "heading": 330,
     "trace": [
       [
         51.3916,
         2.4313
+      ],
+      [
+        54.1269,
+        -1.9468
       ]
     ]
   },
   {
-    "hex": "a451cb",
-    "name": "Amerijet International",
+    "hex": "ab9639",
+    "name": "Omni Air International",
     "category": "Hired Gun",
-    "callsign": "AJT468",
-    "lon": -80.3126,
-    "lat": 25.8024,
-    "alt": 15.24,
-    "velocity": 75.22,
-    "heading": 86.86,
+    "callsign": "OAE3994",
+    "lon": -79.361,
+    "lat": 39.0318,
+    "alt": 12192,
+    "velocity": 199.3,
+    "heading": 274.89,
     "trace": [
       [
-        25.8024,
-        -80.3126
+        39.0318,
+        -79.361
       ]
     ]
   },
@@ -89,11 +63,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR404",
-    "lon": -161.5255,
-    "lat": 58.1102,
+    "lon": -168.9184,
+    "lat": 58.0175,
     "alt": 11582.4,
-    "velocity": 249.51,
-    "heading": 270,
+    "velocity": 252.36,
+    "heading": 267.31,
     "trace": [
       [
         57.7939,
@@ -102,6 +76,10 @@
       [
         58.1102,
         -161.5255
+      ],
+      [
+        58.0175,
+        -168.9184
       ]
     ]
   },
@@ -109,28 +87,50 @@
     "hex": "06a01c",
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
-    "callsign": "",
-    "lon": null,
-    "lat": null,
-    "alt": null,
-    "velocity": 7.46,
-    "heading": 157.5,
-    "trace": []
-  },
-  {
-    "hex": "ad5ae7",
-    "name": "Pallas Aviation",
-    "category": "Hired Gun",
-    "callsign": "WDE08W",
-    "lon": -66.2482,
-    "lat": 17.5913,
-    "alt": 7322.82,
-    "velocity": 142.46,
-    "heading": 190.82,
+    "callsign": "QAF6",
+    "lon": 49.7899,
+    "lat": 26.4936,
+    "alt": 9456.42,
+    "velocity": 209.48,
+    "heading": 290.26,
     "trace": [
       [
-        17.5913,
-        -66.2482
+        26.4936,
+        49.7899
+      ]
+    ]
+  },
+  {
+    "hex": "e940fa",
+    "name": "Gov of Bolivia",
+    "category": "Dictator Alert",
+    "callsign": "FAB001",
+    "lon": -60.1304,
+    "lat": -22.5476,
+    "alt": 11277.6,
+    "velocity": 228.91,
+    "heading": 138.64,
+    "trace": [
+      [
+        -22.5476,
+        -60.1304
+      ]
+    ]
+  },
+  {
+    "hex": "acb84d",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR450",
+    "lon": -170.3627,
+    "lat": 58.0436,
+    "alt": 11277.6,
+    "velocity": 267.49,
+    "heading": 67.97,
+    "trace": [
+      [
+        58.0436,
+        -170.3627
       ]
     ]
   },
@@ -139,15 +139,19 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6161",
-    "lon": -98.4098,
-    "lat": 26.8221,
-    "alt": 6858,
-    "velocity": 205.2,
-    "heading": 321,
+    "lon": -100.7017,
+    "lat": 29.2881,
+    "alt": 10355.58,
+    "velocity": 197.15,
+    "heading": 319.87,
     "trace": [
       [
         26.8221,
         -98.4098
+      ],
+      [
+        29.2881,
+        -100.7017
       ]
     ]
   }
