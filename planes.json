@@ -1,30 +1,35 @@
 [
   {
-    "hex": "a95c2f",
-    "name": "National Airlines",
+    "hex": "a451cb",
+    "name": "Amerijet International",
     "category": "Hired Gun",
-    "callsign": "NCR567",
-    "lon": 55.3643,
-    "lat": 24.784,
-    "alt": 891.54,
-    "velocity": 95.82,
-    "heading": 301.39,
+    "callsign": "AJT468",
+    "lon": -73.8499,
+    "lat": 5.5692,
+    "alt": 7543.8,
+    "velocity": 267.97,
+    "heading": 11.74,
     "trace": [
       [
-        24.236,
-        57.6747
-      ],
+        5.5692,
+        -73.8499
+      ]
+    ]
+  },
+  {
+    "hex": "7bc006",
+    "name": "Gov of PRC",
+    "category": "Dictator Alert",
+    "callsign": "CCA1316",
+    "lon": 116.3139,
+    "lat": 40.3957,
+    "alt": 2316.48,
+    "velocity": 129.07,
+    "heading": 63.23,
+    "trace": [
       [
-        24.6647,
-        56.331
-      ],
-      [
-        24.6766,
-        55.7628
-      ],
-      [
-        24.784,
-        55.3643
+        40.3957,
+        116.3139
       ]
     ]
   },
@@ -33,52 +38,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR404",
-    "lon": -119.8356,
-    "lat": 53.9815,
+    "lon": -123.9174,
+    "lat": 54.312,
     "alt": 11582.4,
-    "velocity": 223.27,
-    "heading": 281.03,
+    "velocity": 231.28,
+    "heading": 276.13,
     "trace": [
       [
         53.9815,
         -119.8356
-      ]
-    ]
-  },
-  {
-    "hex": "07c005",
-    "name": "Gov of Sudan",
-    "category": "Dictator Alert",
-    "callsign": "",
-    "lon": 2.1153,
-    "lat": 48.8717,
-    "alt": 891.54,
-    "velocity": 85.94,
-    "heading": 35.5,
-    "trace": [
-      [
-        48.8891,
-        3.0507
       ],
       [
-        47.7607,
-        4.1204
-      ],
-      [
-        47.7403,
-        4.0196
-      ],
-      [
-        48.6591,
-        3.3327
-      ],
-      [
-        48.8023,
-        2.6486
-      ],
-      [
-        48.8717,
-        2.1153
+        54.312,
+        -123.9174
       ]
     ]
   },
@@ -87,11 +59,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA101",
-    "lon": -83.9316,
-    "lat": 31.4704,
-    "alt": 11590.02,
-    "velocity": 223.19,
-    "heading": 337.22,
+    "lon": -84.4967,
+    "lat": 33.9063,
+    "alt": 11582.4,
+    "velocity": 235.5,
+    "heading": 349.43,
     "trace": [
       [
         27.1899,
@@ -112,6 +84,10 @@
       [
         31.4704,
         -83.9316
+      ],
+      [
+        33.9063,
+        -84.4967
       ]
     ]
   },
@@ -120,32 +96,19 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA972",
-    "lon": 113.7582,
-    "lat": 22.1922,
-    "alt": 1112.52,
-    "velocity": 104.69,
-    "heading": 334.06,
+    "lon": 113.9154,
+    "lat": 22.302,
+    "alt": null,
+    "velocity": 7.46,
+    "heading": 160.31,
     "trace": [
       [
         22.1922,
         113.7582
-      ]
-    ]
-  },
-  {
-    "hex": "010024",
-    "name": "Gov of Egypt",
-    "category": "Dictator Alert",
-    "callsign": "GGG01",
-    "lon": 31.5873,
-    "lat": 30.1585,
-    "alt": 1333.5,
-    "velocity": 143.37,
-    "heading": 211.35,
-    "trace": [
+      ],
       [
-        30.1585,
-        31.5873
+        22.302,
+        113.9154
       ]
     ]
   }
