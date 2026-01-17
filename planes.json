@@ -4,11 +4,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR557",
-    "lon": 23.2284,
-    "lat": 41.7502,
+    "lon": 19.5975,
+    "lat": 45.3868,
     "alt": 10363.2,
-    "velocity": 235.82,
-    "heading": 333.71,
+    "velocity": 241.61,
+    "heading": 319.66,
     "trace": [
       [
         30.1409,
@@ -41,31 +41,44 @@
       [
         41.7502,
         23.2284
+      ],
+      [
+        45.3868,
+        19.5975
       ]
     ]
   },
   {
-    "hex": "a835d1",
-    "name": "Global Crossing Airlines",
+    "hex": "acfc26",
+    "name": "National Airlines",
     "category": "Hired Gun",
-    "callsign": "GXA203",
-    "lon": -79.7752,
-    "lat": 25.4201,
-    "alt": 4556.76,
-    "velocity": 172.06,
-    "heading": 305.88,
+    "callsign": "NCR404",
+    "lon": -85.7958,
+    "lat": 42.2826,
+    "alt": 10363.2,
+    "velocity": 250.75,
+    "heading": 316.75,
     "trace": [
       [
-        24.6072,
-        -78.4243
-      ],
+        42.2826,
+        -85.7958
+      ]
+    ]
+  },
+  {
+    "hex": "710100",
+    "name": "Saudi Ministry of Finance",
+    "category": "Dictator Alert",
+    "callsign": "SVA972",
+    "lon": 86.4008,
+    "lat": 22.801,
+    "alt": 12504.42,
+    "velocity": 279.23,
+    "heading": 93.06,
+    "trace": [
       [
-        25.0583,
-        -79.1708
-      ],
-      [
-        25.4201,
-        -79.7752
+        22.801,
+        86.4008
       ]
     ]
   }
