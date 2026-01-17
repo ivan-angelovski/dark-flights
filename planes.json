@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a95c2f",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR567",
+    "lon": 57.6747,
+    "lat": 24.236,
+    "alt": 9913.62,
+    "velocity": 183.46,
+    "heading": 275.47,
+    "trace": [
+      [
+        24.236,
+        57.6747
+      ]
+    ]
+  },
+  {
     "hex": "406d26",
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2233",
-    "lon": -3.5151,
-    "lat": 51.2338,
-    "alt": 7330.44,
-    "velocity": 203.19,
-    "heading": 18.76,
+    "lon": -1.4783,
+    "lat": 51.74,
+    "alt": 1188.72,
+    "velocity": 106.75,
+    "heading": 96.92,
     "trace": [
       [
         38.2654,
@@ -45,6 +62,10 @@
       [
         51.2338,
         -3.5151
+      ],
+      [
+        51.74,
+        -1.4783
       ]
     ]
   },
@@ -53,11 +74,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR404",
-    "lon": -112.0639,
-    "lat": 52.9769,
+    "lon": -115.1929,
+    "lat": 53.3544,
     "alt": 10972.8,
-    "velocity": 217.93,
-    "heading": 281.58,
+    "velocity": 219.61,
+    "heading": 284.65,
     "trace": [
       [
         42.2826,
@@ -106,6 +127,10 @@
       [
         52.9769,
         -112.0639
+      ],
+      [
+        53.3544,
+        -115.1929
       ]
     ]
   },
@@ -114,11 +139,11 @@
     "name": "Gov of Sudan",
     "category": "Dictator Alert",
     "callsign": "",
-    "lon": 4.1204,
-    "lat": 47.7607,
-    "alt": 8793.48,
-    "velocity": 148.78,
-    "heading": 200.44,
+    "lon": 4.0196,
+    "lat": 47.7403,
+    "alt": 7688.58,
+    "velocity": 244.94,
+    "heading": 346.52,
     "trace": [
       [
         48.8891,
@@ -127,6 +152,10 @@
       [
         47.7607,
         4.1204
+      ],
+      [
+        47.7403,
+        4.0196
       ]
     ]
   },
@@ -135,40 +164,19 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA101",
-    "lon": -81.4293,
-    "lat": 27.1899,
-    "alt": 11049,
-    "velocity": 224.86,
-    "heading": 330.39,
+    "lon": -82.4911,
+    "lat": 28.9086,
+    "alt": 11590.02,
+    "velocity": 221.09,
+    "heading": 324.76,
     "trace": [
       [
         27.1899,
         -81.4293
-      ]
-    ]
-  },
-  {
-    "hex": "acb84d",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR450",
-    "lon": 143.1734,
-    "lat": 35.9082,
-    "alt": 10058.4,
-    "velocity": 315.69,
-    "heading": 59.55,
-    "trace": [
-      [
-        33.2953,
-        137.6455
       ],
       [
-        34.1794,
-        139.3875
-      ],
-      [
-        35.9082,
-        143.1734
+        28.9086,
+        -82.4911
       ]
     ]
   }
