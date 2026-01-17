@@ -4,11 +4,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR557",
-    "lon": 6.4202,
-    "lat": 50.25,
-    "alt": 5600.7,
-    "velocity": 198.66,
-    "heading": 285.01,
+    "lon": 5.7777,
+    "lat": 50.6323,
+    "alt": 2613.66,
+    "velocity": 154.35,
+    "heading": 0.95,
     "trace": [
       [
         30.1409,
@@ -69,6 +69,10 @@
       [
         50.25,
         6.4202
+      ],
+      [
+        50.6323,
+        5.7777
       ]
     ]
   },
@@ -77,11 +81,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA125",
-    "lon": -78.6222,
-    "lat": 36.0059,
-    "alt": 1181.1,
-    "velocity": 85.49,
-    "heading": 225.24,
+    "lon": -78.7791,
+    "lat": 35.8794,
+    "alt": 99.06,
+    "velocity": 61.48,
+    "heading": 225.34,
     "trace": [
       [
         39.9165,
@@ -106,6 +110,27 @@
       [
         36.0059,
         -78.6222
+      ],
+      [
+        35.8794,
+        -78.7791
+      ]
+    ]
+  },
+  {
+    "hex": "a0c62d",
+    "name": "Eastern Air Express",
+    "category": "Hired Gun",
+    "callsign": "BBQ2206",
+    "lon": -81.6522,
+    "lat": 24.7305,
+    "alt": 7620,
+    "velocity": 220.65,
+    "heading": 47.46,
+    "trace": [
+      [
+        24.7305,
+        -81.6522
       ]
     ]
   },
@@ -114,11 +139,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2233",
-    "lon": -9.6117,
-    "lat": 41.0931,
+    "lon": -9.37,
+    "lat": 41.8875,
     "alt": 12192,
-    "velocity": 233.02,
-    "heading": 12.62,
+    "velocity": 234.43,
+    "heading": 18.95,
     "trace": [
       [
         38.2654,
@@ -135,6 +160,10 @@
       [
         41.0931,
         -9.6117
+      ],
+      [
+        41.8875,
+        -9.37
       ]
     ]
   },
@@ -143,11 +172,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR404",
-    "lon": -96.5628,
-    "lat": 49.5323,
-    "alt": 10363.2,
-    "velocity": 241.45,
-    "heading": 310.85,
+    "lon": -97.5916,
+    "lat": 50.034,
+    "alt": 10972.8,
+    "velocity": 239.86,
+    "heading": 298.43,
     "trace": [
       [
         42.2826,
@@ -176,6 +205,10 @@
       [
         49.5323,
         -96.5628
+      ],
+      [
+        50.034,
+        -97.5916
       ]
     ]
   },
@@ -184,61 +217,36 @@
     "name": "Gov of Angola",
     "category": "Dictator Alert",
     "callsign": "D2ANG",
-    "lon": 2.2724,
-    "lat": 6.2843,
-    "alt": 5943.6,
-    "velocity": 194.71,
-    "heading": 272.88,
+    "lon": 1.7332,
+    "lat": 6.3112,
+    "alt": 2682.24,
+    "velocity": 149.36,
+    "heading": 272.76,
     "trace": [
       [
         6.2843,
         2.2724
+      ],
+      [
+        6.3112,
+        1.7332
       ]
     ]
   },
   {
-    "hex": "acb84d",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR450",
-    "lon": 128.8702,
-    "lat": 27.1865,
-    "alt": 6484.62,
-    "velocity": 272.14,
-    "heading": 48.14,
-    "trace": [
-      [
-        26.4016,
-        127.8324
-      ],
-      [
-        26.7197,
-        128.2893
-      ],
-      [
-        27.1865,
-        128.8702
-      ]
-    ]
-  },
-  {
-    "hex": "01003e",
-    "name": "Government of Egypt",
+    "hex": "157717",
+    "name": "Russia Special Flight Detachment",
     "category": "Dictator Alert",
-    "callsign": "SUBND",
-    "lon": 31.6112,
-    "lat": 29.7912,
-    "alt": 6233.16,
-    "velocity": 205.54,
-    "heading": 171.36,
+    "callsign": "RSD956",
+    "lon": 44.3346,
+    "lat": 55.119,
+    "alt": 10660.38,
+    "velocity": 4.63,
+    "heading": 270,
     "trace": [
       [
-        29.9831,
-        31.5826
-      ],
-      [
-        29.7912,
-        31.6112
+        55.119,
+        44.3346
       ]
     ]
   }
