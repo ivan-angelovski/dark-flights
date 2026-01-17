@@ -4,11 +4,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR557",
-    "lon": 16.88,
-    "lat": 47.0194,
+    "lon": 14.2074,
+    "lat": 48.2146,
     "alt": 10363.2,
-    "velocity": 243.24,
-    "heading": 307.52,
+    "velocity": 249.11,
+    "heading": 299.85,
     "trace": [
       [
         30.1409,
@@ -49,6 +49,10 @@
       [
         47.0194,
         16.88
+      ],
+      [
+        48.2146,
+        14.2074
       ]
     ]
   },
@@ -57,15 +61,19 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA125",
-    "lon": -74.4503,
-    "lat": 39.9165,
-    "alt": 8183.88,
-    "velocity": 164.74,
-    "heading": 219.81,
+    "lon": -75.6861,
+    "lat": 38.756,
+    "alt": 8542.02,
+    "velocity": 167.44,
+    "heading": 219.26,
     "trace": [
       [
         39.9165,
         -74.4503
+      ],
+      [
+        38.756,
+        -75.6861
       ]
     ]
   },
@@ -74,11 +82,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR404",
-    "lon": -88.2589,
-    "lat": 44.1469,
+    "lon": -90.4557,
+    "lat": 45.6735,
     "alt": 10363.2,
-    "velocity": 251.73,
-    "heading": 315.17,
+    "velocity": 249.26,
+    "heading": 313.58,
     "trace": [
       [
         42.2826,
@@ -87,6 +95,10 @@
       [
         44.1469,
         -88.2589
+      ],
+      [
+        45.6735,
+        -90.4557
       ]
     ]
   },
@@ -95,11 +107,11 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA972",
-    "lon": 89.5035,
-    "lat": 22.5318,
+    "lon": 92.0946,
+    "lat": 22.295,
     "alt": 12496.8,
-    "velocity": 277.25,
-    "heading": 96.93,
+    "velocity": 277.78,
+    "heading": 81.48,
     "trace": [
       [
         22.801,
@@ -108,6 +120,27 @@
       [
         22.5318,
         89.5035
+      ],
+      [
+        22.295,
+        92.0946
+      ]
+    ]
+  },
+  {
+    "hex": "157717",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD956",
+    "lon": 37.7514,
+    "lat": 55.4657,
+    "alt": 5143.5,
+    "velocity": 3.64,
+    "heading": 8.13,
+    "trace": [
+      [
+        55.4657,
+        37.7514
       ]
     ]
   }
