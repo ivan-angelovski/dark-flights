@@ -4,11 +4,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR557",
-    "lon": 27.7076,
-    "lat": 37.0366,
-    "alt": 9753.6,
-    "velocity": 235.48,
-    "heading": 336.57,
+    "lon": 25.9285,
+    "lat": 39.2883,
+    "alt": 10363.2,
+    "velocity": 231.52,
+    "heading": 318.87,
     "trace": [
       [
         30.1409,
@@ -25,6 +25,10 @@
       [
         37.0366,
         27.7076
+      ],
+      [
+        39.2883,
+        25.9285
       ]
     ]
   },
@@ -33,11 +37,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR567",
-    "lon": 89.5018,
-    "lat": 22.5319,
+    "lon": 86.7159,
+    "lat": 22.7835,
     "alt": 10363.2,
-    "velocity": 228.56,
-    "heading": 276.98,
+    "velocity": 227.29,
+    "heading": 273.5,
     "trace": [
       [
         22.2612,
@@ -46,31 +50,44 @@
       [
         22.5319,
         89.5018
+      ],
+      [
+        22.7835,
+        86.7159
       ]
     ]
   },
   {
-    "hex": "a2d615",
-    "name": "Global Crossing Airlines",
+    "hex": "a0c62d",
+    "name": "Eastern Air Express",
     "category": "Hired Gun",
-    "callsign": "GXA630",
-    "lon": -74.0839,
-    "lat": 40.8259,
-    "alt": 868.68,
-    "velocity": 77.83,
-    "heading": 204.19,
+    "callsign": "BBQ2205",
+    "lon": -80.3846,
+    "lat": 25.9175,
+    "alt": 3497.58,
+    "velocity": 176.74,
+    "heading": 247.77,
     "trace": [
       [
-        38.1318,
-        -77.2197
-      ],
+        25.9175,
+        -80.3846
+      ]
+    ]
+  },
+  {
+    "hex": "a9c52e",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR870",
+    "lon": -56.2511,
+    "lat": -12.8446,
+    "alt": 10363.2,
+    "velocity": 268.6,
+    "heading": 313.14,
+    "trace": [
       [
-        40.0398,
-        -75.1697
-      ],
-      [
-        40.8259,
-        -74.0839
+        -12.8446,
+        -56.2511
       ]
     ]
   }
