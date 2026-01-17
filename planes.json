@@ -1,18 +1,39 @@
 [
   {
+    "hex": "ad3c48",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR845",
+    "lon": 5.9716,
+    "lat": 50.4039,
+    "alt": 3947.16,
+    "velocity": 185.05,
+    "heading": 103.34,
+    "trace": [
+      [
+        50.4039,
+        5.9716
+      ]
+    ]
+  },
+  {
     "hex": "a0f8f9",
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "FDX104",
-    "lon": -87.6333,
-    "lat": 33.5811,
+    "lon": -86.4549,
+    "lat": 32.5542,
     "alt": 10668,
-    "velocity": 257.2,
-    "heading": 135.57,
+    "velocity": 249.97,
+    "heading": 136.25,
     "trace": [
       [
         33.5811,
         -87.6333
+      ],
+      [
+        32.5542,
+        -86.4549
       ]
     ]
   },
@@ -21,11 +42,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR404",
-    "lon": -128.4733,
-    "lat": 54.7057,
+    "lon": -130.6394,
+    "lat": 54.9658,
     "alt": 11582.4,
-    "velocity": 230.51,
-    "heading": 282.76,
+    "velocity": 229.56,
+    "heading": 280.33,
     "trace": [
       [
         53.9815,
@@ -38,6 +59,10 @@
       [
         54.7057,
         -128.4733
+      ],
+      [
+        54.9658,
+        -130.6394
       ]
     ]
   },
@@ -46,11 +71,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA101",
-    "lon": -85.1831,
-    "lat": 36.615,
-    "alt": 11574.78,
-    "velocity": 239.12,
-    "heading": 348.21,
+    "lon": -85.5255,
+    "lat": 37.9411,
+    "alt": 10363.2,
+    "velocity": 244.47,
+    "heading": 348.1,
     "trace": [
       [
         27.1899,
@@ -79,23 +104,10 @@
       [
         36.615,
         -85.1831
-      ]
-    ]
-  },
-  {
-    "hex": "010024",
-    "name": "Gov of Egypt",
-    "category": "Dictator Alert",
-    "callsign": "GGG01",
-    "lon": 31.5339,
-    "lat": 30.0323,
-    "alt": 1341.12,
-    "velocity": 120.87,
-    "heading": 230.01,
-    "trace": [
+      ],
       [
-        30.0323,
-        31.5339
+        37.9411,
+        -85.5255
       ]
     ]
   }
