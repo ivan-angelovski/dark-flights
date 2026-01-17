@@ -4,11 +4,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR567",
-    "lon": 55.7628,
-    "lat": 24.6766,
-    "alt": 2575.56,
-    "velocity": 120.11,
-    "heading": 266.32,
+    "lon": 55.3643,
+    "lat": 24.784,
+    "alt": 891.54,
+    "velocity": 95.82,
+    "heading": 301.39,
     "trace": [
       [
         24.236,
@@ -21,6 +21,27 @@
       [
         24.6766,
         55.7628
+      ],
+      [
+        24.784,
+        55.3643
+      ]
+    ]
+  },
+  {
+    "hex": "acfc26",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR404",
+    "lon": -119.8356,
+    "lat": 53.9815,
+    "alt": 11582.4,
+    "velocity": 223.27,
+    "heading": 281.03,
+    "trace": [
+      [
+        53.9815,
+        -119.8356
       ]
     ]
   },
@@ -29,11 +50,11 @@
     "name": "Gov of Sudan",
     "category": "Dictator Alert",
     "callsign": "",
-    "lon": 2.6486,
-    "lat": 48.8023,
-    "alt": 1508.76,
-    "velocity": 121.72,
-    "heading": 265.88,
+    "lon": 2.1153,
+    "lat": 48.8717,
+    "alt": 891.54,
+    "velocity": 85.94,
+    "heading": 35.5,
     "trace": [
       [
         48.8891,
@@ -54,6 +75,10 @@
       [
         48.8023,
         2.6486
+      ],
+      [
+        48.8717,
+        2.1153
       ]
     ]
   },
@@ -62,11 +87,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA101",
-    "lon": -83.5723,
-    "lat": 30.7402,
+    "lon": -83.9316,
+    "lat": 31.4704,
     "alt": 11590.02,
-    "velocity": 228.26,
-    "heading": 337.19,
+    "velocity": 223.19,
+    "heading": 337.22,
     "trace": [
       [
         27.1899,
@@ -83,6 +108,44 @@
       [
         30.7402,
         -83.5723
+      ],
+      [
+        31.4704,
+        -83.9316
+      ]
+    ]
+  },
+  {
+    "hex": "710100",
+    "name": "Saudi Ministry of Finance",
+    "category": "Dictator Alert",
+    "callsign": "SVA972",
+    "lon": 113.7582,
+    "lat": 22.1922,
+    "alt": 1112.52,
+    "velocity": 104.69,
+    "heading": 334.06,
+    "trace": [
+      [
+        22.1922,
+        113.7582
+      ]
+    ]
+  },
+  {
+    "hex": "010024",
+    "name": "Gov of Egypt",
+    "category": "Dictator Alert",
+    "callsign": "GGG01",
+    "lon": 31.5873,
+    "lat": 30.1585,
+    "alt": 1333.5,
+    "velocity": 143.37,
+    "heading": 211.35,
+    "trace": [
+      [
+        30.1585,
+        31.5873
       ]
     ]
   }
