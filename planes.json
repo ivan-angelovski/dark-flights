@@ -4,11 +4,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6126",
-    "lon": -84.2023,
-    "lat": 28.1385,
-    "alt": 10965.18,
-    "velocity": 189.93,
-    "heading": 218.73,
+    "lon": -84.9137,
+    "lat": 27.099,
+    "alt": 10957.56,
+    "velocity": 200.29,
+    "heading": 195.04,
     "trace": [
       [
         29.9695,
@@ -17,27 +17,10 @@
       [
         28.1385,
         -84.2023
-      ]
-    ]
-  },
-  {
-    "hex": "89607a",
-    "name": "Dubai Air Wing",
-    "category": "Dictator Alert",
-    "callsign": "DUB6",
-    "lon": 7.4106,
-    "lat": 47.7598,
-    "alt": 1165.86,
-    "velocity": 97.81,
-    "heading": 154.78,
-    "trace": [
-      [
-        47.4538,
-        8.5529
       ],
       [
-        47.7598,
-        7.4106
+        27.099,
+        -84.9137
       ]
     ]
   },
@@ -46,11 +29,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR9756",
-    "lon": 136.5166,
-    "lat": 37.2622,
+    "lon": 135.0137,
+    "lat": 36.9212,
     "alt": 12192,
-    "velocity": 191.58,
-    "heading": 254.58,
+    "velocity": 198.78,
+    "heading": 253.77,
     "trace": [
       [
         38.1128,
@@ -59,6 +42,10 @@
       [
         37.2622,
         136.5166
+      ],
+      [
+        36.9212,
+        135.0137
       ]
     ]
   },
@@ -67,11 +54,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "CMB312",
-    "lon": 9.5034,
-    "lat": 61.9255,
+    "lon": 10.9369,
+    "lat": 63.4489,
     "alt": 10668,
-    "velocity": 264.94,
-    "heading": 22.73,
+    "velocity": 257.46,
+    "heading": 24.06,
     "trace": [
       [
         50.1241,
@@ -100,6 +87,10 @@
       [
         61.9255,
         9.5034
+      ],
+      [
+        63.4489,
+        10.9369
       ]
     ]
   },
@@ -108,11 +99,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6101",
-    "lon": -74.1742,
-    "lat": 40.6872,
+    "lon": -74.1667,
+    "lat": 40.7037,
     "alt": null,
-    "velocity": 4.89,
-    "heading": 295.31,
+    "velocity": 2.06,
+    "heading": 2.81,
     "trace": [
       [
         34.3824,
@@ -157,6 +148,27 @@
       [
         40.6872,
         -74.1742
+      ],
+      [
+        40.7037,
+        -74.1667
+      ]
+    ]
+  },
+  {
+    "hex": "ad7274",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": -89.9435,
+    "lat": 18.8912,
+    "alt": 10972.8,
+    "velocity": 242.86,
+    "heading": 7.55,
+    "trace": [
+      [
+        18.8912,
+        -89.9435
       ]
     ]
   },
@@ -165,11 +177,11 @@
     "name": "Wheels Up Private Jets",
     "category": "Hired Gun",
     "callsign": "WUP825",
-    "lon": -82.2844,
-    "lat": 27.8424,
-    "alt": 876.3,
-    "velocity": 77.17,
-    "heading": 343.74,
+    "lon": -82.5263,
+    "lat": 27.9681,
+    "alt": null,
+    "velocity": 1.03,
+    "heading": 81.56,
     "trace": [
       [
         26.8528,
@@ -178,6 +190,10 @@
       [
         27.8424,
         -82.2844
+      ],
+      [
+        27.9681,
+        -82.5263
       ]
     ]
   },
@@ -186,15 +202,19 @@
     "name": "Gov of Saudi Arabia",
     "category": "Dictator Alert",
     "callsign": "SVA7135",
-    "lon": 8.5465,
-    "lat": 47.4525,
+    "lon": 8.568,
+    "lat": 47.4557,
     "alt": null,
-    "velocity": 0,
-    "heading": 22.5,
+    "velocity": 4.12,
+    "heading": 95.62,
     "trace": [
       [
         47.4525,
         8.5465
+      ],
+      [
+        47.4557,
+        8.568
       ]
     ]
   },
@@ -203,15 +223,36 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR828",
-    "lon": -12.4874,
-    "lat": 51.2493,
-    "alt": 12222.48,
-    "velocity": 259.66,
-    "heading": 100.04,
+    "lon": -10.0215,
+    "lat": 50.9474,
+    "alt": 12214.86,
+    "velocity": 244.07,
+    "heading": 102.04,
     "trace": [
       [
         51.2493,
         -12.4874
+      ],
+      [
+        50.9474,
+        -10.0215
+      ]
+    ]
+  },
+  {
+    "hex": "ab8560",
+    "name": "Wheels Up Private Jets",
+    "category": "Hired Gun",
+    "callsign": "WUP841",
+    "lon": -81.7839,
+    "lat": 26.496,
+    "alt": 2400.3,
+    "velocity": 140.14,
+    "heading": 322.46,
+    "trace": [
+      [
+        26.496,
+        -81.7839
       ]
     ]
   }
