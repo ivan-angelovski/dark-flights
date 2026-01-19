@@ -4,15 +4,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR561",
-    "lon": 56.0707,
-    "lat": 24.8448,
-    "alt": 3459.48,
-    "velocity": 158.14,
-    "heading": 287.61,
+    "lon": 55.0358,
+    "lat": 24.8681,
+    "alt": 883.92,
+    "velocity": 100.67,
+    "heading": 301.42,
     "trace": [
       [
         24.8448,
         56.0707
+      ],
+      [
+        24.8681,
+        55.0358
       ]
     ]
   },
@@ -21,11 +25,11 @@
     "name": "Gov of Azerbaijan",
     "category": "Dictator Alert",
     "callsign": "AHY4731",
-    "lon": 9.636,
-    "lat": 47.7293,
-    "alt": 6332.22,
-    "velocity": 189.43,
-    "heading": 267.98,
+    "lon": 8.417,
+    "lat": 47.5691,
+    "alt": 1104.9,
+    "velocity": 89.91,
+    "heading": 137.09,
     "trace": [
       [
         43.5756,
@@ -42,23 +46,44 @@
       [
         47.7293,
         9.636
+      ],
+      [
+        47.5691,
+        8.417
       ]
     ]
   },
   {
-    "hex": "c0126b",
+    "hex": "c01254",
     "name": "Top Aces Inc",
     "category": "Hired Gun",
-    "callsign": "SKYHWK1",
-    "lon": 8.6722,
-    "lat": 53.762,
-    "alt": null,
-    "velocity": 0,
-    "heading": 345.94,
+    "callsign": "SKYHWK7",
+    "lon": 8.8881,
+    "lat": 54.0703,
+    "alt": 4625.34,
+    "velocity": 171.64,
+    "heading": 15.83,
     "trace": [
       [
-        53.762,
-        8.6722
+        54.0703,
+        8.8881
+      ]
+    ]
+  },
+  {
+    "hex": "c01266",
+    "name": "Top Aces Inc",
+    "category": "Hired Gun",
+    "callsign": "SKYHWK2",
+    "lon": 9.5901,
+    "lat": 53.8097,
+    "alt": 7620,
+    "velocity": 180.72,
+    "heading": 85.1,
+    "trace": [
+      [
+        53.8097,
+        9.5901
       ]
     ]
   },
@@ -86,13 +111,30 @@
     "callsign": "AHY6731",
     "lon": 33.601,
     "lat": 44.5327,
-    "alt": 11582.4,
+    "alt": 10972.8,
     "velocity": 10.91,
     "heading": 261.87,
     "trace": [
       [
         44.5327,
         33.601
+      ]
+    ]
+  },
+  {
+    "hex": "157717",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD338",
+    "lon": 47.386,
+    "lat": 46.8293,
+    "alt": 10347.96,
+    "velocity": 4.63,
+    "heading": 270,
+    "trace": [
+      [
+        46.8293,
+        47.386
       ]
     ]
   }
