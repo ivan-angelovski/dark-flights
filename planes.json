@@ -3,16 +3,37 @@
     "hex": "abc6ba",
     "name": "Top Aces Inc",
     "category": "Hired Gun",
-    "callsign": "",
-    "lon": -112.981,
-    "lat": 32.6868,
-    "alt": 2651.76,
-    "velocity": 190.32,
-    "heading": 174.1,
+    "callsign": "ACES2",
+    "lon": -112.7973,
+    "lat": 32.1547,
+    "alt": 8717.28,
+    "velocity": 190.89,
+    "heading": 83.97,
     "trace": [
       [
         32.6868,
         -112.981
+      ],
+      [
+        32.1547,
+        -112.7973
+      ]
+    ]
+  },
+  {
+    "hex": "a2f9dd",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA167",
+    "lon": -86.2666,
+    "lat": 39.07,
+    "alt": 6812.28,
+    "velocity": 209.74,
+    "heading": 176.63,
+    "trace": [
+      [
+        39.07,
+        -86.2666
       ]
     ]
   },
@@ -21,15 +42,19 @@
     "name": "Top Aces Inc",
     "category": "Hired Gun",
     "callsign": "ACES01",
-    "lon": -113.0139,
-    "lat": 32.548,
-    "alt": 4267.2,
-    "velocity": 186.58,
-    "heading": 169.84,
+    "lon": -112.5192,
+    "lat": 32.1347,
+    "alt": 7284.72,
+    "velocity": 205.03,
+    "heading": 263.52,
     "trace": [
       [
         32.548,
         -113.0139
+      ],
+      [
+        32.1347,
+        -112.5192
       ]
     ]
   },
@@ -38,11 +63,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB5",
-    "lon": 24.5278,
-    "lat": 44.4146,
+    "lon": 26.4654,
+    "lat": 43.6778,
     "alt": 11887.2,
-    "velocity": 240.21,
-    "heading": 117.28,
+    "velocity": 247.45,
+    "heading": 118.43,
     "trace": [
       [
         47.456,
@@ -75,6 +100,10 @@
       [
         44.4146,
         24.5278
+      ],
+      [
+        43.6778,
+        26.4654
       ]
     ]
   },
@@ -83,11 +112,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA4634",
-    "lon": -81.9193,
-    "lat": 39.3625,
+    "lon": -83.3541,
+    "lat": 39.7003,
     "alt": 9745.98,
-    "velocity": 177.52,
-    "heading": 289.64,
+    "velocity": 178.16,
+    "heading": 276.63,
     "trace": [
       [
         39.1764,
@@ -104,27 +133,10 @@
       [
         39.3625,
         -81.9193
-      ]
-    ]
-  },
-  {
-    "hex": "a1f3aa",
-    "name": "Omni Air International",
-    "category": "Hired Gun",
-    "callsign": "OAE3884",
-    "lon": -174.3447,
-    "lat": 58.5631,
-    "alt": 10980.42,
-    "velocity": 236.57,
-    "heading": 247.23,
-    "trace": [
-      [
-        59.4851,
-        -169.9997
       ],
       [
-        58.5631,
-        -174.3447
+        39.7003,
+        -83.3541
       ]
     ]
   },
@@ -133,11 +145,11 @@
     "name": "Tactical Air Support",
     "category": "Hired Gun",
     "callsign": "VILLN61",
-    "lon": -113.6899,
-    "lat": 40.3569,
-    "alt": 4800.6,
-    "velocity": 275.03,
-    "heading": 52.83,
+    "lon": -113.1699,
+    "lat": 40.6653,
+    "alt": 3261.36,
+    "velocity": 204.88,
+    "heading": 31.65,
     "trace": [
       [
         41.052,
@@ -154,6 +166,10 @@
       [
         40.3569,
         -113.6899
+      ],
+      [
+        40.6653,
+        -113.1699
       ]
     ]
   },
@@ -162,11 +178,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA4638",
-    "lon": -101.3595,
-    "lat": 37.7312,
-    "alt": 10972.8,
-    "velocity": 196.17,
-    "heading": 249.43,
+    "lon": -102.8714,
+    "lat": 37.2669,
+    "alt": 10957.56,
+    "velocity": 198.42,
+    "heading": 248.56,
     "trace": [
       [
         39.4134,
@@ -215,64 +231,10 @@
       [
         37.7312,
         -101.3595
-      ]
-    ]
-  },
-  {
-    "hex": "a82178",
-    "name": "Airborne Tactical Advantage",
-    "category": "Hired Gun",
-    "callsign": "ATAC1",
-    "lon": -75.7907,
-    "lat": 34.0773,
-    "alt": 7231.38,
-    "velocity": 323.8,
-    "heading": 136.03,
-    "trace": [
-      [
-        34.7603,
-        -76.9454
       ],
       [
-        34.3922,
-        -76.6376
-      ],
-      [
-        34.4521,
-        -76.4156
-      ],
-      [
-        34.0773,
-        -75.7907
-      ]
-    ]
-  },
-  {
-    "hex": "a8849d",
-    "name": "Tactical Air Support",
-    "category": "Hired Gun",
-    "callsign": "VILLN62",
-    "lon": -113.7215,
-    "lat": 40.3394,
-    "alt": 5120.64,
-    "velocity": 283.37,
-    "heading": 56.63,
-    "trace": [
-      [
-        41.0446,
-        -112.4543
-      ],
-      [
-        40.5727,
-        -113.1566
-      ],
-      [
-        40.2214,
-        -114.1739
-      ],
-      [
-        40.3394,
-        -113.7215
+        37.2669,
+        -102.8714
       ]
     ]
   },
@@ -281,15 +243,19 @@
     "name": "Phoenix Air",
     "category": "Hired Gun",
     "callsign": "N465PA",
-    "lon": -119.1461,
-    "lat": 33.7258,
-    "alt": 1493.52,
-    "velocity": 131.18,
-    "heading": 10.16,
+    "lon": -119.0736,
+    "lat": 34.2136,
+    "alt": 30.48,
+    "velocity": 65.85,
+    "heading": 270.45,
     "trace": [
       [
         33.7258,
         -119.1461
+      ],
+      [
+        34.2136,
+        -119.0736
       ]
     ]
   },
@@ -298,11 +264,11 @@
     "name": "Eagle Intl Establishment",
     "category": "Hired Gun",
     "callsign": "N737M",
-    "lon": -117.9848,
-    "lat": 34.6401,
-    "alt": 3756.66,
-    "velocity": 182.05,
-    "heading": 262.69,
+    "lon": -118.4537,
+    "lat": 34.1991,
+    "alt": 617.22,
+    "velocity": 92.14,
+    "heading": 91.92,
     "trace": [
       [
         41.1689,
@@ -363,60 +329,10 @@
       [
         34.6401,
         -117.9848
-      ]
-    ]
-  },
-  {
-    "hex": "a0cefa",
-    "name": "ISR Platforms",
-    "category": "Hired Gun",
-    "callsign": "N151MA",
-    "lon": -70.9457,
-    "lat": 41.6695,
-    "alt": -45.72,
-    "velocity": 36.89,
-    "heading": 309.91,
-    "trace": [
-      [
-        41.6688,
-        -70.9445
       ],
       [
-        41.6631,
-        -70.978
-      ],
-      [
-        41.6688,
-        -70.9445
-      ],
-      [
-        41.6688,
-        -70.9444
-      ],
-      [
-        41.6695,
-        -70.9457
-      ]
-    ]
-  },
-  {
-    "hex": "ad7274",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA6123",
-    "lon": -92.384,
-    "lat": 30.9286,
-    "alt": 2430.78,
-    "velocity": 140.46,
-    "heading": 335.78,
-    "trace": [
-      [
-        29.1069,
-        -91.6238
-      ],
-      [
-        30.9286,
-        -92.384
+        34.1991,
+        -118.4537
       ]
     ]
   }
