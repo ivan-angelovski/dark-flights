@@ -1,46 +1,18 @@
 [
   {
-    "hex": "a0d062",
-    "name": "Atlas Air",
+    "hex": "ad3c48",
+    "name": "National Airlines",
     "category": "Hired Gun",
-    "callsign": "CMB138",
-    "lon": 7.749,
-    "lat": 49.4475,
-    "alt": 792.48,
-    "velocity": 65.41,
-    "heading": 262.32,
+    "callsign": "NCR615",
+    "lon": -149.9982,
+    "lat": 61.1869,
+    "alt": null,
+    "velocity": 0,
+    "heading": 345.94,
     "trace": [
       [
-        31.9988,
-        29.44
-      ],
-      [
-        37.478,
-        26.2468
-      ],
-      [
-        42.1733,
-        23.6126
-      ],
-      [
-        45.4305,
-        21.9613
-      ],
-      [
-        47.792,
-        19.4458
-      ],
-      [
-        48.6483,
-        17.9978
-      ],
-      [
-        50.1336,
-        10.8408
-      ],
-      [
-        49.4475,
-        7.749
+        61.1869,
+        -149.9982
       ]
     ]
   },
@@ -49,11 +21,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA625",
-    "lon": -97.9409,
-    "lat": 39.7744,
-    "alt": 11582.4,
-    "velocity": 228.52,
-    "heading": 172.11,
+    "lon": -97.6063,
+    "lat": 35.6333,
+    "alt": 11902.44,
+    "velocity": 222.25,
+    "heading": 180.4,
     "trace": [
       [
         49.3371,
@@ -70,6 +42,10 @@
       [
         39.7744,
         -97.9409
+      ],
+      [
+        35.6333,
+        -97.6063
       ]
     ]
   },
@@ -78,11 +54,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR565",
-    "lon": 23.9194,
-    "lat": 40.8323,
-    "alt": 10363.2,
-    "velocity": 263.45,
-    "heading": 328.58,
+    "lon": 21.2028,
+    "lat": 45.0928,
+    "alt": 9745.98,
+    "velocity": 250.89,
+    "heading": 342.46,
     "trace": [
       [
         31.3346,
@@ -103,6 +79,10 @@
       [
         40.8323,
         23.9194
+      ],
+      [
+        45.0928,
+        21.2028
       ]
     ]
   },
@@ -111,11 +91,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA4648",
-    "lon": -77.2008,
-    "lat": 41.4019,
-    "alt": 9822.18,
-    "velocity": 279.97,
-    "heading": 101.12,
+    "lon": -74.1645,
+    "lat": 40.6964,
+    "alt": null,
+    "velocity": 9.26,
+    "heading": 25.31,
     "trace": [
       [
         41.8846,
@@ -132,6 +112,27 @@
       [
         41.4019,
         -77.2008
+      ],
+      [
+        40.6964,
+        -74.1645
+      ]
+    ]
+  },
+  {
+    "hex": "a1ac1a",
+    "name": "Omni Air International",
+    "category": "Hired Gun",
+    "callsign": "OAE3943",
+    "lon": 99.5932,
+    "lat": 18.3284,
+    "alt": 11285.22,
+    "velocity": 238.02,
+    "heading": 125.85,
+    "trace": [
+      [
+        18.3284,
+        99.5932
       ]
     ]
   },
@@ -140,180 +141,53 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3884",
-    "lon": 128.6464,
-    "lat": 27.3726,
-    "alt": 7795.26,
-    "velocity": 198.17,
-    "heading": 217.41,
+    "lon": 127.7748,
+    "lat": 26.3589,
+    "alt": null,
+    "velocity": 9.26,
+    "heading": 168.75,
     "trace": [
       [
         27.3726,
         128.6464
+      ],
+      [
+        26.3589,
+        127.7748
       ]
     ]
   },
   {
-    "hex": "a3defb",
-    "name": "Amerijet International",
+    "hex": "c0126a",
+    "name": "Top Aces Inc",
     "category": "Hired Gun",
-    "callsign": "AJT8341",
-    "lon": -77.9709,
-    "lat": 24.7781,
-    "alt": 10668,
-    "velocity": 257.91,
-    "heading": 116.92,
-    "trace": [
-      [
-        24.7781,
-        -77.9709
-      ]
-    ]
-  },
-  {
-    "hex": "a5e6e1",
-    "name": "Phoenix Air",
-    "category": "Hired Gun",
-    "callsign": "48GL",
-    "lon": -117.7312,
-    "lat": 34.1094,
-    "alt": 3002.28,
-    "velocity": 148.62,
-    "heading": 280.57,
-    "trace": [
-      [
-        28.7103,
-        -89.35
-      ],
-      [
-        30.1946,
-        -95.8808
-      ],
-      [
-        31.3923,
-        -101.1473
-      ],
-      [
-        31.9454,
-        -104.8889
-      ],
-      [
-        32.3927,
-        -108.0787
-      ],
-      [
-        32.7149,
-        -109.4259
-      ],
-      [
-        33.703,
-        -114.7059
-      ],
-      [
-        34.1094,
-        -117.7312
-      ]
-    ]
-  },
-  {
-    "hex": "adccd1",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA2965",
-    "lon": -79.9488,
-    "lat": 25.2926,
-    "alt": 4800.6,
-    "velocity": 199.85,
-    "heading": 157.92,
-    "trace": [
-      [
-        25.2926,
-        -79.9488
-      ]
-    ]
-  },
-  {
-    "hex": "406d26",
-    "name": "AirTanker",
-    "category": "Hired Gun",
-    "callsign": "NOS856",
-    "lon": -1.6315,
-    "lat": 51.741,
-    "alt": 388.62,
-    "velocity": 57.95,
-    "heading": 73.5,
-    "trace": [
-      [
-        42.2878,
-        10.9656
-      ],
-      [
-        44.0687,
-        7.0735
-      ],
-      [
-        46.4024,
-        4.857
-      ],
-      [
-        47.4918,
-        4.059
-      ],
-      [
-        51.1746,
-        -0.0359
-      ],
-      [
-        51.741,
-        -1.6315
-      ]
-    ]
-  },
-  {
-    "hex": "aa1e68",
-    "name": "Skyways Charter LLC",
-    "category": "Hired Gun",
-    "callsign": "N751GT",
-    "lon": -122.3829,
-    "lat": 37.6266,
+    "callsign": "SKYHWK1",
+    "lon": 8.6661,
+    "lat": 53.7643,
     "alt": null,
-    "velocity": 4.89,
-    "heading": 340.31,
+    "velocity": 8.75,
+    "heading": 331.88,
     "trace": [
       [
-        27.9834,
-        -85.4193
-      ],
+        53.7643,
+        8.6661
+      ]
+    ]
+  },
+  {
+    "hex": "3cd05c",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD3",
+    "lon": 11.7695,
+    "lat": 51.0116,
+    "alt": 7299.96,
+    "velocity": 187.48,
+    "heading": 164.4,
+    "trace": [
       [
-        32.9885,
-        -97.3588
-      ],
-      [
-        33.3505,
-        -99.1595
-      ],
-      [
-        35.395,
-        -104.7995
-      ],
-      [
-        36.7028,
-        -108.7905
-      ],
-      [
-        37.6926,
-        -112.2342
-      ],
-      [
-        38.056,
-        -113.6206
-      ],
-      [
-        37.7262,
-        -120.1901
-      ],
-      [
-        37.6266,
-        -122.3829
+        51.0116,
+        11.7695
       ]
     ]
   }
