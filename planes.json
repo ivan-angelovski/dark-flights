@@ -4,15 +4,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR885",
-    "lon": -82.967,
-    "lat": 39.767,
-    "alt": 1043.94,
-    "velocity": 117.33,
-    "heading": 178.49,
+    "lon": -82.177,
+    "lat": 36.4077,
+    "alt": 12496.8,
+    "velocity": 241.4,
+    "heading": 171.42,
     "trace": [
       [
         39.767,
         -82.967
+      ],
+      [
+        36.4077,
+        -82.177
       ]
     ]
   },
@@ -21,11 +25,11 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "SPCTER01",
-    "lon": 49.8383,
-    "lat": 24.5542,
-    "alt": 5981.7,
-    "velocity": 167.3,
-    "heading": 131.38,
+    "lon": 50.0016,
+    "lat": 24.5511,
+    "alt": 5989.32,
+    "velocity": 188.38,
+    "heading": 139.87,
     "trace": [
       [
         25.1869,
@@ -42,6 +46,27 @@
       [
         24.5542,
         49.8383
+      ],
+      [
+        24.5511,
+        50.0016
+      ]
+    ]
+  },
+  {
+    "hex": "4009d6",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "RAVEN01",
+    "lon": 49.0749,
+    "lat": 25.3275,
+    "alt": 5684.52,
+    "velocity": 129.01,
+    "heading": 325.23,
+    "trace": [
+      [
+        25.3275,
+        49.0749
       ]
     ]
   },
@@ -50,11 +75,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR617",
-    "lon": -152.175,
-    "lat": 60.8091,
-    "alt": 5334,
-    "velocity": 199.66,
-    "heading": 76.89,
+    "lon": -150.0024,
+    "lat": 61.1842,
+    "alt": null,
+    "velocity": 5.66,
+    "heading": 345.94,
     "trace": [
       [
         58.2459,
@@ -71,6 +96,10 @@
       [
         60.8091,
         -152.175
+      ],
+      [
+        61.1842,
+        -150.0024
       ]
     ]
   },
@@ -79,15 +108,19 @@
     "name": "Oman Royal Flight",
     "category": "Dictator Alert",
     "callsign": "ORF4",
-    "lon": 10.6562,
-    "lat": 49.2584,
+    "lon": 5.6071,
+    "lat": 50.8182,
     "alt": 10363.2,
-    "velocity": 229.37,
-    "heading": 317.36,
+    "velocity": 252.97,
+    "heading": 291.35,
     "trace": [
       [
         49.2584,
         10.6562
+      ],
+      [
+        50.8182,
+        5.6071
       ]
     ]
   },
@@ -96,11 +129,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3884",
-    "lon": 135.6131,
-    "lat": 35.6695,
+    "lon": 133.6522,
+    "lat": 33.5087,
     "alt": 12192,
-    "velocity": 179.9,
-    "heading": 220.48,
+    "velocity": 180.35,
+    "heading": 213.6,
     "trace": [
       [
         37.8719,
@@ -109,52 +142,27 @@
       [
         35.6695,
         135.6131
+      ],
+      [
+        33.5087,
+        133.6522
       ]
     ]
   },
   {
-    "hex": "a3defb",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "",
-    "lon": null,
-    "lat": null,
-    "alt": null,
-    "velocity": 265.89,
-    "heading": 22.65,
-    "trace": []
-  },
-  {
-    "hex": "c0126a",
-    "name": "Top Aces Inc",
-    "category": "Hired Gun",
-    "callsign": "SKYHWK1",
-    "lon": 8.304,
-    "lat": 53.677,
-    "alt": 1059.18,
-    "velocity": 125.61,
-    "heading": 87.89,
+    "hex": "14fa3a",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD500",
+    "lon": 31.2302,
+    "lat": 59.5529,
+    "alt": 6355.08,
+    "velocity": 181.67,
+    "heading": 120.27,
     "trace": [
       [
-        53.677,
-        8.304
-      ]
-    ]
-  },
-  {
-    "hex": "a451cb",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT8441",
-    "lon": -65.9933,
-    "lat": 18.4346,
-    "alt": null,
-    "velocity": 7.2,
-    "heading": 270,
-    "trace": [
-      [
-        18.4346,
-        -65.9933
+        59.5529,
+        31.2302
       ]
     ]
   },
@@ -163,32 +171,19 @@
     "name": "Eagle Intl Establishment",
     "category": "Hired Gun",
     "callsign": "N737M",
-    "lon": -11.4463,
-    "lat": 51.4415,
-    "alt": 12192,
-    "velocity": 250.53,
-    "heading": 108.43,
+    "lon": -5.9322,
+    "lat": 50.1608,
+    "alt": 12496.8,
+    "velocity": 244.18,
+    "heading": 111.38,
     "trace": [
       [
         51.4415,
         -11.4463
-      ]
-    ]
-  },
-  {
-    "hex": "78048c",
-    "name": "Gov of PRC",
-    "category": "Dictator Alert",
-    "callsign": "CCA1401",
-    "lon": 115.0752,
-    "lat": 39.4676,
-    "alt": 11109.96,
-    "velocity": 200.33,
-    "heading": 227.91,
-    "trace": [
+      ],
       [
-        39.4676,
-        115.0752
+        50.1608,
+        -5.9322
       ]
     ]
   },
@@ -197,11 +192,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD1",
-    "lon": 12.2935,
-    "lat": 49.6753,
-    "alt": 2606.04,
-    "velocity": 103.3,
-    "heading": 26.95,
+    "lon": 12.3788,
+    "lat": 49.5703,
+    "alt": 2613.66,
+    "velocity": 125.22,
+    "heading": 176.7,
     "trace": [
       [
         54.1961,
@@ -222,6 +217,27 @@
       [
         49.6753,
         12.2935
+      ],
+      [
+        49.5703,
+        12.3788
+      ]
+    ]
+  },
+  {
+    "hex": "0a4005",
+    "name": "Gov of Algeria",
+    "category": "Dictator Alert",
+    "callsign": "7TVPR",
+    "lon": 24.3218,
+    "lat": 34.0562,
+    "alt": 12489.18,
+    "velocity": 261.64,
+    "heading": 117.77,
+    "trace": [
+      [
+        34.0562,
+        24.3218
       ]
     ]
   }
