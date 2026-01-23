@@ -1,35 +1,22 @@
 [
   {
-    "hex": "a2c129",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA6126",
-    "lon": -90.0702,
-    "lat": 28.5637,
-    "alt": 9456.42,
-    "velocity": 233.32,
-    "heading": 177.22,
-    "trace": [
-      [
-        28.5637,
-        -90.0702
-      ]
-    ]
-  },
-  {
     "hex": "a3301a",
     "name": "Calspan Corporation",
     "category": "Hired Gun",
     "callsign": "N304VS",
-    "lon": -76.134,
-    "lat": 38.2016,
-    "alt": 4328.16,
-    "velocity": 159.98,
-    "heading": 173.54,
+    "lon": -75.8932,
+    "lat": 38.1675,
+    "alt": 2377.44,
+    "velocity": 89.8,
+    "heading": 4.6,
     "trace": [
       [
         38.2016,
         -76.134
+      ],
+      [
+        38.1675,
+        -75.8932
       ]
     ]
   },
@@ -38,11 +25,11 @@
     "name": "Gov of India",
     "category": "Dictator Alert",
     "callsign": "VUAVU",
-    "lon": 78.6421,
-    "lat": 28.4799,
-    "alt": 8336.28,
-    "velocity": 249.72,
-    "heading": 10.68,
+    "lon": 77.1178,
+    "lat": 28.8263,
+    "alt": 1950.72,
+    "velocity": 96.04,
+    "heading": 265.08,
     "trace": [
       [
         24.8512,
@@ -51,6 +38,27 @@
       [
         28.4799,
         78.6421
+      ],
+      [
+        28.8263,
+        77.1178
+      ]
+    ]
+  },
+  {
+    "hex": "a7496d",
+    "name": "Meta Aerospace",
+    "category": "Hired Gun",
+    "callsign": "SWB80",
+    "lon": -81.863,
+    "lat": 30.4947,
+    "alt": 3528.06,
+    "velocity": 184.66,
+    "heading": 32.72,
+    "trace": [
+      [
+        30.4947,
+        -81.863
       ]
     ]
   },
@@ -59,11 +67,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3943",
-    "lon": -99.0371,
-    "lat": 27.2108,
-    "alt": 7909.56,
-    "velocity": 170.34,
-    "heading": 313.04,
+    "lon": -98.5655,
+    "lat": 29.2548,
+    "alt": 7589.52,
+    "velocity": 243.02,
+    "heading": 15.6,
     "trace": [
       [
         32.2648,
@@ -96,6 +104,44 @@
       [
         27.2108,
         -99.0371
+      ],
+      [
+        29.2548,
+        -98.5655
+      ]
+    ]
+  },
+  {
+    "hex": "a835d1",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA200",
+    "lon": -77.6348,
+    "lat": 24.5843,
+    "alt": 9250.68,
+    "velocity": 256.09,
+    "heading": 135,
+    "trace": [
+      [
+        24.5843,
+        -77.6348
+      ]
+    ]
+  },
+  {
+    "hex": "a047d4",
+    "name": "US Department of Energy",
+    "category": "Nuclear",
+    "callsign": "N117SR",
+    "lon": -81.6508,
+    "lat": 33.2733,
+    "alt": 243.84,
+    "velocity": 49.43,
+    "heading": 357.61,
+    "trace": [
+      [
+        33.2733,
+        -81.6508
       ]
     ]
   },
@@ -103,12 +149,12 @@
     "hex": "a2c4e0",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "GXA6121",
-    "lon": -97.2138,
-    "lat": 25.0735,
-    "alt": 10363.2,
-    "velocity": 218.46,
-    "heading": 192.24,
+    "callsign": "",
+    "lon": null,
+    "lat": null,
+    "alt": null,
+    "velocity": 237.07,
+    "heading": 142.58,
     "trace": [
       [
         29.7653,
@@ -121,19 +167,19 @@
     ]
   },
   {
-    "hex": "a3defb",
-    "name": "Amerijet International",
+    "hex": "c07937",
+    "name": "Top Aces Inc",
     "category": "Hired Gun",
-    "callsign": "AJT854",
-    "lon": -61.0188,
-    "lat": 15.6372,
-    "alt": 9753.6,
-    "velocity": 222.26,
-    "heading": 314.91,
+    "callsign": "BRUSR01",
+    "lon": -63.4971,
+    "lat": 44.2566,
+    "alt": 1021.08,
+    "velocity": 128.1,
+    "heading": 180.23,
     "trace": [
       [
-        15.6372,
-        -61.0188
+        44.2566,
+        -63.4971
       ]
     ]
   },
@@ -142,15 +188,19 @@
     "name": "Draken Intl",
     "category": "Hired Gun",
     "callsign": "FRA47",
-    "lon": -1.6706,
-    "lat": 50.8308,
-    "alt": 1363.98,
-    "velocity": 61.24,
-    "heading": 58.05,
+    "lon": -1.0931,
+    "lat": 51.97,
+    "alt": 2750.82,
+    "velocity": 91.62,
+    "heading": 1.93,
     "trace": [
       [
         50.8308,
         -1.6706
+      ],
+      [
+        51.97,
+        -1.0931
       ]
     ]
   },
@@ -159,15 +209,19 @@
     "name": "Airborne Tactical Advantage",
     "category": "Hired Gun",
     "callsign": "N346AX",
-    "lon": -78.0283,
-    "lat": 35.4764,
-    "alt": 6713.22,
-    "velocity": 206.61,
-    "heading": 213.22,
+    "lon": -80.3252,
+    "lat": 32.8264,
+    "alt": 3307.08,
+    "velocity": 205.17,
+    "heading": 225.41,
     "trace": [
       [
         35.4764,
         -78.0283
+      ],
+      [
+        32.8264,
+        -80.3252
       ]
     ]
   },
@@ -176,15 +230,36 @@
     "name": "Nuclear Security Administration",
     "category": "Nuclear",
     "callsign": "ENRGY70",
-    "lon": -85.8885,
-    "lat": 33.6363,
+    "lon": -89.1121,
+    "lat": 34.123,
     "alt": 12192,
-    "velocity": 179.19,
-    "heading": 272.47,
+    "velocity": 178.57,
+    "heading": 283.16,
     "trace": [
       [
         33.6363,
         -85.8885
+      ],
+      [
+        34.123,
+        -89.1121
+      ]
+    ]
+  },
+  {
+    "hex": "c03231",
+    "name": "Top Aces Inc",
+    "category": "Hired Gun",
+    "callsign": "CHETA91",
+    "lon": -63.5,
+    "lat": 44.3323,
+    "alt": 1981.2,
+    "velocity": 121.48,
+    "heading": 169.26,
+    "trace": [
+      [
+        44.3323,
+        -63.5
       ]
     ]
   },
@@ -193,11 +268,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR838",
-    "lon": -92.4521,
-    "lat": 34.1432,
-    "alt": 11582.4,
-    "velocity": 238.56,
-    "heading": 184.95,
+    "lon": -93.7274,
+    "lat": 31.1552,
+    "alt": 8778.24,
+    "velocity": 191.54,
+    "heading": 227.61,
     "trace": [
       [
         49.6095,
@@ -226,6 +301,10 @@
       [
         34.1432,
         -92.4521
+      ],
+      [
+        31.1552,
+        -93.7274
       ]
     ]
   },
@@ -234,11 +313,11 @@
     "name": "Gov of Saudi Arabia",
     "category": "Dictator Alert",
     "callsign": "SVA7136",
-    "lon": 8.3085,
-    "lat": 47.7042,
-    "alt": 2194.56,
-    "velocity": 101.94,
-    "heading": 182.31,
+    "lon": 8.5497,
+    "lat": 47.4525,
+    "alt": 571.5,
+    "velocity": 2.83,
+    "heading": 219.38,
     "trace": [
       [
         34.8226,
@@ -271,6 +350,10 @@
       [
         47.7042,
         8.3085
+      ],
+      [
+        47.4525,
+        8.5497
       ]
     ]
   }
