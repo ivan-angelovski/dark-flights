@@ -4,11 +4,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA626",
-    "lon": -91.1197,
-    "lat": 38.2527,
-    "alt": 3429,
-    "velocity": 191.17,
-    "heading": 49.37,
+    "lon": -90.3588,
+    "lat": 38.7497,
+    "alt": null,
+    "velocity": 4.63,
+    "heading": 123.75,
     "trace": [
       [
         32.8712,
@@ -21,57 +21,76 @@
       [
         38.2527,
         -91.1197
+      ],
+      [
+        38.7497,
+        -90.3588
       ]
     ]
   },
   {
-    "hex": "a451cb",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT4314",
-    "lon": -80.4571,
-    "lat": 25.7778,
-    "alt": 838.2,
-    "velocity": 97.33,
-    "heading": 75.3,
-    "trace": [
-      [
-        25.7778,
-        -80.4571
-      ]
-    ]
+    "hex": "70c0ba",
+    "name": "Oman Royal Flight",
+    "category": "Dictator Alert",
+    "callsign": "ORF6",
+    "lon": null,
+    "lat": null,
+    "alt": 11277.6,
+    "velocity": 245.21,
+    "heading": 113.23,
+    "trace": []
   },
   {
     "hex": "a97aa1",
     "name": "Pallas Aviation",
     "category": "Hired Gun",
     "callsign": "WDE17",
-    "lon": 102.726,
-    "lat": 3.3627,
-    "alt": 6705.6,
-    "velocity": 170.39,
-    "heading": 267.92,
+    "lon": 101.4684,
+    "lat": 3.3118,
+    "alt": 1188.72,
+    "velocity": 107.49,
+    "heading": 228.3,
     "trace": [
       [
         3.3627,
         102.726
+      ],
+      [
+        3.3118,
+        101.4684
       ]
     ]
+  },
+  {
+    "hex": "a9c52e",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": null,
+    "lat": null,
+    "alt": null,
+    "velocity": 223.89,
+    "heading": 306.69,
+    "trace": []
   },
   {
     "hex": "600bc0",
     "name": "Gov of Azerbaijan",
     "category": "Dictator Alert",
     "callsign": "AHY6732",
-    "lon": 3.3915,
-    "lat": 48.8811,
-    "alt": 4328.16,
-    "velocity": 201.39,
-    "heading": 101.94,
+    "lon": 6.1786,
+    "lat": 48.0233,
+    "alt": 8229.6,
+    "velocity": 227.91,
+    "heading": 113.27,
     "trace": [
       [
         48.8811,
         3.3915
+      ],
+      [
+        48.0233,
+        6.1786
       ]
     ]
   },
@@ -80,11 +99,11 @@
     "name": "Turkish Government",
     "category": "Dictator Alert",
     "callsign": "TRK9",
-    "lon": 20.5557,
-    "lat": 38.6948,
+    "lon": 18.4313,
+    "lat": 37.7921,
     "alt": 13106.4,
-    "velocity": 209.63,
-    "heading": 242.37,
+    "velocity": 215.31,
+    "heading": 240.99,
     "trace": [
       [
         40.5664,
@@ -105,27 +124,10 @@
       [
         38.6948,
         20.5557
-      ]
-    ]
-  },
-  {
-    "hex": "06a0a4",
-    "name": "Qatar Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "A7MBK",
-    "lon": 58.475,
-    "lat": 24.7792,
-    "alt": 10675.62,
-    "velocity": 287.23,
-    "heading": 95.24,
-    "trace": [
-      [
-        24.9507,
-        54.7533
       ],
       [
-        24.7792,
-        58.475
+        37.7921,
+        18.4313
       ]
     ]
   }
