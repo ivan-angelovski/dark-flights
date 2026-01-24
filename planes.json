@@ -4,23 +4,28 @@
     "name": "Oman Royal Flight",
     "category": "Dictator Alert",
     "callsign": "ORF6",
-    "lon": null,
-    "lat": null,
-    "alt": 11285.22,
-    "velocity": 12.65,
-    "heading": 63.43,
-    "trace": []
+    "lon": 97.9075,
+    "lat": 14.6112,
+    "alt": 9677.4,
+    "velocity": 12.52,
+    "heading": 189.46,
+    "trace": [
+      [
+        14.6112,
+        97.9075
+      ]
+    ]
   },
   {
     "hex": "a9c52e",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR607",
-    "lon": -118.7466,
-    "lat": 47.2491,
+    "lon": -119.7531,
+    "lat": 47.6937,
     "alt": 10972.8,
-    "velocity": 225.44,
-    "heading": 303.36,
+    "velocity": 220.76,
+    "heading": 302.73,
     "trace": [
       [
         46.5344,
@@ -29,6 +34,10 @@
       [
         47.2491,
         -118.7466
+      ],
+      [
+        47.6937,
+        -119.7531
       ]
     ]
   },
@@ -37,11 +46,11 @@
     "name": "Gov of Azerbaijan",
     "category": "Dictator Alert",
     "callsign": "AHY6732",
-    "lon": 8.5533,
-    "lat": 47.4546,
+    "lon": 8.5474,
+    "lat": 47.4512,
     "alt": null,
     "velocity": 0,
-    "heading": 154.69,
+    "heading": 112.5,
     "trace": [
       [
         48.8811,
@@ -58,6 +67,27 @@
       [
         47.4546,
         8.5533
+      ],
+      [
+        47.4512,
+        8.5474
+      ]
+    ]
+  },
+  {
+    "hex": "acb84d",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR870",
+    "lon": -83.7498,
+    "lat": 11.414,
+    "alt": 10363.2,
+    "velocity": 269.41,
+    "heading": 302.84,
+    "trace": [
+      [
+        11.414,
+        -83.7498
       ]
     ]
   },
@@ -66,11 +96,11 @@
     "name": "Turkish Government",
     "category": "Dictator Alert",
     "callsign": "TRK9",
-    "lon": 14.9574,
-    "lat": 35.7593,
-    "alt": 13106.4,
-    "velocity": 211.17,
-    "heading": 215.78,
+    "lon": 14.4143,
+    "lat": 35.1355,
+    "alt": 13114.02,
+    "velocity": 207.82,
+    "heading": 215.22,
     "trace": [
       [
         40.5664,
@@ -103,6 +133,10 @@
       [
         35.7593,
         14.9574
+      ],
+      [
+        35.1355,
+        14.4143
       ]
     ]
   }
