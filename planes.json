@@ -1,35 +1,14 @@
 [
   {
-    "hex": "a7000f",
-    "name": "N550GP LLC",
-    "category": "Dictator Alert",
-    "callsign": "N550GP",
-    "lon": -117.8041,
-    "lat": 33.7764,
-    "alt": 693.42,
-    "velocity": 99.93,
-    "heading": 208.94,
-    "trace": [
-      [
-        34.0523,
-        -117.6798
-      ],
-      [
-        33.7764,
-        -117.8041
-      ]
-    ]
-  },
-  {
     "hex": "a95c2f",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR829",
-    "lon": -81.1223,
-    "lat": 30.6204,
+    "lon": -79.9149,
+    "lat": 32.9117,
     "alt": 12496.8,
-    "velocity": 273.41,
-    "heading": 30.91,
+    "velocity": 233.63,
+    "heading": 354.44,
     "trace": [
       [
         29.2116,
@@ -38,23 +17,10 @@
       [
         30.6204,
         -81.1223
-      ]
-    ]
-  },
-  {
-    "hex": "78048c",
-    "name": "Gov of PRC",
-    "category": "Dictator Alert",
-    "callsign": "CCA814",
-    "lon": 39.5507,
-    "lat": 57.2564,
-    "alt": 11887.2,
-    "velocity": 110.87,
-    "heading": 38.78,
-    "trace": [
+      ],
       [
-        57.2564,
-        39.5507
+        32.9117,
+        -79.9149
       ]
     ]
   },
@@ -63,15 +29,19 @@
     "name": "Top Aces Inc",
     "category": "Hired Gun",
     "callsign": "CHETA13",
-    "lon": -98.1442,
-    "lat": 46.6021,
+    "lon": -95.7611,
+    "lat": 45.0059,
     "alt": 8252.46,
-    "velocity": 236.9,
-    "heading": 131.48,
+    "velocity": 242.64,
+    "heading": 135.43,
     "trace": [
       [
         46.6021,
         -98.1442
+      ],
+      [
+        45.0059,
+        -95.7611
       ]
     ]
   },
@@ -80,11 +50,11 @@
     "name": "Top Aces Inc",
     "category": "Hired Gun",
     "callsign": "CHETA05",
-    "lon": -82.9669,
-    "lat": 32.8422,
-    "alt": 8572.5,
-    "velocity": 196.59,
-    "heading": 164.36,
+    "lon": -82.3934,
+    "lat": 30.9071,
+    "alt": 8557.26,
+    "velocity": 192.58,
+    "heading": 172.32,
     "trace": [
       [
         38.9934,
@@ -101,6 +71,10 @@
       [
         32.8422,
         -82.9669
+      ],
+      [
+        30.9071,
+        -82.3934
       ]
     ]
   },
@@ -109,11 +83,11 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT881",
-    "lon": -75.7826,
-    "lat": 38.3308,
-    "alt": 11582.4,
-    "velocity": 204.97,
-    "heading": 209.14,
+    "lon": -77.0436,
+    "lat": 36.4756,
+    "alt": 11590.02,
+    "velocity": 211.29,
+    "heading": 208.19,
     "trace": [
       [
         39.3606,
@@ -122,27 +96,10 @@
       [
         38.3308,
         -75.7826
-      ]
-    ]
-  },
-  {
-    "hex": "a75013",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA6143",
-    "lon": -97.1068,
-    "lat": 26.8788,
-    "alt": 4244.34,
-    "velocity": 164.5,
-    "heading": 226.77,
-    "trace": [
-      [
-        27.2558,
-        -96.7134
       ],
       [
-        26.8788,
-        -97.1068
+        36.4756,
+        -77.0436
       ]
     ]
   },
@@ -150,12 +107,12 @@
     "hex": "c0871c",
     "name": "Top Aces Inc",
     "category": "Hired Gun",
-    "callsign": "CHETA25",
-    "lon": -82.6289,
-    "lat": 31.8702,
-    "alt": 8549.64,
-    "velocity": 199.77,
-    "heading": 161.38,
+    "callsign": "",
+    "lon": null,
+    "lat": null,
+    "alt": 8534.4,
+    "velocity": 197.04,
+    "heading": 175.81,
     "trace": [
       [
         32.9817,
@@ -164,6 +121,40 @@
       [
         31.8702,
         -82.6289
+      ]
+    ]
+  },
+  {
+    "hex": "c0125b",
+    "name": "Top Aces Inc",
+    "category": "Hired Gun",
+    "callsign": "CRADL41",
+    "lon": -87.6588,
+    "lat": 34.5574,
+    "alt": 8343.9,
+    "velocity": 226.02,
+    "heading": 151.74,
+    "trace": [
+      [
+        34.5574,
+        -87.6588
+      ]
+    ]
+  },
+  {
+    "hex": "a2bd72",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6182",
+    "lon": -96.0621,
+    "lat": 27.9879,
+    "alt": 10972.8,
+    "velocity": 201.43,
+    "heading": 219.3,
+    "trace": [
+      [
+        27.9879,
+        -96.0621
       ]
     ]
   }
