@@ -17,27 +17,19 @@
     ]
   },
   {
-    "hex": "06a05a",
-    "name": "Qatar Amiri Flight",
+    "hex": "06a00f",
+    "name": "Gov of Qatar",
     "category": "Dictator Alert",
-    "callsign": "A7AAH",
-    "lon": 18.4551,
-    "lat": 34.9229,
-    "alt": 10668,
-    "velocity": 274.63,
-    "heading": 93.22,
+    "callsign": "QAF7",
+    "lon": -0.4744,
+    "lat": 51.4634,
+    "alt": null,
+    "velocity": 6.43,
+    "heading": 278.44,
     "trace": [
       [
-        35.0519,
-        11.8659
-      ],
-      [
-        35.0068,
-        16.2084
-      ],
-      [
-        34.9229,
-        18.4551
+        51.4634,
+        -0.4744
       ]
     ]
   },
@@ -46,11 +38,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3982",
-    "lon": -112.1167,
-    "lat": 35.904,
-    "alt": 11887.2,
-    "velocity": 267.24,
-    "heading": 127.88,
+    "lon": -111.2226,
+    "lat": 35.3275,
+    "alt": 11879.58,
+    "velocity": 266.5,
+    "heading": 128.57,
     "trace": [
       [
         47.4618,
@@ -83,6 +75,10 @@
       [
         35.904,
         -112.1167
+      ],
+      [
+        35.3275,
+        -111.2226
       ]
     ]
   },
@@ -91,11 +87,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE2504",
-    "lon": -97.7583,
-    "lat": 42.0742,
-    "alt": 11894.82,
-    "velocity": 260.03,
-    "heading": 120.17,
+    "lon": -96.7118,
+    "lat": 41.6124,
+    "alt": 11887.2,
+    "velocity": 260,
+    "heading": 120.83,
     "trace": [
       [
         44.7798,
@@ -112,6 +108,10 @@
       [
         42.0742,
         -97.7583
+      ],
+      [
+        41.6124,
+        -96.7118
       ]
     ]
   },
@@ -120,11 +120,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR604",
-    "lon": 138.7009,
-    "lat": 37.8675,
+    "lon": 137.8324,
+    "lat": 37.5367,
     "alt": 12192,
-    "velocity": 218.39,
-    "heading": 244.76,
+    "velocity": 220.65,
+    "heading": 244.15,
     "trace": [
       [
         38.5171,
@@ -133,6 +133,10 @@
       [
         37.8675,
         138.7009
+      ],
+      [
+        37.5367,
+        137.8324
       ]
     ]
   },
@@ -141,11 +145,11 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "QAF1",
-    "lon": 26.8729,
-    "lat": 36.7668,
+    "lon": 25.9676,
+    "lat": 37.0755,
     "alt": 10972.8,
-    "velocity": 226.09,
-    "heading": 293.18,
+    "velocity": 227.58,
+    "heading": 292.74,
     "trace": [
       [
         34.2608,
@@ -170,6 +174,10 @@
       [
         36.7668,
         26.8729
+      ],
+      [
+        37.0755,
+        25.9676
       ]
     ]
   },
@@ -178,11 +186,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6180",
-    "lon": -105.5609,
-    "lat": 31.5395,
-    "alt": 5021.58,
-    "velocity": 152.52,
-    "heading": 249.67,
+    "lon": -105.8001,
+    "lat": 31.8039,
+    "alt": 3048,
+    "velocity": 131.11,
+    "heading": 293.35,
     "trace": [
       [
         26.1805,
@@ -243,6 +251,27 @@
       [
         31.5395,
         -105.5609
+      ],
+      [
+        31.8039,
+        -105.8001
+      ]
+    ]
+  },
+  {
+    "hex": "157712",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD950",
+    "lon": 80.7432,
+    "lat": 55.5226,
+    "alt": 9403.08,
+    "velocity": 214.48,
+    "heading": 283.74,
+    "trace": [
+      [
+        55.5226,
+        80.7432
       ]
     ]
   }
