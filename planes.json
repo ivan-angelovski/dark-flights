@@ -1,43 +1,31 @@
 [
   {
-    "hex": "a2c129",
-    "name": "Global Crossing Airlines",
+    "hex": "ad3c48",
+    "name": "National Airlines",
     "category": "Hired Gun",
-    "callsign": "GXA6141",
-    "lon": -97.4655,
-    "lat": 25.3681,
-    "alt": 7543.8,
-    "velocity": 200.74,
-    "heading": 172.64,
+    "callsign": "NCR615",
+    "lon": -122.1573,
+    "lat": 56.1332,
+    "alt": 10058.4,
+    "velocity": 270.35,
+    "heading": 117.3,
     "trace": [
       [
-        25.3681,
-        -97.4655
+        56.1332,
+        -122.1573
       ]
     ]
-  },
-  {
-    "hex": "a86e85",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "",
-    "lon": null,
-    "lat": null,
-    "alt": null,
-    "velocity": 258.94,
-    "heading": 150.48,
-    "trace": []
   },
   {
     "hex": "06a00f",
     "name": "Gov of Qatar",
     "category": "Dictator Alert",
     "callsign": "QAF7",
-    "lon": 27.9517,
-    "lat": 40.3809,
-    "alt": 10668,
-    "velocity": 230.2,
-    "heading": 145.1,
+    "lon": 30.0228,
+    "lat": 38.3506,
+    "alt": 10660.38,
+    "velocity": 243.35,
+    "heading": 126.14,
     "trace": [
       [
         51.4634,
@@ -86,23 +74,10 @@
       [
         40.3809,
         27.9517
-      ]
-    ]
-  },
-  {
-    "hex": "a835d1",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA607",
-    "lon": -79.4542,
-    "lat": 25.4115,
-    "alt": 5989.32,
-    "velocity": 229.96,
-    "heading": 122.02,
-    "trace": [
+      ],
       [
-        25.4115,
-        -79.4542
+        38.3506,
+        30.0228
       ]
     ]
   },
@@ -111,15 +86,19 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7AAH",
-    "lon": 51.5036,
-    "lat": 26.0222,
-    "alt": 8404.86,
-    "velocity": 272.47,
-    "heading": 119.28,
+    "lon": 51.6587,
+    "lat": 25.0133,
+    "alt": 914.4,
+    "velocity": 88.46,
+    "heading": 21.49,
     "trace": [
       [
         26.0222,
         51.5036
+      ],
+      [
+        25.0133,
+        51.6587
       ]
     ]
   },
@@ -128,11 +107,11 @@
     "name": "Gov of Morocco",
     "category": "Dictator Alert",
     "callsign": "MRS0303",
-    "lon": -3.0801,
-    "lat": 42.3564,
+    "lon": -1.2938,
+    "lat": 44.5763,
     "alt": 11582.4,
-    "velocity": 232.31,
-    "heading": 31.51,
+    "velocity": 234.15,
+    "heading": 28.76,
     "trace": [
       [
         36.8309,
@@ -149,35 +128,10 @@
       [
         42.3564,
         -3.0801
-      ]
-    ]
-  },
-  {
-    "hex": "70c0b3",
-    "name": "Oman Royal Flight",
-    "category": "Dictator Alert",
-    "callsign": "ORF3",
-    "lon": 51.8117,
-    "lat": 25.0587,
-    "alt": 762,
-    "velocity": 113.02,
-    "heading": 158.93,
-    "trace": [
-      [
-        23.99,
-        56.6385
       ],
       [
-        24.5126,
-        53.9648
-      ],
-      [
-        24.7849,
-        52.8627
-      ],
-      [
-        25.0587,
-        51.8117
+        44.5763,
+        -1.2938
       ]
     ]
   },
@@ -186,15 +140,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR649",
-    "lon": -121.0025,
-    "lat": 55.7938,
+    "lon": -116.5937,
+    "lat": 54.5434,
     "alt": 10058.4,
-    "velocity": 266.75,
-    "heading": 118.2,
+    "velocity": 264.2,
+    "heading": 115.12,
     "trace": [
       [
         55.7938,
         -121.0025
+      ],
+      [
+        54.5434,
+        -116.5937
       ]
     ]
   },
@@ -203,11 +161,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6181",
-    "lon": -93.8922,
-    "lat": 29.9326,
+    "lon": -90.6149,
+    "lat": 29.2395,
     "alt": 11887.2,
-    "velocity": 260.82,
-    "heading": 101.95,
+    "velocity": 252.9,
+    "heading": 109.98,
     "trace": [
       [
         31.2233,
@@ -224,6 +182,27 @@
       [
         29.9326,
         -93.8922
+      ],
+      [
+        29.2395,
+        -90.6149
+      ]
+    ]
+  },
+  {
+    "hex": "157712",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD950",
+    "lon": 54.5911,
+    "lat": 56.857,
+    "alt": 10355.58,
+    "velocity": 231.68,
+    "heading": 267.71,
+    "trace": [
+      [
+        56.857,
+        54.5911
       ]
     ]
   }
