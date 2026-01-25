@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a7000f",
+    "name": "N550GP LLC",
+    "category": "Dictator Alert",
+    "callsign": "N550GP",
+    "lon": -117.6327,
+    "lat": 33.8846,
+    "alt": 1821.18,
+    "velocity": 118.98,
+    "heading": 20.24,
+    "trace": [
+      [
+        33.8846,
+        -117.6327
+      ]
+    ]
+  },
+  {
     "hex": "a96fb1",
     "name": "Omega Air",
     "category": "Hired Gun",
     "callsign": "OME71",
-    "lon": -115.7906,
-    "lat": 33.2365,
-    "alt": 6050.28,
-    "velocity": 202.52,
-    "heading": 176.65,
+    "lon": -115.6796,
+    "lat": 32.9915,
+    "alt": 6057.9,
+    "velocity": 207.33,
+    "heading": 115.42,
     "trace": [
       [
         33.9001,
@@ -29,6 +46,10 @@
       [
         33.2365,
         -115.7906
+      ],
+      [
+        32.9915,
+        -115.6796
       ]
     ]
   },
@@ -37,11 +58,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6181",
-    "lon": -81.6675,
-    "lat": 27.0096,
-    "alt": 9867.9,
-    "velocity": 213.04,
-    "heading": 291.24,
+    "lon": -83.029,
+    "lat": 27.4674,
+    "alt": 10972.8,
+    "velocity": 206.89,
+    "heading": 290.37,
     "trace": [
       [
         25.9229,
@@ -50,6 +71,10 @@
       [
         27.0096,
         -81.6675
+      ],
+      [
+        27.4674,
+        -83.029
       ]
     ]
   },
@@ -58,11 +83,11 @@
     "name": "Gov of Algeria",
     "category": "Dictator Alert",
     "callsign": "7TVPC",
-    "lon": 16.8122,
-    "lat": 35.4888,
+    "lon": 18.3868,
+    "lat": 35.3005,
     "alt": 11887.2,
-    "velocity": 251.37,
-    "heading": 97.88,
+    "velocity": 247.74,
+    "heading": 98.72,
     "trace": [
       [
         36.0962,
@@ -75,39 +100,10 @@
       [
         35.4888,
         16.8122
-      ]
-    ]
-  },
-  {
-    "hex": "acb84d",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR617",
-    "lon": 142.4166,
-    "lat": 38.1203,
-    "alt": 10066.02,
-    "velocity": 292.76,
-    "heading": 70.07,
-    "trace": [
-      [
-        35.2202,
-        133.0145
       ],
       [
-        36.0271,
-        135.3557
-      ],
-      [
-        36.4787,
-        136.75
-      ],
-      [
-        37.4531,
-        140.0154
-      ],
-      [
-        38.1203,
-        142.4166
+        35.3005,
+        18.3868
       ]
     ]
   }
