@@ -1,5 +1,22 @@
 [
   {
+    "hex": "a95c2f",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR876",
+    "lon": 3.6784,
+    "lat": 49.0997,
+    "alt": 5791.2,
+    "velocity": 204.01,
+    "heading": 81.3,
+    "trace": [
+      [
+        49.0997,
+        3.6784
+      ]
+    ]
+  },
+  {
     "hex": "a1ac1a",
     "name": "Omni Air International",
     "category": "Hired Gun",
@@ -21,11 +38,11 @@
     "name": "Gov of Qatar",
     "category": "Dictator Alert",
     "callsign": "QAF7",
-    "lon": 1.5945,
-    "lat": 51.2349,
-    "alt": 6804.66,
-    "velocity": 221.52,
-    "heading": 102.75,
+    "lon": 4.3094,
+    "lat": 50.7207,
+    "alt": 10668,
+    "velocity": 227.83,
+    "heading": 103.85,
     "trace": [
       [
         51.4634,
@@ -34,6 +51,27 @@
       [
         51.2349,
         1.5945
+      ],
+      [
+        50.7207,
+        4.3094
+      ]
+    ]
+  },
+  {
+    "hex": "06a05a",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "A7AAH",
+    "lon": 25.349,
+    "lat": 34.605,
+    "alt": 11887.2,
+    "velocity": 280.44,
+    "heading": 91.26,
+    "trace": [
+      [
+        34.605,
+        25.349
       ]
     ]
   },
@@ -42,11 +80,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3982",
-    "lon": -108.9191,
-    "lat": 33.7622,
+    "lon": -106.9717,
+    "lat": 32.3388,
     "alt": 11894.82,
-    "velocity": 271.19,
-    "heading": 130.31,
+    "velocity": 268.6,
+    "heading": 131.51,
     "trace": [
       [
         47.4618,
@@ -87,6 +125,10 @@
       [
         33.7622,
         -108.9191
+      ],
+      [
+        32.3388,
+        -106.9717
       ]
     ]
   },
@@ -95,15 +137,19 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT8621",
-    "lon": -9.8525,
-    "lat": 49.7935,
+    "lon": -6.8352,
+    "lat": 50.2431,
     "alt": 11277.6,
-    "velocity": 247.2,
-    "heading": 76.89,
+    "velocity": 246.3,
+    "heading": 76.22,
     "trace": [
       [
         49.7935,
         -9.8525
+      ],
+      [
+        50.2431,
+        -6.8352
       ]
     ]
   },
@@ -112,11 +158,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE2504",
-    "lon": -93.8305,
-    "lat": 40.5558,
-    "alt": 11894.82,
-    "velocity": 267.03,
-    "heading": 113.5,
+    "lon": -91.1881,
+    "lat": 39.7413,
+    "alt": 11887.2,
+    "velocity": 271.19,
+    "heading": 110.43,
     "trace": [
       [
         44.7798,
@@ -141,6 +187,10 @@
       [
         40.5558,
         -93.8305
+      ],
+      [
+        39.7413,
+        -91.1881
       ]
     ]
   },
@@ -149,11 +199,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR604",
-    "lon": 135.6062,
-    "lat": 36.6766,
+    "lon": 133.8211,
+    "lat": 35.9021,
     "alt": 12192,
-    "velocity": 207.09,
-    "heading": 244.39,
+    "velocity": 204.71,
+    "heading": 238.15,
     "trace": [
       [
         38.5171,
@@ -170,23 +220,10 @@
       [
         36.6766,
         135.6062
-      ]
-    ]
-  },
-  {
-    "hex": "a451cb",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT8711",
-    "lon": -79.6222,
-    "lat": 24.2083,
-    "alt": 9273.54,
-    "velocity": 258.01,
-    "heading": 163.55,
-    "trace": [
+      ],
       [
-        24.2083,
-        -79.6222
+        35.9021,
+        133.8211
       ]
     ]
   },
@@ -195,11 +232,11 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "QAF1",
-    "lon": 23.4414,
-    "lat": 37.7978,
+    "lon": 21.4273,
+    "lat": 38.8586,
     "alt": 10972.8,
-    "velocity": 232.83,
-    "heading": 296.51,
+    "velocity": 240,
+    "heading": 303.28,
     "trace": [
       [
         34.2608,
@@ -232,6 +269,27 @@
       [
         37.7978,
         23.4414
+      ],
+      [
+        38.8586,
+        21.4273
+      ]
+    ]
+  },
+  {
+    "hex": "894042",
+    "name": "Bahrain Defence Force",
+    "category": "Dictator Alert",
+    "callsign": "BAH10",
+    "lon": 50.5246,
+    "lat": 27.0262,
+    "alt": 3649.98,
+    "velocity": 188.02,
+    "heading": 144.35,
+    "trace": [
+      [
+        27.0262,
+        50.5246
       ]
     ]
   }
