@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a0d062",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI8834",
+    "lon": 138.923,
+    "lat": 35.905,
+    "alt": 5334,
+    "velocity": 194.11,
+    "heading": 231.67,
+    "trace": [
+      [
+        35.905,
+        138.923
+      ]
+    ]
+  },
+  {
     "hex": "89605a",
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB5",
-    "lon": 13.9718,
-    "lat": 49.6864,
+    "lon": 8.4374,
+    "lat": 50.956,
     "alt": 11582.4,
-    "velocity": 234.95,
-    "heading": 290.78,
+    "velocity": 234.6,
+    "heading": 289.07,
     "trace": [
       [
         43.2644,
@@ -21,40 +38,10 @@
       [
         49.6864,
         13.9718
-      ]
-    ]
-  },
-  {
-    "hex": "a451cb",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT8741",
-    "lon": -79.0881,
-    "lat": 25.323,
-    "alt": 8420.1,
-    "velocity": 260.5,
-    "heading": 115.25,
-    "trace": [
+      ],
       [
-        25.323,
-        -79.0881
-      ]
-    ]
-  },
-  {
-    "hex": "406d26",
-    "name": "AirTanker",
-    "category": "Hired Gun",
-    "callsign": "TOW2230",
-    "lon": -17.9999,
-    "lat": 14.4677,
-    "alt": 10972.8,
-    "velocity": 241.27,
-    "heading": 180,
-    "trace": [
-      [
-        14.4677,
-        -17.9999
+        50.956,
+        8.4374
       ]
     ]
   },
@@ -63,11 +50,11 @@
     "name": "Gov of PRC",
     "category": "Dictator Alert",
     "callsign": "CCA863",
-    "lon": 26.6788,
-    "lat": 38.3311,
-    "alt": 11582.4,
-    "velocity": 220.47,
-    "heading": 272.94,
+    "lon": 24.0287,
+    "lat": 38.037,
+    "alt": 830.58,
+    "velocity": 71.3,
+    "heading": 216.79,
     "trace": [
       [
         39.9429,
@@ -80,35 +67,27 @@
       [
         38.3311,
         26.6788
+      ],
+      [
+        38.037,
+        24.0287
       ]
     ]
   },
   {
-    "hex": "a2f016",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA6183",
-    "lon": -80.6729,
-    "lat": 25.9947,
-    "alt": 944.88,
-    "velocity": 148.17,
-    "heading": 89.2,
+    "hex": "06a00f",
+    "name": "Gov of Qatar",
+    "category": "Dictator Alert",
+    "callsign": "",
+    "lon": 51.5723,
+    "lat": 25.2644,
+    "alt": null,
+    "velocity": 0,
+    "heading": 247.5,
     "trace": [
       [
-        27.7105,
-        -96.0094
-      ],
-      [
-        26.9988,
-        -95.1684
-      ],
-      [
-        27.2801,
-        -85.4715
-      ],
-      [
-        25.9947,
-        -80.6729
+        25.2644,
+        51.5723
       ]
     ]
   },
@@ -117,15 +96,19 @@
     "name": "C2D LLC",
     "category": "Hired Gun",
     "callsign": "GRB809",
-    "lon": -79.5465,
-    "lat": 27.3855,
-    "alt": 11871.96,
-    "velocity": 242.75,
-    "heading": 157.84,
+    "lon": -78.1047,
+    "lat": 23.6689,
+    "alt": 11864.34,
+    "velocity": 254.93,
+    "heading": 159.44,
     "trace": [
       [
         27.3855,
         -79.5465
+      ],
+      [
+        23.6689,
+        -78.1047
       ]
     ]
   }
