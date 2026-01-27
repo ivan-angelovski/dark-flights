@@ -4,11 +4,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB5",
-    "lon": 16.0522,
-    "lat": 49.2785,
+    "lon": 20.4302,
+    "lat": 47.2266,
     "alt": 11277.6,
-    "velocity": 259.31,
-    "heading": 125.96,
+    "velocity": 241.5,
+    "heading": 126.16,
     "trace": [
       [
         52.0099,
@@ -25,6 +25,10 @@
       [
         49.2785,
         16.0522
+      ],
+      [
+        47.2266,
+        20.4302
       ]
     ]
   },
@@ -33,11 +37,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA1630",
-    "lon": -116.8082,
-    "lat": 36.8562,
-    "alt": 11590.02,
-    "velocity": 195.63,
-    "heading": 318.09,
+    "lon": -120.0422,
+    "lat": 37.8429,
+    "alt": 11254.74,
+    "velocity": 205.27,
+    "heading": 279.08,
     "trace": [
       [
         26.3055,
@@ -86,6 +90,10 @@
       [
         36.8562,
         -116.8082
+      ],
+      [
+        37.8429,
+        -120.0422
       ]
     ]
   },
@@ -94,11 +102,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "CMB566",
-    "lon": 18.6483,
-    "lat": 48.4001,
-    "alt": 10370.82,
-    "velocity": 229.86,
-    "heading": 307.18,
+    "lon": 14.7757,
+    "lat": 50.3759,
+    "alt": 10363.2,
+    "velocity": 214.74,
+    "heading": 307.31,
     "trace": [
       [
         43.6127,
@@ -115,6 +123,27 @@
       [
         48.4001,
         18.6483
+      ],
+      [
+        50.3759,
+        14.7757
+      ]
+    ]
+  },
+  {
+    "hex": "89624b",
+    "name": "Gov of Fujairah",
+    "category": "Dictator Alert",
+    "callsign": "A6HMS",
+    "lon": 32.3247,
+    "lat": 29.4731,
+    "alt": 10965.18,
+    "velocity": 193.88,
+    "heading": 307.99,
+    "trace": [
+      [
+        29.4731,
+        32.3247
       ]
     ]
   },
@@ -123,11 +152,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3982",
-    "lon": -84.0454,
-    "lat": 35.4651,
-    "alt": 11582.4,
-    "velocity": 298.92,
-    "heading": 56.23,
+    "lon": -79.634,
+    "lat": 37.7427,
+    "alt": 11521.44,
+    "velocity": 289.38,
+    "heading": 57.04,
     "trace": [
       [
         27.3651,
@@ -148,31 +177,10 @@
       [
         35.4651,
         -84.0454
-      ]
-    ]
-  },
-  {
-    "hex": "706055",
-    "name": "Gov of Kuwait",
-    "category": "Dictator Alert",
-    "callsign": "KUG8064",
-    "lon": 51.0831,
-    "lat": 26.4789,
-    "alt": 2659.38,
-    "velocity": 146.31,
-    "heading": 219.01,
-    "trace": [
-      [
-        26.7356,
-        50.4512
       ],
       [
-        27.187,
-        49.9979
-      ],
-      [
-        26.4789,
-        51.0831
+        37.7427,
+        -79.634
       ]
     ]
   },
@@ -181,11 +189,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "RRR2302",
-    "lon": 3.7218,
-    "lat": 50.9351,
+    "lon": 9.3407,
+    "lat": 50.1778,
     "alt": 11887.2,
-    "velocity": 251.33,
-    "heading": 101.93,
+    "velocity": 259.31,
+    "heading": 102.02,
     "trace": [
       [
         51.7551,
@@ -194,6 +202,10 @@
       [
         50.9351,
         3.7218
+      ],
+      [
+        50.1778,
+        9.3407
       ]
     ]
   },
@@ -202,15 +214,36 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR658",
-    "lon": -167.9662,
-    "lat": 59.4231,
+    "lon": -160.3396,
+    "lat": 60.3987,
     "alt": 10058.4,
-    "velocity": 266.7,
-    "heading": 70.27,
+    "velocity": 276.59,
+    "heading": 85.52,
     "trace": [
       [
         59.4231,
         -167.9662
+      ],
+      [
+        60.3987,
+        -160.3396
+      ]
+    ]
+  },
+  {
+    "hex": "a9c52e",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR449",
+    "lon": 127.2697,
+    "lat": 26.2434,
+    "alt": 12192,
+    "velocity": 218.23,
+    "heading": 193.77,
+    "trace": [
+      [
+        26.2434,
+        127.2697
       ]
     ]
   }
