@@ -4,11 +4,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8834",
-    "lon": -106.5455,
-    "lat": 32.0831,
+    "lon": -102.6987,
+    "lat": 31.4742,
     "alt": 12496.8,
-    "velocity": 263.48,
-    "heading": 119.22,
+    "velocity": 284,
+    "heading": 99.8,
     "trace": [
       [
         38.1183,
@@ -29,6 +29,10 @@
       [
         32.0831,
         -106.5455
+      ],
+      [
+        31.4742,
+        -102.6987
       ]
     ]
   },
@@ -37,85 +41,19 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "CRIMSON2",
-    "lon": -2.6738,
-    "lat": 51.1519,
-    "alt": 1226.82,
-    "velocity": 120.96,
-    "heading": 5.61,
+    "lon": -2.6964,
+    "lat": 51.0957,
+    "alt": 1234.44,
+    "velocity": 120.22,
+    "heading": 41.88,
     "trace": [
       [
         51.1519,
         -2.6738
-      ]
-    ]
-  },
-  {
-    "hex": "4009d1",
-    "name": "Draken Europe",
-    "category": "Hired Gun",
-    "callsign": "CRIMSON1",
-    "lon": -1.8307,
-    "lat": 50.7839,
-    "alt": null,
-    "velocity": 0,
-    "heading": 81.56,
-    "trace": [
-      [
-        50.7839,
-        -1.8307
-      ]
-    ]
-  },
-  {
-    "hex": "a1ac1a",
-    "name": "Omni Air International",
-    "category": "Hired Gun",
-    "callsign": "CMB566",
-    "lon": -7.0354,
-    "lat": 57.9624,
-    "alt": 10965.18,
-    "velocity": 243.47,
-    "heading": 304.93,
-    "trace": [
-      [
-        43.6127,
-        26.8013
       ],
       [
-        44.9791,
-        24.709
-      ],
-      [
-        45.6015,
-        23.7007
-      ],
-      [
-        48.4001,
-        18.6483
-      ],
-      [
-        50.3759,
-        14.7757
-      ],
-      [
-        51.9032,
-        8.652
-      ],
-      [
-        52.577,
-        5.2744
-      ],
-      [
-        54.4551,
-        1.1658
-      ],
-      [
-        56.5718,
-        -3.564
-      ],
-      [
-        57.9624,
-        -7.0354
+        51.0957,
+        -2.6964
       ]
     ]
   },
@@ -124,15 +62,19 @@
     "name": "Gov of Fujairah",
     "category": "Dictator Alert",
     "callsign": "A6HMS",
-    "lon": 16.5594,
-    "lat": 35.3988,
-    "alt": 10972.8,
-    "velocity": 191.63,
-    "heading": 276.63,
+    "lon": 14.4956,
+    "lat": 35.843,
+    "alt": null,
+    "velocity": 42.18,
+    "heading": 315,
     "trace": [
       [
         35.3988,
         16.5594
+      ],
+      [
+        35.843,
+        14.4956
       ]
     ]
   },
@@ -141,11 +83,11 @@
     "name": "Oman Royal Flight",
     "category": "Dictator Alert",
     "callsign": "ORF3",
-    "lon": 54.9029,
-    "lat": 24.5804,
-    "alt": 11247.12,
-    "velocity": 205.77,
-    "heading": 302.86,
+    "lon": 52.5468,
+    "lat": 25.7418,
+    "alt": 9075.42,
+    "velocity": 218.4,
+    "heading": 297.95,
     "trace": [
       [
         23.5942,
@@ -154,102 +96,10 @@
       [
         24.5804,
         54.9029
-      ]
-    ]
-  },
-  {
-    "hex": "14fa3a",
-    "name": "Russia Special Flight Detachment",
-    "category": "Dictator Alert",
-    "callsign": "RSD603",
-    "lon": 37.2925,
-    "lat": 55.6349,
-    "alt": 388.62,
-    "velocity": 65.26,
-    "heading": 202.72,
-    "trace": [
-      [
-        58.6198,
-        33.6684
       ],
       [
-        55.6631,
-        36.9808
-      ],
-      [
-        55.6349,
-        37.2925
-      ]
-    ]
-  },
-  {
-    "hex": "a451cb",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT821",
-    "lon": -64.7844,
-    "lat": 17.3538,
-    "alt": 10683.24,
-    "velocity": 254.19,
-    "heading": 121.34,
-    "trace": [
-      [
-        21.053,
-        -71.0013
-      ],
-      [
-        18.7645,
-        -67.2542
-      ],
-      [
-        17.3538,
-        -64.7844
-      ]
-    ]
-  },
-  {
-    "hex": "894081",
-    "name": "Bahrain Defence Force",
-    "category": "Dictator Alert",
-    "callsign": "BAH11",
-    "lon": 50.8589,
-    "lat": 26.2566,
-    "alt": 876.3,
-    "velocity": 94.03,
-    "heading": 162.16,
-    "trace": [
-      [
-        26.2405,
-        50.7143
-      ],
-      [
-        26.2566,
-        50.8589
-      ]
-    ]
-  },
-  {
-    "hex": "89407f",
-    "name": "Bahrain Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "BAH6",
-    "lon": 55.4261,
-    "lat": 25.2186,
-    "alt": 167.64,
-    "velocity": 64.67,
-    "heading": 301.67,
-    "trace": [
-      [
-        26.1315,
-        50.7391
-      ],
-      [
-        25.7798,
-        54.1265
-      ],
-      [
-        25.2186,
-        55.4261
+        25.7418,
+        52.5468
       ]
     ]
   },
@@ -258,11 +108,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "RRR2302",
-    "lon": 29.5152,
-    "lat": 40.1242,
-    "alt": 12496.8,
-    "velocity": 244.41,
-    "heading": 146.24,
+    "lon": 30.5107,
+    "lat": 37.396,
+    "alt": 11986.26,
+    "velocity": 244.98,
+    "heading": 169.35,
     "trace": [
       [
         51.7551,
@@ -295,6 +145,10 @@
       [
         40.1242,
         29.5152
+      ],
+      [
+        37.396,
+        30.5107
       ]
     ]
   },
@@ -328,48 +182,15 @@
     ]
   },
   {
-    "hex": "48d980",
-    "name": "Polish Government",
-    "category": "Dictator Alert",
-    "callsign": "PLF110",
-    "lon": 18.8469,
-    "lat": 54.2996,
-    "alt": 1005.84,
-    "velocity": 87.14,
-    "heading": 292.93,
-    "trace": [
-      [
-        51.0942,
-        21.9617
-      ],
-      [
-        50.1095,
-        22.054
-      ],
-      [
-        50.1107,
-        21.9476
-      ],
-      [
-        52.9829,
-        19.5385
-      ],
-      [
-        54.2996,
-        18.8469
-      ]
-    ]
-  },
-  {
     "hex": "06a05a",
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7AAH",
-    "lon": 25.611,
-    "lat": 38.5476,
-    "alt": 11582.4,
-    "velocity": 238.78,
-    "heading": 321.65,
+    "lon": 23.3112,
+    "lat": 40.7464,
+    "alt": 12192,
+    "velocity": 234.56,
+    "heading": 320.34,
     "trace": [
       [
         29.3981,
@@ -390,6 +211,27 @@
       [
         38.5476,
         25.611
+      ],
+      [
+        40.7464,
+        23.3112
+      ]
+    ]
+  },
+  {
+    "hex": "0a400a",
+    "name": "Gov of Algeria",
+    "category": "Dictator Alert",
+    "callsign": "7TVPM",
+    "lon": 1.8539,
+    "lat": 35.8667,
+    "alt": 10820.4,
+    "velocity": 204.14,
+    "heading": 208.11,
+    "trace": [
+      [
+        35.8667,
+        1.8539
       ]
     ]
   },
@@ -398,11 +240,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA151",
-    "lon": -82.8398,
-    "lat": 26.6319,
-    "alt": 11582.4,
-    "velocity": 187.04,
-    "heading": 300.59,
+    "lon": -85.0392,
+    "lat": 27.5923,
+    "alt": 11574.78,
+    "velocity": 180.87,
+    "heading": 290.65,
     "trace": [
       [
         25.7333,
@@ -411,6 +253,10 @@
       [
         26.6319,
         -82.8398
+      ],
+      [
+        27.5923,
+        -85.0392
       ]
     ]
   }
