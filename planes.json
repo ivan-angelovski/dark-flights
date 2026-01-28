@@ -1,14 +1,31 @@
 [
   {
+    "hex": "ad3c48",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR4284",
+    "lon": -73.919,
+    "lat": 5.2905,
+    "alt": 6225.54,
+    "velocity": 230.45,
+    "heading": 13.82,
+    "trace": [
+      [
+        5.2905,
+        -73.919
+      ]
+    ]
+  },
+  {
     "hex": "4009c8",
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "SPCTER01",
-    "lon": 49.6087,
-    "lat": 25.1584,
+    "lon": 49.9639,
+    "lat": 24.4601,
     "alt": 6057.9,
-    "velocity": 178.55,
-    "heading": 111.46,
+    "velocity": 141.03,
+    "heading": 138.4,
     "trace": [
       [
         25.8521,
@@ -29,23 +46,44 @@
       [
         25.1584,
         49.6087
+      ],
+      [
+        24.4601,
+        49.9639
       ]
     ]
   },
   {
-    "hex": "a95c2f",
-    "name": "National Airlines",
+    "hex": "4009d4",
+    "name": "Draken Europe",
     "category": "Hired Gun",
-    "callsign": "NCR849",
-    "lon": -74.4961,
-    "lat": 3.1997,
-    "alt": 12496.8,
-    "velocity": 242.02,
-    "heading": 142.25,
+    "callsign": "FRA95",
+    "lon": -1.8472,
+    "lat": 53.506,
+    "alt": 6096,
+    "velocity": 216.79,
+    "heading": 215.05,
     "trace": [
       [
-        3.1997,
-        -74.4961
+        53.506,
+        -1.8472
+      ]
+    ]
+  },
+  {
+    "hex": "4009d1",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "AMBER1",
+    "lon": -3.8639,
+    "lat": 50.4964,
+    "alt": 5486.4,
+    "velocity": 184.05,
+    "heading": 252.93,
+    "trace": [
+      [
+        50.4964,
+        -3.8639
       ]
     ]
   },
@@ -54,11 +92,11 @@
     "name": "Sharjah Rulers Flight",
     "category": "Dictator Alert",
     "callsign": "SHJ01",
-    "lon": 26.7804,
-    "lat": 40.9145,
-    "alt": 10972.8,
-    "velocity": 211.09,
-    "heading": 265.39,
+    "lon": 22.7603,
+    "lat": 40.6457,
+    "alt": 10980.42,
+    "velocity": 211.73,
+    "heading": 263.58,
     "trace": [
       [
         40.2568,
@@ -67,23 +105,10 @@
       [
         40.9145,
         26.7804
-      ]
-    ]
-  },
-  {
-    "hex": "a451cb",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT8216",
-    "lon": -79.8827,
-    "lat": 25.6323,
-    "alt": 2042.16,
-    "velocity": 132.55,
-    "heading": 326.56,
-    "trace": [
+      ],
       [
-        25.6323,
-        -79.8827
+        40.6457,
+        22.7603
       ]
     ]
   },
@@ -91,12 +116,12 @@
     "hex": "894081",
     "name": "Bahrain Defence Force",
     "category": "Dictator Alert",
-    "callsign": "BAH11",
-    "lon": 50.6651,
-    "lat": 26.192,
-    "alt": 1470.66,
-    "velocity": 126.98,
-    "heading": 353.02,
+    "callsign": "",
+    "lon": null,
+    "lat": null,
+    "alt": 1165.86,
+    "velocity": 125.43,
+    "heading": 349.84,
     "trace": [
       [
         26.192,
@@ -109,15 +134,36 @@
     "name": "Bahrain Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "BAH5",
-    "lon": 53.8406,
-    "lat": 25.5096,
-    "alt": 10187.94,
-    "velocity": 210.13,
-    "heading": 284.75,
+    "lon": 51.1629,
+    "lat": 26.494,
+    "alt": 13106.4,
+    "velocity": 180.12,
+    "heading": 289.52,
     "trace": [
       [
         25.5096,
         53.8406
+      ],
+      [
+        26.494,
+        51.1629
+      ]
+    ]
+  },
+  {
+    "hex": "400e15",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "FRA93",
+    "lon": -2.6425,
+    "lat": 52.8164,
+    "alt": 6096,
+    "velocity": 206.62,
+    "heading": 207.27,
+    "trace": [
+      [
+        52.8164,
+        -2.6425
       ]
     ]
   },
@@ -126,11 +172,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR658",
-    "lon": -149.9913,
-    "lat": 61.1791,
-    "alt": null,
-    "velocity": 0,
-    "heading": 250.31,
+    "lon": -150.0465,
+    "lat": 61.2262,
+    "alt": 640.08,
+    "velocity": 96.9,
+    "heading": 318.01,
     "trace": [
       [
         61.1783,
@@ -147,6 +193,10 @@
       [
         61.1791,
         -149.9913
+      ],
+      [
+        61.2262,
+        -150.0465
       ]
     ]
   },
@@ -155,36 +205,19 @@
     "name": "Polish Government",
     "category": "Dictator Alert",
     "callsign": "PLF110",
-    "lon": 19.7985,
-    "lat": 50.0771,
-    "alt": null,
-    "velocity": 7.2,
-    "heading": 75.94,
+    "lon": 17.7324,
+    "lat": 51.8153,
+    "alt": 4602.48,
+    "velocity": 152.25,
+    "heading": 330.66,
     "trace": [
       [
         50.0771,
         19.7985
-      ]
-    ]
-  },
-  {
-    "hex": "406e9f",
-    "name": "AirTanker",
-    "category": "Hired Gun",
-    "callsign": "AWC886P",
-    "lon": -3.3848,
-    "lat": 56.3064,
-    "alt": 5356.86,
-    "velocity": 198.87,
-    "heading": 356.89,
-    "trace": [
-      [
-        52.7447,
-        -3.0768
       ],
       [
-        56.3064,
-        -3.3848
+        51.8153,
+        17.7324
       ]
     ]
   },
@@ -193,11 +226,11 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7AAH",
-    "lon": 18.917,
-    "lat": 44.5788,
+    "lon": 23.2335,
+    "lat": 42.6195,
     "alt": 12496.8,
-    "velocity": 253.9,
-    "heading": 118.43,
+    "velocity": 259.9,
+    "heading": 137.09,
     "trace": [
       [
         48.9496,
@@ -218,6 +251,44 @@
       [
         44.5788,
         18.917
+      ],
+      [
+        42.6195,
+        23.2335
+      ]
+    ]
+  },
+  {
+    "hex": "0a4005",
+    "name": "Gov of Algeria",
+    "category": "Dictator Alert",
+    "callsign": "7TVPR",
+    "lon": 24.7247,
+    "lat": 34.1273,
+    "alt": 13106.4,
+    "velocity": 202.75,
+    "heading": 289.72,
+    "trace": [
+      [
+        34.1273,
+        24.7247
+      ]
+    ]
+  },
+  {
+    "hex": "406ad0",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "GFFMV",
+    "lon": -1.9674,
+    "lat": 51.1911,
+    "alt": 1432.56,
+    "velocity": 62.04,
+    "heading": 74.12,
+    "trace": [
+      [
+        51.1911,
+        -1.9674
       ]
     ]
   },
@@ -226,11 +297,11 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA933",
-    "lon": 24.9084,
-    "lat": 39.1532,
+    "lon": 23.0184,
+    "lat": 42.0676,
     "alt": 10363.2,
-    "velocity": 220.65,
-    "heading": 334.15,
+    "velocity": 232.6,
+    "heading": 333.6,
     "trace": [
       [
         35.9391,
@@ -239,6 +310,10 @@
       [
         39.1532,
         24.9084
+      ],
+      [
+        42.0676,
+        23.0184
       ]
     ]
   }
