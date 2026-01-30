@@ -1,18 +1,35 @@
 [
   {
-    "hex": "ad3c48",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "",
-    "lon": -78.7523,
-    "lat": 23.7719,
-    "alt": 10972.8,
-    "velocity": 253.81,
-    "heading": 350.08,
+    "hex": "7101e9",
+    "name": "Saudi Ministry of Finance",
+    "category": "Dictator Alert",
+    "callsign": "SVA7245",
+    "lon": 20.2575,
+    "lat": 40.466,
+    "alt": 12199.62,
+    "velocity": 213.02,
+    "heading": 320.39,
     "trace": [
       [
-        23.7719,
-        -78.7523
+        40.466,
+        20.2575
+      ]
+    ]
+  },
+  {
+    "hex": "14fc0b",
+    "name": "Russian FSB",
+    "category": "Dictator Alert",
+    "callsign": "RSD977",
+    "lon": 37.239,
+    "lat": 55.521,
+    "alt": 4533.9,
+    "velocity": 161.71,
+    "heading": 319.77,
+    "trace": [
+      [
+        55.521,
+        37.239
       ]
     ]
   },
@@ -21,15 +38,36 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8835",
-    "lon": -80.8715,
-    "lat": 28.0015,
+    "lon": -78.1555,
+    "lat": 34.9057,
     "alt": 12496.8,
-    "velocity": 218.2,
-    "heading": 342.72,
+    "velocity": 268.75,
+    "heading": 36.67,
     "trace": [
       [
         28.0015,
         -80.8715
+      ],
+      [
+        34.9057,
+        -78.1555
+      ]
+    ]
+  },
+  {
+    "hex": "896272",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB4",
+    "lon": 49.8762,
+    "lat": 27.6148,
+    "alt": 11582.4,
+    "velocity": 211.44,
+    "heading": 311.25,
+    "trace": [
+      [
+        27.6148,
+        49.8762
       ]
     ]
   },
@@ -38,11 +76,11 @@
     "name": "Gov of Morocco",
     "category": "Dictator Alert",
     "callsign": "MRS0903",
-    "lon": 20.4186,
-    "lat": 38.0583,
-    "alt": 10668,
-    "velocity": 282.91,
-    "heading": 112.79,
+    "lon": 30.6847,
+    "lat": 35.0941,
+    "alt": 11277.6,
+    "velocity": 277.76,
+    "heading": 101,
     "trace": [
       [
         39.0101,
@@ -55,6 +93,10 @@
       [
         38.0583,
         20.4186
+      ],
+      [
+        35.0941,
+        30.6847
       ]
     ]
   },
@@ -63,11 +105,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3982",
-    "lon": -85.8837,
-    "lat": 38.5514,
-    "alt": 11590.02,
-    "velocity": 202.21,
-    "heading": 235.26,
+    "lon": -92.2812,
+    "lat": 34.6259,
+    "alt": 11582.4,
+    "velocity": 210.63,
+    "heading": 209.88,
     "trace": [
       [
         43.2647,
@@ -80,23 +122,27 @@
       [
         38.5514,
         -85.8837
+      ],
+      [
+        34.6259,
+        -92.2812
       ]
     ]
   },
   {
-    "hex": "78048c",
-    "name": "Gov of PRC",
-    "category": "Dictator Alert",
-    "callsign": "CCA1383",
-    "lon": 113.8352,
-    "lat": 22.5946,
-    "alt": 167.64,
-    "velocity": 69.25,
-    "heading": 333.05,
+    "hex": "a3defb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT8541",
+    "lon": -78.5169,
+    "lat": 25.1589,
+    "alt": 10066.02,
+    "velocity": 277.72,
+    "heading": 112.43,
     "trace": [
       [
-        22.5946,
-        113.8352
+        25.1589,
+        -78.5169
       ]
     ]
   },
@@ -105,11 +151,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA4611",
-    "lon": -93.3097,
-    "lat": 30.0968,
-    "alt": 11590.02,
-    "velocity": 164.95,
-    "heading": 255.92,
+    "lon": -97.6619,
+    "lat": 30.1889,
+    "alt": null,
+    "velocity": 0,
+    "heading": 180,
     "trace": [
       [
         29.7006,
@@ -122,23 +168,27 @@
       [
         30.0968,
         -93.3097
+      ],
+      [
+        30.1889,
+        -97.6619
       ]
     ]
   },
   {
-    "hex": "a9c52e",
-    "name": "National Airlines",
+    "hex": "a4d4cc",
+    "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "NCR4293",
-    "lon": -80.5109,
-    "lat": 27.9636,
-    "alt": 8420.1,
-    "velocity": 244.19,
-    "heading": 161.83,
+    "callsign": "GXA2965",
+    "lon": -79.3997,
+    "lat": 24.0467,
+    "alt": 8252.46,
+    "velocity": 250.67,
+    "heading": 158.07,
     "trace": [
       [
-        27.9636,
-        -80.5109
+        24.0467,
+        -79.3997
       ]
     ]
   }
