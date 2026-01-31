@@ -1,18 +1,56 @@
 [
   {
+    "hex": "aa3086",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR811",
+    "lon": -96.8995,
+    "lat": 17.9667,
+    "alt": 10972.8,
+    "velocity": 232.74,
+    "heading": 310.7,
+    "trace": [
+      [
+        17.9667,
+        -96.8995
+      ]
+    ]
+  },
+  {
     "hex": "89404d",
     "name": "Bahrain Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "BAH3",
-    "lon": 51.603,
-    "lat": 26.4773,
-    "alt": 7620,
-    "velocity": 248.17,
-    "heading": 105.88,
+    "lon": 54.1468,
+    "lat": 25.7138,
+    "alt": 6057.9,
+    "velocity": 227.27,
+    "heading": 108.07,
     "trace": [
       [
         26.4773,
         51.603
+      ],
+      [
+        25.7138,
+        54.1468
+      ]
+    ]
+  },
+  {
+    "hex": "7324e4",
+    "name": "Gov of Iran",
+    "category": "Dictator Alert",
+    "callsign": "IRAN07",
+    "lon": 48.5432,
+    "lat": 45.4666,
+    "alt": 11582.4,
+    "velocity": 230.16,
+    "heading": 169.57,
+    "trace": [
+      [
+        45.4666,
+        48.5432
       ]
     ]
   },
@@ -21,11 +59,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA414",
-    "lon": -73.5494,
-    "lat": 22.5337,
-    "alt": 10660.38,
-    "velocity": 267.61,
-    "heading": 117.6,
+    "lon": -71.4545,
+    "lat": 21.4969,
+    "alt": 10668,
+    "velocity": 259.4,
+    "heading": 118.29,
     "trace": [
       [
         24.9149,
@@ -34,23 +72,10 @@
       [
         22.5337,
         -73.5494
-      ]
-    ]
-  },
-  {
-    "hex": "78048c",
-    "name": "Gov of PRC",
-    "category": "Dictator Alert",
-    "callsign": "CCA1357",
-    "lon": 115.2301,
-    "lat": 39.4454,
-    "alt": 9502.14,
-    "velocity": 229.05,
-    "heading": 222.36,
-    "trace": [
+      ],
       [
-        39.4454,
-        115.2301
+        21.4969,
+        -71.4545
       ]
     ]
   },
@@ -59,11 +84,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3990",
-    "lon": -100.5676,
-    "lat": 32.2046,
-    "alt": 8839.2,
-    "velocity": 250.58,
-    "heading": 82.57,
+    "lon": -98.0016,
+    "lat": 32.4467,
+    "alt": 2872.74,
+    "velocity": 139.54,
+    "heading": 84.5,
     "trace": [
       [
         31.8704,
@@ -72,6 +97,10 @@
       [
         32.2046,
         -100.5676
+      ],
+      [
+        32.4467,
+        -98.0016
       ]
     ]
   },
@@ -80,15 +109,19 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7MBK",
-    "lon": 51.5047,
-    "lat": 25.3495,
-    "alt": 3741.42,
-    "velocity": 175.27,
-    "heading": 8.44,
+    "lon": 49.8919,
+    "lat": 26.4574,
+    "alt": 8945.88,
+    "velocity": 213.61,
+    "heading": 291.62,
     "trace": [
       [
         25.3495,
         51.5047
+      ],
+      [
+        26.4574,
+        49.8919
       ]
     ]
   }
