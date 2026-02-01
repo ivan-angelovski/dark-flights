@@ -4,11 +4,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "CMB568",
-    "lon": 18.3246,
-    "lat": 48.0547,
+    "lon": 19.68,
+    "lat": 47.2078,
     "alt": 10675.62,
-    "velocity": 239.37,
-    "heading": 131.78,
+    "velocity": 239.8,
+    "heading": 133.52,
     "trace": [
       [
         49.9597,
@@ -25,6 +25,10 @@
       [
         48.0547,
         18.3246
+      ],
+      [
+        47.2078,
+        19.68
       ]
     ]
   },
@@ -33,11 +37,11 @@
     "name": "Gov of Kuwait",
     "category": "Dictator Alert",
     "callsign": "KUG099",
-    "lon": 32.2215,
-    "lat": 29.705,
+    "lon": 31.1822,
+    "lat": 30.2847,
     "alt": 11574.78,
-    "velocity": 192.77,
-    "heading": 284.37,
+    "velocity": 223.47,
+    "heading": 316.87,
     "trace": [
       [
         29.2351,
@@ -46,27 +50,27 @@
       [
         29.705,
         32.2215
+      ],
+      [
+        30.2847,
+        31.1822
       ]
     ]
   },
   {
-    "hex": "a7a2be",
-    "name": "ISR Platforms",
-    "category": "Hired Gun",
-    "callsign": "",
-    "lon": 126.9977,
-    "lat": 36.5436,
-    "alt": 3307.08,
-    "velocity": 161.09,
-    "heading": 358.35,
+    "hex": "89404d",
+    "name": "Bahrain Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "BAH3",
+    "lon": 18.0803,
+    "lat": 40.2287,
+    "alt": 10363.2,
+    "velocity": 242.4,
+    "heading": 319.82,
     "trace": [
       [
-        34.8415,
-        126.8344
-      ],
-      [
-        36.5436,
-        126.9977
+        40.2287,
+        18.0803
       ]
     ]
   },
@@ -75,11 +79,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA1634",
-    "lon": -114.3771,
-    "lat": 33.5217,
+    "lon": -112.9191,
+    "lat": 33.1731,
     "alt": 11887.2,
-    "velocity": 241.34,
-    "heading": 103.06,
+    "velocity": 243.21,
+    "heading": 108.63,
     "trace": [
       [
         37.0198,
@@ -96,7 +100,23 @@
       [
         33.5217,
         -114.3771
+      ],
+      [
+        33.1731,
+        -112.9191
       ]
     ]
+  },
+  {
+    "hex": "06a05a",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "",
+    "lon": null,
+    "lat": null,
+    "alt": 11887.2,
+    "velocity": 253.64,
+    "heading": 111.41,
+    "trace": []
   }
 ]
