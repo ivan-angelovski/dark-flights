@@ -4,11 +4,11 @@
     "name": "Eastern Air Express",
     "category": "Hired Gun",
     "callsign": "TYSON46",
-    "lon": -88.3379,
-    "lat": 31.0813,
-    "alt": 9768.84,
-    "velocity": 187.42,
-    "heading": 274.88,
+    "lon": -89.8077,
+    "lat": 31.1832,
+    "alt": 9677.4,
+    "velocity": 188.73,
+    "heading": 273.91,
     "trace": [
       [
         30.4834,
@@ -21,6 +21,27 @@
       [
         31.0813,
         -88.3379
+      ],
+      [
+        31.1832,
+        -89.8077
+      ]
+    ]
+  },
+  {
+    "hex": "a7a2be",
+    "name": "ISR Platforms",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": 127.1426,
+    "lat": 37.4418,
+    "alt": 11582.4,
+    "velocity": 200.17,
+    "heading": 242.78,
+    "trace": [
+      [
+        37.4418,
+        127.1426
       ]
     ]
   },
@@ -28,118 +49,37 @@
     "hex": "406d27",
     "name": "AirTanker",
     "category": "Hired Gun",
-    "callsign": "",
-    "lon": null,
-    "lat": null,
-    "alt": null,
-    "velocity": 269.77,
-    "heading": 13.45,
-    "trace": []
+    "callsign": "TOW2233",
+    "lon": -10.439,
+    "lat": 38.2483,
+    "alt": 12192,
+    "velocity": 274.87,
+    "heading": 12.32,
+    "trace": [
+      [
+        38.2483,
+        -10.439
+      ]
+    ]
   },
   {
     "hex": "acfc26",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR523",
-    "lon": -143.1109,
-    "lat": 61.0694,
+    "lon": -146.5233,
+    "lat": 61.2867,
     "alt": 11582.4,
-    "velocity": 250.01,
-    "heading": 279,
+    "velocity": 247.25,
+    "heading": 275.97,
     "trace": [
       [
         61.0694,
         -143.1109
-      ]
-    ]
-  },
-  {
-    "hex": "a20f1b",
-    "name": "Nuclear Security Administration",
-    "category": "Nuclear",
-    "callsign": "ENRGY14",
-    "lon": -122.0553,
-    "lat": 37.417,
-    "alt": null,
-    "velocity": 0,
-    "heading": 250.31,
-    "trace": [
-      [
-        37.0217,
-        -121.6516
       ],
       [
-        37.417,
-        -122.0553
-      ]
-    ]
-  },
-  {
-    "hex": "06a00f",
-    "name": "Gov of Qatar",
-    "category": "Dictator Alert",
-    "callsign": "QAF7",
-    "lon": 38.4916,
-    "lat": 32.1162,
-    "alt": 10668,
-    "velocity": 240.65,
-    "heading": 153.6,
-    "trace": [
-      [
-        51.2284,
-        0.7204
-      ],
-      [
-        50.5281,
-        6.808
-      ],
-      [
-        49.6298,
-        10.4168
-      ],
-      [
-        49.1987,
-        11.8722
-      ],
-      [
-        46.845,
-        18.7056
-      ],
-      [
-        45.2454,
-        21.8325
-      ],
-      [
-        42.8915,
-        25.2858
-      ],
-      [
-        41.5923,
-        26.8318
-      ],
-      [
-        40.8453,
-        27.5243
-      ],
-      [
-        39.1087,
-        29.5756
-      ],
-      [
-        37.1709,
-        32.8592
-      ],
-      [
-        35.8493,
-        34.0754
-      ],
-      [
-        34.7519,
-        35.2703
-      ],
-      [
-        32.1162,
-        38.4916
+        61.2867,
+        -146.5233
       ]
     ]
   },
@@ -148,15 +88,19 @@
     "name": "Gov of Algeria",
     "category": "Dictator Alert",
     "callsign": "7TVPM",
-    "lon": 0.5036,
-    "lat": 34.1473,
-    "alt": 11056.62,
-    "velocity": 215.94,
-    "heading": 351.37,
+    "lon": 0.2876,
+    "lat": 35.1348,
+    "alt": 5631.18,
+    "velocity": 171.18,
+    "heading": 354.14,
     "trace": [
       [
         34.1473,
         0.5036
+      ],
+      [
+        35.1348,
+        0.2876
       ]
     ]
   },
@@ -165,15 +109,19 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6183",
-    "lon": -97.7244,
-    "lat": 26.2785,
-    "alt": 1927.86,
-    "velocity": 148.36,
-    "heading": 7.37,
+    "lon": -96.2253,
+    "lat": 26.7837,
+    "alt": 8168.64,
+    "velocity": 264.76,
+    "heading": 75.83,
     "trace": [
       [
         26.2785,
         -97.7244
+      ],
+      [
+        26.7837,
+        -96.2253
       ]
     ]
   }
