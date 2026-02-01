@@ -1,31 +1,14 @@
 [
   {
-    "hex": "8960b4",
-    "name": "Dubai Air Wing",
-    "category": "Dictator Alert",
-    "callsign": "DUB1",
-    "lon": 33.6424,
-    "lat": 44.4943,
-    "alt": 4686.3,
-    "velocity": 5.75,
-    "heading": 280.3,
-    "trace": [
-      [
-        44.4943,
-        33.6424
-      ]
-    ]
-  },
-  {
     "hex": "a8699a",
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "CMB568",
-    "lon": 10.6582,
-    "lat": 49.8846,
+    "lon": 15.7557,
+    "lat": 49.0434,
     "alt": 10668,
-    "velocity": 243.79,
-    "heading": 102.31,
+    "velocity": 240.82,
+    "heading": 106,
     "trace": [
       [
         49.9597,
@@ -34,68 +17,27 @@
       [
         49.8846,
         10.6582
+      ],
+      [
+        49.0434,
+        15.7557
       ]
     ]
   },
   {
-    "hex": "084002",
-    "name": "Gov of Chad",
+    "hex": "70604a",
+    "name": "Gov of Kuwait",
     "category": "Dictator Alert",
-    "callsign": "CHAD001",
-    "lon": 5.329,
-    "lat": 40.4851,
-    "alt": 11285.22,
-    "velocity": 256.65,
-    "heading": 165.96,
+    "callsign": "KUG099",
+    "lon": 33.9762,
+    "lat": 29.2351,
+    "alt": 11567.16,
+    "velocity": 186.43,
+    "heading": 288.33,
     "trace": [
       [
-        48.5919,
-        2.4284
-      ],
-      [
-        45.8617,
-        2.9435
-      ],
-      [
-        42.2553,
-        4.6655
-      ],
-      [
-        40.4851,
-        5.329
-      ]
-    ]
-  },
-  {
-    "hex": "70c0ba",
-    "name": "Oman Royal Flight",
-    "category": "Dictator Alert",
-    "callsign": "ORF6",
-    "lon": 29.1953,
-    "lat": 42.621,
-    "alt": 11269.98,
-    "velocity": 243.76,
-    "heading": 128.66,
-    "trace": [
-      [
-        47.7956,
-        16.4284
-      ],
-      [
-        46.9664,
-        19.4254
-      ],
-      [
-        45.6243,
-        23.0683
-      ],
-      [
-        43.6627,
-        27.3886
-      ],
-      [
-        42.621,
-        29.1953
+        29.2351,
+        33.9762
       ]
     ]
   },
@@ -104,15 +46,36 @@
     "name": "Bahrain Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "BAH3",
-    "lon": 24.5742,
-    "lat": 36.0857,
-    "alt": 9753.6,
-    "velocity": 236.49,
-    "heading": 316.06,
+    "lon": 21.294,
+    "lat": 38.2138,
+    "alt": 10363.2,
+    "velocity": 233.31,
+    "heading": 297.3,
     "trace": [
       [
         36.0857,
         24.5742
+      ],
+      [
+        38.2138,
+        21.294
+      ]
+    ]
+  },
+  {
+    "hex": "a7a2be",
+    "name": "ISR Platforms",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": 126.8344,
+    "lat": 34.8415,
+    "alt": 7620,
+    "velocity": 220.54,
+    "heading": 5.09,
+    "trace": [
+      [
+        34.8415,
+        126.8344
       ]
     ]
   },
@@ -121,11 +84,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA1634",
-    "lon": -119.9996,
-    "lat": 35.9657,
+    "lon": -116.6539,
+    "lat": 34.2258,
     "alt": 11887.2,
-    "velocity": 231.85,
-    "heading": 133.11,
+    "velocity": 237.91,
+    "heading": 109.85,
     "trace": [
       [
         37.0198,
@@ -134,27 +97,10 @@
       [
         35.9657,
         -119.9996
-      ]
-    ]
-  },
-  {
-    "hex": "06a05a",
-    "name": "Qatar Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "A7AAH",
-    "lon": 87.8594,
-    "lat": 18.2765,
-    "alt": 11887.2,
-    "velocity": 260.97,
-    "heading": 109.22,
-    "trace": [
-      [
-        18.9213,
-        85.9864
       ],
       [
-        18.2765,
-        87.8594
+        34.2258,
+        -116.6539
       ]
     ]
   }
