@@ -4,11 +4,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "CMB568",
-    "lon": 19.68,
-    "lat": 47.2078,
+    "lon": 20.5336,
+    "lat": 46.6477,
     "alt": 10675.62,
-    "velocity": 239.8,
-    "heading": 133.52,
+    "velocity": 239.03,
+    "heading": 134.04,
     "trace": [
       [
         49.9597,
@@ -29,6 +29,27 @@
       [
         47.2078,
         19.68
+      ],
+      [
+        46.6477,
+        20.5336
+      ]
+    ]
+  },
+  {
+    "hex": "aa3086",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR811",
+    "lon": 122.5914,
+    "lat": 25.5573,
+    "alt": 10972.8,
+    "velocity": 216.63,
+    "heading": 203.22,
+    "trace": [
+      [
+        25.5573,
+        122.5914
       ]
     ]
   },
@@ -37,11 +58,11 @@
     "name": "Gov of Kuwait",
     "category": "Dictator Alert",
     "callsign": "KUG099",
-    "lon": 31.1822,
-    "lat": 30.2847,
+    "lon": 30.5793,
+    "lat": 30.8399,
     "alt": 11574.78,
-    "velocity": 223.47,
-    "heading": 316.87,
+    "velocity": 224.55,
+    "heading": 316.76,
     "trace": [
       [
         29.2351,
@@ -54,6 +75,10 @@
       [
         30.2847,
         31.1822
+      ],
+      [
+        30.8399,
+        30.5793
       ]
     ]
   },
@@ -62,15 +87,19 @@
     "name": "Bahrain Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "BAH3",
-    "lon": 18.0803,
-    "lat": 40.2287,
+    "lon": 17.4233,
+    "lat": 40.8176,
     "alt": 10363.2,
-    "velocity": 242.4,
-    "heading": 319.82,
+    "velocity": 232.74,
+    "heading": 319.3,
     "trace": [
       [
         40.2287,
         18.0803
+      ],
+      [
+        40.8176,
+        17.4233
       ]
     ]
   },
@@ -79,11 +108,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA1634",
-    "lon": -112.9191,
-    "lat": 33.1731,
-    "alt": 11887.2,
-    "velocity": 243.21,
-    "heading": 108.63,
+    "lon": -111.9913,
+    "lat": 32.9135,
+    "alt": 11879.58,
+    "velocity": 242.23,
+    "heading": 108.32,
     "trace": [
       [
         37.0198,
@@ -104,6 +133,27 @@
       [
         33.1731,
         -112.9191
+      ],
+      [
+        32.9135,
+        -111.9913
+      ]
+    ]
+  },
+  {
+    "hex": "06a001",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "A7HHK",
+    "lon": 34.2254,
+    "lat": 29.6203,
+    "alt": 9753.6,
+    "velocity": 207.77,
+    "heading": 330.64,
+    "trace": [
+      [
+        29.6203,
+        34.2254
       ]
     ]
   },
@@ -111,12 +161,46 @@
     "hex": "06a05a",
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
-    "callsign": "",
+    "callsign": "A7AAH",
     "lon": null,
     "lat": null,
     "alt": 11887.2,
-    "velocity": 253.64,
-    "heading": 111.41,
+    "velocity": 252.58,
+    "heading": 111.76,
     "trace": []
+  },
+  {
+    "hex": "710100",
+    "name": "Saudi Ministry of Finance",
+    "category": "Dictator Alert",
+    "callsign": "SVA918",
+    "lon": 5.6119,
+    "lat": 50.4485,
+    "alt": 3749.04,
+    "velocity": 187.38,
+    "heading": 110.57,
+    "trace": [
+      [
+        50.4485,
+        5.6119
+      ]
+    ]
+  },
+  {
+    "hex": "acb84d",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR649",
+    "lon": -84.0197,
+    "lat": 47.2976,
+    "alt": 10668,
+    "velocity": 263.54,
+    "heading": 140.62,
+    "trace": [
+      [
+        47.2976,
+        -84.0197
+      ]
+    ]
   }
 ]
