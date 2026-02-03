@@ -1,43 +1,18 @@
 [
   {
-    "hex": "a0441d",
-    "name": "US Department of Energy",
-    "category": "Nuclear",
-    "callsign": "N116SR",
-    "lon": -81.6955,
-    "lat": 33.1156,
-    "alt": -7.62,
-    "velocity": 41.78,
-    "heading": 99.93,
-    "trace": [
-      [
-        33.1156,
-        -81.6955
-      ]
-    ]
-  },
-  {
-    "hex": "a3db1c",
-    "name": "Airborne Tactical Advantage",
+    "hex": "abfbb7",
+    "name": "Top Aces Inc",
     "category": "Hired Gun",
-    "callsign": "N348AX",
-    "lon": -89.0444,
-    "lat": 30.3028,
-    "alt": 967.74,
-    "velocity": 144.81,
-    "heading": 316.15,
+    "callsign": "ACES01",
+    "lon": -112.3922,
+    "lat": 33.5247,
+    "alt": 304.8,
+    "velocity": 55.34,
+    "heading": 42.74,
     "trace": [
       [
-        30.0533,
-        -88.5739
-      ],
-      [
-        29.9048,
-        -88.4411
-      ],
-      [
-        30.3028,
-        -89.0444
+        33.5247,
+        -112.3922
       ]
     ]
   },
@@ -46,11 +21,11 @@
     "name": "Meta Aerospace",
     "category": "Hired Gun",
     "callsign": "SWB90",
-    "lon": -79.1177,
-    "lat": 32.1621,
+    "lon": -79.5248,
+    "lat": 32.2001,
     "alt": 6096,
-    "velocity": 218.66,
-    "heading": 90.81,
+    "velocity": 218.91,
+    "heading": 94.85,
     "trace": [
       [
         30.8416,
@@ -59,6 +34,10 @@
       [
         32.1621,
         -79.1177
+      ],
+      [
+        32.2001,
+        -79.5248
       ]
     ]
   },
@@ -67,11 +46,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI5768",
-    "lon": -96.3405,
-    "lat": 33.3859,
-    "alt": 6377.94,
-    "velocity": 185.26,
-    "heading": 229.05,
+    "lon": -97.0263,
+    "lat": 32.8523,
+    "alt": 281.94,
+    "velocity": 69.97,
+    "heading": 0.42,
     "trace": [
       [
         36.979,
@@ -84,6 +63,27 @@
       [
         33.3859,
         -96.3405
+      ],
+      [
+        32.8523,
+        -97.0263
+      ]
+    ]
+  },
+  {
+    "hex": "a81043",
+    "name": "Airborne Tactical Advantage",
+    "category": "Hired Gun",
+    "callsign": "ATAC31",
+    "lon": -112.128,
+    "lat": 32.6396,
+    "alt": 3048,
+    "velocity": 210.44,
+    "heading": 148.29,
+    "trace": [
+      [
+        32.6396,
+        -112.128
       ]
     ]
   },
@@ -92,11 +92,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA103",
-    "lon": -80.9235,
-    "lat": 32.187,
+    "lon": -78.4395,
+    "lat": 34.2967,
     "alt": 11887.2,
-    "velocity": 261.17,
-    "heading": 25.56,
+    "velocity": 274.06,
+    "heading": 41.5,
     "trace": [
       [
         27.5528,
@@ -105,31 +105,44 @@
       [
         32.187,
         -80.9235
+      ],
+      [
+        34.2967,
+        -78.4395
       ]
     ]
   },
   {
-    "hex": "a0c62d",
-    "name": "Eastern Air Express",
+    "hex": "a3defb",
+    "name": "Amerijet International",
     "category": "Hired Gun",
-    "callsign": "TYSON46",
-    "lon": -97.2892,
-    "lat": 26.2764,
-    "alt": 1744.98,
-    "velocity": 138.95,
-    "heading": 1.49,
+    "callsign": "TPA3058",
+    "lon": -74.1523,
+    "lat": 4.7121,
+    "alt": null,
+    "velocity": 0,
+    "heading": 354.38,
     "trace": [
       [
-        30.6439,
-        -93.7873
-      ],
+        4.7121,
+        -74.1523
+      ]
+    ]
+  },
+  {
+    "hex": "a20fca",
+    "name": "Nuclear Security Administration",
+    "category": "Nuclear",
+    "callsign": "ENRGY19",
+    "lon": -115.0294,
+    "lat": 36.2386,
+    "alt": 464.82,
+    "velocity": 28.8,
+    "heading": 41.38,
+    "trace": [
       [
-        29.4257,
-        -95.524
-      ],
-      [
-        26.2764,
-        -97.2892
+        36.2386,
+        -115.0294
       ]
     ]
   },
@@ -138,15 +151,19 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE4006",
-    "lon": -104.3923,
-    "lat": 38.609,
-    "alt": 4953,
-    "velocity": 200.49,
-    "heading": 145.45,
+    "lon": -102.206,
+    "lat": 36.251,
+    "alt": 11277.6,
+    "velocity": 292.84,
+    "heading": 130.94,
     "trace": [
       [
         38.609,
         -104.3923
+      ],
+      [
+        36.251,
+        -102.206
       ]
     ]
   },
@@ -155,11 +172,11 @@
     "name": "Nuclear Security Administration",
     "category": "Nuclear",
     "callsign": "ENRGY14",
-    "lon": -122.4755,
-    "lat": 37.8206,
-    "alt": 60.96,
-    "velocity": 51.49,
-    "heading": 68.3,
+    "lon": -121.9276,
+    "lat": 37.3542,
+    "alt": 15.24,
+    "velocity": 33.38,
+    "heading": 24.59,
     "trace": [
       [
         37.6146,
@@ -168,6 +185,10 @@
       [
         37.8206,
         -122.4755
+      ],
+      [
+        37.3542,
+        -121.9276
       ]
     ]
   },
@@ -176,11 +197,11 @@
     "name": "Polish Air Force",
     "category": "Dictator Alert",
     "callsign": "PLF105",
-    "lon": -73.8899,
-    "lat": 41.6232,
-    "alt": 10972.8,
-    "velocity": 223.31,
-    "heading": 204.5,
+    "lon": -75.9503,
+    "lat": 40.3898,
+    "alt": 6103.62,
+    "velocity": 171.71,
+    "heading": 224.27,
     "trace": [
       [
         50.5204,
@@ -197,6 +218,27 @@
       [
         41.6232,
         -73.8899
+      ],
+      [
+        40.3898,
+        -75.9503
+      ]
+    ]
+  },
+  {
+    "hex": "a84189",
+    "name": "Airborne Tactical Advantage",
+    "category": "Hired Gun",
+    "callsign": "ATAC34",
+    "lon": -112.4266,
+    "lat": 33.6131,
+    "alt": 1790.7,
+    "velocity": 209.17,
+    "heading": 249.56,
+    "trace": [
+      [
+        33.6131,
+        -112.4266
       ]
     ]
   },
@@ -205,11 +247,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR828",
-    "lon": -95.0758,
-    "lat": 18.9477,
+    "lon": -97.2977,
+    "lat": 20.6721,
     "alt": 10363.2,
-    "velocity": 246.82,
-    "heading": 308.4,
+    "velocity": 241.03,
+    "heading": 312.58,
     "trace": [
       [
         14.3694,
@@ -222,6 +264,10 @@
       [
         18.9477,
         -95.0758
+      ],
+      [
+        20.6721,
+        -97.2977
       ]
     ]
   },
@@ -230,11 +276,11 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA932",
-    "lon": 29.2566,
-    "lat": 35.4629,
+    "lon": 30.9691,
+    "lat": 32.932,
     "alt": 11277.6,
-    "velocity": 270.53,
-    "heading": 138.86,
+    "velocity": 257.84,
+    "heading": 174.62,
     "trace": [
       [
         50.313,
@@ -259,6 +305,10 @@
       [
         35.4629,
         29.2566
+      ],
+      [
+        32.932,
+        30.9691
       ]
     ]
   },
@@ -267,15 +317,19 @@
     "name": "Russia Special Flight Detachment",
     "category": "Dictator Alert",
     "callsign": "RSD262",
-    "lon": 30.8223,
-    "lat": 36.0963,
-    "alt": 10073.64,
-    "velocity": 248.05,
-    "heading": 178.46,
+    "lon": 30.9387,
+    "lat": 33.3978,
+    "alt": 10066.02,
+    "velocity": 247.07,
+    "heading": 178.09,
     "trace": [
       [
         36.0963,
         30.8223
+      ],
+      [
+        33.3978,
+        30.9387
       ]
     ]
   }
