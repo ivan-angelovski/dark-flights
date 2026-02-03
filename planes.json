@@ -1,35 +1,56 @@
 [
   {
-    "hex": "89607a",
-    "name": "Dubai Air Wing",
-    "category": "Dictator Alert",
-    "callsign": "DUB6",
-    "lon": 53.4176,
-    "lat": 24.9887,
-    "alt": 6149.34,
-    "velocity": 196.34,
-    "heading": 259.28,
-    "trace": [
-      [
-        24.9887,
-        53.4176
-      ]
-    ]
-  },
-  {
     "hex": "70c0ba",
     "name": "Oman Royal Flight",
     "category": "Dictator Alert",
     "callsign": "ORF6",
-    "lon": 55.4299,
-    "lat": 24.386,
-    "alt": 9761.22,
-    "velocity": 199.24,
-    "heading": 296.7,
+    "lon": 51.7345,
+    "lat": 26.4456,
+    "alt": 10972.8,
+    "velocity": 176.12,
+    "heading": 290.34,
     "trace": [
       [
         24.386,
         55.4299
+      ],
+      [
+        26.4456,
+        51.7345
+      ]
+    ]
+  },
+  {
+    "hex": "a3defb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "TPA3055",
+    "lon": -80.2467,
+    "lat": 25.5338,
+    "alt": 5669.28,
+    "velocity": 229.92,
+    "heading": 135.73,
+    "trace": [
+      [
+        25.5338,
+        -80.2467
+      ]
+    ]
+  },
+  {
+    "hex": "a2d615",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA4607",
+    "lon": -101.3466,
+    "lat": 34.5678,
+    "alt": 7246.62,
+    "velocity": 230,
+    "heading": 33.69,
+    "trace": [
+      [
+        34.5678,
+        -101.3466
       ]
     ]
   },
@@ -38,15 +59,36 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA626",
-    "lon": -86.7003,
-    "lat": 36.0831,
-    "alt": 647.7,
-    "velocity": 75.76,
-    "heading": 231.34,
+    "lon": -90.9556,
+    "lat": 35.0917,
+    "alt": 10965.18,
+    "velocity": 187.34,
+    "heading": 248.58,
     "trace": [
       [
         36.0831,
         -86.7003
+      ],
+      [
+        35.0917,
+        -90.9556
+      ]
+    ]
+  },
+  {
+    "hex": "a6d6d9",
+    "name": "Phoenix Air",
+    "category": "Hired Gun",
+    "callsign": "GRB158",
+    "lon": -80.194,
+    "lat": 26.0643,
+    "alt": 769.62,
+    "velocity": 126.56,
+    "heading": 269.3,
+    "trace": [
+      [
+        26.0643,
+        -80.194
       ]
     ]
   }
