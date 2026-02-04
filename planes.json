@@ -1,14 +1,48 @@
 [
   {
+    "hex": "a2f9dd",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA613",
+    "lon": -79.8763,
+    "lat": 25.6963,
+    "alt": 3314.7,
+    "velocity": 184.42,
+    "heading": 122.01,
+    "trace": [
+      [
+        25.6963,
+        -79.8763
+      ]
+    ]
+  },
+  {
+    "hex": "c07e0b",
+    "name": "Top Aces Inc",
+    "category": "Hired Gun",
+    "callsign": "RUSTY2",
+    "lon": 12.5064,
+    "lat": 53.8019,
+    "alt": 5646.42,
+    "velocity": 173.08,
+    "heading": 5.29,
+    "trace": [
+      [
+        53.8019,
+        12.5064
+      ]
+    ]
+  },
+  {
     "hex": "a95c2f",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR510",
-    "lon": 51.4451,
-    "lat": 26.4038,
+    "lon": 48.4757,
+    "lat": 26.1029,
     "alt": 9753.6,
-    "velocity": 214.14,
-    "heading": 289.65,
+    "velocity": 224.14,
+    "heading": 247.32,
     "trace": [
       [
         24.9337,
@@ -17,27 +51,61 @@
       [
         26.4038,
         51.4451
+      ],
+      [
+        26.1029,
+        48.4757
       ]
     ]
   },
   {
-    "hex": "a8d972",
-    "name": "Pallas Aviation",
+    "hex": "c01479",
+    "name": "Top Aces Inc",
     "category": "Hired Gun",
-    "callsign": "WDE25",
-    "lon": 55.136,
-    "lat": 24.9104,
-    "alt": 76.2,
-    "velocity": 65.99,
-    "heading": 120.96,
+    "callsign": "RUSTY1",
+    "lon": 12.824,
+    "lat": 54.068,
+    "alt": 7940.04,
+    "velocity": 188.87,
+    "heading": 188.62,
     "trace": [
       [
-        25.8977,
-        53.6021
-      ],
+        54.068,
+        12.824
+      ]
+    ]
+  },
+  {
+    "hex": "894081",
+    "name": "Bahrain Defence Force",
+    "category": "Dictator Alert",
+    "callsign": "BAH11",
+    "lon": 30.6995,
+    "lat": 30.649,
+    "alt": 9685.02,
+    "velocity": 246.35,
+    "heading": 140.59,
+    "trace": [
       [
-        24.9104,
-        55.136
+        30.649,
+        30.6995
+      ]
+    ]
+  },
+  {
+    "hex": "894016",
+    "name": "Bahrain Defence Force",
+    "category": "Dictator Alert",
+    "callsign": "BAH8",
+    "lon": 31.2745,
+    "lat": 30.255,
+    "alt": 9144,
+    "velocity": 193.16,
+    "heading": 315.11,
+    "trace": [
+      [
+        30.255,
+        31.2745
       ]
     ]
   },
@@ -46,11 +114,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2231",
-    "lon": -4.7802,
-    "lat": 48.2445,
-    "alt": 12192,
-    "velocity": 257.41,
-    "heading": 24.31,
+    "lon": -3.3906,
+    "lat": 51.3327,
+    "alt": 5234.94,
+    "velocity": 169.79,
+    "heading": 63.36,
     "trace": [
       [
         38.1903,
@@ -63,6 +131,27 @@
       [
         48.2445,
         -4.7802
+      ],
+      [
+        51.3327,
+        -3.3906
+      ]
+    ]
+  },
+  {
+    "hex": "ad7274",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6121",
+    "lon": -91.8125,
+    "lat": 29.6483,
+    "alt": 7292.34,
+    "velocity": 236.82,
+    "heading": 158.06,
+    "trace": [
+      [
+        29.6483,
+        -91.8125
       ]
     ]
   },
@@ -71,49 +160,19 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD43",
-    "lon": 10.075,
-    "lat": 53.1788,
-    "alt": 3939.54,
-    "velocity": 134.59,
-    "heading": 242.95,
+    "lon": 9.376,
+    "lat": 52.9906,
+    "alt": 3040.38,
+    "velocity": 110.92,
+    "heading": 238.08,
     "trace": [
       [
         53.1788,
         10.075
-      ]
-    ]
-  },
-  {
-    "hex": "06a05a",
-    "name": "Qatar Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "A7AAH",
-    "lon": 49.6784,
-    "lat": 26.5231,
-    "alt": 10507.98,
-    "velocity": 206.84,
-    "heading": 285.73,
-    "trace": [
+      ],
       [
-        26.5231,
-        49.6784
-      ]
-    ]
-  },
-  {
-    "hex": "a4d4cc",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA2964",
-    "lon": -80.5062,
-    "lat": 25.7049,
-    "alt": 830.58,
-    "velocity": 120.63,
-    "heading": 286.35,
-    "trace": [
-      [
-        25.7049,
-        -80.5062
+        52.9906,
+        9.376
       ]
     ]
   },
@@ -122,15 +181,19 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7MBK",
-    "lon": 7.217,
-    "lat": 39.4385,
+    "lon": 8.5126,
+    "lat": 42.5018,
     "alt": 10972.8,
-    "velocity": 226.27,
-    "heading": 16.37,
+    "velocity": 239.41,
+    "heading": 20.11,
     "trace": [
       [
         39.4385,
         7.217
+      ],
+      [
+        42.5018,
+        8.5126
       ]
     ]
   }
