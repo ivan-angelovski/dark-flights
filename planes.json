@@ -1,31 +1,14 @@
 [
   {
-    "hex": "a0d062",
-    "name": "Atlas Air",
-    "category": "Hired Gun",
-    "callsign": "GTI9004",
-    "lon": -69.8537,
-    "lat": 11.2473,
-    "alt": 12199.62,
-    "velocity": 230.75,
-    "heading": 221.29,
-    "trace": [
-      [
-        11.2473,
-        -69.8537
-      ]
-    ]
-  },
-  {
     "hex": "a83f98",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA4656",
-    "lon": -113.5083,
-    "lat": 36.578,
-    "alt": 11285.22,
-    "velocity": 214.49,
-    "heading": 70.09,
+    "lon": -108.0558,
+    "lat": 38.1118,
+    "alt": 11292.84,
+    "velocity": 219.6,
+    "heading": 66.68,
     "trace": [
       [
         33.7981,
@@ -34,31 +17,95 @@
       [
         36.578,
         -113.5083
+      ],
+      [
+        38.1118,
+        -108.0558
       ]
     ]
   },
   {
-    "hex": "4009cc",
+    "hex": "4009cd",
     "name": "Draken Europe",
     "category": "Hired Gun",
-    "callsign": "FRA90",
-    "lon": -2.0648,
-    "lat": 53.7144,
-    "alt": 6149.34,
-    "velocity": 182.94,
-    "heading": 21.44,
+    "callsign": "AMBER1",
+    "lon": -3.2201,
+    "lat": 50.1071,
+    "alt": 2087.88,
+    "velocity": 144.38,
+    "heading": 273.88,
     "trace": [
       [
-        54.2836,
-        -1.4299
-      ],
+        50.1071,
+        -3.2201
+      ]
+    ]
+  },
+  {
+    "hex": "4009d4",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "BLUE1",
+    "lon": -3.3886,
+    "lat": 50.6734,
+    "alt": 4267.2,
+    "velocity": 145.38,
+    "heading": 258.57,
+    "trace": [
       [
-        50.7616,
-        -1.933
-      ],
+        50.6734,
+        -3.3886
+      ]
+    ]
+  },
+  {
+    "hex": "4009d3",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "AMBER2",
+    "lon": -2.3382,
+    "lat": 50.7926,
+    "alt": 1828.8,
+    "velocity": 128.38,
+    "heading": 260.31,
+    "trace": [
       [
-        53.7144,
-        -2.0648
+        50.7926,
+        -2.3382
+      ]
+    ]
+  },
+  {
+    "hex": "a2d25e",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA4641",
+    "lon": -98.7784,
+    "lat": 45.4377,
+    "alt": 10675.62,
+    "velocity": 256.94,
+    "heading": 118.72,
+    "trace": [
+      [
+        45.4377,
+        -98.7784
+      ]
+    ]
+  },
+  {
+    "hex": "89629f",
+    "name": "Abu Dhabi Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "AUH02",
+    "lon": 56.4294,
+    "lat": 23.6863,
+    "alt": 8229.6,
+    "velocity": 267.85,
+    "heading": 117.7,
+    "trace": [
+      [
+        23.6863,
+        56.4294
       ]
     ]
   },
@@ -67,70 +114,36 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE4062",
-    "lon": -95.6251,
-    "lat": 32.5893,
+    "lon": -89.8007,
+    "lat": 29.6146,
     "alt": 11887.2,
-    "velocity": 259.33,
-    "heading": 120.13,
+    "velocity": 278.36,
+    "heading": 120.55,
     "trace": [
       [
         32.5893,
         -95.6251
-      ]
-    ]
-  },
-  {
-    "hex": "a2d615",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA625",
-    "lon": -90.3378,
-    "lat": 38.5153,
-    "alt": 1584.96,
-    "velocity": 137.33,
-    "heading": 39.83,
-    "trace": [
-      [
-        34.9373,
-        -92.9802
       ],
       [
-        38.5153,
-        -90.3378
+        29.6146,
+        -89.8007
       ]
     ]
   },
   {
-    "hex": "896571",
-    "name": "Abu Dhabi Amiri Flight",
+    "hex": "896430",
+    "name": "Dubai Air Wing",
     "category": "Dictator Alert",
-    "callsign": "AUH06",
-    "lon": 58.1786,
-    "lat": 23.5767,
-    "alt": 11269.98,
-    "velocity": 286.95,
-    "heading": 79.25,
+    "callsign": "DUB9",
+    "lon": 55.0587,
+    "lat": 25.5335,
+    "alt": 3101.34,
+    "velocity": 152.7,
+    "heading": 119.24,
     "trace": [
       [
-        23.5767,
-        58.1786
-      ]
-    ]
-  },
-  {
-    "hex": "600801",
-    "name": "Gov of Azerbaijan",
-    "category": "Dictator Alert",
-    "callsign": "AHY4732",
-    "lon": 51.4743,
-    "lat": 26.3944,
-    "alt": 10355.58,
-    "velocity": 193.93,
-    "heading": 289.2,
-    "trace": [
-      [
-        26.3944,
-        51.4743
+        25.5335,
+        55.0587
       ]
     ]
   },
@@ -139,15 +152,19 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6103",
-    "lon": -101.4741,
-    "lat": 31.8229,
-    "alt": 9441.18,
-    "velocity": 215.04,
-    "heading": 89.86,
+    "lon": -95.9796,
+    "lat": 31.6511,
+    "alt": 9456.42,
+    "velocity": 238.7,
+    "heading": 95.32,
     "trace": [
       [
         31.8229,
         -101.4741
+      ],
+      [
+        31.6511,
+        -95.9796
       ]
     ]
   },
@@ -156,15 +173,36 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR506",
-    "lon": 113.3075,
-    "lat": 22.6821,
-    "alt": 7498.08,
-    "velocity": 203.85,
-    "heading": 162.07,
+    "lon": 113.9023,
+    "lat": 22.3253,
+    "alt": null,
+    "velocity": 5.66,
+    "heading": 70.31,
     "trace": [
       [
         22.6821,
         113.3075
+      ],
+      [
+        22.3253,
+        113.9023
+      ]
+    ]
+  },
+  {
+    "hex": "a87876",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI9645",
+    "lon": 34.899,
+    "lat": 31.9965,
+    "alt": null,
+    "velocity": 2.57,
+    "heading": 345.94,
+    "trace": [
+      [
+        31.9965,
+        34.899
       ]
     ]
   },
@@ -173,11 +211,11 @@
     "name": "Kalitta Charters II",
     "category": "Hired Gun",
     "callsign": "KII336",
-    "lon": -87.7504,
-    "lat": 38.7971,
-    "alt": 10668,
-    "velocity": 193.89,
-    "heading": 44.89,
+    "lon": -84.0707,
+    "lat": 41.8412,
+    "alt": 3459.48,
+    "velocity": 171.28,
+    "heading": 35.22,
     "trace": [
       [
         30.265,
@@ -190,6 +228,10 @@
       [
         38.7971,
         -87.7504
+      ],
+      [
+        41.8412,
+        -84.0707
       ]
     ]
   }
