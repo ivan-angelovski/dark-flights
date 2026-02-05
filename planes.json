@@ -1,18 +1,56 @@
 [
   {
+    "hex": "a83f98",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA4656",
+    "lon": -118.162,
+    "lat": 33.7981,
+    "alt": 5181.6,
+    "velocity": 185.72,
+    "heading": 59.17,
+    "trace": [
+      [
+        33.7981,
+        -118.162
+      ]
+    ]
+  },
+  {
     "hex": "4009cc",
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "FRA90",
-    "lon": -1.4299,
-    "lat": 54.2836,
-    "alt": 4343.4,
-    "velocity": 120.04,
-    "heading": 186.15,
+    "lon": -1.933,
+    "lat": 50.7616,
+    "alt": 1516.38,
+    "velocity": 103.15,
+    "heading": 72.29,
     "trace": [
       [
         54.2836,
         -1.4299
+      ],
+      [
+        50.7616,
+        -1.933
+      ]
+    ]
+  },
+  {
+    "hex": "a95c2f",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR654",
+    "lon": 140.9747,
+    "lat": 38.063,
+    "alt": 10066.02,
+    "velocity": 313.42,
+    "heading": 93.67,
+    "trace": [
+      [
+        38.063,
+        140.9747
       ]
     ]
   },
@@ -21,11 +59,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA4641",
-    "lon": -123.217,
-    "lat": 44.1151,
-    "alt": null,
-    "velocity": 9.77,
-    "heading": 0,
+    "lon": -114.2598,
+    "lat": 46.9679,
+    "alt": 11277.6,
+    "velocity": 247.08,
+    "heading": 75.04,
     "trace": [
       [
         44.1108,
@@ -34,23 +72,44 @@
       [
         44.1151,
         -123.217
+      ],
+      [
+        46.9679,
+        -114.2598
       ]
     ]
   },
   {
-    "hex": "a3defb",
-    "name": "Amerijet International",
+    "hex": "a2d615",
+    "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "TPA3001",
-    "lon": -75.4195,
-    "lat": 6.7108,
-    "alt": 12512.04,
-    "velocity": 217.01,
-    "heading": 163.76,
+    "callsign": "GXA625",
+    "lon": -92.9802,
+    "lat": 34.9373,
+    "alt": 11277.6,
+    "velocity": 219.18,
+    "heading": 54.07,
     "trace": [
       [
-        6.7108,
-        -75.4195
+        34.9373,
+        -92.9802
+      ]
+    ]
+  },
+  {
+    "hex": "600bc0",
+    "name": "Gov of Azerbaijan",
+    "category": "Dictator Alert",
+    "callsign": "AHY6732",
+    "lon": 50.3978,
+    "lat": 26.7256,
+    "alt": 10972.8,
+    "velocity": 200.9,
+    "heading": 286.21,
+    "trace": [
+      [
+        26.7256,
+        50.3978
       ]
     ]
   },
@@ -59,15 +118,36 @@
     "name": "Kalitta Charters II",
     "category": "Hired Gun",
     "callsign": "KII336",
-    "lon": -97.0989,
-    "lat": 30.265,
+    "lon": -91.5505,
+    "lat": 35.6253,
     "alt": 10668,
-    "velocity": 227.97,
-    "heading": 39.69,
+    "velocity": 195.52,
+    "heading": 42.55,
     "trace": [
       [
         30.265,
         -97.0989
+      ],
+      [
+        35.6253,
+        -91.5505
+      ]
+    ]
+  },
+  {
+    "hex": "157715",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD182",
+    "lon": -17.0709,
+    "lat": 14.673,
+    "alt": null,
+    "velocity": 5.66,
+    "heading": 180,
+    "trace": [
+      [
+        14.673,
+        -17.0709
       ]
     ]
   }
