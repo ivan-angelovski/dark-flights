@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a2f9dd",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA613",
+    "lon": -78.7927,
+    "lat": 25.1924,
+    "alt": 9136.38,
+    "velocity": 263.89,
+    "heading": 116.27,
+    "trace": [
+      [
+        25.1924,
+        -78.7927
+      ]
+    ]
+  },
+  {
     "hex": "a0d062",
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8835",
-    "lon": -77.1257,
-    "lat": 33.6373,
-    "alt": 10972.8,
-    "velocity": 231.65,
-    "heading": 189.59,
+    "lon": -77.7103,
+    "lat": 29.6499,
+    "alt": 10980.42,
+    "velocity": 225.07,
+    "heading": 177.25,
     "trace": [
       [
         36.781,
@@ -17,6 +34,10 @@
       [
         33.6373,
         -77.1257
+      ],
+      [
+        29.6499,
+        -77.7103
       ]
     ]
   },
@@ -25,11 +46,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB1",
-    "lon": 9.6635,
-    "lat": 47.268,
-    "alt": 11582.4,
-    "velocity": 239,
-    "heading": 267.16,
+    "lon": 6.1293,
+    "lat": 46.2519,
+    "alt": 586.74,
+    "velocity": 68.76,
+    "heading": 225.91,
     "trace": [
       [
         45.2244,
@@ -46,6 +67,10 @@
       [
         47.268,
         9.6635
+      ],
+      [
+        46.2519,
+        6.1293
       ]
     ]
   },
@@ -54,15 +79,19 @@
     "name": "Royal Air Force of Oman",
     "category": "Dictator Alert",
     "callsign": "MJN517",
-    "lon": 11.8442,
-    "lat": 48.1415,
-    "alt": 2811.78,
-    "velocity": 161.3,
-    "heading": 152.45,
+    "lon": 13.424,
+    "lat": 44.4051,
+    "alt": 10066.02,
+    "velocity": 250.69,
+    "heading": 144.35,
     "trace": [
       [
         48.1415,
         11.8442
+      ],
+      [
+        44.4051,
+        13.424
       ]
     ]
   },
@@ -71,15 +100,19 @@
     "name": "Gov of Azerbaijan",
     "category": "Dictator Alert",
     "callsign": "AHY620",
-    "lon": 44.7617,
-    "lat": 41.5315,
+    "lon": 39.638,
+    "lat": 41.6419,
     "alt": 12192,
-    "velocity": 211.68,
-    "heading": 276.28,
+    "velocity": 223.64,
+    "heading": 273.3,
     "trace": [
       [
         41.5315,
         44.7617
+      ],
+      [
+        41.6419,
+        39.638
       ]
     ]
   },
@@ -88,11 +121,11 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT8540",
-    "lon": -75.1494,
-    "lat": 23.4706,
-    "alt": 12207.24,
-    "velocity": 203.36,
-    "heading": 287.98,
+    "lon": -78.7167,
+    "lat": 24.7853,
+    "alt": 10645.14,
+    "velocity": 201.76,
+    "heading": 303.24,
     "trace": [
       [
         22.2207,
@@ -101,6 +134,27 @@
       [
         23.4706,
         -75.1494
+      ],
+      [
+        24.7853,
+        -78.7167
+      ]
+    ]
+  },
+  {
+    "hex": "a2f016",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA200",
+    "lon": -80.4447,
+    "lat": 25.7237,
+    "alt": 1623.06,
+    "velocity": 145.04,
+    "heading": 189.6,
+    "trace": [
+      [
+        25.7237,
+        -80.4447
       ]
     ]
   },
@@ -109,15 +163,19 @@
     "name": "Gov of Azerbaijan",
     "category": "Dictator Alert",
     "callsign": "AHY601",
-    "lon": 33.6,
-    "lat": 30.6379,
-    "alt": 13106.4,
-    "velocity": 229.02,
-    "heading": 331.71,
+    "lon": 33.6998,
+    "lat": 34.6757,
+    "alt": 13670.28,
+    "velocity": 241.64,
+    "heading": 11.67,
     "trace": [
       [
         30.6379,
         33.6
+      ],
+      [
+        34.6757,
+        33.6998
       ]
     ]
   },
@@ -126,32 +184,19 @@
     "name": "Russia Special Flight Detachment",
     "category": "Dictator Alert",
     "callsign": "RSD302",
-    "lon": 30.6235,
-    "lat": 32.8677,
+    "lon": 30.8111,
+    "lat": 36.4736,
     "alt": 11574.78,
-    "velocity": 236.54,
-    "heading": 49.76,
+    "velocity": 215.64,
+    "heading": 358.36,
     "trace": [
       [
         32.8677,
         30.6235
-      ]
-    ]
-  },
-  {
-    "hex": "157719",
-    "name": "Russia Special Flight Detachment",
-    "category": "Dictator Alert",
-    "callsign": "RSD212",
-    "lon": 37.4492,
-    "lat": 55.2522,
-    "alt": 1775.46,
-    "velocity": 8.05,
-    "heading": 243.43,
-    "trace": [
+      ],
       [
-        55.2522,
-        37.4492
+        36.4736,
+        30.8111
       ]
     ]
   }
