@@ -1,22 +1,52 @@
 [
   {
-    "hex": "a83f98",
-    "name": "Global Crossing Airlines",
+    "hex": "4009d4",
+    "name": "Draken Europe",
     "category": "Hired Gun",
-    "callsign": "GXA131",
-    "lon": -77.3016,
-    "lat": 37.4893,
-    "alt": 121.92,
-    "velocity": 56.23,
-    "heading": 327.33,
+    "callsign": "BLUE1",
+    "lon": -4.261,
+    "lat": 51.2556,
+    "alt": 6073.14,
+    "velocity": 187.1,
+    "heading": 147.58,
     "trace": [
       [
-        35.8783,
-        -78.7853
-      ],
+        51.2556,
+        -4.261
+      ]
+    ]
+  },
+  {
+    "hex": "4009d3",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "CRIMSON1",
+    "lon": -4.1821,
+    "lat": 50.9177,
+    "alt": 5173.98,
+    "velocity": 164.69,
+    "heading": 318.29,
+    "trace": [
       [
-        37.4893,
-        -77.3016
+        50.9177,
+        -4.1821
+      ]
+    ]
+  },
+  {
+    "hex": "a0f8f9",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI762",
+    "lon": -86.1337,
+    "lat": 38.0134,
+    "alt": 4975.86,
+    "velocity": 196.67,
+    "heading": 240.89,
+    "trace": [
+      [
+        38.0134,
+        -86.1337
       ]
     ]
   },
@@ -25,15 +55,53 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT8541",
-    "lon": -71.8771,
-    "lat": 22.0143,
-    "alt": 11285.22,
-    "velocity": 261.53,
-    "heading": 118.68,
+    "lon": -66.166,
+    "lat": 18.4344,
+    "alt": 845.82,
+    "velocity": 109.6,
+    "heading": 88.92,
     "trace": [
       [
         22.0143,
         -71.8771
+      ],
+      [
+        18.4344,
+        -66.166
+      ]
+    ]
+  },
+  {
+    "hex": "06a014",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "QQE961",
+    "lon": 56.7563,
+    "lat": 23.7619,
+    "alt": 10363.2,
+    "velocity": 191.44,
+    "heading": 297.53,
+    "trace": [
+      [
+        23.7619,
+        56.7563
+      ]
+    ]
+  },
+  {
+    "hex": "3cd05a",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD5",
+    "lon": 7.538,
+    "lat": 53.6105,
+    "alt": 1066.8,
+    "velocity": 111.11,
+    "heading": 251.65,
+    "trace": [
+      [
+        53.6105,
+        7.538
       ]
     ]
   },
@@ -42,11 +110,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD2",
-    "lon": 6.8253,
-    "lat": 51.4656,
-    "alt": 3817.62,
-    "velocity": 187.34,
-    "heading": 205.02,
+    "lon": 6.3347,
+    "lat": 50.9451,
+    "alt": 1066.8,
+    "velocity": 123.52,
+    "heading": 338.24,
     "trace": [
       [
         54.3182,
@@ -55,40 +123,61 @@
       [
         51.4656,
         6.8253
+      ],
+      [
+        50.9451,
+        6.3347
       ]
     ]
   },
   {
-    "hex": "3cd067",
+    "hex": "3cd063",
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
-    "callsign": "GFD3",
-    "lon": 9.5113,
-    "lat": 54.3093,
-    "alt": 205.74,
-    "velocity": 70.54,
-    "heading": 79.92,
+    "callsign": "GFD4",
+    "lon": 7.6286,
+    "lat": 53.5428,
+    "alt": 457.2,
+    "velocity": 79.64,
+    "heading": 74.26,
     "trace": [
       [
-        54.3093,
-        9.5113
+        53.5428,
+        7.6286
       ]
     ]
   },
   {
-    "hex": "acb84d",
-    "name": "National Airlines",
+    "hex": "3cd068",
+    "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
-    "callsign": "NCR4294",
-    "lon": -80.2581,
-    "lat": 25.8025,
-    "alt": 38.1,
-    "velocity": 74.17,
-    "heading": 267.22,
+    "callsign": "GFD7",
+    "lon": 10.172,
+    "lat": 52.4317,
+    "alt": 7917.18,
+    "velocity": 230.13,
+    "heading": 348.92,
     "trace": [
       [
-        25.8025,
-        -80.2581
+        52.4317,
+        10.172
+      ]
+    ]
+  },
+  {
+    "hex": "157712",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD262",
+    "lon": -16.8177,
+    "lat": 15.2623,
+    "alt": 3710.94,
+    "velocity": 197.23,
+    "heading": 43.52,
+    "trace": [
+      [
+        15.2623,
+        -16.8177
       ]
     ]
   },
@@ -97,15 +186,19 @@
     "name": "Russia Special Flight Detachment",
     "category": "Dictator Alert",
     "callsign": "RSD212",
-    "lon": 30.9426,
-    "lat": 33.2987,
+    "lon": 32.2966,
+    "lat": 39.2438,
     "alt": 10965.18,
-    "velocity": 213.57,
-    "heading": 358.48,
+    "velocity": 248.93,
+    "heading": 26.78,
     "trace": [
       [
         33.2987,
         30.9426
+      ],
+      [
+        39.2438,
+        32.2966
       ]
     ]
   }
