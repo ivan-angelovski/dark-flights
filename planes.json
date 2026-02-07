@@ -4,32 +4,19 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI767",
-    "lon": -96.9212,
-    "lat": 33.0841,
-    "alt": 3390.9,
-    "velocity": 173.49,
-    "heading": 105.48,
+    "lon": -89.9461,
+    "lat": 36.8994,
+    "alt": 10683.24,
+    "velocity": 247.7,
+    "heading": 61.47,
     "trace": [
       [
         33.0841,
         -96.9212
-      ]
-    ]
-  },
-  {
-    "hex": "a75013",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA6141",
-    "lon": -96.5248,
-    "lat": 38.64,
-    "alt": 10965.18,
-    "velocity": 229.12,
-    "heading": 8.91,
-    "trace": [
+      ],
       [
-        38.64,
-        -96.5248
+        36.8994,
+        -89.9461
       ]
     ]
   },
@@ -38,15 +25,19 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "CMB554",
-    "lon": -80.169,
-    "lat": 33.4768,
-    "alt": 9364.98,
-    "velocity": 231.69,
-    "heading": 27.08,
+    "lon": -74.9669,
+    "lat": 39.7146,
+    "alt": 10058.4,
+    "velocity": 259.28,
+    "heading": 36.53,
     "trace": [
       [
         33.4768,
         -80.169
+      ],
+      [
+        39.7146,
+        -74.9669
       ]
     ]
   },
@@ -55,15 +46,36 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2233",
-    "lon": -10.1523,
-    "lat": 39.2799,
+    "lon": -6.0506,
+    "lat": 46.2928,
     "alt": 12192,
-    "velocity": 256.12,
-    "heading": 12.53,
+    "velocity": 260.14,
+    "heading": 23.42,
     "trace": [
       [
         39.2799,
         -10.1523
+      ],
+      [
+        46.2928,
+        -6.0506
+      ]
+    ]
+  },
+  {
+    "hex": "157717",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD572",
+    "lon": 30.9086,
+    "lat": 34.1228,
+    "alt": 10355.58,
+    "velocity": 199.31,
+    "heading": 357.34,
+    "trace": [
+      [
+        34.1228,
+        30.9086
       ]
     ]
   }
