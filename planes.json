@@ -1,18 +1,35 @@
 [
   {
-    "hex": "894081",
-    "name": "Bahrain Defence Force",
+    "hex": "89407f",
+    "name": "Bahrain Amiri Flight",
     "category": "Dictator Alert",
-    "callsign": "BAH11",
-    "lon": 50.7361,
-    "lat": 25.9579,
-    "alt": 601.98,
-    "velocity": 109.32,
-    "heading": 198.09,
+    "callsign": "BAH6",
+    "lon": 32.6995,
+    "lat": 29.2152,
+    "alt": 13106.4,
+    "velocity": 231.79,
+    "heading": 308.42,
     "trace": [
       [
-        25.9579,
-        50.7361
+        29.2152,
+        32.6995
+      ]
+    ]
+  },
+  {
+    "hex": "4b8d42",
+    "name": "Gov of Turkey",
+    "category": "Dictator Alert",
+    "callsign": "TCCJB",
+    "lon": 41.0995,
+    "lat": 40.2879,
+    "alt": 10370.82,
+    "velocity": 190.92,
+    "heading": 262.57,
+    "trace": [
+      [
+        40.2879,
+        41.0995
       ]
     ]
   },
@@ -21,11 +38,11 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "QAF3",
-    "lon": 13.618,
-    "lat": 43.0421,
+    "lon": 18.6493,
+    "lat": 39.5588,
     "alt": 12496.8,
-    "velocity": 258.97,
-    "heading": 130.81,
+    "velocity": 262.66,
+    "heading": 134.21,
     "trace": [
       [
         44.7608,
@@ -34,6 +51,27 @@
       [
         43.0421,
         13.618
+      ],
+      [
+        39.5588,
+        18.6493
+      ]
+    ]
+  },
+  {
+    "hex": "a9c52e",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR557",
+    "lon": 88.6799,
+    "lat": 22.6193,
+    "alt": 10363.2,
+    "velocity": 216.63,
+    "heading": 275.72,
+    "trace": [
+      [
+        22.6193,
+        88.6799
       ]
     ]
   },
@@ -42,11 +80,11 @@
     "name": "Gov of Azerbaijan",
     "category": "Dictator Alert",
     "callsign": "AHY612",
-    "lon": 52.044,
-    "lat": 26.4675,
-    "alt": 13434.06,
-    "velocity": 284.2,
-    "heading": 110.34,
+    "lon": 55.4892,
+    "lat": 25.1835,
+    "alt": 594.36,
+    "velocity": 80.65,
+    "heading": 301.97,
     "trace": [
       [
         27.0959,
@@ -55,6 +93,10 @@
       [
         26.4675,
         52.044
+      ],
+      [
+        25.1835,
+        55.4892
       ]
     ]
   }
