@@ -1,60 +1,52 @@
 [
   {
-    "hex": "8960b4",
-    "name": "Dubai Air Wing",
+    "hex": "a0d062",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI8831",
+    "lon": 142.8049,
+    "lat": 34.627,
+    "alt": 10363.2,
+    "velocity": 194.41,
+    "heading": 273.95,
+    "trace": [
+      [
+        34.627,
+        142.8049
+      ]
+    ]
+  },
+  {
+    "hex": "ab9639",
+    "name": "Omni Air International",
+    "category": "Hired Gun",
+    "callsign": "CMB554",
+    "lon": 5.8625,
+    "lat": 53.1327,
+    "alt": 10363.2,
+    "velocity": 238.19,
+    "heading": 269.75,
+    "trace": [
+      [
+        53.1327,
+        5.8625
+      ]
+    ]
+  },
+  {
+    "hex": "4bd24b",
+    "name": "Gov of Turkey",
     "category": "Dictator Alert",
-    "callsign": "DUB1",
-    "lon": 4.1644,
-    "lat": 58.805,
-    "alt": 10972.8,
-    "velocity": 253.22,
-    "heading": 318.21,
+    "callsign": "TRK25",
+    "lon": 28.8787,
+    "lat": 41.3731,
+    "alt": 10363.2,
+    "velocity": 202.71,
+    "heading": 288.8,
     "trace": [
       [
-        58.805,
-        4.1644
-      ]
-    ]
-  },
-  {
-    "hex": "a835d1",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA4629",
-    "lon": -121.5997,
-    "lat": 38.7753,
-    "alt": 327.66,
-    "velocity": 64.82,
-    "heading": 180.45,
-    "trace": [
-      [
-        41.0086,
-        -89.4166
-      ],
-      [
-        38.7899,
-        -109.821
-      ],
-      [
-        38.7753,
-        -121.5997
-      ]
-    ]
-  },
-  {
-    "hex": "a451cb",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT4714",
-    "lon": -79.371,
-    "lat": 13.9042,
-    "alt": 9768.84,
-    "velocity": 248.65,
-    "heading": 2.13,
-    "trace": [
-      [
-        13.9042,
-        -79.371
+        41.3731,
+        28.8787
       ]
     ]
   },
@@ -63,15 +55,53 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR510",
-    "lon": 84.529,
-    "lat": 22.9625,
+    "lon": 94.2405,
+    "lat": 22.5788,
     "alt": 12481.56,
-    "velocity": 290.86,
-    "heading": 95.28,
+    "velocity": 286.58,
+    "heading": 82.26,
     "trace": [
       [
         22.9625,
         84.529
+      ],
+      [
+        22.5788,
+        94.2405
+      ]
+    ]
+  },
+  {
+    "hex": "aa1e68",
+    "name": "Skyways Charter LLC",
+    "category": "Hired Gun",
+    "callsign": "N751GT",
+    "lon": -121.871,
+    "lat": 37.7012,
+    "alt": 548.64,
+    "velocity": 103.35,
+    "heading": 316.61,
+    "trace": [
+      [
+        37.7012,
+        -121.871
+      ]
+    ]
+  },
+  {
+    "hex": "a9c52e",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR529",
+    "lon": 113.8958,
+    "lat": 22.3086,
+    "alt": null,
+    "velocity": 8.23,
+    "heading": 81.56,
+    "trace": [
+      [
+        22.3086,
+        113.8958
       ]
     ]
   }
