@@ -1,18 +1,39 @@
 [
   {
+    "hex": "4009cd",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "AMBER1",
+    "lon": -2.696,
+    "lat": 51.0649,
+    "alt": 784.86,
+    "velocity": 109.21,
+    "heading": 267.03,
+    "trace": [
+      [
+        51.0649,
+        -2.696
+      ]
+    ]
+  },
+  {
     "hex": "4009d4",
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "CRIMSON1",
-    "lon": -4.1135,
-    "lat": 51.3229,
-    "alt": 7025.64,
-    "velocity": 193.64,
-    "heading": 165.85,
+    "lon": -2.1999,
+    "lat": 50.7567,
+    "alt": 891.54,
+    "velocity": 82.33,
+    "heading": 101.17,
     "trace": [
       [
         51.3229,
         -4.1135
+      ],
+      [
+        50.7567,
+        -2.1999
       ]
     ]
   },
@@ -21,32 +42,53 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "CRIMSON2",
-    "lon": -4.1062,
-    "lat": 51.1284,
-    "alt": 6682.74,
-    "velocity": 195.33,
-    "heading": 333.91,
+    "lon": -2.0304,
+    "lat": 50.7588,
+    "alt": 586.74,
+    "velocity": 82.54,
+    "heading": 85.71,
     "trace": [
       [
         51.1284,
         -4.1062
+      ],
+      [
+        50.7588,
+        -2.0304
       ]
     ]
   },
   {
-    "hex": "04200a",
-    "name": "Equatorial Guinea",
-    "category": "Dictator Alert",
-    "callsign": "3CEGE",
-    "lon": 69.9185,
-    "lat": 19.2896,
-    "alt": 10972.8,
-    "velocity": 206.39,
-    "heading": 295.86,
+    "hex": "a95c2f",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR892",
+    "lon": 29.7975,
+    "lat": 31.7826,
+    "alt": 12192,
+    "velocity": 207.82,
+    "heading": 327.84,
     "trace": [
       [
-        19.2896,
-        69.9185
+        31.7826,
+        29.7975
+      ]
+    ]
+  },
+  {
+    "hex": "48448c",
+    "name": "Equatorial Guinea",
+    "category": "Dictator Alert",
+    "callsign": "P4SKN",
+    "lon": 55.9349,
+    "lat": 25.0825,
+    "alt": 2758.44,
+    "velocity": 126.42,
+    "heading": 311.87,
+    "trace": [
+      [
+        25.0825,
+        55.9349
       ]
     ]
   },
@@ -55,15 +97,36 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB3",
-    "lon": 16.595,
-    "lat": 44.5607,
+    "lon": 28.9075,
+    "lat": 42.0161,
     "alt": 11887.2,
-    "velocity": 267.33,
-    "heading": 107.35,
+    "velocity": 277.62,
+    "heading": 122.13,
     "trace": [
       [
         44.5607,
         16.595
+      ],
+      [
+        42.0161,
+        28.9075
+      ]
+    ]
+  },
+  {
+    "hex": "aa3086",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR877",
+    "lon": -0.2145,
+    "lat": 51.5259,
+    "alt": 12504.42,
+    "velocity": 273.86,
+    "heading": 102.37,
+    "trace": [
+      [
+        51.5259,
+        -0.2145
       ]
     ]
   },
@@ -72,11 +135,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6276",
-    "lon": -94.6982,
-    "lat": 31.1576,
-    "alt": 10668,
-    "velocity": 294.25,
-    "heading": 105.93,
+    "lon": -84.2768,
+    "lat": 27.3478,
+    "alt": 11277.6,
+    "velocity": 284.21,
+    "heading": 112.34,
     "trace": [
       [
         33.312,
@@ -89,6 +152,10 @@
       [
         31.1576,
         -94.6982
+      ],
+      [
+        27.3478,
+        -84.2768
       ]
     ]
   },
@@ -97,11 +164,11 @@
     "name": "Skyways Charter LLC",
     "category": "Hired Gun",
     "callsign": "N751GT",
-    "lon": -94.0077,
-    "lat": 32.0155,
-    "alt": 13716,
-    "velocity": 297.26,
-    "heading": 122.56,
+    "lon": -83.7362,
+    "lat": 27.2522,
+    "alt": 13723.62,
+    "velocity": 300.38,
+    "heading": 114.81,
     "trace": [
       [
         37.7012,
@@ -118,23 +185,27 @@
       [
         32.0155,
         -94.0077
+      ],
+      [
+        27.2522,
+        -83.7362
       ]
     ]
   },
   {
-    "hex": "51002b",
-    "name": "Gov of Belarus",
+    "hex": "4b8c2e",
+    "name": "Gov of Turkey",
     "category": "Dictator Alert",
-    "callsign": "BRU4003",
-    "lon": 28.2191,
-    "lat": 53.9346,
-    "alt": 967.74,
-    "velocity": 93.1,
-    "heading": 209.82,
+    "callsign": "TRK1",
+    "lon": 31.1843,
+    "lat": 40.7279,
+    "alt": 7216.14,
+    "velocity": 254.15,
+    "heading": 101.56,
     "trace": [
       [
-        53.9346,
-        28.2191
+        40.7279,
+        31.1843
       ]
     ]
   }
