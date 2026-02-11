@@ -1,39 +1,18 @@
 [
   {
-    "hex": "a95c2f",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR897",
-    "lon": -71.2991,
-    "lat": 41.8218,
-    "alt": 10363.2,
-    "velocity": 185.89,
-    "heading": 225.11,
-    "trace": [
-      [
-        46.1484,
-        -65.2248
-      ],
-      [
-        41.8218,
-        -71.2991
-      ]
-    ]
-  },
-  {
-    "hex": "70c0b4",
-    "name": "Oman Royal Flight",
+    "hex": "89605a",
+    "name": "Dubai Air Wing",
     "category": "Dictator Alert",
-    "callsign": "ORF4",
-    "lon": 51.7976,
-    "lat": 26.4244,
+    "callsign": "DUB5",
+    "lon": 37.0431,
+    "lat": 40.6554,
     "alt": 11582.4,
-    "velocity": 206.58,
-    "heading": 290.56,
+    "velocity": 210.57,
+    "heading": 291.05,
     "trace": [
       [
-        26.4244,
-        51.7976
+        40.6554,
+        37.0431
       ]
     ]
   },
@@ -42,11 +21,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3891",
-    "lon": -126.8051,
-    "lat": 49.769,
-    "alt": 11681.46,
-    "velocity": 212.08,
-    "heading": 314.71,
+    "lon": -132.1503,
+    "lat": 53.616,
+    "alt": 12192,
+    "velocity": 222.82,
+    "heading": 330.24,
     "trace": [
       [
         36.0279,
@@ -67,6 +46,27 @@
       [
         49.769,
         -126.8051
+      ],
+      [
+        53.616,
+        -132.1503
+      ]
+    ]
+  },
+  {
+    "hex": "a3defb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT8343",
+    "lon": -74.5067,
+    "lat": 5.1946,
+    "alt": 4953,
+    "velocity": 166.2,
+    "heading": 194.34,
+    "trace": [
+      [
+        5.1946,
+        -74.5067
       ]
     ]
   },
@@ -75,15 +75,36 @@
     "name": "Gov of Kuwait",
     "category": "Dictator Alert",
     "callsign": "KUG003",
-    "lon": 30.176,
-    "lat": 31.1265,
+    "lon": 26.3788,
+    "lat": 35.2348,
     "alt": 12192,
-    "velocity": 208.1,
-    "heading": 287.4,
+    "velocity": 222.8,
+    "heading": 312.75,
     "trace": [
       [
         31.1265,
         30.176
+      ],
+      [
+        35.2348,
+        26.3788
+      ]
+    ]
+  },
+  {
+    "hex": "adccd1",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA2964",
+    "lon": -80.087,
+    "lat": 25.6226,
+    "alt": 2743.2,
+    "velocity": 151.01,
+    "heading": 305.15,
+    "trace": [
+      [
+        25.6226,
+        -80.087
       ]
     ]
   },
@@ -92,11 +113,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2231",
-    "lon": -9.7499,
-    "lat": 40.6179,
+    "lon": -6.3431,
+    "lat": 45.9155,
     "alt": 12192,
-    "velocity": 221.91,
-    "heading": 12.59,
+    "velocity": 256.63,
+    "heading": 23.64,
     "trace": [
       [
         34.2683,
@@ -105,6 +126,10 @@
       [
         40.6179,
         -9.7499
+      ],
+      [
+        45.9155,
+        -6.3431
       ]
     ]
   },
@@ -113,11 +138,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR857",
-    "lon": -75.0781,
-    "lat": 40.5739,
+    "lon": -79.8536,
+    "lat": 37.3594,
     "alt": 10347.96,
-    "velocity": 200.78,
-    "heading": 230.93,
+    "velocity": 217.74,
+    "heading": 227.49,
     "trace": [
       [
         44.6977,
@@ -126,6 +151,10 @@
       [
         40.5739,
         -75.0781
+      ],
+      [
+        37.3594,
+        -79.8536
       ]
     ]
   },
@@ -134,11 +163,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6276",
-    "lon": -89.0651,
-    "lat": 32.3847,
-    "alt": 8831.58,
-    "velocity": 262.98,
-    "heading": 91.57,
+    "lon": -83.7181,
+    "lat": 29.2768,
+    "alt": 8846.82,
+    "velocity": 259.61,
+    "heading": 144.92,
     "trace": [
       [
         32.4741,
@@ -151,39 +180,10 @@
       [
         32.3847,
         -89.0651
-      ]
-    ]
-  },
-  {
-    "hex": "3cd05d",
-    "name": "Gesellschaft fur Flugzieldarstellung",
-    "category": "Hired Gun",
-    "callsign": "GFD1",
-    "lon": 8.9336,
-    "lat": 53.6171,
-    "alt": 5372.1,
-    "velocity": 172.75,
-    "heading": 36.77,
-    "trace": [
-      [
-        54.319,
-        9.6039
       ],
       [
-        52.1201,
-        7.3268
-      ],
-      [
-        50.92,
-        5.9155
-      ],
-      [
-        50.9607,
-        6.218
-      ],
-      [
-        53.6171,
-        8.9336
+        29.2768,
+        -83.7181
       ]
     ]
   },
@@ -192,11 +192,11 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7AAH",
-    "lon": 24.0662,
-    "lat": 39.8595,
+    "lon": 19.2793,
+    "lat": 43.7204,
     "alt": 11582.4,
-    "velocity": 220.68,
-    "heading": 317.65,
+    "velocity": 224.42,
+    "heading": 318.16,
     "trace": [
       [
         29.3237,
@@ -209,27 +209,27 @@
       [
         39.8595,
         24.0662
+      ],
+      [
+        43.7204,
+        19.2793
       ]
     ]
   },
   {
-    "hex": "406ad0",
-    "name": "Draken Europe",
+    "hex": "a9c52e",
+    "name": "National Airlines",
     "category": "Hired Gun",
-    "callsign": "GFFMV",
-    "lon": -2.1009,
-    "lat": 51.2178,
-    "alt": 1943.1,
-    "velocity": 57.11,
-    "heading": 172.23,
+    "callsign": "NCR530",
+    "lon": 103.7505,
+    "lat": 15.4419,
+    "alt": 9753.6,
+    "velocity": 265.7,
+    "heading": 265.67,
     "trace": [
       [
-        51.2501,
-        -2.0603
-      ],
-      [
-        51.2178,
-        -2.1009
+        15.4419,
+        103.7505
       ]
     ]
   },
@@ -238,11 +238,11 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7MHH",
-    "lon": 16.3095,
-    "lat": 35.5772,
-    "alt": 11582.4,
-    "velocity": 203.71,
-    "heading": 278.13,
+    "lon": 10.7207,
+    "lat": 36.151,
+    "alt": 11574.78,
+    "velocity": 201.09,
+    "heading": 278.09,
     "trace": [
       [
         31.1993,
@@ -255,6 +255,10 @@
       [
         35.5772,
         16.3095
+      ],
+      [
+        36.151,
+        10.7207
       ]
     ]
   }
