@@ -1,18 +1,35 @@
 [
   {
-    "hex": "a1f3aa",
-    "name": "Omni Air International",
-    "category": "Hired Gun",
-    "callsign": "OAE3891",
-    "lon": 128.4278,
-    "lat": 27.1222,
-    "alt": 4876.8,
-    "velocity": 185.53,
-    "heading": 217.79,
+    "hex": "89607a",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB6",
+    "lon": -9.6036,
+    "lat": 52.5464,
+    "alt": 2186.94,
+    "velocity": 130.87,
+    "heading": 86.85,
     "trace": [
       [
-        27.1222,
-        128.4278
+        52.5464,
+        -9.6036
+      ]
+    ]
+  },
+  {
+    "hex": "600801",
+    "name": "Gov of Azerbaijan",
+    "category": "Dictator Alert",
+    "callsign": "AHY4731",
+    "lon": 23.4654,
+    "lat": 45.3335,
+    "alt": 10980.42,
+    "velocity": 227.08,
+    "heading": 292.09,
+    "trace": [
+      [
+        45.3335,
+        23.4654
       ]
     ]
   },
@@ -21,32 +38,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR556",
-    "lon": 119.1915,
-    "lat": 23.3367,
-    "alt": 13106.4,
-    "velocity": 205.25,
-    "heading": 237.9,
+    "lon": 113.911,
+    "lat": 22.3099,
+    "alt": null,
+    "velocity": 5.4,
+    "heading": 160.31,
     "trace": [
       [
         23.3367,
         119.1915
-      ]
-    ]
-  },
-  {
-    "hex": "600be9",
-    "name": "Gov of Azerbaijan",
-    "category": "Dictator Alert",
-    "callsign": "AHY6731",
-    "lon": 44.7058,
-    "lat": 41.5341,
-    "alt": 11582.4,
-    "velocity": 222.17,
-    "heading": 275.31,
-    "trace": [
+      ],
       [
-        41.5341,
-        44.7058
+        22.3099,
+        113.911
       ]
     ]
   },
@@ -55,11 +59,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA3053",
-    "lon": -98.4929,
-    "lat": 32.6475,
-    "alt": 10980.42,
-    "velocity": 191.98,
-    "heading": 260.44,
+    "lon": -106.1479,
+    "lat": 31.8592,
+    "alt": 2346.96,
+    "velocity": 124.5,
+    "heading": 332.16,
     "trace": [
       [
         26.9755,
@@ -80,27 +84,10 @@
       [
         32.6475,
         -98.4929
-      ]
-    ]
-  },
-  {
-    "hex": "a95c2f",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR844",
-    "lon": -3.6479,
-    "lat": 52.4579,
-    "alt": 9753.6,
-    "velocity": 245.49,
-    "heading": 299.09,
-    "trace": [
-      [
-        47.7247,
-        4.6112
       ],
       [
-        52.4579,
-        -3.6479
+        31.8592,
+        -106.1479
       ]
     ]
   },
@@ -118,6 +105,23 @@
       [
         33.3034,
         -111.6615
+      ]
+    ]
+  },
+  {
+    "hex": "157717",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD956",
+    "lon": 37.3995,
+    "lat": 55.9752,
+    "alt": 7078.98,
+    "velocity": 27.66,
+    "heading": 9.64,
+    "trace": [
+      [
+        55.9752,
+        37.3995
       ]
     ]
   }
