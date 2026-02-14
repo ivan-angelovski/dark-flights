@@ -1,43 +1,39 @@
 [
   {
-    "hex": "a8699a",
-    "name": "Atlas Air",
-    "category": "Hired Gun",
-    "callsign": "GTI8280",
-    "lon": -112.5628,
-    "lat": 47.7907,
-    "alt": 10683.24,
-    "velocity": 280.9,
-    "heading": 90.63,
-    "trace": [
-      [
-        47.5297,
-        -122.2992
-      ],
-      [
-        47.7039,
-        -118.078
-      ],
-      [
-        47.7907,
-        -112.5628
-      ]
-    ]
-  },
-  {
     "hex": "a1f3aa",
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE3891",
-    "lon": -126.4317,
-    "lat": 49.0301,
-    "alt": 11887.2,
-    "velocity": 248.45,
-    "heading": 120.76,
+    "lon": -121.1792,
+    "lat": 46.939,
+    "alt": 11894.82,
+    "velocity": 250.14,
+    "heading": 121.63,
     "trace": [
       [
         49.0301,
         -126.4317
+      ],
+      [
+        46.939,
+        -121.1792
+      ]
+    ]
+  },
+  {
+    "hex": "78048c",
+    "name": "Gov of PRC",
+    "category": "Dictator Alert",
+    "callsign": "CCA1902",
+    "lon": 116.7147,
+    "lat": 40.1905,
+    "alt": 2697.48,
+    "velocity": 144.53,
+    "heading": 173.25,
+    "trace": [
+      [
+        40.1905,
+        116.7147
       ]
     ]
   },
@@ -46,11 +42,11 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7HHK",
-    "lon": 21.6576,
-    "lat": 37.7098,
+    "lon": 18.9668,
+    "lat": 40.287,
     "alt": 12192,
-    "velocity": 209.46,
-    "heading": 321.58,
+    "velocity": 224.02,
+    "heading": 322.18,
     "trace": [
       [
         35.5356,
@@ -59,47 +55,10 @@
       [
         37.7098,
         21.6576
-      ]
-    ]
-  },
-  {
-    "hex": "06a01c",
-    "name": "Qatar Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "QAF6",
-    "lon": 11.3685,
-    "lat": 48.2432,
-    "alt": 1577.34,
-    "velocity": 129.35,
-    "heading": 300.34,
-    "trace": [
-      [
-        34.959,
-        34.8846
       ],
       [
-        39.788,
-        30.112
-      ],
-      [
-        42.4434,
-        26.314
-      ],
-      [
-        43.6663,
-        23.122
-      ],
-      [
-        45.4229,
-        19.8658
-      ],
-      [
-        47.3076,
-        14.9784
-      ],
-      [
-        48.2432,
-        11.3685
+        40.287,
+        18.9668
       ]
     ]
   },
@@ -108,11 +67,11 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7MHH",
-    "lon": 21.8447,
-    "lat": 39.7673,
+    "lon": 25.7178,
+    "lat": 36.5395,
     "alt": 11277.6,
-    "velocity": 260.48,
-    "heading": 135.8,
+    "velocity": 275.32,
+    "heading": 137.73,
     "trace": [
       [
         47.5951,
@@ -129,6 +88,27 @@
       [
         39.7673,
         21.8447
+      ],
+      [
+        36.5395,
+        25.7178
+      ]
+    ]
+  },
+  {
+    "hex": "48448c",
+    "name": "Equatorial Guinea",
+    "category": "Dictator Alert",
+    "callsign": "P4SKN",
+    "lon": 55.06,
+    "lat": 24.8627,
+    "alt": 3185.16,
+    "velocity": 131.8,
+    "heading": 92.24,
+    "trace": [
+      [
+        24.8627,
+        55.06
       ]
     ]
   },
@@ -137,15 +117,19 @@
     "name": "Royal Air Force of Oman",
     "category": "Dictator Alert",
     "callsign": "MJN586",
-    "lon": 86.8671,
-    "lat": 19.3172,
+    "lon": 83.3233,
+    "lat": 20.051,
     "alt": 11582.4,
-    "velocity": 227.86,
-    "heading": 308.22,
+    "velocity": 219.79,
+    "heading": 278.07,
     "trace": [
       [
         19.3172,
         86.8671
+      ],
+      [
+        20.051,
+        83.3233
       ]
     ]
   },
@@ -154,15 +138,36 @@
     "name": "Pallas Aviation",
     "category": "Hired Gun",
     "callsign": "WDE17",
-    "lon": 55.2379,
-    "lat": 24.0389,
-    "alt": 7917.18,
-    "velocity": 149.93,
-    "heading": 307.89,
+    "lon": 53.081,
+    "lat": 25.5298,
+    "alt": 7924.8,
+    "velocity": 142.63,
+    "heading": 283.13,
     "trace": [
       [
         24.0389,
         55.2379
+      ],
+      [
+        25.5298,
+        53.081
+      ]
+    ]
+  },
+  {
+    "hex": "157717",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD951",
+    "lon": 88.8627,
+    "lat": 56.8277,
+    "alt": 10652.76,
+    "velocity": 251.37,
+    "heading": 112.63,
+    "trace": [
+      [
+        56.8277,
+        88.8627
       ]
     ]
   }
