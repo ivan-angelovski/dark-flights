@@ -4,15 +4,53 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8280",
-    "lon": -122.2992,
-    "lat": 47.5297,
-    "alt": null,
-    "velocity": 0.32,
-    "heading": 317.81,
+    "lon": -118.078,
+    "lat": 47.7039,
+    "alt": 10668,
+    "velocity": 279.83,
+    "heading": 86.63,
     "trace": [
       [
         47.5297,
         -122.2992
+      ],
+      [
+        47.7039,
+        -118.078
+      ]
+    ]
+  },
+  {
+    "hex": "896430",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB9",
+    "lon": 37.246,
+    "lat": 40.4474,
+    "alt": 10972.8,
+    "velocity": 221.87,
+    "heading": 294.96,
+    "trace": [
+      [
+        40.4474,
+        37.246
+      ]
+    ]
+  },
+  {
+    "hex": "a3defb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT8633",
+    "lon": -72.5075,
+    "lat": 21.3734,
+    "alt": 11300.46,
+    "velocity": 271.04,
+    "heading": 126.04,
+    "trace": [
+      [
+        21.3734,
+        -72.5075
       ]
     ]
   },
@@ -21,11 +59,11 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT8641",
-    "lon": -70.47,
-    "lat": 21.22,
-    "alt": 11902.44,
-    "velocity": 270.68,
-    "heading": 124.23,
+    "lon": -66.6323,
+    "lat": 18.7684,
+    "alt": 3337.56,
+    "velocity": 176.09,
+    "heading": 122.72,
     "trace": [
       [
         22.9835,
@@ -34,6 +72,27 @@
       [
         21.22,
         -70.47
+      ],
+      [
+        18.7684,
+        -66.6323
+      ]
+    ]
+  },
+  {
+    "hex": "06a001",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "A7HHK",
+    "lon": 23.7542,
+    "lat": 35.5356,
+    "alt": 12192,
+    "velocity": 206.4,
+    "heading": 322.9,
+    "trace": [
+      [
+        35.5356,
+        23.7542
       ]
     ]
   },
@@ -42,11 +101,11 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "QAF6",
-    "lon": 19.8658,
-    "lat": 45.4229,
+    "lon": 14.9784,
+    "lat": 47.3076,
     "alt": 11582.4,
-    "velocity": 230.11,
-    "heading": 308.1,
+    "velocity": 234.34,
+    "heading": 294.65,
     "trace": [
       [
         34.959,
@@ -67,23 +126,10 @@
       [
         45.4229,
         19.8658
-      ]
-    ]
-  },
-  {
-    "hex": "a9c52e",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR550",
-    "lon": 55.8914,
-    "lat": 24.6644,
-    "alt": 3116.58,
-    "velocity": 153.32,
-    "heading": 270.77,
-    "trace": [
+      ],
       [
-        24.6644,
-        55.8914
+        47.3076,
+        14.9784
       ]
     ]
   },
@@ -92,11 +138,11 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7MHH",
-    "lon": 15.1962,
-    "lat": 45.2417,
-    "alt": 11285.22,
-    "velocity": 230.47,
-    "heading": 143.26,
+    "lon": 18.673,
+    "lat": 42.1981,
+    "alt": 11277.6,
+    "velocity": 244.46,
+    "heading": 134.66,
     "trace": [
       [
         47.5951,
@@ -105,6 +151,10 @@
       [
         45.2417,
         15.1962
+      ],
+      [
+        42.1981,
+        18.673
       ]
     ]
   },
@@ -113,11 +163,11 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "FRA87",
-    "lon": 31.0228,
-    "lat": 32.4491,
+    "lon": 32.5573,
+    "lat": 28.9159,
     "alt": 9448.8,
-    "velocity": 235.11,
-    "heading": 174.6,
+    "velocity": 254.77,
+    "heading": 141.39,
     "trace": [
       [
         34.3118,
@@ -126,23 +176,27 @@
       [
         32.4491,
         31.0228
+      ],
+      [
+        28.9159,
+        32.5573
       ]
     ]
   },
   {
-    "hex": "70c08c",
-    "name": "Royal Air Force of Oman",
-    "category": "Dictator Alert",
-    "callsign": "MJN586",
-    "lon": null,
-    "lat": null,
-    "alt": 11590.02,
-    "velocity": 227.9,
-    "heading": 290.48,
+    "hex": "aa3086",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR554",
+    "lon": 55.543,
+    "lat": 24.6928,
+    "alt": 1798.32,
+    "velocity": 123.13,
+    "heading": 298.17,
     "trace": [
       [
-        14.0583,
-        99.537
+        24.6928,
+        55.543
       ]
     ]
   }
