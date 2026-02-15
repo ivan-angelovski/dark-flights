@@ -4,15 +4,19 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB6",
-    "lon": 19.2085,
-    "lat": 46.3309,
+    "lon": 17.3712,
+    "lat": 46.5716,
     "alt": 11582.4,
-    "velocity": 221.46,
-    "heading": 281.39,
+    "velocity": 221.42,
+    "heading": 279.9,
     "trace": [
       [
         46.3309,
         19.2085
+      ],
+      [
+        46.5716,
+        17.3712
       ]
     ]
   },
@@ -21,11 +25,11 @@
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "AUH11",
-    "lon": 11.9947,
-    "lat": 35.8677,
+    "lon": 11.0278,
+    "lat": 36.0521,
     "alt": 10972.8,
-    "velocity": 219.13,
-    "heading": 293.38,
+    "velocity": 219.99,
+    "heading": 280.1,
     "trace": [
       [
         35.3993,
@@ -38,6 +42,10 @@
       [
         35.8677,
         11.9947
+      ],
+      [
+        36.0521,
+        11.0278
       ]
     ]
   },
@@ -46,11 +54,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE4060",
-    "lon": -86.1787,
-    "lat": 33.8714,
+    "lon": -84.4575,
+    "lat": 34.4683,
     "alt": 10668,
-    "velocity": 263.65,
-    "heading": 66.79,
+    "velocity": 269.78,
+    "heading": 67.93,
     "trace": [
       [
         32.9558,
@@ -59,23 +67,44 @@
       [
         33.8714,
         -86.1787
+      ],
+      [
+        34.4683,
+        -84.4575
       ]
     ]
   },
   {
-    "hex": "78048c",
-    "name": "Gov of PRC",
+    "hex": "894014",
+    "name": "Bahrain Amiri Flight",
     "category": "Dictator Alert",
-    "callsign": "CCA1563",
-    "lon": 117.0676,
-    "lat": 40.1203,
-    "alt": 4251.96,
-    "velocity": 203.73,
-    "heading": 164.17,
+    "callsign": "BAH2",
+    "lon": 56.9944,
+    "lat": 23.7809,
+    "alt": 10363.2,
+    "velocity": 235.29,
+    "heading": 291.69,
     "trace": [
       [
-        40.1203,
-        117.0676
+        23.7809,
+        56.9944
+      ]
+    ]
+  },
+  {
+    "hex": "a2c129",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6121",
+    "lon": -93.869,
+    "lat": 30.6558,
+    "alt": 9090.66,
+    "velocity": 221.13,
+    "heading": 229.53,
+    "trace": [
+      [
+        30.6558,
+        -93.869
       ]
     ]
   },
@@ -84,11 +113,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR557",
-    "lon": 86.163,
-    "lat": 22.8151,
+    "lon": 84.7232,
+    "lat": 22.9284,
     "alt": 9753.6,
-    "velocity": 230.38,
-    "heading": 273.46,
+    "velocity": 230.11,
+    "heading": 274.36,
     "trace": [
       [
         22.2879,
@@ -101,6 +130,10 @@
       [
         22.8151,
         86.163
+      ],
+      [
+        22.9284,
+        84.7232
       ]
     ]
   },
@@ -109,11 +142,11 @@
     "name": "Gov of Kuwait",
     "category": "Dictator Alert",
     "callsign": "KUG003",
-    "lon": 16.5472,
-    "lat": 41.7271,
+    "lon": 17.6109,
+    "lat": 40.9185,
     "alt": 11277.6,
-    "velocity": 260.09,
-    "heading": 134.92,
+    "velocity": 258.3,
+    "heading": 135.81,
     "trace": [
       [
         48.1546,
@@ -130,6 +163,10 @@
       [
         41.7271,
         16.5472
+      ],
+      [
+        40.9185,
+        17.6109
       ]
     ]
   }
