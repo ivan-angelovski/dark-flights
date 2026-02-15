@@ -1,26 +1,18 @@
 [
   {
-    "hex": "89607a",
-    "name": "Dubai Air Wing",
+    "hex": "8960b1",
+    "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
-    "callsign": "DUB6",
-    "lon": 9.9236,
-    "lat": 46.8105,
-    "alt": 10934.7,
-    "velocity": 211.2,
-    "heading": 282.38,
+    "callsign": "AUH11",
+    "lon": -3.2926,
+    "lat": 34.4129,
+    "alt": 10363.2,
+    "velocity": 234.1,
+    "heading": 251.68,
     "trace": [
       [
-        46.3309,
-        19.2085
-      ],
-      [
-        46.5716,
-        17.3712
-      ],
-      [
-        46.8105,
-        9.9236
+        34.4129,
+        -3.2926
       ]
     ]
   },
@@ -29,120 +21,70 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI759",
-    "lon": -97.0597,
-    "lat": 32.9146,
+    "lon": -97.0579,
+    "lat": 32.9072,
     "alt": null,
-    "velocity": 0,
-    "heading": 270,
+    "velocity": 11.32,
+    "heading": 180,
     "trace": [
       [
         32.9146,
         -97.0597
+      ],
+      [
+        32.9072,
+        -97.0579
       ]
     ]
   },
   {
-    "hex": "a1f3aa",
-    "name": "Omni Air International",
-    "category": "Hired Gun",
-    "callsign": "OAE4060",
-    "lon": -77.0816,
-    "lat": 36.6449,
-    "alt": 10668,
-    "velocity": 274.49,
-    "heading": 70.51,
-    "trace": [
-      [
-        32.9558,
-        -88.6517
-      ],
-      [
-        33.8714,
-        -86.1787
-      ],
-      [
-        34.4683,
-        -84.4575
-      ],
-      [
-        36.6449,
-        -77.0816
-      ]
-    ]
-  },
-  {
-    "hex": "a3defb",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT773",
-    "lon": -79.3367,
-    "lat": 14.7849,
-    "alt": 11910.06,
-    "velocity": 242.03,
-    "heading": 182.56,
-    "trace": [
-      [
-        14.7849,
-        -79.3367
-      ]
-    ]
-  },
-  {
-    "hex": "894014",
+    "hex": "89407f",
     "name": "Bahrain Amiri Flight",
     "category": "Dictator Alert",
-    "callsign": "BAH2",
-    "lon": 51.8189,
-    "lat": 26.2019,
-    "alt": 5707.38,
-    "velocity": 179.9,
-    "heading": 309.2,
+    "callsign": "BAH6",
+    "lon": 55.312,
+    "lat": 25.3683,
+    "alt": 2438.4,
+    "velocity": 133.3,
+    "heading": 132.18,
     "trace": [
       [
-        23.7809,
-        56.9944
-      ],
-      [
-        26.2019,
-        51.8189
+        25.3683,
+        55.312
       ]
     ]
   },
   {
-    "hex": "a9c52e",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR511",
-    "lon": 114.3214,
-    "lat": 22.0035,
-    "alt": 3596.64,
-    "velocity": 159.96,
-    "heading": 141.4,
-    "trace": [
-      [
-        22.0035,
-        114.3214
-      ]
-    ]
-  },
-  {
-    "hex": "a2c129",
+    "hex": "ad7274",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "GXA6121",
-    "lon": -97.3379,
-    "lat": 26.6369,
-    "alt": 3566.16,
-    "velocity": 176.04,
-    "heading": 199.28,
+    "callsign": "",
+    "lon": -93.0057,
+    "lat": 27.8768,
+    "alt": 10668,
+    "velocity": 244.53,
+    "heading": 172.26,
     "trace": [
       [
-        30.6558,
-        -93.869
-      ],
+        27.8768,
+        -93.0057
+      ]
+    ]
+  },
+  {
+    "hex": "600bc4",
+    "name": "Gov of Azerbaijan",
+    "category": "Dictator Alert",
+    "callsign": "AHY601",
+    "lon": 46.9442,
+    "lat": 40.8922,
+    "alt": 12192,
+    "velocity": 223.07,
+    "heading": 289.4,
+    "trace": [
       [
-        26.6369,
-        -97.3379
+        40.8922,
+        46.9442
       ]
     ]
   },
@@ -151,11 +93,11 @@
     "name": "Gov of Kuwait",
     "category": "Dictator Alert",
     "callsign": "KUG003",
-    "lon": 23.6033,
-    "lat": 36.6667,
+    "lon": 31.4805,
+    "lat": 33.0439,
     "alt": 11887.2,
-    "velocity": 257.33,
-    "heading": 126.71,
+    "velocity": 267.14,
+    "heading": 128.75,
     "trace": [
       [
         48.1546,
@@ -180,6 +122,27 @@
       [
         36.6667,
         23.6033
+      ],
+      [
+        33.0439,
+        31.4805
+      ]
+    ]
+  },
+  {
+    "hex": "a815bf",
+    "name": "Dynamic Avlease Inc",
+    "category": "Hired Gun",
+    "callsign": "N62V",
+    "lon": -98.2636,
+    "lat": 24.9693,
+    "alt": 3810,
+    "velocity": 100.56,
+    "heading": 350.87,
+    "trace": [
+      [
+        24.9693,
+        -98.2636
       ]
     ]
   }
