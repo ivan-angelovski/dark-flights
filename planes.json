@@ -1,14 +1,31 @@
 [
   {
+    "hex": "89607a",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB6",
+    "lon": 19.2085,
+    "lat": 46.3309,
+    "alt": 11582.4,
+    "velocity": 221.46,
+    "heading": 281.39,
+    "trace": [
+      [
+        46.3309,
+        19.2085
+      ]
+    ]
+  },
+  {
     "hex": "8960b1",
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "AUH11",
-    "lon": 14.0906,
-    "lat": 35.4109,
+    "lon": 11.9947,
+    "lat": 35.8677,
     "alt": 10972.8,
-    "velocity": 208.74,
-    "heading": 258.77,
+    "velocity": 219.13,
+    "heading": 293.38,
     "trace": [
       [
         35.3993,
@@ -17,6 +34,10 @@
       [
         35.4109,
         14.0906
+      ],
+      [
+        35.8677,
+        11.9947
       ]
     ]
   },
@@ -25,32 +46,36 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE4060",
-    "lon": -88.6517,
-    "lat": 32.9558,
+    "lon": -86.1787,
+    "lat": 33.8714,
     "alt": 10668,
-    "velocity": 269.33,
-    "heading": 65.39,
+    "velocity": 263.65,
+    "heading": 66.79,
     "trace": [
       [
         32.9558,
         -88.6517
+      ],
+      [
+        33.8714,
+        -86.1787
       ]
     ]
   },
   {
-    "hex": "a3defb",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT773",
-    "lon": -79.7962,
-    "lat": 23.9631,
-    "alt": 11292.84,
-    "velocity": 255.09,
-    "heading": 171.18,
+    "hex": "78048c",
+    "name": "Gov of PRC",
+    "category": "Dictator Alert",
+    "callsign": "CCA1563",
+    "lon": 117.0676,
+    "lat": 40.1203,
+    "alt": 4251.96,
+    "velocity": 203.73,
+    "heading": 164.17,
     "trace": [
       [
-        23.9631,
-        -79.7962
+        40.1203,
+        117.0676
       ]
     ]
   },
@@ -59,11 +84,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR557",
-    "lon": 88.2611,
-    "lat": 22.6895,
+    "lon": 86.163,
+    "lat": 22.8151,
     "alt": 9753.6,
-    "velocity": 230,
-    "heading": 273.98,
+    "velocity": 230.38,
+    "heading": 273.46,
     "trace": [
       [
         22.2879,
@@ -72,6 +97,10 @@
       [
         22.6895,
         88.2611
+      ],
+      [
+        22.8151,
+        86.163
       ]
     ]
   },
@@ -80,11 +109,11 @@
     "name": "Gov of Kuwait",
     "category": "Dictator Alert",
     "callsign": "KUG003",
-    "lon": 14.427,
-    "lat": 43.2533,
+    "lon": 16.5472,
+    "lat": 41.7271,
     "alt": 11277.6,
-    "velocity": 262.37,
-    "heading": 133.49,
+    "velocity": 260.09,
+    "heading": 134.92,
     "trace": [
       [
         48.1546,
@@ -97,6 +126,10 @@
       [
         43.2533,
         14.427
+      ],
+      [
+        41.7271,
+        16.5472
       ]
     ]
   }
