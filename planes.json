@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a835d1",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA103",
+    "lon": -80.3559,
+    "lat": 25.7844,
+    "alt": 236.22,
+    "velocity": 69.03,
+    "heading": 87.01,
+    "trace": [
+      [
+        25.7844,
+        -80.3559
+      ]
+    ]
+  },
+  {
     "hex": "acfc26",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR835",
-    "lon": -102.3731,
-    "lat": 37.8945,
+    "lon": -95.4878,
+    "lat": 31.3552,
     "alt": 10058.4,
-    "velocity": 271.98,
-    "heading": 140.68,
+    "velocity": 276.78,
+    "heading": 142.7,
     "trace": [
       [
         61.1289,
@@ -21,23 +38,27 @@
       [
         37.8945,
         -102.3731
+      ],
+      [
+        31.3552,
+        -95.4878
       ]
     ]
   },
   {
-    "hex": "70c08c",
-    "name": "Royal Air Force of Oman",
-    "category": "Dictator Alert",
-    "callsign": "MJN557",
-    "lon": 56.226,
-    "lat": 26.3022,
-    "alt": 906.78,
-    "velocity": 79.31,
-    "heading": 352.92,
+    "hex": "aa3086",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR560",
+    "lon": 87.5966,
+    "lat": 22.7315,
+    "alt": 11887.2,
+    "velocity": 281.5,
+    "heading": 93.77,
     "trace": [
       [
-        26.3022,
-        56.226
+        22.7315,
+        87.5966
       ]
     ]
   },
@@ -46,57 +67,19 @@
     "name": "Gov of Brunei",
     "category": "Dictator Alert",
     "callsign": "V8OAS",
-    "lon": 91.1971,
-    "lat": 19.5017,
+    "lon": 85.3727,
+    "lat": 24.3944,
     "alt": 10965.18,
-    "velocity": 245.19,
-    "heading": 307.33,
+    "velocity": 221.8,
+    "heading": 301.15,
     "trace": [
       [
         19.5017,
         91.1971
-      ]
-    ]
-  },
-  {
-    "hex": "ab9639",
-    "name": "Omni Air International",
-    "category": "Hired Gun",
-    "callsign": "OAE3930",
-    "lon": -118.6111,
-    "lat": 45.5003,
-    "alt": 12192,
-    "velocity": 240.33,
-    "heading": 310.92,
-    "trace": [
-      [
-        36.9727,
-        -107.2166
       ],
       [
-        45.5003,
-        -118.6111
-      ]
-    ]
-  },
-  {
-    "hex": "a97a1a",
-    "name": "ISR Platforms",
-    "category": "Hired Gun",
-    "callsign": "TGR671",
-    "lon": 119.4487,
-    "lat": 14.6367,
-    "alt": 3078.48,
-    "velocity": 71.67,
-    "heading": 230.83,
-    "trace": [
-      [
-        15.0354,
-        120.4707
-      ],
-      [
-        14.6367,
-        119.4487
+        24.3944,
+        85.3727
       ]
     ]
   }
