@@ -1,47 +1,73 @@
 [
   {
-    "hex": "600be8",
-    "name": "Gov of Azerbaijan",
-    "category": "Dictator Alert",
-    "callsign": "AHY4733",
-    "lon": 47.4601,
-    "lat": 41.0394,
-    "alt": 9387.84,
-    "velocity": 199.95,
-    "heading": 295.77,
+    "hex": "a451cb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT8620",
+    "lon": 4.4602,
+    "lat": 50.9025,
+    "alt": null,
+    "velocity": 0,
+    "heading": 67.5,
     "trace": [
       [
-        41.0394,
-        47.4601
+        50.9025,
+        4.4602
       ]
     ]
   },
   {
-    "hex": "8953e3",
-    "name": "Gov of Brunei",
+    "hex": "894081",
+    "name": "Bahrain Defence Force",
     "category": "Dictator Alert",
-    "callsign": "V8OAS",
-    "lon": 74.138,
-    "lat": 31.4176,
-    "alt": 11582.4,
-    "velocity": 217.51,
-    "heading": 275.29,
+    "callsign": "BAH11",
+    "lon": 30.7196,
+    "lat": 30.8006,
+    "alt": 6736.08,
+    "velocity": 225.8,
+    "heading": 320.36,
     "trace": [
       [
-        19.5017,
-        91.1971
+        30.8006,
+        30.7196
+      ]
+    ]
+  },
+  {
+    "hex": "600be8",
+    "name": "Gov of Azerbaijan",
+    "category": "Dictator Alert",
+    "callsign": "AHY4733",
+    "lon": 40.7195,
+    "lat": 41.5891,
+    "alt": 9753.6,
+    "velocity": 227.48,
+    "heading": 276.88,
+    "trace": [
+      [
+        41.0394,
+        47.4601
       ],
       [
-        24.3944,
-        85.3727
-      ],
+        41.5891,
+        40.7195
+      ]
+    ]
+  },
+  {
+    "hex": "aa3086",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR560",
+    "lon": 113.5254,
+    "lat": 22.0039,
+    "alt": 5775.96,
+    "velocity": 192.72,
+    "heading": 157.06,
+    "trace": [
       [
-        29.8631,
-        77.5798
-      ],
-      [
-        31.4176,
-        74.138
+        22.0039,
+        113.5254
       ]
     ]
   },
@@ -50,11 +76,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6201",
-    "lon": -103.0939,
-    "lat": 30.9848,
-    "alt": 10668,
-    "velocity": 252.18,
-    "heading": 107.7,
+    "lon": -94.1949,
+    "lat": 29.804,
+    "alt": 10660.38,
+    "velocity": 258.81,
+    "heading": 98.92,
     "trace": [
       [
         32.3599,
@@ -63,6 +89,10 @@
       [
         30.9848,
         -103.0939
+      ],
+      [
+        29.804,
+        -94.1949
       ]
     ]
   }
