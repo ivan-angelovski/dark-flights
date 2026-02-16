@@ -1,73 +1,90 @@
 [
   {
+    "hex": "0200cc",
+    "name": "Gov of Morocco",
+    "category": "Dictator Alert",
+    "callsign": "MRS0603",
+    "lon": -4.6514,
+    "lat": 39.3766,
+    "alt": 10965.18,
+    "velocity": 220.87,
+    "heading": 22.02,
+    "trace": [
+      [
+        39.3766,
+        -4.6514
+      ]
+    ]
+  },
+  {
+    "hex": "600801",
+    "name": "Gov of Azerbaijan",
+    "category": "Dictator Alert",
+    "callsign": "AHY4731",
+    "lon": 20.2911,
+    "lat": 44.8233,
+    "alt": null,
+    "velocity": 7.72,
+    "heading": 123.75,
+    "trace": [
+      [
+        44.8233,
+        20.2911
+      ]
+    ]
+  },
+  {
     "hex": "a451cb",
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT8620",
-    "lon": 4.4602,
-    "lat": 50.9025,
-    "alt": null,
-    "velocity": 0,
-    "heading": 67.5,
+    "lon": -1.72,
+    "lat": 53.1764,
+    "alt": 9768.84,
+    "velocity": 212.2,
+    "heading": 304.73,
     "trace": [
       [
         50.9025,
         4.4602
-      ]
-    ]
-  },
-  {
-    "hex": "894081",
-    "name": "Bahrain Defence Force",
-    "category": "Dictator Alert",
-    "callsign": "BAH11",
-    "lon": 30.7196,
-    "lat": 30.8006,
-    "alt": 6736.08,
-    "velocity": 225.8,
-    "heading": 320.36,
-    "trace": [
-      [
-        30.8006,
-        30.7196
-      ]
-    ]
-  },
-  {
-    "hex": "600be8",
-    "name": "Gov of Azerbaijan",
-    "category": "Dictator Alert",
-    "callsign": "AHY4733",
-    "lon": 40.7195,
-    "lat": 41.5891,
-    "alt": 9753.6,
-    "velocity": 227.48,
-    "heading": 276.88,
-    "trace": [
-      [
-        41.0394,
-        47.4601
       ],
       [
-        41.5891,
-        40.7195
+        53.1764,
+        -1.72
       ]
     ]
   },
   {
-    "hex": "aa3086",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR560",
-    "lon": 113.5254,
-    "lat": 22.0039,
-    "alt": 5775.96,
-    "velocity": 192.72,
-    "heading": 157.06,
+    "hex": "600be9",
+    "name": "Gov of Azerbaijan",
+    "category": "Dictator Alert",
+    "callsign": "AHY6731",
+    "lon": 16.7002,
+    "lat": 46.196,
+    "alt": 11582.4,
+    "velocity": 230.56,
+    "heading": 301.78,
     "trace": [
       [
-        22.0039,
-        113.5254
+        46.196,
+        16.7002
+      ]
+    ]
+  },
+  {
+    "hex": "400e15",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "TASMAN71",
+    "lon": 0.0586,
+    "lat": 54.8929,
+    "alt": 4572,
+    "velocity": 188.47,
+    "heading": 69.88,
+    "trace": [
+      [
+        54.8929,
+        0.0586
       ]
     ]
   },
@@ -76,11 +93,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6201",
-    "lon": -94.1949,
-    "lat": 29.804,
-    "alt": 10660.38,
-    "velocity": 258.81,
-    "heading": 98.92,
+    "lon": -84.9516,
+    "lat": 27.5672,
+    "alt": 11277.6,
+    "velocity": 261.89,
+    "heading": 112.89,
     "trace": [
       [
         32.3599,
@@ -93,6 +110,27 @@
       [
         29.804,
         -94.1949
+      ],
+      [
+        27.5672,
+        -84.9516
+      ]
+    ]
+  },
+  {
+    "hex": "157717",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD788",
+    "lon": 47.7374,
+    "lat": 45.7381,
+    "alt": 10347.96,
+    "velocity": 4.12,
+    "heading": 270,
+    "trace": [
+      [
+        45.7381,
+        47.7374
       ]
     ]
   }
