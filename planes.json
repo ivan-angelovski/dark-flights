@@ -1,60 +1,103 @@
 [
   {
-    "hex": "a0f8f9",
-    "name": "Atlas Air",
-    "category": "Hired Gun",
-    "callsign": "GTI765",
-    "lon": -96.7171,
-    "lat": 32.8374,
-    "alt": 4495.8,
-    "velocity": 203.01,
-    "heading": 65.12,
-    "trace": [
-      [
-        32.8374,
-        -96.7171
-      ]
-    ]
-  },
-  {
-    "hex": "06a01c",
-    "name": "Qatar Amiri Flight",
+    "hex": "896264",
+    "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
-    "callsign": "QAF6",
-    "lon": 2.1721,
-    "lat": 36.195,
+    "callsign": "AUH03",
+    "lon": 16.2899,
+    "lat": 52.3728,
     "alt": 10972.8,
-    "velocity": 221.39,
-    "heading": 261.85,
+    "velocity": 240.83,
+    "heading": 319.5,
     "trace": [
       [
-        29.2191,
-        34.0314
-      ],
-      [
-        30.4548,
-        31.0894
-      ],
-      [
-        36.195,
-        2.1721
+        52.3728,
+        16.2899
       ]
     ]
   },
   {
-    "hex": "a2d25e",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA104",
-    "lon": -82.3825,
-    "lat": 24.5779,
-    "alt": 11026.14,
-    "velocity": 246.07,
-    "heading": 59.47,
+    "hex": "896272",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB4",
+    "lon": 49.7594,
+    "lat": 27.6726,
+    "alt": 10972.8,
+    "velocity": 255.02,
+    "heading": 321.88,
     "trace": [
       [
-        24.5779,
-        -82.3825
+        27.6726,
+        49.7594
+      ]
+    ]
+  },
+  {
+    "hex": "600806",
+    "name": "Gov of Azerbaijan",
+    "category": "Dictator Alert",
+    "callsign": "AHY620",
+    "lon": 42.8225,
+    "lat": 41.4106,
+    "alt": 12192,
+    "velocity": 191.39,
+    "heading": 260.56,
+    "trace": [
+      [
+        41.4106,
+        42.8225
+      ]
+    ]
+  },
+  {
+    "hex": "acfc26",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR865",
+    "lon": -2.0864,
+    "lat": 49.2379,
+    "alt": 11277.6,
+    "velocity": 314.62,
+    "heading": 105.26,
+    "trace": [
+      [
+        49.2379,
+        -2.0864
+      ]
+    ]
+  },
+  {
+    "hex": "a9c52e",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR561",
+    "lon": 92.0767,
+    "lat": 22.2925,
+    "alt": 9753.6,
+    "velocity": 233.54,
+    "heading": 261.51,
+    "trace": [
+      [
+        22.2925,
+        92.0767
+      ]
+    ]
+  },
+  {
+    "hex": "acb84d",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR800",
+    "lon": -59.0117,
+    "lat": -34.239,
+    "alt": 8976.36,
+    "velocity": 240.19,
+    "heading": 330.91,
+    "trace": [
+      [
+        -34.239,
+        -59.0117
       ]
     ]
   },
@@ -63,15 +106,36 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6205",
-    "lon": -98.5758,
-    "lat": 30.5641,
-    "alt": 11574.78,
-    "velocity": 195.58,
-    "heading": 282.61,
+    "lon": -109.833,
+    "lat": 32.3277,
+    "alt": 7589.52,
+    "velocity": 169.85,
+    "heading": 292.06,
     "trace": [
       [
         30.5641,
         -98.5758
+      ],
+      [
+        32.3277,
+        -109.833
+      ]
+    ]
+  },
+  {
+    "hex": "ab7437",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA1628",
+    "lon": -112.7229,
+    "lat": 31.4683,
+    "alt": 11894.82,
+    "velocity": 282.56,
+    "heading": 113.16,
+    "trace": [
+      [
+        31.4683,
+        -112.7229
       ]
     ]
   },
@@ -80,11 +144,11 @@
     "name": "Russia Special Flight Detachment",
     "category": "Dictator Alert",
     "callsign": "RSD150",
-    "lon": 18.0321,
-    "lat": 37.4659,
-    "alt": 10972.8,
-    "velocity": 193.92,
-    "heading": 352.84,
+    "lon": 9.5301,
+    "lat": 45.6516,
+    "alt": 11574.78,
+    "velocity": 195.19,
+    "heading": 326.39,
     "trace": [
       [
         36.4778,
@@ -93,6 +157,10 @@
       [
         37.4659,
         18.0321
+      ],
+      [
+        45.6516,
+        9.5301
       ]
     ]
   }
