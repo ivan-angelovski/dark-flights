@@ -6,7 +6,7 @@
     "callsign": "DUB4",
     "lon": 33.6577,
     "lat": 44.8757,
-    "alt": 12184.38,
+    "alt": 12192,
     "velocity": 4.12,
     "heading": 270,
     "trace": [
@@ -17,57 +17,70 @@
     ]
   },
   {
-    "hex": "894014",
-    "name": "Bahrain Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "BAH1",
-    "lon": 48.5444,
-    "lat": 26.7616,
-    "alt": 10363.2,
-    "velocity": 254.24,
-    "heading": 268.38,
-    "trace": [
-      [
-        26.7616,
-        48.5444
-      ]
-    ]
-  },
-  {
-    "hex": "a9c52e",
-    "name": "National Airlines",
+    "hex": "a0f8f9",
+    "name": "Atlas Air",
     "category": "Hired Gun",
-    "callsign": "NCR561",
-    "lon": 56.9406,
-    "lat": 24.615,
-    "alt": 6301.74,
-    "velocity": 209.21,
-    "heading": 288.35,
+    "callsign": "GTI768",
+    "lon": -87.7753,
+    "lat": 37.2617,
+    "alt": 10370.82,
+    "velocity": 207.83,
+    "heading": 240.33,
     "trace": [
       [
-        24.615,
-        56.9406
+        37.2617,
+        -87.7753
       ]
     ]
   },
   {
-    "hex": "4009d6",
+    "hex": "600806",
+    "name": "Gov of Azerbaijan",
+    "category": "Dictator Alert",
+    "callsign": "AHY620",
+    "lon": 12.3349,
+    "lat": 46.8971,
+    "alt": 9128.76,
+    "velocity": 231.95,
+    "heading": 201.33,
+    "trace": [
+      [
+        46.8971,
+        12.3349
+      ]
+    ]
+  },
+  {
+    "hex": "4009cd",
     "name": "Draken Europe",
     "category": "Hired Gun",
-    "callsign": "FRA87",
-    "lon": 22.4723,
-    "lat": 38.2569,
-    "alt": 9753.6,
-    "velocity": 197.45,
-    "heading": 300.71,
+    "callsign": "AMBER1",
+    "lon": -5.3962,
+    "lat": 50.1295,
+    "alt": 548.64,
+    "velocity": 81.36,
+    "heading": 122.08,
     "trace": [
       [
-        35.7643,
-        28.3015
-      ],
+        50.1295,
+        -5.3962
+      ]
+    ]
+  },
+  {
+    "hex": "aa3086",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR563",
+    "lon": 53.0111,
+    "lat": 25.7104,
+    "alt": 9784.08,
+    "velocity": 263.61,
+    "heading": 290.8,
+    "trace": [
       [
-        38.2569,
-        22.4723
+        25.7104,
+        53.0111
       ]
     ]
   },
@@ -76,11 +89,11 @@
     "name": "Skyways Charter LLC",
     "category": "Hired Gun",
     "callsign": "N751GT",
-    "lon": -99.5519,
-    "lat": 39.1563,
-    "alt": 12496.8,
-    "velocity": 307.68,
-    "heading": 77.54,
+    "lon": -87.9368,
+    "lat": 39.8411,
+    "alt": 7627.62,
+    "velocity": 269.05,
+    "heading": 89.89,
     "trace": [
       [
         34.1631,
@@ -93,6 +106,10 @@
       [
         39.1563,
         -99.5519
+      ],
+      [
+        39.8411,
+        -87.9368
       ]
     ]
   }
