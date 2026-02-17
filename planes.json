@@ -1,43 +1,56 @@
 [
   {
-    "hex": "896264",
-    "name": "Abu Dhabi Amiri Flight",
+    "hex": "a7000f",
+    "name": "N550GP LLC",
     "category": "Dictator Alert",
-    "callsign": "AUH03",
-    "lon": -65.9741,
-    "lat": 48.8196,
-    "alt": 12192,
-    "velocity": 240.16,
-    "heading": 223.61,
+    "callsign": "N550GP",
+    "lon": -118.9156,
+    "lat": 34.2118,
+    "alt": 876.3,
+    "velocity": 104.97,
+    "heading": 271.12,
     "trace": [
       [
-        48.8196,
-        -65.9741
+        34.2118,
+        -118.9156
       ]
     ]
   },
   {
-    "hex": "a0f8f9",
-    "name": "Atlas Air",
-    "category": "Hired Gun",
-    "callsign": "GTI768",
-    "lon": -97.0542,
-    "lat": 32.9687,
-    "alt": 518.16,
-    "velocity": 63.28,
-    "heading": 180,
+    "hex": "896264",
+    "name": "Abu Dhabi Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "AUH03",
+    "lon": -70.8597,
+    "lat": 45.05,
+    "alt": 12192,
+    "velocity": 243.32,
+    "heading": 219.68,
     "trace": [
       [
-        37.2617,
-        -87.7753
+        48.8196,
+        -65.9741
       ],
       [
-        34.6258,
-        -93.1051
-      ],
+        45.05,
+        -70.8597
+      ]
+    ]
+  },
+  {
+    "hex": "a451cb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT816",
+    "lon": -73.8274,
+    "lat": 5.6826,
+    "alt": 8084.82,
+    "velocity": 248.6,
+    "heading": 11.22,
+    "trace": [
       [
-        32.9687,
-        -97.0542
+        5.6826,
+        -73.8274
       ]
     ]
   },
@@ -46,53 +59,36 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6121",
-    "lon": -86.2219,
-    "lat": 30.776,
-    "alt": 11094.72,
-    "velocity": 249.05,
-    "heading": 97.48,
+    "lon": -81.8113,
+    "lat": 30.4623,
+    "alt": 518.16,
+    "velocity": 71.74,
+    "heading": 71.18,
     "trace": [
       [
         30.776,
         -86.2219
-      ]
-    ]
-  },
-  {
-    "hex": "894014",
-    "name": "Bahrain Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "BAH1",
-    "lon": 29.6867,
-    "lat": 31.3522,
-    "alt": 11391.9,
-    "velocity": 223.38,
-    "heading": 306.29,
-    "trace": [
-      [
-        31.3522,
-        29.6867
-      ]
-    ]
-  },
-  {
-    "hex": "600be9",
-    "name": "Gov of Azerbaijan",
-    "category": "Dictator Alert",
-    "callsign": "AHY6731",
-    "lon": -3.3092,
-    "lat": 55.2585,
-    "alt": 11582.4,
-    "velocity": 197.8,
-    "heading": 328.83,
-    "trace": [
-      [
-        51.792,
-        -0.65
       ],
       [
-        55.2585,
-        -3.3092
+        30.4623,
+        -81.8113
+      ]
+    ]
+  },
+  {
+    "hex": "407ca7",
+    "name": "Draken Intl",
+    "category": "Hired Gun",
+    "callsign": "FRA33",
+    "lon": -6.4275,
+    "lat": 55.3017,
+    "alt": 2080.26,
+    "velocity": 73.26,
+    "heading": 347.43,
+    "trace": [
+      [
+        55.3017,
+        -6.4275
       ]
     ]
   },
@@ -101,11 +97,11 @@
     "name": "Gov of Azerbaijan",
     "category": "Dictator Alert",
     "callsign": "AHY600",
-    "lon": 41.2312,
-    "lat": 41.4186,
-    "alt": 13106.4,
-    "velocity": 207.35,
-    "heading": 269,
+    "lon": 39.8453,
+    "lat": 41.3942,
+    "alt": 12801.6,
+    "velocity": 208.46,
+    "heading": 268.16,
     "trace": [
       [
         40.6864,
@@ -114,6 +110,27 @@
       [
         41.4186,
         41.2312
+      ],
+      [
+        41.3942,
+        39.8453
+      ]
+    ]
+  },
+  {
+    "hex": "4009d6",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "FRA87",
+    "lon": 15.3533,
+    "lat": 41.921,
+    "alt": 10363.2,
+    "velocity": 168.42,
+    "heading": 300.87,
+    "trace": [
+      [
+        41.921,
+        15.3533
       ]
     ]
   },
@@ -122,15 +139,19 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6181",
-    "lon": -89.1194,
-    "lat": 29.2946,
+    "lon": -84.2013,
+    "lat": 27.3889,
     "alt": 11277.6,
-    "velocity": 242.73,
-    "heading": 116.02,
+    "velocity": 234.67,
+    "heading": 101.51,
     "trace": [
       [
         29.2946,
         -89.1194
+      ],
+      [
+        27.3889,
+        -84.2013
       ]
     ]
   }
