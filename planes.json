@@ -1,135 +1,39 @@
 [
   {
-    "hex": "c07b75",
-    "name": "Top Aces Inc",
-    "category": "Hired Gun",
-    "callsign": "CHETA82",
-    "lon": -71.4912,
-    "lat": 47.1601,
-    "alt": 3444.24,
-    "velocity": 125.4,
-    "heading": 14.49,
-    "trace": [
-      [
-        46.974,
-        -71.5549
-      ],
-      [
-        47.1601,
-        -71.4912
-      ]
-    ]
-  },
-  {
-    "hex": "a0f8f9",
-    "name": "Atlas Air",
-    "category": "Hired Gun",
-    "callsign": "GTI2785",
-    "lon": -86.1206,
-    "lat": 38.1515,
-    "alt": 2362.2,
-    "velocity": 153.97,
-    "heading": 42.97,
-    "trace": [
-      [
-        33.5853,
-        -94.6342
-      ],
-      [
-        38.1515,
-        -86.1206
-      ]
-    ]
-  },
-  {
     "hex": "a81043",
     "name": "Airborne Tactical Advantage",
     "category": "Hired Gun",
     "callsign": "ATAC23",
-    "lon": -113.3323,
-    "lat": 32.2118,
-    "alt": 7345.68,
-    "velocity": 313.84,
-    "heading": 66.63,
+    "lon": -112.3642,
+    "lat": 33.5502,
+    "alt": 335.28,
+    "velocity": 81.91,
+    "heading": 222.71,
     "trace": [
       [
         32.2118,
         -113.3323
+      ],
+      [
+        33.5502,
+        -112.3642
       ]
     ]
   },
   {
-    "hex": "a87b9b",
-    "name": "Airborne Tactical Advantage",
+    "hex": "a835d1",
+    "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "ATAC22",
-    "lon": -113.3754,
-    "lat": 32.1992,
-    "alt": 7170.42,
-    "velocity": 303.57,
-    "heading": 75.78,
+    "callsign": "GXA201",
+    "lon": -74.0644,
+    "lat": 21.0588,
+    "alt": 10363.2,
+    "velocity": 232.59,
+    "heading": 318.77,
     "trace": [
       [
-        32.1992,
-        -113.3754
-      ]
-    ]
-  },
-  {
-    "hex": "c0125b",
-    "name": "Top Aces Inc",
-    "category": "Hired Gun",
-    "callsign": "CRADL41",
-    "lon": -82.5974,
-    "lat": 27.5656,
-    "alt": 601.98,
-    "velocity": 117.41,
-    "heading": 311.09,
-    "trace": [
-      [
-        26.4825,
-        -82.1763
-      ],
-      [
-        25.3034,
-        -83.0049
-      ],
-      [
-        27.5656,
-        -82.5974
-      ]
-    ]
-  },
-  {
-    "hex": "c0792f",
-    "name": "Top Aces Inc",
-    "category": "Hired Gun",
-    "callsign": "BRUSR02",
-    "lon": -71.8407,
-    "lat": 48.1811,
-    "alt": 11574.78,
-    "velocity": 181.1,
-    "heading": 270.65,
-    "trace": [
-      [
-        45.0111,
-        -63.4504
-      ],
-      [
-        44.7483,
-        -63.0556
-      ],
-      [
-        45.4415,
-        -63.6981
-      ],
-      [
-        49.0443,
-        -63.9762
-      ],
-      [
-        48.1811,
-        -71.8407
+        21.0588,
+        -74.0644
       ]
     ]
   },
@@ -138,15 +42,36 @@
     "name": "Airborne Tactical Advantage",
     "category": "Hired Gun",
     "callsign": "ATAC24",
-    "lon": -113.1406,
-    "lat": 32.6142,
-    "alt": 6324.6,
-    "velocity": 336.69,
-    "heading": 105.06,
+    "lon": -112.3636,
+    "lat": 33.5508,
+    "alt": 327.66,
+    "velocity": 85.23,
+    "heading": 222.06,
     "trace": [
       [
         32.6142,
         -113.1406
+      ],
+      [
+        33.5508,
+        -112.3636
+      ]
+    ]
+  },
+  {
+    "hex": "acfc26",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR525",
+    "lon": 37.8935,
+    "lat": 31.5336,
+    "alt": 9296.4,
+    "velocity": 223.76,
+    "heading": 257.11,
+    "trace": [
+      [
+        31.5336,
+        37.8935
       ]
     ]
   },
@@ -155,11 +80,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2231",
-    "lon": -4.9491,
-    "lat": 48.1557,
-    "alt": 12192,
-    "velocity": 226.84,
-    "heading": 19.75,
+    "lon": -1.5471,
+    "lat": 51.7566,
+    "alt": 175.26,
+    "velocity": 63.32,
+    "heading": 253.48,
     "trace": [
       [
         41.4449,
@@ -168,162 +93,112 @@
       [
         48.1557,
         -4.9491
+      ],
+      [
+        51.7566,
+        -1.5471
       ]
     ]
   },
   {
-    "hex": "c03244",
+    "hex": "ad8547",
+    "name": "Nuclear Security Administration",
+    "category": "Nuclear",
+    "callsign": "ENRGY70",
+    "lon": -114.5711,
+    "lat": 47.297,
+    "alt": 11887.2,
+    "velocity": 243.87,
+    "heading": 84.67,
+    "trace": [
+      [
+        47.297,
+        -114.5711
+      ]
+    ]
+  },
+  {
+    "hex": "4b8c2e",
+    "name": "Gov of Turkey",
+    "category": "Dictator Alert",
+    "callsign": "",
+    "lon": 31.381,
+    "lat": 40.6364,
+    "alt": 7315.2,
+    "velocity": 211.71,
+    "heading": 285.79,
+    "trace": [
+      [
+        40.6364,
+        31.381
+      ]
+    ]
+  },
+  {
+    "hex": "abc6ba",
     "name": "Top Aces Inc",
     "category": "Hired Gun",
-    "callsign": "CHETA81",
-    "lon": -71.488,
-    "lat": 47.1633,
-    "alt": 3451.86,
-    "velocity": 139.07,
-    "heading": 15.89,
+    "callsign": "ACES1",
+    "lon": -112.8223,
+    "lat": 32.155,
+    "alt": 7193.28,
+    "velocity": 231.39,
+    "heading": 174.9,
     "trace": [
       [
-        47.0439,
-        -71.5354
-      ],
-      [
-        47.1633,
-        -71.488
+        32.155,
+        -112.8223
       ]
     ]
   },
   {
-    "hex": "ad5ff9",
-    "name": "IBC Airways",
-    "category": "Hired Gun",
-    "callsign": "CSQ211",
-    "lon": -80.3946,
-    "lat": 25.1001,
-    "alt": 4175.76,
-    "velocity": 99.82,
-    "heading": 194.32,
-    "trace": [
-      [
-        25.1001,
-        -80.3946
-      ]
-    ]
-  },
-  {
-    "hex": "a2c4e0",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA6141",
-    "lon": -76.9311,
-    "lat": 38.3164,
-    "alt": 11521.44,
-    "velocity": 280.08,
-    "heading": 53.74,
-    "trace": [
-      [
-        30.8712,
-        -93.3683
-      ],
-      [
-        33.9686,
-        -86.6808
-      ],
-      [
-        38.3164,
-        -76.9311
-      ]
-    ]
-  },
-  {
-    "hex": "a16971",
-    "name": "Phoenix Air",
-    "category": "Hired Gun",
-    "callsign": "GRB406",
-    "lon": -81.6734,
-    "lat": 40.8328,
-    "alt": 1257.3,
-    "velocity": 131.45,
-    "heading": 18.72,
-    "trace": [
-      [
-        40.8328,
-        -81.6734
-      ]
-    ]
-  },
-  {
-    "hex": "a395e5",
-    "name": "Airborne Tactical Advantage",
-    "category": "Hired Gun",
-    "callsign": "N330AX",
-    "lon": -98.239,
-    "lat": 26.5157,
-    "alt": 5067.3,
-    "velocity": 208.46,
-    "heading": 217.38,
-    "trace": [
-      [
-        26.5157,
-        -98.239
-      ]
-    ]
-  },
-  {
-    "hex": "a87076",
-    "name": "Airborne Tactical Advantage",
-    "category": "Hired Gun",
-    "callsign": "LTNG12",
-    "lon": -98.5584,
-    "lat": 32.8082,
-    "alt": 3429,
-    "velocity": 169.82,
-    "heading": 175.31,
-    "trace": [
-      [
-        32.8082,
-        -98.5584
-      ]
-    ]
-  },
-  {
-    "hex": "c0871c",
+    "hex": "abfbb7",
     "name": "Top Aces Inc",
     "category": "Hired Gun",
-    "callsign": "CHETA71",
-    "lon": -82.5697,
-    "lat": 27.4087,
-    "alt": 15.24,
-    "velocity": 70.06,
-    "heading": 146.08,
+    "callsign": "ACES2",
+    "lon": -112.7025,
+    "lat": 32.2956,
+    "alt": 8961.12,
+    "velocity": 278.26,
+    "heading": 93.29,
     "trace": [
       [
-        27.4087,
-        -82.5697
+        32.2956,
+        -112.7025
       ]
     ]
   },
   {
-    "hex": "40774d",
+    "hex": "a76523",
     "name": "Draken Intl",
     "category": "Hired Gun",
-    "callsign": "FRA44",
-    "lon": -4.3646,
-    "lat": 53.5684,
-    "alt": 3048,
-    "velocity": 67.78,
-    "heading": 325.83,
+    "callsign": "N576EM",
+    "lon": -104.6144,
+    "lat": 32.7939,
+    "alt": 7772.4,
+    "velocity": 239.32,
+    "heading": 190.78,
     "trace": [
       [
-        50.8868,
-        -1.2491
-      ],
+        32.7939,
+        -104.6144
+      ]
+    ]
+  },
+  {
+    "hex": "a75013",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6216",
+    "lon": -117.0425,
+    "lat": 33.0068,
+    "alt": 2583.18,
+    "velocity": 161.72,
+    "heading": 70.87,
+    "trace": [
       [
-        51.9674,
-        -2.1482
-      ],
-      [
-        53.5684,
-        -4.3646
+        33.0068,
+        -117.0425
       ]
     ]
   },
@@ -332,15 +207,70 @@
     "name": "Airborne Tactical Advantage",
     "category": "Hired Gun",
     "callsign": "N340AX",
-    "lon": -78.7666,
-    "lat": 34.1868,
-    "alt": 6728.46,
-    "velocity": 194.19,
-    "heading": 219.09,
+    "lon": -81.057,
+    "lat": 29.1779,
+    "alt": 7345.68,
+    "velocity": 231.5,
+    "heading": 162.01,
     "trace": [
       [
         34.1868,
         -78.7666
+      ],
+      [
+        29.1779,
+        -81.057
+      ]
+    ]
+  },
+  {
+    "hex": "a37d42",
+    "name": "Airborne Tactical Advantage",
+    "category": "Hired Gun",
+    "callsign": "N324AX",
+    "lon": -157.7447,
+    "lat": 20.6031,
+    "alt": 4587.24,
+    "velocity": 180.99,
+    "heading": 155.84,
+    "trace": [
+      [
+        20.6031,
+        -157.7447
+      ]
+    ]
+  },
+  {
+    "hex": "a86e85",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6201",
+    "lon": -111.2084,
+    "lat": 32.9367,
+    "alt": 5090.16,
+    "velocity": 218.88,
+    "heading": 123.2,
+    "trace": [
+      [
+        32.9367,
+        -111.2084
+      ]
+    ]
+  },
+  {
+    "hex": "adacc6",
+    "name": "US Nuclear Security Administration",
+    "category": "Nuclear",
+    "callsign": "ENRGY80",
+    "lon": -104.719,
+    "lat": 34.9005,
+    "alt": 10363.2,
+    "velocity": 157.83,
+    "heading": 252.75,
+    "trace": [
+      [
+        34.9005,
+        -104.719
       ]
     ]
   },
@@ -349,15 +279,19 @@
     "name": "Airborne Tactical Advantage",
     "category": "Hired Gun",
     "callsign": "ATAC21",
-    "lon": -113.3124,
-    "lat": 32.2289,
-    "alt": 7330.44,
-    "velocity": 283.9,
-    "heading": 63.53,
+    "lon": -112.3553,
+    "lat": 33.5691,
+    "alt": 487.68,
+    "velocity": 113.89,
+    "heading": 157.14,
     "trace": [
       [
         32.2289,
         -113.3124
+      ],
+      [
+        33.5691,
+        -112.3553
       ]
     ]
   }
