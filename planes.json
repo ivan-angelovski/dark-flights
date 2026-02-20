@@ -4,11 +4,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI768",
-    "lon": -91.3784,
-    "lat": 35.519,
+    "lon": -94.9266,
+    "lat": 33.8777,
     "alt": 10370.82,
-    "velocity": 176.64,
-    "heading": 236.4,
+    "velocity": 180.39,
+    "heading": 249.29,
     "trace": [
       [
         37.4076,
@@ -17,6 +17,10 @@
       [
         35.519,
         -91.3784
+      ],
+      [
+        33.8777,
+        -94.9266
       ]
     ]
   },
@@ -25,11 +29,11 @@
     "name": "Bahrain Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "BAH3",
-    "lon": 19.9269,
-    "lat": 39.5878,
+    "lon": 16.0041,
+    "lat": 42.3451,
     "alt": 10363.2,
-    "velocity": 228.99,
-    "heading": 312.72,
+    "velocity": 232.37,
+    "heading": 312.13,
     "trace": [
       [
         36.3384,
@@ -38,6 +42,27 @@
       [
         39.5878,
         19.9269
+      ],
+      [
+        42.3451,
+        16.0041
+      ]
+    ]
+  },
+  {
+    "hex": "a7a2be",
+    "name": "ISR Platforms",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": 126.8275,
+    "lat": 35.0947,
+    "alt": 7620,
+    "velocity": 215.04,
+    "heading": 43.74,
+    "trace": [
+      [
+        35.0947,
+        126.8275
       ]
     ]
   },
@@ -46,49 +71,36 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "RRR3214",
-    "lon": -1.7793,
-    "lat": 51.7554,
-    "alt": 838.2,
-    "velocity": 131.16,
-    "heading": 318.18,
+    "lon": -5.121,
+    "lat": 54.7504,
+    "alt": 12192,
+    "velocity": 225.28,
+    "heading": 311.3,
     "trace": [
       [
         51.7554,
         -1.7793
+      ],
+      [
+        54.7504,
+        -5.121
       ]
     ]
   },
   {
-    "hex": "06a01c",
-    "name": "Qatar Amiri Flight",
+    "hex": "0a4009",
+    "name": "Gov of Algeria",
     "category": "Dictator Alert",
-    "callsign": "",
-    "lon": 49.5031,
-    "lat": 26.7284,
-    "alt": 10058.4,
-    "velocity": 282.74,
-    "heading": 108.24,
+    "callsign": "7TVPC",
+    "lon": 1.6944,
+    "lat": 36.4898,
+    "alt": 7437.12,
+    "velocity": 232.42,
+    "heading": 74.33,
     "trace": [
       [
-        26.7284,
-        49.5031
-      ]
-    ]
-  },
-  {
-    "hex": "4009cd",
-    "name": "Draken Europe",
-    "category": "Hired Gun",
-    "callsign": "FRA90",
-    "lon": -1.921,
-    "lat": 53.7944,
-    "alt": 7010.4,
-    "velocity": 231.19,
-    "heading": 24.17,
-    "trace": [
-      [
-        53.7944,
-        -1.921
+        36.4898,
+        1.6944
       ]
     ]
   },
@@ -97,11 +109,11 @@
     "name": "Gov of Kuwait",
     "category": "Dictator Alert",
     "callsign": "KUG041",
-    "lon": 25.5899,
-    "lat": 36.1787,
+    "lon": 30.8789,
+    "lat": 33.2791,
     "alt": 14325.6,
-    "velocity": 281.84,
-    "heading": 122.7,
+    "velocity": 281.33,
+    "heading": 122.15,
     "trace": [
       [
         51.1565,
@@ -126,6 +138,10 @@
       [
         36.1787,
         25.5899
+      ],
+      [
+        33.2791,
+        30.8789
       ]
     ]
   },
@@ -134,15 +150,19 @@
     "name": "Russia Special Flight Detachment",
     "category": "Dictator Alert",
     "callsign": "RSD800",
-    "lon": 37.34,
-    "lat": 55.3152,
-    "alt": 1866.9,
-    "velocity": 4.43,
-    "heading": 54.46,
+    "lon": 38.118,
+    "lat": 55.0201,
+    "alt": 6454.14,
+    "velocity": 3.6,
+    "heading": 270,
     "trace": [
       [
         55.3152,
         37.34
+      ],
+      [
+        55.0201,
+        38.118
       ]
     ]
   }
