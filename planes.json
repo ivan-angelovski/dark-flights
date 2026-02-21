@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a7496d",
+    "name": "Meta Aerospace",
+    "category": "Hired Gun",
+    "callsign": "SWB69",
+    "lon": -117.7918,
+    "lat": 30.8332,
+    "alt": 8526.78,
+    "velocity": 189.36,
+    "heading": 1.25,
+    "trace": [
+      [
+        30.8332,
+        -117.7918
+      ]
+    ]
+  },
+  {
     "hex": "c0793d",
     "name": "Top Aces Inc",
     "category": "Hired Gun",
     "callsign": "BRUSR01",
-    "lon": -146.7238,
-    "lat": 64.7124,
-    "alt": 3604.26,
-    "velocity": 125.52,
-    "heading": 299.19,
+    "lon": -146.9219,
+    "lat": 64.6488,
+    "alt": 3649.98,
+    "velocity": 145.4,
+    "heading": 183.85,
     "trace": [
       [
         64.7354,
@@ -17,48 +34,10 @@
       [
         64.7124,
         -146.7238
-      ]
-    ]
-  },
-  {
-    "hex": "406d26",
-    "name": "AirTanker",
-    "category": "Hired Gun",
-    "callsign": "TOW2233",
-    "lon": -3.1292,
-    "lat": 51.3638,
-    "alt": 4869.18,
-    "velocity": 210.2,
-    "heading": 69.21,
-    "trace": [
-      [
-        39.343,
-        -10.1091
       ],
       [
-        46.7654,
-        -5.8092
-      ],
-      [
-        51.3638,
-        -3.1292
-      ]
-    ]
-  },
-  {
-    "hex": "06a014",
-    "name": "Qatar Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "QQE945",
-    "lon": 52.2465,
-    "lat": 26.9339,
-    "alt": 8450.58,
-    "velocity": 230.29,
-    "heading": 3.07,
-    "trace": [
-      [
-        26.9339,
-        52.2465
+        64.6488,
+        -146.9219
       ]
     ]
   },
@@ -67,11 +46,11 @@
     "name": "Gov of Turkey",
     "category": "Dictator Alert",
     "callsign": "TRK5",
-    "lon": 3.1871,
-    "lat": 52.4269,
+    "lon": 8.78,
+    "lat": 50.5565,
     "alt": 13716,
-    "velocity": 284.5,
-    "heading": 114.8,
+    "velocity": 277.13,
+    "heading": 119.47,
     "trace": [
       [
         54.5132,
@@ -80,6 +59,27 @@
       [
         52.4269,
         3.1871
+      ],
+      [
+        50.5565,
+        8.78
+      ]
+    ]
+  },
+  {
+    "hex": "a394aa",
+    "name": "ISR Platforms",
+    "category": "Hired Gun",
+    "callsign": "N33NH",
+    "lon": -106.8687,
+    "lat": 32.2477,
+    "alt": 2362.2,
+    "velocity": 67.8,
+    "heading": 168.18,
+    "trace": [
+      [
+        32.2477,
+        -106.8687
       ]
     ]
   }
