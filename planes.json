@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a451cb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT8641",
+    "lon": -74.7857,
+    "lat": 23.461,
+    "alt": 11277.6,
+    "velocity": 248.06,
+    "heading": 117.68,
+    "trace": [
+      [
+        23.461,
+        -74.7857
+      ]
+    ]
+  },
+  {
     "hex": "4b9c30",
     "name": "Gov of Turkey",
     "category": "Dictator Alert",
     "callsign": "TRK5",
-    "lon": 27.6132,
-    "lat": 42.7598,
+    "lon": 28.5167,
+    "lat": 42.2309,
     "alt": 14325.6,
-    "velocity": 259.12,
-    "heading": 127.98,
+    "velocity": 260.95,
+    "heading": 128.68,
     "trace": [
       [
         54.5132,
@@ -33,6 +50,10 @@
       [
         42.7598,
         27.6132
+      ],
+      [
+        42.2309,
+        28.5167
       ]
     ]
   },
@@ -41,11 +62,11 @@
     "name": "ISR Platforms",
     "category": "Hired Gun",
     "callsign": "N33NH",
-    "lon": -106.9524,
-    "lat": 32.2465,
-    "alt": 2865.12,
-    "velocity": 50.99,
-    "heading": 300.96,
+    "lon": -106.8006,
+    "lat": 32.2573,
+    "alt": 2415.54,
+    "velocity": 94.78,
+    "heading": 22.67,
     "trace": [
       [
         32.2477,
@@ -62,6 +83,27 @@
       [
         32.2465,
         -106.9524
+      ],
+      [
+        32.2573,
+        -106.8006
+      ]
+    ]
+  },
+  {
+    "hex": "01003e",
+    "name": "Government of Egypt",
+    "category": "Dictator Alert",
+    "callsign": "SUBND",
+    "lon": 2.1165,
+    "lat": 48.863,
+    "alt": 2446.02,
+    "velocity": 150.05,
+    "heading": 169.73,
+    "trace": [
+      [
+        48.863,
+        2.1165
       ]
     ]
   }
