@@ -4,15 +4,19 @@
     "name": "Top Aces Inc",
     "category": "Hired Gun",
     "callsign": "BRUSR01",
-    "lon": -146.2912,
-    "lat": 64.7354,
-    "alt": 3649.98,
-    "velocity": 125.43,
-    "heading": 285.46,
+    "lon": -146.7238,
+    "lat": 64.7124,
+    "alt": 3604.26,
+    "velocity": 125.52,
+    "heading": 299.19,
     "trace": [
       [
         64.7354,
         -146.2912
+      ],
+      [
+        64.7124,
+        -146.7238
       ]
     ]
   },
@@ -21,11 +25,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2233",
-    "lon": -5.8092,
-    "lat": 46.7654,
-    "alt": 12199.62,
-    "velocity": 232.55,
-    "heading": 24.3,
+    "lon": -3.1292,
+    "lat": 51.3638,
+    "alt": 4869.18,
+    "velocity": 210.2,
+    "heading": 69.21,
     "trace": [
       [
         39.343,
@@ -34,6 +38,27 @@
       [
         46.7654,
         -5.8092
+      ],
+      [
+        51.3638,
+        -3.1292
+      ]
+    ]
+  },
+  {
+    "hex": "06a014",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "QQE945",
+    "lon": 52.2465,
+    "lat": 26.9339,
+    "alt": 8450.58,
+    "velocity": 230.29,
+    "heading": 3.07,
+    "trace": [
+      [
+        26.9339,
+        52.2465
       ]
     ]
   },
@@ -42,53 +67,19 @@
     "name": "Gov of Turkey",
     "category": "Dictator Alert",
     "callsign": "TRK5",
-    "lon": -6.8668,
-    "lat": 54.5132,
+    "lon": 3.1871,
+    "lat": 52.4269,
     "alt": 13716,
-    "velocity": 280.19,
-    "heading": 106.21,
+    "velocity": 284.5,
+    "heading": 114.8,
     "trace": [
       [
         54.5132,
         -6.8668
-      ]
-    ]
-  },
-  {
-    "hex": "aa3086",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "CMB141",
-    "lon": 51.2878,
-    "lat": 24.8375,
-    "alt": 1356.36,
-    "velocity": 119.92,
-    "heading": 138.65,
-    "trace": [
-      [
-        24.8375,
-        51.2878
-      ]
-    ]
-  },
-  {
-    "hex": "a394aa",
-    "name": "ISR Platforms",
-    "category": "Hired Gun",
-    "callsign": "N33NH",
-    "lon": -106.904,
-    "lat": 32.3369,
-    "alt": 2872.74,
-    "velocity": 91.43,
-    "heading": 108.03,
-    "trace": [
-      [
-        32.2866,
-        -106.8632
       ],
       [
-        32.3369,
-        -106.904
+        52.4269,
+        3.1871
       ]
     ]
   }
