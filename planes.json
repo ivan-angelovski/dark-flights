@@ -1,26 +1,18 @@
 [
   {
-    "hex": "a0d062",
+    "hex": "a0f8f9",
     "name": "Atlas Air",
     "category": "Hired Gun",
-    "callsign": "GTI8831",
-    "lon": 139.3786,
-    "lat": 35.6042,
-    "alt": 792.48,
-    "velocity": 88.81,
-    "heading": 349.99,
+    "callsign": "GTI5768",
+    "lon": -85.7935,
+    "lat": 38.2561,
+    "alt": 1584.96,
+    "velocity": 119.46,
+    "heading": 329.46,
     "trace": [
       [
-        35.0542,
-        142.7184
-      ],
-      [
-        34.7005,
-        141.1024
-      ],
-      [
-        35.6042,
-        139.3786
+        38.2561,
+        -85.7935
       ]
     ]
   },
@@ -29,60 +21,36 @@
     "name": "Meta Aerospace",
     "category": "Hired Gun",
     "callsign": "SWB90",
-    "lon": -117.1394,
-    "lat": 33.49,
-    "alt": 5364.48,
-    "velocity": 184.61,
-    "heading": 155.29,
+    "lon": -119.2491,
+    "lat": 32.882,
+    "alt": 11582.4,
+    "velocity": 205.42,
+    "heading": 234.48,
     "trace": [
       [
         33.49,
         -117.1394
+      ],
+      [
+        32.882,
+        -119.2491
       ]
     ]
   },
   {
-    "hex": "add445",
-    "name": "US Nuclear Security Administration",
-    "category": "Nuclear",
-    "callsign": "ENRGY90",
-    "lon": -103.4149,
-    "lat": 35.1887,
-    "alt": 9144,
-    "velocity": 204.91,
-    "heading": 267.7,
+    "hex": "a7a2be",
+    "name": "ISR Platforms",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": 128.1161,
+    "lat": 37.8369,
+    "alt": 11582.4,
+    "velocity": 279.76,
+    "heading": 63.34,
     "trace": [
       [
-        35.9955,
-        -85.7178
-      ],
-      [
-        36.264,
-        -89.3021
-      ],
-      [
-        36.2802,
-        -91.0394
-      ],
-      [
-        36.2781,
-        -92.069
-      ],
-      [
-        36.2249,
-        -94.9473
-      ],
-      [
-        35.3542,
-        -97.9126
-      ],
-      [
-        35.3121,
-        -99.7252
-      ],
-      [
-        35.1887,
-        -103.4149
+        37.8369,
+        128.1161
       ]
     ]
   },
@@ -91,11 +59,11 @@
     "name": "Sunshine Aero",
     "category": "Hired Gun",
     "callsign": "N75VC",
-    "lon": -109.1089,
-    "lat": 31.9602,
-    "alt": 7985.76,
-    "velocity": 196.72,
-    "heading": 200.99,
+    "lon": -110.9594,
+    "lat": 32.2453,
+    "alt": 1760.22,
+    "velocity": 99.21,
+    "heading": 310.79,
     "trace": [
       [
         31.1324,
@@ -132,6 +100,10 @@
       [
         31.9602,
         -109.1089
+      ],
+      [
+        32.2453,
+        -110.9594
       ]
     ]
   },
@@ -140,15 +112,36 @@
     "name": "Phoenix Air",
     "category": "Hired Gun",
     "callsign": "GRB406",
-    "lon": -81.8025,
-    "lat": 40.4034,
-    "alt": 5753.1,
-    "velocity": 192.62,
-    "heading": 213.56,
+    "lon": -83.3406,
+    "lat": 38.5184,
+    "alt": 11597.64,
+    "velocity": 238.65,
+    "heading": 211.15,
     "trace": [
       [
         40.4034,
         -81.8025
+      ],
+      [
+        38.5184,
+        -83.3406
+      ]
+    ]
+  },
+  {
+    "hex": "a2f016",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6203",
+    "lon": -115.1607,
+    "lat": 36.0976,
+    "alt": null,
+    "velocity": 0,
+    "heading": 67.5,
+    "trace": [
+      [
+        36.0976,
+        -115.1607
       ]
     ]
   },
@@ -157,11 +150,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6161",
-    "lon": -93.0199,
-    "lat": 36.6472,
-    "alt": 10050.78,
-    "velocity": 271.07,
-    "heading": 160.6,
+    "lon": -92.5808,
+    "lat": 34.0875,
+    "alt": 9745.98,
+    "velocity": 236.31,
+    "heading": 182.25,
     "trace": [
       [
         40.5296,
@@ -170,6 +163,10 @@
       [
         36.6472,
         -93.0199
+      ],
+      [
+        34.0875,
+        -92.5808
       ]
     ]
   },
@@ -178,11 +175,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6183",
-    "lon": -94.251,
-    "lat": 28.453,
-    "alt": 10675.62,
-    "velocity": 273.19,
-    "heading": 89.24,
+    "lon": -91.1417,
+    "lat": 28.4531,
+    "alt": 10668,
+    "velocity": 271.14,
+    "heading": 90.76,
     "trace": [
       [
         26.5223,
@@ -191,6 +188,10 @@
       [
         28.453,
         -94.251
+      ],
+      [
+        28.4531,
+        -91.1417
       ]
     ]
   }
