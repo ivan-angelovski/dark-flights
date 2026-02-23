@@ -4,11 +4,11 @@
     "name": "Bahrain Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "BAH1",
-    "lon": 3.8999,
-    "lat": 47.08,
-    "alt": 10668,
-    "velocity": 281.3,
-    "heading": 127.12,
+    "lon": 10.5209,
+    "lat": 43.328,
+    "alt": 11887.2,
+    "velocity": 277.96,
+    "heading": 136.05,
     "trace": [
       [
         51.4618,
@@ -17,23 +17,61 @@
       [
         47.08,
         3.8999
+      ],
+      [
+        43.328,
+        10.5209
       ]
     ]
   },
   {
-    "hex": "a7a2be",
-    "name": "ISR Platforms",
+    "hex": "3cd05a",
+    "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
-    "callsign": "",
-    "lon": 127.0609,
-    "lat": 36.6292,
-    "alt": 3192.78,
-    "velocity": 174.64,
-    "heading": 56.17,
+    "callsign": "GFD9",
+    "lon": 8.1346,
+    "lat": 53.616,
+    "alt": 1272.54,
+    "velocity": 109.45,
+    "heading": 214.66,
     "trace": [
       [
-        36.6292,
-        127.0609
+        53.616,
+        8.1346
+      ]
+    ]
+  },
+  {
+    "hex": "407c17",
+    "name": "Draken Intl",
+    "category": "Hired Gun",
+    "callsign": "FRA33",
+    "lon": -6.1428,
+    "lat": 54.6294,
+    "alt": 411.48,
+    "velocity": 44.52,
+    "heading": 236.31,
+    "trace": [
+      [
+        54.6294,
+        -6.1428
+      ]
+    ]
+  },
+  {
+    "hex": "a2f9dd",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA613",
+    "lon": -77.6601,
+    "lat": 24.6095,
+    "alt": 10767.06,
+    "velocity": 249.58,
+    "heading": 134,
+    "trace": [
+      [
+        24.6095,
+        -77.6601
       ]
     ]
   },
@@ -42,11 +80,11 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "BRMIDE93",
-    "lon": 1.1587,
-    "lat": 54.0914,
-    "alt": 7734.3,
-    "velocity": 255.93,
-    "heading": 165.21,
+    "lon": -1.4376,
+    "lat": 54.5068,
+    "alt": null,
+    "velocity": 6.43,
+    "heading": 348.75,
     "trace": [
       [
         54.8717,
@@ -55,27 +93,10 @@
       [
         54.0914,
         1.1587
-      ]
-    ]
-  },
-  {
-    "hex": "4009cc",
-    "name": "Draken Europe",
-    "category": "Hired Gun",
-    "callsign": "BRMIDE91",
-    "lon": 0.9485,
-    "lat": 54.8601,
-    "alt": 8343.9,
-    "velocity": 154.12,
-    "heading": 347.08,
-    "trace": [
-      [
-        54.8726,
-        -0.6556
       ],
       [
-        54.8601,
-        0.9485
+        54.5068,
+        -1.4376
       ]
     ]
   },
@@ -84,15 +105,19 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "BRMIDE92",
-    "lon": 0.7222,
-    "lat": 53.4531,
-    "alt": 5295.9,
-    "velocity": 174.95,
-    "heading": 203.02,
+    "lon": -1.5909,
+    "lat": 50.8294,
+    "alt": 731.52,
+    "velocity": 76.49,
+    "heading": 218.72,
     "trace": [
       [
         53.4531,
         0.7222
+      ],
+      [
+        50.8294,
+        -1.5909
       ]
     ]
   },
@@ -101,11 +126,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA170",
-    "lon": -102.0984,
-    "lat": 30.3409,
+    "lon": -107.0574,
+    "lat": 31.8723,
     "alt": 11582.4,
-    "velocity": 208.09,
-    "heading": 309.08,
+    "velocity": 211.13,
+    "heading": 274.75,
     "trace": [
       [
         26.6437,
@@ -114,6 +139,10 @@
       [
         30.3409,
         -102.0984
+      ],
+      [
+        31.8723,
+        -107.0574
       ]
     ]
   }
