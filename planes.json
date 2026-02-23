@@ -1,14 +1,31 @@
 [
   {
+    "hex": "89607a",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB6",
+    "lon": 50.7039,
+    "lat": 26.6381,
+    "alt": 10972.8,
+    "velocity": 222.07,
+    "heading": 289.06,
+    "trace": [
+      [
+        26.6381,
+        50.7039
+      ]
+    ]
+  },
+  {
     "hex": "600807",
     "name": "Gov of Azerbaijan",
     "category": "Dictator Alert",
     "callsign": "AHY6738",
-    "lon": 19.9137,
-    "lat": 46.2466,
-    "alt": 10058.4,
-    "velocity": 260.41,
-    "heading": 104.53,
+    "lon": 28.3613,
+    "lat": 42.3248,
+    "alt": 9448.8,
+    "velocity": 249.22,
+    "heading": 128.72,
     "trace": [
       [
         47.4228,
@@ -17,119 +34,44 @@
       [
         46.2466,
         19.9137
+      ],
+      [
+        42.3248,
+        28.3613
       ]
     ]
   },
   {
-    "hex": "acfc26",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR4831",
-    "lon": 22.0634,
-    "lat": 36.4402,
-    "alt": 10668,
-    "velocity": 268.61,
-    "heading": 140.52,
-    "trace": [
-      [
-        47.4323,
-        8.1738
-      ],
-      [
-        43.1509,
-        14.5433
-      ],
-      [
-        36.4402,
-        22.0634
-      ]
-    ]
-  },
-  {
-    "hex": "78048c",
-    "name": "Gov of PRC",
+    "hex": "894014",
+    "name": "Bahrain Amiri Flight",
     "category": "Dictator Alert",
-    "callsign": "CCA1611",
-    "lon": 116.9302,
-    "lat": 40.6188,
-    "alt": 7200.9,
-    "velocity": 180.55,
-    "heading": 324.86,
+    "callsign": "BAH1",
+    "lon": -0.4544,
+    "lat": 51.4618,
+    "alt": null,
+    "velocity": 0.9,
+    "heading": 323.44,
     "trace": [
       [
-        40.6188,
-        116.9302
+        51.4618,
+        -0.4544
       ]
     ]
   },
   {
-    "hex": "3cd05e",
-    "name": "Gesellschaft fur Flugzieldarstellung",
+    "hex": "407c17",
+    "name": "Draken Intl",
     "category": "Hired Gun",
-    "callsign": "GFD6",
-    "lon": 9.5709,
-    "lat": 54.3157,
-    "alt": 129.54,
-    "velocity": 69.02,
-    "heading": 259.7,
+    "callsign": "FRA33",
+    "lon": -6.2107,
+    "lat": 54.8732,
+    "alt": 1577.34,
+    "velocity": 67.72,
+    "heading": 5.67,
     "trace": [
       [
-        52.5001,
-        9.4312
-      ],
-      [
-        54.3157,
-        9.5709
-      ]
-    ]
-  },
-  {
-    "hex": "3cd063",
-    "name": "Gesellschaft fur Flugzieldarstellung",
-    "category": "Hired Gun",
-    "callsign": "GFD1",
-    "lon": 9.711,
-    "lat": 54.331,
-    "alt": 609.6,
-    "velocity": 62.67,
-    "heading": 260.07,
-    "trace": [
-      [
-        54.1108,
-        10.7298
-      ],
-      [
-        54.467,
-        12.4035
-      ],
-      [
-        54.2491,
-        12.03
-      ],
-      [
-        54.331,
-        9.711
-      ]
-    ]
-  },
-  {
-    "hex": "0a404c",
-    "name": "Gov of Algeria",
-    "category": "Dictator Alert",
-    "callsign": "7TVPE",
-    "lon": 0.7717,
-    "lat": 35.5298,
-    "alt": 4572,
-    "velocity": 140.48,
-    "heading": 106.38,
-    "trace": [
-      [
-        36.4286,
-        2.1019
-      ],
-      [
-        35.5298,
-        0.7717
+        54.8732,
+        -6.2107
       ]
     ]
   },
@@ -138,15 +80,36 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR810",
-    "lon": -80.2433,
-    "lat": 26.5237,
-    "alt": 6903.72,
-    "velocity": 214.43,
-    "heading": 354.63,
+    "lon": -80.4058,
+    "lat": 32.6392,
+    "alt": 3307.08,
+    "velocity": 160.82,
+    "heading": 69.59,
     "trace": [
       [
         26.5237,
         -80.2433
+      ],
+      [
+        32.6392,
+        -80.4058
+      ]
+    ]
+  },
+  {
+    "hex": "4009ce",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "BRMIDE93",
+    "lon": -0.6698,
+    "lat": 54.8717,
+    "alt": 6126.48,
+    "velocity": 188.97,
+    "heading": 73.39,
+    "trace": [
+      [
+        54.8717,
+        -0.6698
       ]
     ]
   },
@@ -155,74 +118,70 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "TASMAN71",
-    "lon": -0.0137,
-    "lat": 53.9177,
-    "alt": 8084.82,
-    "velocity": 223.2,
-    "heading": 145.14,
+    "lon": -0.3338,
+    "lat": 54.2997,
+    "alt": 3962.4,
+    "velocity": 125.41,
+    "heading": 334.49,
     "trace": [
       [
         53.9177,
         -0.0137
-      ]
-    ]
-  },
-  {
-    "hex": "4009d3",
-    "name": "Draken Europe",
-    "category": "Hired Gun",
-    "callsign": "CRIMSON2",
-    "lon": -2.7545,
-    "lat": 50.7196,
-    "alt": 3878.58,
-    "velocity": 181.85,
-    "heading": 77.42,
-    "trace": [
-      [
-        51.2683,
-        -4.5236
       ],
       [
-        50.7196,
-        -2.7545
+        54.2997,
+        -0.3338
       ]
     ]
   },
   {
-    "hex": "4009d1",
+    "hex": "4009cc",
     "name": "Draken Europe",
     "category": "Hired Gun",
-    "callsign": "CRIMSON1",
-    "lon": -2.5558,
-    "lat": 50.7419,
-    "alt": 2606.04,
-    "velocity": 158.1,
-    "heading": 81.58,
+    "callsign": "BRMIDE91",
+    "lon": -0.6556,
+    "lat": 54.8726,
+    "alt": 6256.02,
+    "velocity": 185.15,
+    "heading": 70.86,
     "trace": [
       [
-        51.2438,
-        -4.5437
-      ],
-      [
-        50.7419,
-        -2.5558
+        54.8726,
+        -0.6556
       ]
     ]
   },
   {
-    "hex": "a2f016",
+    "hex": "a047d4",
+    "name": "US Department of Energy",
+    "category": "Nuclear",
+    "callsign": "N117SR",
+    "lon": -81.7212,
+    "lat": 33.2867,
+    "alt": 76.2,
+    "velocity": 42,
+    "heading": 120.96,
+    "trace": [
+      [
+        33.2867,
+        -81.7212
+      ]
+    ]
+  },
+  {
+    "hex": "a2c4e0",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "GXA6201",
-    "lon": -80.2417,
-    "lat": 25.8843,
-    "alt": 152.4,
-    "velocity": 70.24,
-    "heading": 301.83,
+    "callsign": "GXA170",
+    "lon": -98.545,
+    "lat": 26.6437,
+    "alt": 8724.9,
+    "velocity": 207.28,
+    "heading": 324.5,
     "trace": [
       [
-        25.8843,
-        -80.2417
+        26.6437,
+        -98.545
       ]
     ]
   }
