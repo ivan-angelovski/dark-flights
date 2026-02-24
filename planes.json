@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a2f9dd",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA607",
+    "lon": -78.5558,
+    "lat": 25.0845,
+    "alt": 8991.6,
+    "velocity": 265.79,
+    "heading": 117.81,
+    "trace": [
+      [
+        25.0845,
+        -78.5558
+      ]
+    ]
+  },
+  {
     "hex": "a83f98",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA1629",
-    "lon": -111.3377,
-    "lat": 39.5963,
+    "lon": -99.7073,
+    "lat": 39.0555,
     "alt": 11277.6,
-    "velocity": 263.06,
-    "heading": 79.64,
+    "velocity": 261.25,
+    "heading": 99.41,
     "trace": [
       [
         37.7275,
@@ -17,6 +34,27 @@
       [
         39.5963,
         -111.3377
+      ],
+      [
+        39.0555,
+        -99.7073
+      ]
+    ]
+  },
+  {
+    "hex": "4009cd",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "ASPRIN41",
+    "lon": -2.1313,
+    "lat": 56.1446,
+    "alt": 6096,
+    "velocity": 156.11,
+    "heading": 337.32,
+    "trace": [
+      [
+        56.1446,
+        -2.1313
       ]
     ]
   },
@@ -25,11 +63,11 @@
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "AUH11",
-    "lon": 4.5902,
-    "lat": 52.6751,
-    "alt": 11582.4,
-    "velocity": 212.12,
-    "heading": 290.59,
+    "lon": -4.4094,
+    "lat": 55.8847,
+    "alt": 129.54,
+    "velocity": 69.13,
+    "heading": 226.21,
     "trace": [
       [
         43.9535,
@@ -46,23 +84,10 @@
       [
         52.6751,
         4.5902
-      ]
-    ]
-  },
-  {
-    "hex": "89615a",
-    "name": "Dubai Air Wing",
-    "category": "Dictator Alert",
-    "callsign": "DUB8",
-    "lon": 54.8653,
-    "lat": 25.312,
-    "alt": 3299.46,
-    "velocity": 166.62,
-    "heading": 274.25,
-    "trace": [
+      ],
       [
-        25.312,
-        54.8653
+        55.8847,
+        -4.4094
       ]
     ]
   },
@@ -71,11 +96,11 @@
     "name": "Skyline Aviation",
     "category": "Hired Gun",
     "callsign": "N116MA",
-    "lon": 6.7305,
-    "lat": 52.7714,
-    "alt": 419.1,
-    "velocity": 111.58,
-    "heading": 296.57,
+    "lon": 6.6634,
+    "lat": 52.8174,
+    "alt": 381,
+    "velocity": 108.65,
+    "heading": 322.7,
     "trace": [
       [
         52.8198,
@@ -88,23 +113,10 @@
       [
         52.7714,
         6.7305
-      ]
-    ]
-  },
-  {
-    "hex": "aa19ef",
-    "name": "Dynamic Avlease Inc",
-    "category": "Hired Gun",
-    "callsign": "N75Z",
-    "lon": -95.4275,
-    "lat": 19.1986,
-    "alt": 3390.9,
-    "velocity": 102.69,
-    "heading": 143.76,
-    "trace": [
+      ],
       [
-        19.1986,
-        -95.4275
+        52.8174,
+        6.6634
       ]
     ]
   },
@@ -114,7 +126,7 @@
     "category": "Hired Gun",
     "callsign": "GTI2785",
     "lon": -97.0597,
-    "lat": 32.9145,
+    "lat": 32.9146,
     "alt": null,
     "velocity": 0,
     "heading": 270,
@@ -134,6 +146,10 @@
       [
         32.9145,
         -97.0597
+      ],
+      [
+        32.9146,
+        -97.0597
       ]
     ]
   },
@@ -142,36 +158,70 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA200",
-    "lon": -78.0501,
-    "lat": 24.8161,
-    "alt": 8900.16,
-    "velocity": 272.41,
-    "heading": 115.98,
+    "lon": -72.2394,
+    "lat": 18.4486,
+    "alt": 10660.38,
+    "velocity": 245.49,
+    "heading": 150.91,
     "trace": [
       [
         24.8161,
         -78.0501
+      ],
+      [
+        18.4486,
+        -72.2394
       ]
     ]
   },
   {
-    "hex": "40774d",
-    "name": "Draken Intl",
+    "hex": "a3defb",
+    "name": "Amerijet International",
     "category": "Hired Gun",
-    "callsign": "FRA36",
-    "lon": -3.2306,
-    "lat": 51.7971,
-    "alt": 2438.4,
-    "velocity": 53.43,
-    "heading": 218.75,
+    "callsign": "AJT816",
+    "lon": -80.2608,
+    "lat": 25.8046,
+    "alt": -7.62,
+    "velocity": 75.76,
+    "heading": 266.5,
     "trace": [
       [
-        54.0456,
-        -4.8472
-      ],
+        25.8046,
+        -80.2608
+      ]
+    ]
+  },
+  {
+    "hex": "c01271",
+    "name": "Top Aces Inc",
+    "category": "Hired Gun",
+    "callsign": "SKYHAWK2",
+    "lon": 10.0759,
+    "lat": 52.964,
+    "alt": 3909.06,
+    "velocity": 141.54,
+    "heading": 313.67,
+    "trace": [
       [
-        51.7971,
-        -3.2306
+        52.964,
+        10.0759
+      ]
+    ]
+  },
+  {
+    "hex": "3cd05c",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD60",
+    "lon": 23.2329,
+    "lat": 54.1535,
+    "alt": 4693.92,
+    "velocity": 206.71,
+    "heading": 245.28,
+    "trace": [
+      [
+        54.1535,
+        23.2329
       ]
     ]
   },
@@ -180,70 +230,104 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD6",
-    "lon": 9.9979,
-    "lat": 52.9147,
-    "alt": 3649.98,
-    "velocity": 104.14,
-    "heading": 299.6,
+    "lon": 9.8884,
+    "lat": 53.375,
+    "alt": 4564.38,
+    "velocity": 165.66,
+    "heading": 353.58,
     "trace": [
       [
         52.9147,
         9.9979
-      ]
-    ]
-  },
-  {
-    "hex": "40105f",
-    "name": "Draken Intl",
-    "category": "Hired Gun",
-    "callsign": "FRA33",
-    "lon": -5.9108,
-    "lat": 54.803,
-    "alt": 982.98,
-    "velocity": 45,
-    "heading": 174.09,
-    "trace": [
-      [
-        54.803,
-        -5.9108
-      ]
-    ]
-  },
-  {
-    "hex": "ab7437",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA6141",
-    "lon": -95.963,
-    "lat": 29.6593,
-    "alt": 4107.18,
-    "velocity": 176.09,
-    "heading": 61.56,
-    "trace": [
-      [
-        29.6593,
-        -95.963
-      ]
-    ]
-  },
-  {
-    "hex": "407c18",
-    "name": "Draken Intl",
-    "category": "Hired Gun",
-    "callsign": "FRA45",
-    "lon": -3.1307,
-    "lat": 51.8962,
-    "alt": 2750.82,
-    "velocity": 53.86,
-    "heading": 204.85,
-    "trace": [
-      [
-        54.4015,
-        -5.4829
       ],
       [
-        51.8962,
-        -3.1307
+        53.375,
+        9.8884
+      ]
+    ]
+  },
+  {
+    "hex": "3cd060",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD91",
+    "lon": 8.2193,
+    "lat": 53.7559,
+    "alt": 3048,
+    "velocity": 146.2,
+    "heading": 238.38,
+    "trace": [
+      [
+        53.7559,
+        8.2193
+      ]
+    ]
+  },
+  {
+    "hex": "aa198b",
+    "name": "Dynamic Avlease Inc",
+    "category": "Hired Gun",
+    "callsign": "N75V",
+    "lon": -99.038,
+    "lat": 26.84,
+    "alt": 2522.22,
+    "velocity": 78.99,
+    "heading": 355.14,
+    "trace": [
+      [
+        26.84,
+        -99.038
+      ]
+    ]
+  },
+  {
+    "hex": "407c17",
+    "name": "Draken Intl",
+    "category": "Hired Gun",
+    "callsign": "FRA40",
+    "lon": -6.3704,
+    "lat": 54.9593,
+    "alt": 1295.4,
+    "velocity": 72.46,
+    "heading": 312.41,
+    "trace": [
+      [
+        54.9593,
+        -6.3704
+      ]
+    ]
+  },
+  {
+    "hex": "c053d9",
+    "name": "Top Aces Inc",
+    "category": "Hired Gun",
+    "callsign": "TONIC1",
+    "lon": 8.6421,
+    "lat": 53.7637,
+    "alt": null,
+    "velocity": 5.4,
+    "heading": 78.75,
+    "trace": [
+      [
+        53.7637,
+        8.6421
+      ]
+    ]
+  },
+  {
+    "hex": "71022b",
+    "name": "Saudi Ministry of Finance",
+    "category": "Dictator Alert",
+    "callsign": "SVA7341",
+    "lon": 39.4233,
+    "lat": 21.9106,
+    "alt": 3040.38,
+    "velocity": 127.12,
+    "heading": 260.92,
+    "trace": [
+      [
+        21.9106,
+        39.4233
       ]
     ]
   },
@@ -252,15 +336,19 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6181",
-    "lon": -90.8456,
-    "lat": 30.2101,
-    "alt": 10058.4,
-    "velocity": 257.16,
-    "heading": 125.88,
+    "lon": -81.8644,
+    "lat": 26.5773,
+    "alt": 8313.42,
+    "velocity": 223.02,
+    "heading": 124.09,
     "trace": [
       [
         30.2101,
         -90.8456
+      ],
+      [
+        26.5773,
+        -81.8644
       ]
     ]
   }
