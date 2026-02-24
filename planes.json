@@ -1,14 +1,48 @@
 [
   {
+    "hex": "40774d",
+    "name": "Draken Intl",
+    "category": "Hired Gun",
+    "callsign": "FRA36",
+    "lon": -4.8472,
+    "lat": 54.0456,
+    "alt": 2750.82,
+    "velocity": 81.63,
+    "heading": 122.39,
+    "trace": [
+      [
+        54.0456,
+        -4.8472
+      ]
+    ]
+  },
+  {
+    "hex": "a83f98",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA1629",
+    "lon": -122.2081,
+    "lat": 37.7275,
+    "alt": null,
+    "velocity": 0,
+    "heading": 213.75,
+    "trace": [
+      [
+        37.7275,
+        -122.2081
+      ]
+    ]
+  },
+  {
     "hex": "4009cc",
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "BRMIDE11",
-    "lon": -0.1562,
-    "lat": 55.0505,
-    "alt": 8625.84,
-    "velocity": 195.59,
-    "heading": 70.33,
+    "lon": 0.3882,
+    "lat": 54.8469,
+    "alt": 8534.4,
+    "velocity": 154.86,
+    "heading": 322.56,
     "trace": [
       [
         54.8605,
@@ -17,6 +51,10 @@
       [
         55.0505,
         -0.1562
+      ],
+      [
+        54.8469,
+        0.3882
       ]
     ]
   },
@@ -25,11 +63,11 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "BRMIDE12",
-    "lon": -0.1735,
-    "lat": 54.8453,
-    "alt": 8336.28,
-    "velocity": 168.01,
-    "heading": 299.94,
+    "lon": -0.1052,
+    "lat": 52.537,
+    "alt": 7010.4,
+    "velocity": 194.59,
+    "heading": 141.01,
     "trace": [
       [
         54.8378,
@@ -38,31 +76,10 @@
       [
         54.8453,
         -0.1735
-      ]
-    ]
-  },
-  {
-    "hex": "4009d1",
-    "name": "Draken Europe",
-    "category": "Hired Gun",
-    "callsign": "AMBER2",
-    "lon": -1.8332,
-    "lat": 50.7849,
-    "alt": null,
-    "velocity": 0.06,
-    "heading": 272.81,
-    "trace": [
-      [
-        50.1153,
-        -5.3641
       ],
       [
-        50.1166,
-        -5.094
-      ],
-      [
-        50.7849,
-        -1.8332
+        52.537,
+        -0.1052
       ]
     ]
   },
@@ -71,11 +88,11 @@
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "AUH11",
-    "lon": 21.4341,
-    "lat": 46.1583,
-    "alt": 11590.02,
-    "velocity": 206.1,
-    "heading": 301.11,
+    "lon": 16.8899,
+    "lat": 47.9583,
+    "alt": 11582.4,
+    "velocity": 207.02,
+    "heading": 310.06,
     "trace": [
       [
         43.9535,
@@ -84,48 +101,44 @@
       [
         46.1583,
         21.4341
+      ],
+      [
+        47.9583,
+        16.8899
       ]
     ]
   },
   {
-    "hex": "8960b4",
-    "name": "Dubai Air Wing",
-    "category": "Dictator Alert",
-    "callsign": "DUB1",
-    "lon": 29.8277,
-    "lat": 42.3124,
-    "alt": 11887.2,
-    "velocity": 269.92,
-    "heading": 109.37,
-    "trace": [
-      [
-        43.7375,
-        12.3021
-      ],
-      [
-        42.9615,
-        22.9654
-      ],
-      [
-        42.3124,
-        29.8277
-      ]
-    ]
-  },
-  {
-    "hex": "a7a2be",
-    "name": "ISR Platforms",
+    "hex": "adccd1",
+    "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "",
-    "lon": 127.293,
-    "lat": 36.8017,
-    "alt": 1127.76,
-    "velocity": 90.66,
-    "heading": 189.14,
+    "callsign": "GXA2964",
+    "lon": -79.12,
+    "lat": 24.2903,
+    "alt": 9136.38,
+    "velocity": 219.71,
+    "heading": 333.43,
     "trace": [
       [
-        36.8017,
-        127.293
+        24.2903,
+        -79.12
+      ]
+    ]
+  },
+  {
+    "hex": "a95c2f",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR861",
+    "lon": -81.2104,
+    "lat": 24.0717,
+    "alt": 12192,
+    "velocity": 261.7,
+    "heading": 16.8,
+    "trace": [
+      [
+        24.0717,
+        -81.2104
       ]
     ]
   },
@@ -134,15 +147,19 @@
     "name": "Skyline Aviation",
     "category": "Hired Gun",
     "callsign": "N116MA",
-    "lon": 6.5726,
-    "lat": 52.8198,
-    "alt": 1539.24,
-    "velocity": 114.23,
-    "heading": 134.27,
+    "lon": 6.8104,
+    "lat": 52.8659,
+    "alt": 1836.42,
+    "velocity": 120.2,
+    "heading": 144.41,
     "trace": [
       [
         52.8198,
         6.5726
+      ],
+      [
+        52.8659,
+        6.8104
       ]
     ]
   },
@@ -151,11 +168,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI768",
-    "lon": -94.9184,
-    "lat": 33.8754,
-    "alt": 10972.8,
-    "velocity": 226.44,
-    "heading": 246.29,
+    "lon": -97.0571,
+    "lat": 32.8905,
+    "alt": null,
+    "velocity": 6.17,
+    "heading": 270,
     "trace": [
       [
         36.0836,
@@ -164,6 +181,10 @@
       [
         33.8754,
         -94.9184
+      ],
+      [
+        32.8905,
+        -97.0571
       ]
     ]
   },
@@ -172,11 +193,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD60",
-    "lon": 25.4171,
-    "lat": 54.6091,
-    "alt": 1272.54,
-    "velocity": 138.69,
-    "heading": 176.17,
+    "lon": 24.3624,
+    "lat": 54.1552,
+    "alt": 2438.4,
+    "velocity": 121.74,
+    "heading": 332.03,
     "trace": [
       [
         53.2855,
@@ -193,6 +214,10 @@
       [
         54.6091,
         25.4171
+      ],
+      [
+        54.1552,
+        24.3624
       ]
     ]
   },
@@ -201,11 +226,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD5",
-    "lon": 9.3907,
-    "lat": 53.148,
-    "alt": 4137.66,
-    "velocity": 131.46,
-    "heading": 22.55,
+    "lon": 9.7284,
+    "lat": 54.3327,
+    "alt": 579.12,
+    "velocity": 78.69,
+    "heading": 258.69,
     "trace": [
       [
         52.5058,
@@ -218,31 +243,10 @@
       [
         53.148,
         9.3907
-      ]
-    ]
-  },
-  {
-    "hex": "3cd05e",
-    "name": "Gesellschaft fur Flugzieldarstellung",
-    "category": "Hired Gun",
-    "callsign": "GFD4",
-    "lon": 9.5617,
-    "lat": 54.0805,
-    "alt": 1150.62,
-    "velocity": 120.03,
-    "heading": 35.05,
-    "trace": [
-      [
-        52.4474,
-        9.3733
       ],
       [
-        52.5289,
-        9.6105
-      ],
-      [
-        54.0805,
-        9.5617
+        54.3327,
+        9.7284
       ]
     ]
   },
@@ -251,11 +255,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD91",
-    "lon": 8.832,
-    "lat": 53.9769,
-    "alt": 632.46,
-    "velocity": 138.52,
-    "heading": 58.67,
+    "lon": 8.9123,
+    "lat": 54.0055,
+    "alt": 624.84,
+    "velocity": 139.84,
+    "heading": 59,
     "trace": [
       [
         53.9076,
@@ -264,40 +268,44 @@
       [
         53.9769,
         8.832
+      ],
+      [
+        54.0055,
+        8.9123
       ]
     ]
   },
   {
-    "hex": "0a4009",
-    "name": "Gov of Algeria",
-    "category": "Dictator Alert",
-    "callsign": "7TVPC",
-    "lon": 0.4294,
-    "lat": 36.001,
-    "alt": 4213.86,
-    "velocity": 160.16,
-    "heading": 246.73,
+    "hex": "407c18",
+    "name": "Draken Intl",
+    "category": "Hired Gun",
+    "callsign": "FRA45",
+    "lon": -5.4829,
+    "lat": 54.4015,
+    "alt": 2743.2,
+    "velocity": 68.13,
+    "heading": 128.25,
     "trace": [
       [
-        36.001,
-        0.4294
+        54.4015,
+        -5.4829
       ]
     ]
   },
   {
-    "hex": "a3defb",
+    "hex": "a451cb",
     "name": "Amerijet International",
     "category": "Hired Gun",
-    "callsign": "AJT816",
-    "lon": -74.0347,
-    "lat": 4.8767,
-    "alt": 4396.74,
-    "velocity": 174.24,
-    "heading": 19.13,
+    "callsign": "AJT821",
+    "lon": -60.1389,
+    "lat": 13.6534,
+    "alt": 5113.02,
+    "velocity": 192.99,
+    "heading": 141.6,
     "trace": [
       [
-        4.8767,
-        -74.0347
+        13.6534,
+        -60.1389
       ]
     ]
   },
@@ -306,15 +314,19 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6121",
-    "lon": -86.741,
-    "lat": 30.8644,
-    "alt": 10660.38,
-    "velocity": 250.93,
-    "heading": 98.01,
+    "lon": -82.1927,
+    "lat": 30.4594,
+    "alt": 2552.7,
+    "velocity": 161.71,
+    "heading": 108.55,
     "trace": [
       [
         30.8644,
         -86.741
+      ],
+      [
+        30.4594,
+        -82.1927
       ]
     ]
   }
