@@ -4,11 +4,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR510",
-    "lon": 100.5219,
-    "lat": 13.9011,
-    "alt": 10370.82,
-    "velocity": 261.22,
-    "heading": 275.99,
+    "lon": 99.0904,
+    "lat": 13.6459,
+    "alt": 10363.2,
+    "velocity": 264.45,
+    "heading": 258.1,
     "trace": [
       [
         15.5111,
@@ -17,6 +17,10 @@
       [
         13.9011,
         100.5219
+      ],
+      [
+        13.6459,
+        99.0904
       ]
     ]
   },
@@ -25,15 +29,53 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "A7MBK",
-    "lon": 50.5591,
-    "lat": 26.271,
-    "alt": 7924.8,
-    "velocity": 192.8,
-    "heading": 278.13,
+    "lon": 49.2922,
+    "lat": 26.3025,
+    "alt": 8534.4,
+    "velocity": 194.56,
+    "heading": 268.18,
     "trace": [
       [
         26.271,
         50.5591
+      ],
+      [
+        26.3025,
+        49.2922
+      ]
+    ]
+  },
+  {
+    "hex": "a95c2f",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR560",
+    "lon": 104.9114,
+    "lat": 29.2272,
+    "alt": 12527.28,
+    "velocity": 261.43,
+    "heading": 156.21,
+    "trace": [
+      [
+        29.2272,
+        104.9114
+      ]
+    ]
+  },
+  {
+    "hex": "157713",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD958",
+    "lon": 47.9316,
+    "lat": 59.9633,
+    "alt": 10652.76,
+    "velocity": 242.08,
+    "heading": 71.03,
+    "trace": [
+      [
+        59.9633,
+        47.9316
       ]
     ]
   }
