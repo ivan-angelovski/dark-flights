@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a9c52e",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR843",
+    "lon": -10.114,
+    "lat": 50.4836,
+    "alt": 11277.6,
+    "velocity": 278.06,
+    "heading": 81.81,
+    "trace": [
+      [
+        50.4836,
+        -10.114
+      ]
+    ]
+  },
+  {
     "hex": "157717",
     "name": "Russia Special Flight Detachment",
     "category": "Dictator Alert",
     "callsign": "RSD956",
-    "lon": 30.2659,
-    "lat": 59.7928,
-    "alt": 754.38,
-    "velocity": 76.53,
-    "heading": 106,
+    "lon": 29.6362,
+    "lat": 59.8482,
+    "alt": 762,
+    "velocity": 4.02,
+    "heading": 309.81,
     "trace": [
       [
         55.98,
@@ -21,6 +38,10 @@
       [
         59.7928,
         30.2659
+      ],
+      [
+        59.8482,
+        29.6362
       ]
     ]
   }
