@@ -1,18 +1,35 @@
 [
   {
-    "hex": "a87876",
-    "name": "Atlas Air",
+    "hex": "a9c52e",
+    "name": "National Airlines",
     "category": "Hired Gun",
-    "callsign": "GTI8085",
-    "lon": -84.6679,
-    "lat": 39.0481,
-    "alt": null,
-    "velocity": 5.92,
-    "heading": 90,
+    "callsign": "NCR843",
+    "lon": -79.5344,
+    "lat": 34.3459,
+    "alt": 9509.76,
+    "velocity": 254.94,
+    "heading": 42.22,
     "trace": [
       [
-        39.0481,
-        -84.6679
+        34.3459,
+        -79.5344
+      ]
+    ]
+  },
+  {
+    "hex": "a2f9dd",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA4606",
+    "lon": -93.0147,
+    "lat": 31.1733,
+    "alt": 10668,
+    "velocity": 249.91,
+    "heading": 79.08,
+    "trace": [
+      [
+        31.1733,
+        -93.0147
       ]
     ]
   },
@@ -21,64 +38,53 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA122",
-    "lon": -77.7113,
-    "lat": 38.4022,
+    "lon": -82.3211,
+    "lat": 30.6396,
     "alt": 10363.2,
-    "velocity": 207.25,
-    "heading": 222.08,
+    "velocity": 225.03,
+    "heading": 186.04,
     "trace": [
       [
         38.4022,
         -77.7113
+      ],
+      [
+        30.6396,
+        -82.3211
       ]
     ]
   },
   {
-    "hex": "a86e85",
+    "hex": "a2d615",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "GXA1656",
-    "lon": -80.0705,
-    "lat": 26.041,
-    "alt": 3162.3,
-    "velocity": 148.88,
-    "heading": 192.98,
+    "callsign": "GXA1681",
+    "lon": -74.1777,
+    "lat": 40.2515,
+    "alt": 3505.2,
+    "velocity": 164.96,
+    "heading": 193.34,
     "trace": [
       [
-        40.846,
-        -96.7533
-      ],
+        40.2515,
+        -74.1777
+      ]
+    ]
+  },
+  {
+    "hex": "8953e3",
+    "name": "Gov of Brunei",
+    "category": "Dictator Alert",
+    "callsign": "V8OAS",
+    "lon": 16.7744,
+    "lat": 47.93,
+    "alt": 12192,
+    "velocity": 239.87,
+    "heading": 293.38,
+    "trace": [
       [
-        40.8462,
-        -96.7534
-      ],
-      [
-        41.1118,
-        -95.8775
-      ],
-      [
-        41.2722,
-        -92.2456
-      ],
-      [
-        41.4064,
-        -88.5503
-      ],
-      [
-        41.4294,
-        -85.9303
-      ],
-      [
-        41.4127,
-        -84.2503
-      ],
-      [
-        39.9783,
-        -75.3539
-      ],
-      [
-        26.041,
-        -80.0705
+        47.93,
+        16.7744
       ]
     ]
   }
