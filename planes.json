@@ -1,67 +1,18 @@
 [
   {
-    "hex": "a2bd72",
+    "hex": "ad7274",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "GXA6121",
-    "lon": -89.9678,
-    "lat": 26.4089,
-    "alt": 11300.46,
-    "velocity": 251.75,
-    "heading": 159.05,
+    "callsign": "GXA6126",
+    "lon": -90.5846,
+    "lat": 27.737,
+    "alt": 11277.6,
+    "velocity": 255.76,
+    "heading": 157.41,
     "trace": [
       [
-        30.2785,
-        -91.6719
-      ],
-      [
-        28.3799,
-        -90.8184
-      ],
-      [
-        26.9969,
-        -90.2172
-      ],
-      [
-        26.4089,
-        -89.9678
-      ]
-    ]
-  },
-  {
-    "hex": "a9c52e",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR843",
-    "lon": 4.4182,
-    "lat": 50.7614,
-    "alt": 10972.8,
-    "velocity": 259.85,
-    "heading": 107.39,
-    "trace": [
-      [
-        50.4836,
-        -10.114
-      ],
-      [
-        50.6554,
-        -8.0326
-      ],
-      [
-        51.0146,
-        -2.7261
-      ],
-      [
-        51.115,
-        0.5222
-      ],
-      [
-        51.0415,
-        2.9446
-      ],
-      [
-        50.7614,
-        4.4182
+        27.737,
+        -90.5846
       ]
     ]
   },
@@ -70,11 +21,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR503",
-    "lon": 89.5454,
-    "lat": 22.527,
+    "lon": 95.1588,
+    "lat": 22.6916,
     "alt": 10088.88,
-    "velocity": 297.42,
-    "heading": 96.85,
+    "velocity": 303.92,
+    "heading": 82.71,
     "trace": [
       [
         22.9045,
@@ -87,6 +38,10 @@
       [
         22.527,
         89.5454
+      ],
+      [
+        22.6916,
+        95.1588
       ]
     ]
   },
@@ -95,11 +50,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6155",
-    "lon": -101.8999,
-    "lat": 30.0193,
-    "alt": 10363.2,
-    "velocity": 216.49,
-    "heading": 296.38,
+    "lon": -106.1752,
+    "lat": 31.7751,
+    "alt": 10355.58,
+    "velocity": 211.6,
+    "heading": 294.26,
     "trace": [
       [
         27.3552,
@@ -116,6 +71,44 @@
       [
         30.0193,
         -101.8999
+      ],
+      [
+        31.7751,
+        -106.1752
+      ]
+    ]
+  },
+  {
+    "hex": "157713",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD951",
+    "lon": 86.8502,
+    "lat": 57.3663,
+    "alt": 10660.38,
+    "velocity": 245.71,
+    "heading": 116.35,
+    "trace": [
+      [
+        57.3663,
+        86.8502
+      ]
+    ]
+  },
+  {
+    "hex": "157717",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD956",
+    "lon": 30.2601,
+    "lat": 59.7938,
+    "alt": 9456.42,
+    "velocity": 80.63,
+    "heading": 105.54,
+    "trace": [
+      [
+        59.7938,
+        30.2601
       ]
     ]
   }
