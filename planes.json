@@ -1,18 +1,35 @@
 [
   {
-    "hex": "400e15",
-    "name": "Draken Europe",
+    "hex": "a9e61f",
+    "name": "Eagle Intl Establishment",
     "category": "Hired Gun",
-    "callsign": "FRA83",
-    "lon": -1.4568,
-    "lat": 54.3796,
-    "alt": 2811.78,
-    "velocity": 164.42,
-    "heading": 36.48,
+    "callsign": "N737M",
+    "lon": 6.4384,
+    "lat": 49.09,
+    "alt": 12192,
+    "velocity": 236.22,
+    "heading": 324.75,
     "trace": [
       [
-        54.3796,
-        -1.4568
+        49.09,
+        6.4384
+      ]
+    ]
+  },
+  {
+    "hex": "a0c62d",
+    "name": "Eastern Air Express",
+    "category": "Hired Gun",
+    "callsign": "BBQ502",
+    "lon": -82.0505,
+    "lat": 24.4414,
+    "alt": 7315.2,
+    "velocity": 197.67,
+    "heading": 244.57,
+    "trace": [
+      [
+        24.4414,
+        -82.0505
       ]
     ]
   },
@@ -21,15 +38,19 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "FRA76",
-    "lon": -1.8274,
-    "lat": 50.783,
-    "alt": null,
-    "velocity": 6.94,
-    "heading": 140.62,
+    "lon": -2.1294,
+    "lat": 53.5094,
+    "alt": 6088.38,
+    "velocity": 242.39,
+    "heading": 24.72,
     "trace": [
       [
         50.783,
         -1.8274
+      ],
+      [
+        53.5094,
+        -2.1294
       ]
     ]
   },
@@ -38,11 +59,11 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "BWY30",
-    "lon": -5.3227,
-    "lat": 50.1206,
-    "alt": 1409.7,
-    "velocity": 116.37,
-    "heading": 350.33,
+    "lon": -1.7191,
+    "lat": 50.801,
+    "alt": 434.34,
+    "velocity": 67.64,
+    "heading": 255.01,
     "trace": [
       [
         50.0594,
@@ -51,23 +72,27 @@
       [
         50.1206,
         -5.3227
+      ],
+      [
+        50.801,
+        -1.7191
       ]
     ]
   },
   {
-    "hex": "78048c",
-    "name": "Gov of PRC",
-    "category": "Dictator Alert",
-    "callsign": "CCA107",
-    "lon": 115.9329,
-    "lat": 39.9974,
-    "alt": 5760.72,
-    "velocity": 186.55,
-    "heading": 237.84,
+    "hex": "a7a2be",
+    "name": "ISR Platforms",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": 126.7972,
+    "lat": 34.4967,
+    "alt": 7010.4,
+    "velocity": 201.91,
+    "heading": 4.97,
     "trace": [
       [
-        39.9974,
-        115.9329
+        34.4967,
+        126.7972
       ]
     ]
   },
@@ -76,11 +101,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6201",
-    "lon": -86.3854,
-    "lat": 27.954,
-    "alt": 9448.8,
-    "velocity": 243.62,
-    "heading": 111.04,
+    "lon": -82.2051,
+    "lat": 26.78,
+    "alt": 8602.98,
+    "velocity": 233.62,
+    "heading": 122.5,
     "trace": [
       [
         33.3033,
@@ -101,44 +126,61 @@
       [
         27.954,
         -86.3854
-      ]
-    ]
-  },
-  {
-    "hex": "4b8c2e",
-    "name": "Gov of Turkey",
-    "category": "Dictator Alert",
-    "callsign": "TRK1",
-    "lon": 31.2786,
-    "lat": 40.482,
-    "alt": 6309.36,
-    "velocity": 212.12,
-    "heading": 110.59,
-    "trace": [
-      [
-        40.482,
-        31.2786
-      ]
-    ]
-  },
-  {
-    "hex": "c01254",
-    "name": "Top Aces Inc",
-    "category": "Hired Gun",
-    "callsign": "SKYHWK3",
-    "lon": 11.2054,
-    "lat": 48.711,
-    "alt": 281.94,
-    "velocity": 77.68,
-    "heading": 270.38,
-    "trace": [
-      [
-        49.4837,
-        10.5378
       ],
       [
-        48.711,
-        11.2054
+        26.78,
+        -82.2051
+      ]
+    ]
+  },
+  {
+    "hex": "4b85cb",
+    "name": "Gov of Turkey",
+    "category": "Dictator Alert",
+    "callsign": "TRK25",
+    "lon": 28.86,
+    "lat": 40.989,
+    "alt": 617.22,
+    "velocity": 82.28,
+    "heading": 66.8,
+    "trace": [
+      [
+        40.989,
+        28.86
+      ]
+    ]
+  },
+  {
+    "hex": "a451cb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT811",
+    "lon": -78.1433,
+    "lat": 24.8347,
+    "alt": 10668,
+    "velocity": 271.84,
+    "heading": 118.36,
+    "trace": [
+      [
+        24.8347,
+        -78.1433
+      ]
+    ]
+  },
+  {
+    "hex": "157713",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD954",
+    "lon": 87.525,
+    "lat": 56.612,
+    "alt": 10347.96,
+    "velocity": 199.67,
+    "heading": 289.88,
+    "trace": [
+      [
+        56.612,
+        87.525
       ]
     ]
   }
