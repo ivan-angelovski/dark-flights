@@ -1,26 +1,69 @@
 [
   {
-    "hex": "a9e61f",
-    "name": "Eagle Intl Establishment",
+    "hex": "a09db2",
+    "name": "Skyline Aviation",
     "category": "Hired Gun",
-    "callsign": "N737M",
-    "lon": 6.9144,
-    "lat": 46.8405,
-    "alt": null,
-    "velocity": 3.34,
-    "heading": 132.19,
+    "callsign": "N139LZ",
+    "lon": 6.8664,
+    "lat": 52.8386,
+    "alt": 1882.14,
+    "velocity": 114.09,
+    "heading": 262.75,
     "trace": [
       [
-        51.713,
-        0.8206
-      ],
+        52.8386,
+        6.8664
+      ]
+    ]
+  },
+  {
+    "hex": "c07e0b",
+    "name": "Top Aces Inc",
+    "category": "Hired Gun",
+    "callsign": "AMBSH12",
+    "lon": 6.4376,
+    "lat": 56.2553,
+    "alt": 3916.68,
+    "velocity": 162.02,
+    "heading": 7.85,
+    "trace": [
       [
-        49.4511,
-        6.1977
-      ],
+        56.2553,
+        6.4376
+      ]
+    ]
+  },
+  {
+    "hex": "4009d3",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "BWY30",
+    "lon": -5.135,
+    "lat": 50.0594,
+    "alt": 579.12,
+    "velocity": 72.57,
+    "heading": 289.46,
+    "trace": [
       [
-        46.8405,
-        6.9144
+        50.0594,
+        -5.135
+      ]
+    ]
+  },
+  {
+    "hex": "c088a9",
+    "name": "Top Aces Inc",
+    "category": "Hired Gun",
+    "callsign": "AMBUSH11",
+    "lon": 6.7037,
+    "lat": 56.2725,
+    "alt": 6233.16,
+    "velocity": 174.95,
+    "heading": 358.82,
+    "trace": [
+      [
+        56.2725,
+        6.7037
       ]
     ]
   },
@@ -29,11 +72,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6201",
-    "lon": -102.2218,
-    "lat": 31.5644,
-    "alt": 10058.4,
-    "velocity": 249.5,
-    "heading": 99.73,
+    "lon": -93.6638,
+    "lat": 30.0066,
+    "alt": 9448.8,
+    "velocity": 241.81,
+    "heading": 104.04,
     "trace": [
       [
         33.3033,
@@ -46,6 +89,10 @@
       [
         31.5644,
         -102.2218
+      ],
+      [
+        30.0066,
+        -93.6638
       ]
     ]
   },
@@ -54,11 +101,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2230",
-    "lon": -10.9653,
-    "lat": 37.1238,
+    "lon": -14.6388,
+    "lat": 30.2918,
     "alt": 11277.6,
-    "velocity": 223.85,
-    "heading": 198.77,
+    "velocity": 247.79,
+    "heading": 197.64,
     "trace": [
       [
         49.4107,
@@ -75,6 +122,10 @@
       [
         37.1238,
         -10.9653
+      ],
+      [
+        30.2918,
+        -14.6388
       ]
     ]
   },
@@ -83,15 +134,19 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6184",
-    "lon": -91.7888,
-    "lat": 30.8747,
-    "alt": 6766.56,
-    "velocity": 221.45,
-    "heading": 124.21,
+    "lon": -84.0654,
+    "lat": 27.2255,
+    "alt": 11887.2,
+    "velocity": 266.97,
+    "heading": 108.89,
     "trace": [
       [
         30.8747,
         -91.7888
+      ],
+      [
+        27.2255,
+        -84.0654
       ]
     ]
   },
@@ -100,15 +155,53 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD60",
-    "lon": 16.4947,
-    "lat": 53.3016,
-    "alt": 8831.58,
-    "velocity": 196.81,
-    "heading": 73.6,
+    "lon": 25.28,
+    "lat": 54.6301,
+    "alt": null,
+    "velocity": 4.89,
+    "heading": 334.69,
     "trace": [
       [
         53.3016,
         16.4947
+      ],
+      [
+        54.6301,
+        25.28
+      ]
+    ]
+  },
+  {
+    "hex": "c01254",
+    "name": "Top Aces Inc",
+    "category": "Hired Gun",
+    "callsign": "SKYHWK3",
+    "lon": 10.5378,
+    "lat": 49.4837,
+    "alt": 7559.04,
+    "velocity": 224.45,
+    "heading": 149.26,
+    "trace": [
+      [
+        49.4837,
+        10.5378
+      ]
+    ]
+  },
+  {
+    "hex": "157713",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD954",
+    "lon": 89.3898,
+    "lat": 56.7547,
+    "alt": 9319.26,
+    "velocity": 239.87,
+    "heading": 106.96,
+    "trace": [
+      [
+        56.7547,
+        89.3898
       ]
     ]
   }
