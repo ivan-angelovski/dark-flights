@@ -1,26 +1,31 @@
 [
   {
-    "hex": "a2f9dd",
-    "name": "Global Crossing Airlines",
+    "hex": "a95c2f",
+    "name": "National Airlines",
     "category": "Hired Gun",
-    "callsign": "",
-    "lon": null,
-    "lat": null,
-    "alt": null,
-    "velocity": 221.75,
-    "heading": 310.86,
-    "trace": []
+    "callsign": "NCR515",
+    "lon": -80.1952,
+    "lat": 25.638,
+    "alt": 1272.54,
+    "velocity": 157.99,
+    "heading": 184.86,
+    "trace": [
+      [
+        25.638,
+        -80.1952
+      ]
+    ]
   },
   {
     "hex": "896264",
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "AUH03",
-    "lon": null,
-    "lat": null,
-    "alt": 12192,
-    "velocity": 262.59,
-    "heading": 109.22,
+    "lon": -7.4338,
+    "lat": 34.1373,
+    "alt": 3665.22,
+    "velocity": 180.55,
+    "heading": 96.05,
     "trace": [
       [
         35.3852,
@@ -29,6 +34,27 @@
       [
         35.5363,
         -15.2395
+      ],
+      [
+        34.1373,
+        -7.4338
+      ]
+    ]
+  },
+  {
+    "hex": "a2c4e0",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6103",
+    "lon": -97.5577,
+    "lat": 26.8662,
+    "alt": 5532.12,
+    "velocity": 214.48,
+    "heading": 5.51,
+    "trace": [
+      [
+        26.8662,
+        -97.5577
       ]
     ]
   },
@@ -37,11 +63,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA4628",
-    "lon": -102.9255,
-    "lat": 38.0695,
-    "alt": 11887.2,
-    "velocity": 268.19,
-    "heading": 99.61,
+    "lon": -99.2732,
+    "lat": 37.4667,
+    "alt": 11879.58,
+    "velocity": 263.94,
+    "heading": 102.95,
     "trace": [
       [
         38.4165,
@@ -54,23 +80,44 @@
       [
         38.0695,
         -102.9255
+      ],
+      [
+        37.4667,
+        -99.2732
       ]
     ]
   },
   {
-    "hex": "a5ad74",
-    "name": "Phoenix Air",
+    "hex": "a75013",
+    "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "N465PA",
-    "lon": -119.0778,
-    "lat": 34.0585,
-    "alt": 457.2,
-    "velocity": 76.98,
-    "heading": 10.78,
+    "callsign": "GXA6163",
+    "lon": -95.4046,
+    "lat": 19.3416,
+    "alt": 11582.4,
+    "velocity": 219.67,
+    "heading": 336.98,
     "trace": [
       [
-        34.0585,
-        -119.0778
+        19.3416,
+        -95.4046
+      ]
+    ]
+  },
+  {
+    "hex": "7277a8",
+    "name": "Air Koryo",
+    "category": "Dictator Alert",
+    "callsign": "KOR151",
+    "lon": 124.8224,
+    "lat": 39.9786,
+    "alt": 8915.4,
+    "velocity": 164.09,
+    "heading": 313.86,
+    "trace": [
+      [
+        39.9786,
+        124.8224
       ]
     ]
   },
@@ -79,11 +126,11 @@
     "name": "Gov of Brunei",
     "category": "Dictator Alert",
     "callsign": "V8OAS",
-    "lon": 79.8527,
-    "lat": 27.1845,
-    "alt": 11879.58,
-    "velocity": 288.96,
-    "heading": 114.28,
+    "lon": 82.7187,
+    "lat": 25.3508,
+    "alt": 11887.2,
+    "velocity": 285.88,
+    "heading": 127.98,
     "trace": [
       [
         28.542,
@@ -96,60 +143,10 @@
       [
         27.1845,
         79.8527
-      ]
-    ]
-  },
-  {
-    "hex": "c07937",
-    "name": "Top Aces Inc",
-    "category": "Hired Gun",
-    "callsign": "BRUSR02",
-    "lon": -97.6459,
-    "lat": 38.8216,
-    "alt": 434.34,
-    "velocity": 68.94,
-    "heading": 180.43,
-    "trace": [
-      [
-        38.5259,
-        -97.7957
       ],
       [
-        38.5948,
-        -98.0396
-      ],
-      [
-        38.6828,
-        -98.0876
-      ],
-      [
-        38.6322,
-        -97.9814
-      ],
-      [
-        38.5779,
-        -97.9762
-      ],
-      [
-        38.8216,
-        -97.6459
-      ]
-    ]
-  },
-  {
-    "hex": "a2f016",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA6204",
-    "lon": -80.3281,
-    "lat": 25.7855,
-    "alt": 45.72,
-    "velocity": 55.62,
-    "heading": 87.35,
-    "trace": [
-      [
-        25.7855,
-        -80.3281
+        25.3508,
+        82.7187
       ]
     ]
   },
@@ -158,11 +155,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6182",
-    "lon": -89.509,
-    "lat": 30.5187,
-    "alt": 10957.56,
-    "velocity": 215.15,
-    "heading": 264.1,
+    "lon": -92.2113,
+    "lat": 29.9797,
+    "alt": 10972.8,
+    "velocity": 225.21,
+    "heading": 247.01,
     "trace": [
       [
         30.5544,
@@ -175,6 +172,10 @@
       [
         30.5187,
         -89.509
+      ],
+      [
+        29.9797,
+        -92.2113
       ]
     ]
   },
@@ -183,11 +184,11 @@
     "name": "Phoenix Air",
     "category": "Hired Gun",
     "callsign": "GRB374",
-    "lon": -103.8641,
-    "lat": 34.6126,
-    "alt": 11887.2,
-    "velocity": 266.18,
-    "heading": 84.45,
+    "lon": -100.3469,
+    "lat": 34.9864,
+    "alt": 11894.82,
+    "velocity": 261.32,
+    "heading": 69.25,
     "trace": [
       [
         33.3575,
@@ -204,6 +205,10 @@
       [
         34.6126,
         -103.8641
+      ],
+      [
+        34.9864,
+        -100.3469
       ]
     ]
   },
@@ -212,48 +217,19 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA1636",
-    "lon": -82.1245,
-    "lat": 34.9289,
-    "alt": 1455.42,
-    "velocity": 135.82,
-    "heading": 127.3,
+    "lon": -79.7138,
+    "lat": 35.8366,
+    "alt": 9448.8,
+    "velocity": 231.18,
+    "heading": 57.26,
     "trace": [
       [
         34.9289,
         -82.1245
-      ]
-    ]
-  },
-  {
-    "hex": "a6b0f5",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA169",
-    "lon": -92.0016,
-    "lat": 31.0863,
-    "alt": 2910.84,
-    "velocity": 149.89,
-    "heading": 314.17,
-    "trace": [
-      [
-        25.7964,
-        -81.2557
       ],
       [
-        26.9233,
-        -83.7462
-      ],
-      [
-        28.6745,
-        -87.5126
-      ],
-      [
-        29.4238,
-        -88.8723
-      ],
-      [
-        31.0863,
-        -92.0016
+        35.8366,
+        -79.7138
       ]
     ]
   }
