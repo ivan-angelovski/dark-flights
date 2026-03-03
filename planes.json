@@ -1,31 +1,14 @@
 [
   {
-    "hex": "a95c2f",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR515",
-    "lon": -59.9165,
-    "lat": -32.4279,
-    "alt": 9448.8,
-    "velocity": 263.99,
-    "heading": 167.51,
-    "trace": [
-      [
-        -32.4279,
-        -59.9165
-      ]
-    ]
-  },
-  {
     "hex": "a2d615",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA1630",
-    "lon": -119.6842,
-    "lat": 37.9515,
-    "alt": 10370.82,
-    "velocity": 212.74,
-    "heading": 262.5,
+    "lon": -122.2097,
+    "lat": 37.728,
+    "alt": null,
+    "velocity": 0,
+    "heading": 177.19,
     "trace": [
       [
         38.4165,
@@ -66,23 +49,27 @@
       [
         37.9515,
         -119.6842
+      ],
+      [
+        37.728,
+        -122.2097
       ]
     ]
   },
   {
-    "hex": "06a2c3",
-    "name": "Qatar Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "00000000",
-    "lon": 51.5717,
-    "lat": 25.2661,
+    "hex": "c01266",
+    "name": "Top Aces Inc",
+    "category": "Hired Gun",
+    "callsign": "TDARTGA",
+    "lon": 8.6764,
+    "lat": 53.7692,
     "alt": null,
-    "velocity": 0,
-    "heading": 337.5,
+    "velocity": 7.46,
+    "heading": 348.75,
     "trace": [
       [
-        25.2661,
-        51.5717
+        53.7692,
+        8.6764
       ]
     ]
   },
@@ -91,15 +78,19 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD60",
-    "lon": 25.2835,
-    "lat": 54.6422,
-    "alt": null,
-    "velocity": 0,
-    "heading": 219.38,
+    "lon": 23.511,
+    "lat": 54.6903,
+    "alt": 3672.84,
+    "velocity": 135.4,
+    "heading": 191.4,
     "trace": [
       [
         54.6422,
         25.2835
+      ],
+      [
+        54.6903,
+        23.511
       ]
     ]
   },
@@ -108,32 +99,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR652",
-    "lon": -165.003,
-    "lat": 59.048,
-    "alt": 10668,
-    "velocity": 262.74,
-    "heading": 72.1,
+    "lon": -153.3753,
+    "lat": 60.6667,
+    "alt": 8557.26,
+    "velocity": 237.69,
+    "heading": 75.84,
     "trace": [
       [
         59.048,
         -165.003
-      ]
-    ]
-  },
-  {
-    "hex": "51002b",
-    "name": "Gov of Belarus",
-    "category": "Dictator Alert",
-    "callsign": "BRU8702",
-    "lon": 116.5656,
-    "lat": 40.7632,
-    "alt": 5455.92,
-    "velocity": 196.33,
-    "heading": 3.3,
-    "trace": [
+      ],
       [
-        40.7632,
-        116.5656
+        60.6667,
+        -153.3753
       ]
     ]
   }
