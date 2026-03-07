@@ -4,11 +4,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA625",
-    "lon": -118.472,
-    "lat": 34.0116,
-    "alt": 2659.38,
-    "velocity": 115.44,
-    "heading": 96.4,
+    "lon": -118.4188,
+    "lat": 33.9434,
+    "alt": null,
+    "velocity": 7.2,
+    "heading": 171.56,
     "trace": [
       [
         36.877,
@@ -17,6 +17,10 @@
       [
         34.0116,
         -118.472
+      ],
+      [
+        33.9434,
+        -118.4188
       ]
     ]
   },
@@ -25,15 +29,36 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8407",
-    "lon": -3.2331,
-    "lat": 54.1786,
-    "alt": 11445.24,
-    "velocity": 226.42,
-    "heading": 152.39,
+    "lon": -1.6177,
+    "lat": 52.565,
+    "alt": 12504.42,
+    "velocity": 235.31,
+    "heading": 148.5,
     "trace": [
       [
         54.1786,
         -3.2331
+      ],
+      [
+        52.565,
+        -1.6177
+      ]
+    ]
+  },
+  {
+    "hex": "157712",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD954",
+    "lon": 48.9979,
+    "lat": 60.1198,
+    "alt": 10660.38,
+    "velocity": 244.69,
+    "heading": 72.25,
+    "trace": [
+      [
+        60.1198,
+        48.9979
       ]
     ]
   }
