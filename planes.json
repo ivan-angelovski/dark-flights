@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a83f98",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA1617",
+    "lon": -118.3979,
+    "lat": 33.9346,
+    "alt": null,
+    "velocity": 1.29,
+    "heading": 73.12,
+    "trace": [
+      [
+        33.9346,
+        -118.3979
+      ]
+    ]
+  },
+  {
     "hex": "a8699a",
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8407",
-    "lon": 5.0625,
-    "lat": 49.0629,
+    "lon": 10.7724,
+    "lat": 44.1205,
     "alt": 12504.42,
-    "velocity": 238.01,
-    "heading": 127.71,
+    "velocity": 235.72,
+    "heading": 135.18,
     "trace": [
       [
         54.1786,
@@ -25,69 +42,48 @@
       [
         49.0629,
         5.0625
+      ],
+      [
+        44.1205,
+        10.7724
       ]
     ]
   },
   {
-    "hex": "a451cb",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT4611",
-    "lon": -76.3912,
-    "lat": 10.9173,
-    "alt": 10668,
-    "velocity": 237.81,
-    "heading": 169.15,
+    "hex": "0101d3",
+    "name": "Government of Egypt",
+    "category": "Dictator Alert",
+    "callsign": "SUBTT",
+    "lon": -1.8201,
+    "lat": 49.3321,
+    "alt": 12192,
+    "velocity": 222.44,
+    "heading": 279.85,
     "trace": [
       [
-        10.9173,
-        -76.3912
+        49.3321,
+        -1.8201
       ]
     ]
-  },
-  {
-    "hex": "406d26",
-    "name": "AirTanker",
-    "category": "Hired Gun",
-    "callsign": "AWC922W",
-    "lon": null,
-    "lat": null,
-    "alt": 12496.8,
-    "velocity": 273.75,
-    "heading": 102.26,
-    "trace": []
   },
   {
     "hex": "a9c52e",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR898",
-    "lon": -149.9912,
-    "lat": 61.1791,
+    "lon": -149.9891,
+    "lat": 61.174,
     "alt": null,
-    "velocity": 0,
-    "heading": 247.5,
+    "velocity": 3.09,
+    "heading": 160.31,
     "trace": [
       [
         61.1791,
         -149.9912
-      ]
-    ]
-  },
-  {
-    "hex": "a87876",
-    "name": "Atlas Air",
-    "category": "Hired Gun",
-    "callsign": "GTI8419",
-    "lon": -158.0163,
-    "lat": 21.158,
-    "alt": 1524,
-    "velocity": 116.46,
-    "heading": 229.84,
-    "trace": [
+      ],
       [
-        21.158,
-        -158.0163
+        61.174,
+        -149.9891
       ]
     ]
   }
