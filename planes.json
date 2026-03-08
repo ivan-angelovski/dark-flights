@@ -4,15 +4,19 @@
     "name": "US Department of Energy",
     "category": "Nuclear",
     "callsign": "N116SR",
-    "lon": -81.7726,
-    "lat": 33.2909,
-    "alt": 144.78,
-    "velocity": 52.71,
-    "heading": 204.81,
+    "lon": -81.6612,
+    "lat": 33.2088,
+    "alt": 160.02,
+    "velocity": 42.83,
+    "heading": 245.9,
     "trace": [
       [
         33.2909,
         -81.7726
+      ],
+      [
+        33.2088,
+        -81.6612
       ]
     ]
   },
@@ -21,32 +25,53 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8831",
-    "lon": -157.945,
-    "lat": 21.3069,
-    "alt": null,
-    "velocity": 0,
-    "heading": 92.81,
+    "lon": -158.4744,
+    "lat": 21.1613,
+    "alt": 5219.7,
+    "velocity": 216.08,
+    "heading": 269.32,
     "trace": [
       [
         21.3069,
         -157.945
+      ],
+      [
+        21.1613,
+        -158.4744
       ]
     ]
   },
   {
-    "hex": "600806",
-    "name": "Gov of Azerbaijan",
-    "category": "Dictator Alert",
-    "callsign": "AHY601",
-    "lon": 48.4927,
-    "lat": 40.8458,
-    "alt": 11041.38,
-    "velocity": 271.45,
-    "heading": 97.62,
+    "hex": "a95c2f",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR816",
+    "lon": -81.2092,
+    "lat": 24.1417,
+    "alt": 12192,
+    "velocity": 246.44,
+    "heading": 13.4,
     "trace": [
       [
-        40.8458,
-        48.4927
+        24.1417,
+        -81.2092
+      ]
+    ]
+  },
+  {
+    "hex": "a2d25e",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA4623",
+    "lon": -76.6938,
+    "lat": 39.175,
+    "alt": 327.66,
+    "velocity": 78.44,
+    "heading": 274.51,
+    "trace": [
+      [
+        39.175,
+        -76.6938
       ]
     ]
   },
@@ -55,11 +80,11 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT99",
-    "lon": -101.4144,
-    "lat": 30.9232,
+    "lon": -103.9608,
+    "lat": 31.4155,
     "alt": 11582.4,
-    "velocity": 195.15,
-    "heading": 283.41,
+    "velocity": 210.48,
+    "heading": 282.13,
     "trace": [
       [
         25.6409,
@@ -96,6 +121,10 @@
       [
         30.9232,
         -101.4144
+      ],
+      [
+        31.4155,
+        -103.9608
       ]
     ]
   },
@@ -104,15 +133,36 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE4093",
-    "lon": -158.0453,
-    "lat": 21.2645,
-    "alt": 1508.76,
-    "velocity": 116.57,
-    "heading": 249.33,
+    "lon": -157.9627,
+    "lat": 21.3253,
+    "alt": 106.68,
+    "velocity": 67.39,
+    "heading": 90.44,
     "trace": [
       [
         21.2645,
         -158.0453
+      ],
+      [
+        21.3253,
+        -157.9627
+      ]
+    ]
+  },
+  {
+    "hex": "a756eb",
+    "name": "Meta Aerospace",
+    "category": "Hired Gun",
+    "callsign": "SWB47",
+    "lon": -157.6738,
+    "lat": 21.3789,
+    "alt": 3032.76,
+    "velocity": 151.52,
+    "heading": 253.23,
+    "trace": [
+      [
+        21.3789,
+        -157.6738
       ]
     ]
   }
