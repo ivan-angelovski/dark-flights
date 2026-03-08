@@ -4,15 +4,19 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR815",
-    "lon": -175.0919,
-    "lat": 57.9339,
+    "lon": -166.5263,
+    "lat": 59.6818,
     "alt": 10668,
-    "velocity": 271.62,
-    "heading": 66.45,
+    "velocity": 268.28,
+    "heading": 70.97,
     "trace": [
       [
         57.9339,
         -175.0919
+      ],
+      [
+        59.6818,
+        -166.5263
       ]
     ]
   },
@@ -21,11 +25,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE2033",
-    "lon": -94.3241,
-    "lat": 36.9315,
-    "alt": 12192,
-    "velocity": 207.34,
-    "heading": 238.6,
+    "lon": -97.2767,
+    "lat": 34.4616,
+    "alt": 10949.94,
+    "velocity": 223.78,
+    "heading": 179.87,
     "trace": [
       [
         38.8812,
@@ -42,6 +46,10 @@
       [
         36.9315,
         -94.3241
+      ],
+      [
+        34.4616,
+        -97.2767
       ]
     ]
   },
@@ -50,15 +58,36 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR581",
-    "lon": 114.4432,
-    "lat": 21.9447,
-    "alt": 2697.48,
-    "velocity": 143.1,
-    "heading": 328.82,
+    "lon": 113.9056,
+    "lat": 22.3095,
+    "alt": null,
+    "velocity": 0.45,
+    "heading": 70.31,
     "trace": [
       [
         21.9447,
         114.4432
+      ],
+      [
+        22.3095,
+        113.9056
+      ]
+    ]
+  },
+  {
+    "hex": "406e9f",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "AWC927W",
+    "lon": 0.5547,
+    "lat": 51.278,
+    "alt": 9974.58,
+    "velocity": 240.05,
+    "heading": 97.14,
+    "trace": [
+      [
+        51.278,
+        0.5547
       ]
     ]
   }
