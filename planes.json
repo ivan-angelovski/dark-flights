@@ -4,11 +4,11 @@
     "name": "Skyline Aviation",
     "category": "Hired Gun",
     "callsign": "N139LE",
-    "lon": 5.5618,
-    "lat": 50.0834,
-    "alt": 1104.9,
-    "velocity": 89.73,
-    "heading": 300.68,
+    "lon": 5.5579,
+    "lat": 50.1151,
+    "alt": 960.12,
+    "velocity": 80.56,
+    "heading": 306.43,
     "trace": [
       [
         50.2263,
@@ -17,6 +17,10 @@
       [
         50.0834,
         5.5618
+      ],
+      [
+        50.1151,
+        5.5579
       ]
     ]
   },
@@ -25,15 +29,36 @@
     "name": "Gov of Morocco",
     "category": "Dictator Alert",
     "callsign": "MRS0603",
-    "lon": -6.2395,
-    "lat": 35.8325,
+    "lon": -3.5621,
+    "lat": 41.2301,
     "alt": 11582.4,
-    "velocity": 220.24,
-    "heading": 28,
+    "velocity": 215.43,
+    "heading": 22.46,
     "trace": [
       [
         35.8325,
         -6.2395
+      ],
+      [
+        41.2301,
+        -3.5621
+      ]
+    ]
+  },
+  {
+    "hex": "a5365d",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA2964",
+    "lon": -78.7686,
+    "lat": 23.9287,
+    "alt": 10721.34,
+    "velocity": 208.73,
+    "heading": 341.16,
+    "trace": [
+      [
+        23.9287,
+        -78.7686
       ]
     ]
   },
@@ -42,32 +67,70 @@
     "name": "Gov of Azerbaijan",
     "category": "Dictator Alert",
     "callsign": "AHY4016",
-    "lon": 23.599,
-    "lat": 55.1541,
-    "alt": 10119.36,
-    "velocity": 219.12,
-    "heading": 186.74,
+    "lon": 22.0109,
+    "lat": 49.6202,
+    "alt": 10660.38,
+    "velocity": 208.99,
+    "heading": 190.07,
     "trace": [
       [
         55.1541,
         23.599
+      ],
+      [
+        49.6202,
+        22.0109
       ]
     ]
   },
   {
-    "hex": "acfc26",
-    "name": "National Airlines",
+    "hex": "ad7274",
+    "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "NCR848",
-    "lon": 28.8918,
-    "lat": -25.828,
-    "alt": 6195.06,
-    "velocity": 241.48,
-    "heading": 42.15,
+    "callsign": "GXA6121",
+    "lon": -91.4667,
+    "lat": 31.2835,
+    "alt": 6652.26,
+    "velocity": 233.64,
+    "heading": 88.49,
     "trace": [
       [
-        -25.828,
-        28.8918
+        31.2835,
+        -91.4667
+      ]
+    ]
+  },
+  {
+    "hex": "3cd05c",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD3B",
+    "lon": 8.0439,
+    "lat": 54.5055,
+    "alt": 8534.4,
+    "velocity": 168.41,
+    "heading": 293.59,
+    "trace": [
+      [
+        54.5055,
+        8.0439
+      ]
+    ]
+  },
+  {
+    "hex": "3cd063",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "GFD3A",
+    "lon": 8.3984,
+    "lat": 54.4065,
+    "alt": 7909.56,
+    "velocity": 166.61,
+    "heading": 295.22,
+    "trace": [
+      [
+        54.4065,
+        8.3984
       ]
     ]
   },
@@ -76,11 +139,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD93",
-    "lon": 8.8702,
-    "lat": 52.6072,
+    "lon": 8.7364,
+    "lat": 52.6415,
     "alt": 3055.62,
-    "velocity": 146.38,
-    "heading": 292.96,
+    "velocity": 161.38,
+    "heading": 112.89,
     "trace": [
       [
         52.4603,
@@ -93,6 +156,10 @@
       [
         52.6072,
         8.8702
+      ],
+      [
+        52.6415,
+        8.7364
       ]
     ]
   },
@@ -101,32 +168,19 @@
     "name": "Top Aces Inc",
     "category": "Hired Gun",
     "callsign": "TONIC7",
-    "lon": 8.6434,
-    "lat": 53.7096,
-    "alt": 4556.76,
-    "velocity": 152.38,
-    "heading": 186.98,
+    "lon": 8.8967,
+    "lat": 53.6948,
+    "alt": 746.76,
+    "velocity": 117.54,
+    "heading": 75.29,
     "trace": [
       [
         53.7096,
         8.6434
-      ]
-    ]
-  },
-  {
-    "hex": "157712",
-    "name": "Russia Special Flight Detachment",
-    "category": "Dictator Alert",
-    "callsign": "RSD950",
-    "lon": 85.0178,
-    "lat": 57.8367,
-    "alt": 10660.38,
-    "velocity": 258.48,
-    "heading": 114.83,
-    "trace": [
+      ],
       [
-        57.8367,
-        85.0178
+        53.6948,
+        8.8967
       ]
     ]
   }
