@@ -4,11 +4,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR920",
-    "lon": 23.1591,
-    "lat": 41.0601,
+    "lon": 20.0921,
+    "lat": 42.9395,
     "alt": 10972.8,
-    "velocity": 246.53,
-    "heading": 310.94,
+    "velocity": 248.2,
+    "heading": 307.84,
     "trace": [
       [
         37.223,
@@ -21,6 +21,10 @@
       [
         41.0601,
         23.1591
+      ],
+      [
+        42.9395,
+        20.0921
       ]
     ]
   },
@@ -29,15 +33,36 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "CMB564",
-    "lon": 7.1294,
-    "lat": 49.5698,
-    "alt": 3840.48,
-    "velocity": 187.38,
-    "heading": 311.22,
+    "lon": 3.808,
+    "lat": 51.1683,
+    "alt": 10363.2,
+    "velocity": 220.73,
+    "heading": 298.24,
     "trace": [
       [
         49.5698,
         7.1294
+      ],
+      [
+        51.1683,
+        3.808
+      ]
+    ]
+  },
+  {
+    "hex": "896272",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB4",
+    "lon": -78.6562,
+    "lat": 27.2519,
+    "alt": 9136.38,
+    "velocity": 270.71,
+    "heading": 36.5,
+    "trace": [
+      [
+        27.2519,
+        -78.6562
       ]
     ]
   },
@@ -46,11 +71,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6102",
-    "lon": -104.6621,
-    "lat": 31.475,
-    "alt": 8945.88,
-    "velocity": 193.73,
-    "heading": 276.71,
+    "lon": -106.2865,
+    "lat": 31.7972,
+    "alt": 1592.58,
+    "velocity": 70.09,
+    "heading": 273.37,
     "trace": [
       [
         30.4797,
@@ -87,6 +112,27 @@
       [
         31.475,
         -104.6621
+      ],
+      [
+        31.7972,
+        -106.2865
+      ]
+    ]
+  },
+  {
+    "hex": "a6e80e",
+    "name": "Phoenix Air",
+    "category": "Hired Gun",
+    "callsign": "N544PA",
+    "lon": -85.3913,
+    "lat": 32.8028,
+    "alt": 4617.72,
+    "velocity": 201.77,
+    "heading": 7.32,
+    "trace": [
+      [
+        32.8028,
+        -85.3913
       ]
     ]
   },
@@ -95,11 +141,11 @@
     "name": "Eastern Air Express",
     "category": "Hired Gun",
     "callsign": "TYSON48",
-    "lon": -82.778,
-    "lat": 35.289,
+    "lon": -85.3037,
+    "lat": 34.0781,
     "alt": 9730.74,
-    "velocity": 199.98,
-    "heading": 240.4,
+    "velocity": 205.87,
+    "heading": 241,
     "trace": [
       [
         40.7028,
@@ -120,23 +166,10 @@
       [
         35.289,
         -82.778
-      ]
-    ]
-  },
-  {
-    "hex": "a73e80",
-    "name": "C2D LLC",
-    "category": "Hired Gun",
-    "callsign": "GRB931",
-    "lon": -155.8992,
-    "lat": 21.4075,
-    "alt": 11559.54,
-    "velocity": 274.84,
-    "heading": 67.9,
-    "trace": [
+      ],
       [
-        21.4075,
-        -155.8992
+        34.0781,
+        -85.3037
       ]
     ]
   }
