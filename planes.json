@@ -1,14 +1,31 @@
 [
   {
+    "hex": "894042",
+    "name": "Bahrain Defence Force",
+    "category": "Dictator Alert",
+    "callsign": "BAH10",
+    "lon": 54.5871,
+    "lat": 25.2092,
+    "alt": 3459.48,
+    "velocity": 40.8,
+    "heading": 103.86,
+    "trace": [
+      [
+        25.2092,
+        54.5871
+      ]
+    ]
+  },
+  {
     "hex": "adccd1",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA599",
-    "lon": -82.142,
-    "lat": 27.3545,
-    "alt": 9456.42,
-    "velocity": 235.14,
-    "heading": 146.69,
+    "lon": -80.2615,
+    "lat": 25.8024,
+    "alt": 30.48,
+    "velocity": 72.11,
+    "heading": 267.14,
     "trace": [
       [
         37.8843,
@@ -25,6 +42,10 @@
       [
         27.3545,
         -82.142
+      ],
+      [
+        25.8024,
+        -80.2615
       ]
     ]
   },
@@ -33,15 +54,19 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "RRR3312",
-    "lon": 2.3815,
-    "lat": 52.0995,
-    "alt": 12382.5,
-    "velocity": 259.49,
-    "heading": 73.65,
+    "lon": 9.9393,
+    "lat": 53.3056,
+    "alt": 12496.8,
+    "velocity": 262.12,
+    "heading": 78.34,
     "trace": [
       [
         52.0995,
         2.3815
+      ],
+      [
+        53.3056,
+        9.9393
       ]
     ]
   },
@@ -50,15 +75,19 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2233",
-    "lon": -15.1318,
-    "lat": 28.6091,
+    "lon": -13.5678,
+    "lat": 32.1047,
     "alt": 12192,
-    "velocity": 252.08,
-    "heading": 15.14,
+    "velocity": 230.7,
+    "heading": 28.79,
     "trace": [
       [
         28.6091,
         -15.1318
+      ],
+      [
+        32.1047,
+        -13.5678
       ]
     ]
   }
