@@ -4,11 +4,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR921",
-    "lon": 1.896,
-    "lat": 51.4457,
-    "alt": 9662.16,
-    "velocity": 237.5,
-    "heading": 281.75,
+    "lon": -2.8922,
+    "lat": 55.0765,
+    "alt": 9745.98,
+    "velocity": 219.48,
+    "heading": 323.96,
     "trace": [
       [
         49.7666,
@@ -17,35 +17,10 @@
       [
         51.4457,
         1.896
-      ]
-    ]
-  },
-  {
-    "hex": "896272",
-    "name": "Dubai Air Wing",
-    "category": "Dictator Alert",
-    "callsign": "DUB4",
-    "lon": 19.2128,
-    "lat": 38.4911,
-    "alt": 11887.2,
-    "velocity": 255.73,
-    "heading": 135.08,
-    "trace": [
-      [
-        43.0723,
-        -3.6319
       ],
       [
-        40.9127,
-        4.9374
-      ],
-      [
-        39.6502,
-        14.275
-      ],
-      [
-        38.4911,
-        19.2128
+        55.0765,
+        -2.8922
       ]
     ]
   },
@@ -54,15 +29,19 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "OAE2022",
-    "lon": null,
-    "lat": null,
-    "alt": null,
-    "velocity": 255.65,
-    "heading": 83.76,
+    "lon": -109.0558,
+    "lat": 37.0025,
+    "alt": 10066.02,
+    "velocity": 269.9,
+    "heading": 107.99,
     "trace": [
       [
         37.5252,
         -120.8417
+      ],
+      [
+        37.0025,
+        -109.0558
       ]
     ]
   },
@@ -88,15 +67,32 @@
     ]
   },
   {
+    "hex": "a451cb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT4713",
+    "lon": -76.4966,
+    "lat": 11.4598,
+    "alt": 10683.24,
+    "velocity": 238.31,
+    "heading": 169.18,
+    "trace": [
+      [
+        11.4598,
+        -76.4966
+      ]
+    ]
+  },
+  {
     "hex": "acfc26",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR601",
-    "lon": 37.8821,
-    "lat": 39.8619,
+    "lon": 45.3913,
+    "lat": 40.726,
     "alt": 11887.2,
-    "velocity": 270.33,
-    "heading": 84.43,
+    "velocity": 280.28,
+    "heading": 62.21,
     "trace": [
       [
         39.0144,
@@ -105,39 +101,10 @@
       [
         39.8619,
         37.8821
-      ]
-    ]
-  },
-  {
-    "hex": "a73e80",
-    "name": "C2D LLC",
-    "category": "Hired Gun",
-    "callsign": "GRB931",
-    "lon": -84.8411,
-    "lat": 34.2271,
-    "alt": 754.38,
-    "velocity": 52.05,
-    "heading": 183.4,
-    "trace": [
-      [
-        32.812,
-        -116.9212
       ],
       [
-        34.058,
-        -104.8759
-      ],
-      [
-        34.2098,
-        -96.8519
-      ],
-      [
-        33.9262,
-        -88.2869
-      ],
-      [
-        34.2271,
-        -84.8411
+        40.726,
+        45.3913
       ]
     ]
   }
