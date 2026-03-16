@@ -1,39 +1,73 @@
 [
   {
-    "hex": "4009d3",
-    "name": "Draken Europe",
+    "hex": "a2c129",
+    "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "CRIMSON2",
-    "lon": -4.185,
-    "lat": 50.8019,
-    "alt": 5577.84,
-    "velocity": 165.34,
-    "heading": 193.13,
+    "callsign": "GXA6120",
+    "lon": -91.1094,
+    "lat": 28.2797,
+    "alt": 10683.24,
+    "velocity": 227.5,
+    "heading": 163.04,
     "trace": [
       [
-        50.8019,
-        -4.185
+        28.2797,
+        -91.1094
       ]
     ]
   },
   {
-    "hex": "a1f3aa",
-    "name": "Omni Air International",
+    "hex": "4009c8",
+    "name": "Draken Europe",
     "category": "Hired Gun",
-    "callsign": "OAE4092",
-    "lon": -166.5069,
-    "lat": 57.0106,
-    "alt": 10363.2,
-    "velocity": 244.88,
-    "heading": 233.37,
+    "callsign": "FRA74",
+    "lon": 12.9916,
+    "lat": 43.6772,
+    "alt": 4671.06,
+    "velocity": 147.73,
+    "heading": 283.7,
     "trace": [
       [
-        60.5185,
-        -155.6534
+        43.6772,
+        12.9916
+      ]
+    ]
+  },
+  {
+    "hex": "4009d3",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "CRIMSON2",
+    "lon": -3.5852,
+    "lat": 50.6824,
+    "alt": 1828.8,
+    "velocity": 125.68,
+    "heading": 99.42,
+    "trace": [
+      [
+        50.8019,
+        -4.185
       ],
       [
-        57.0106,
-        -166.5069
+        50.6824,
+        -3.5852
+      ]
+    ]
+  },
+  {
+    "hex": "c01479",
+    "name": "Top Aces Inc",
+    "category": "Hired Gun",
+    "callsign": "RUSTY",
+    "lon": 8.6764,
+    "lat": 53.7696,
+    "alt": null,
+    "velocity": 4.63,
+    "heading": 36.56,
+    "trace": [
+      [
+        53.7696,
+        8.6764
       ]
     ]
   },
@@ -42,15 +76,19 @@
     "name": "Gov of Azerbaijan",
     "category": "Dictator Alert",
     "callsign": "AHY4015",
-    "lon": 23.9679,
-    "lat": 47.103,
+    "lon": 22.5102,
+    "lat": 50.7821,
     "alt": 10363.2,
-    "velocity": 223.12,
-    "heading": 313.04,
+    "velocity": 238.35,
+    "heading": 8.69,
     "trace": [
       [
         47.103,
         23.9679
+      ],
+      [
+        50.7821,
+        22.5102
       ]
     ]
   },
@@ -59,15 +97,19 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "CRIMSON1",
-    "lon": -4.1692,
-    "lat": 51.0822,
-    "alt": 5204.46,
-    "velocity": 170.26,
-    "heading": 6.24,
+    "lon": -3.5911,
+    "lat": 51.0038,
+    "alt": 4572,
+    "velocity": 201.67,
+    "heading": 98.21,
     "trace": [
       [
         51.0822,
         -4.1692
+      ],
+      [
+        51.0038,
+        -3.5911
       ]
     ]
   },
@@ -76,11 +118,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR930",
-    "lon": -132.668,
-    "lat": 57.4896,
+    "lon": -124.1344,
+    "lat": 54.5932,
     "alt": 9448.8,
-    "velocity": 277.29,
-    "heading": 117.75,
+    "velocity": 311.24,
+    "heading": 124.77,
     "trace": [
       [
         60.7511,
@@ -89,7 +131,23 @@
       [
         57.4896,
         -132.668
+      ],
+      [
+        54.5932,
+        -124.1344
       ]
     ]
+  },
+  {
+    "hex": "155bcf",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD793",
+    "lon": null,
+    "lat": null,
+    "alt": 8587.74,
+    "velocity": 78.15,
+    "heading": 286.05,
+    "trace": []
   }
 ]
