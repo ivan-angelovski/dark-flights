@@ -4,11 +4,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB4",
-    "lon": 14.5954,
-    "lat": 39.7951,
+    "lon": 18.3806,
+    "lat": 36.4821,
     "alt": 11277.6,
-    "velocity": 281.36,
-    "heading": 137,
+    "velocity": 291.48,
+    "heading": 125.37,
     "trace": [
       [
         46.7258,
@@ -21,6 +21,10 @@
       [
         39.7951,
         14.5954
+      ],
+      [
+        36.4821,
+        18.3806
       ]
     ]
   },
@@ -29,11 +33,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6160",
-    "lon": -113.849,
-    "lat": 32.7933,
-    "alt": 10972.8,
-    "velocity": 222.85,
-    "heading": 260.3,
+    "lon": -117.0184,
+    "lat": 32.6918,
+    "alt": 845.82,
+    "velocity": 90.74,
+    "heading": 285.45,
     "trace": [
       [
         26.3095,
@@ -54,23 +58,27 @@
       [
         32.7933,
         -113.849
+      ],
+      [
+        32.6918,
+        -117.0184
       ]
     ]
   },
   {
-    "hex": "0200cc",
-    "name": "Gov of Morocco",
-    "category": "Dictator Alert",
-    "callsign": "MRS0603",
-    "lon": -26.766,
-    "lat": 37.109,
-    "alt": 10363.2,
-    "velocity": 255.73,
-    "heading": 268.85,
+    "hex": "a3ded3",
+    "name": "Airborne Tactical Advantage",
+    "category": "Hired Gun",
+    "callsign": "N349AX",
+    "lon": -89.8532,
+    "lat": 29.8155,
+    "alt": 3848.1,
+    "velocity": 169.18,
+    "heading": 54.28,
     "trace": [
       [
-        37.109,
-        -26.766
+        29.8155,
+        -89.8532
       ]
     ]
   },
@@ -79,11 +87,11 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT2773",
-    "lon": -90.1199,
-    "lat": 36.834,
-    "alt": 11132.82,
-    "velocity": 233.83,
-    "heading": 39.64,
+    "lon": -86.2106,
+    "lat": 38.0766,
+    "alt": 2827.02,
+    "velocity": 145.36,
+    "heading": 29.47,
     "trace": [
       [
         34.0957,
@@ -92,6 +100,10 @@
       [
         36.834,
         -90.1199
+      ],
+      [
+        38.0766,
+        -86.2106
       ]
     ]
   },
@@ -100,11 +112,11 @@
     "name": "Gov of Azerbaijan",
     "category": "Dictator Alert",
     "callsign": "AHY605",
-    "lon": 81.7572,
-    "lat": 24.996,
+    "lon": 79.519,
+    "lat": 27.8165,
     "alt": 13106.4,
-    "velocity": 229.2,
-    "heading": 336.31,
+    "velocity": 224.81,
+    "heading": 315,
     "trace": [
       [
         19.1681,
@@ -117,6 +129,10 @@
       [
         24.996,
         81.7572
+      ],
+      [
+        27.8165,
+        79.519
       ]
     ]
   },
@@ -125,11 +141,11 @@
     "name": "Bahrain Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "BAH6",
-    "lon": 5.1916,
-    "lat": 50.4695,
-    "alt": 13716,
-    "velocity": 250.91,
-    "heading": 309.01,
+    "lon": -0.2676,
+    "lat": 51.5026,
+    "alt": 4267.2,
+    "velocity": 200.65,
+    "heading": 269.27,
     "trace": [
       [
         34.4814,
@@ -158,23 +174,44 @@
       [
         50.4695,
         5.1916
+      ],
+      [
+        51.5026,
+        -0.2676
       ]
     ]
   },
   {
-    "hex": "aa3086",
-    "name": "National Airlines",
+    "hex": "a394aa",
+    "name": "ISR Platforms",
     "category": "Hired Gun",
-    "callsign": "NCR816",
-    "lon": 21.7598,
-    "lat": 35.9596,
-    "alt": 9753.6,
-    "velocity": 221.73,
-    "heading": 303.84,
+    "callsign": "N33NH",
+    "lon": -80.0543,
+    "lat": 34.7994,
+    "alt": 2430.78,
+    "velocity": 92.88,
+    "heading": 230.84,
     "trace": [
       [
-        35.9596,
-        21.7598
+        34.7994,
+        -80.0543
+      ]
+    ]
+  },
+  {
+    "hex": "a4b7dc",
+    "name": "Airborne Tactical Advantage",
+    "category": "Hired Gun",
+    "callsign": "N403AX",
+    "lon": -88.9744,
+    "lat": 30.3847,
+    "alt": 7025.64,
+    "velocity": 242.13,
+    "heading": 50.09,
+    "trace": [
+      [
+        30.3847,
+        -88.9744
       ]
     ]
   }
