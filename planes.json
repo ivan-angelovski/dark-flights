@@ -4,15 +4,53 @@
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "AUH03",
-    "lon": 32.1487,
-    "lat": 29.5936,
+    "lon": 29.9379,
+    "lat": 31.1975,
     "alt": 12192,
-    "velocity": 207.96,
-    "heading": 307.66,
+    "velocity": 223.61,
+    "heading": 305.92,
     "trace": [
       [
         29.5936,
         32.1487
+      ],
+      [
+        31.1975,
+        29.9379
+      ]
+    ]
+  },
+  {
+    "hex": "896272",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB4",
+    "lon": 1.064,
+    "lat": 49.89,
+    "alt": 6705.6,
+    "velocity": 212.61,
+    "heading": 150.58,
+    "trace": [
+      [
+        49.89,
+        1.064
+      ]
+    ]
+  },
+  {
+    "hex": "a3defb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT774",
+    "lon": -86.5719,
+    "lat": 37.2276,
+    "alt": 9997.44,
+    "velocity": 243.91,
+    "heading": 220.04,
+    "trace": [
+      [
+        37.2276,
+        -86.5719
       ]
     ]
   },
@@ -21,11 +59,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR823",
-    "lon": 14.5445,
-    "lat": 57.5904,
+    "lon": 16.5527,
+    "lat": 55.4374,
     "alt": 11277.6,
-    "velocity": 246.72,
-    "heading": 151.89,
+    "velocity": 245.94,
+    "heading": 153.54,
     "trace": [
       [
         60.129,
@@ -34,23 +72,44 @@
       [
         57.5904,
         14.5445
+      ],
+      [
+        55.4374,
+        16.5527
       ]
     ]
   },
   {
-    "hex": "06a014",
-    "name": "Qatar Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "QQE926",
-    "lon": 54.956,
-    "lat": 25.0134,
-    "alt": 396.24,
-    "velocity": 23.25,
-    "heading": 65.14,
+    "hex": "a86e85",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA177",
+    "lon": -117.1265,
+    "lat": 47.509,
+    "alt": 4914.9,
+    "velocity": 215.75,
+    "heading": 92.46,
     "trace": [
       [
-        25.0134,
-        54.956
+        47.509,
+        -117.1265
+      ]
+    ]
+  },
+  {
+    "hex": "710100",
+    "name": "Saudi Ministry of Finance",
+    "category": "Dictator Alert",
+    "callsign": "SVA977",
+    "lon": 95.581,
+    "lat": 23.0648,
+    "alt": 9144,
+    "velocity": 238.65,
+    "heading": 273.58,
+    "trace": [
+      [
+        23.0648,
+        95.581
       ]
     ]
   }
