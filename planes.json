@@ -1,18 +1,39 @@
 [
   {
+    "hex": "896264",
+    "name": "Abu Dhabi Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "AUH03",
+    "lon": 32.1487,
+    "lat": 29.5936,
+    "alt": 12192,
+    "velocity": 207.96,
+    "heading": 307.66,
+    "trace": [
+      [
+        29.5936,
+        32.1487
+      ]
+    ]
+  },
+  {
     "hex": "acfc26",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR823",
-    "lon": 11.0952,
-    "lat": 60.129,
-    "alt": 754.38,
-    "velocity": 113.19,
-    "heading": 153.55,
+    "lon": 14.5445,
+    "lat": 57.5904,
+    "alt": 11277.6,
+    "velocity": 246.72,
+    "heading": 151.89,
     "trace": [
       [
         60.129,
         11.0952
+      ],
+      [
+        57.5904,
+        14.5445
       ]
     ]
   },
@@ -23,96 +44,13 @@
     "callsign": "QQE926",
     "lon": 54.956,
     "lat": 25.0134,
-    "alt": 8534.4,
+    "alt": 396.24,
     "velocity": 23.25,
     "heading": 65.14,
     "trace": [
       [
         25.0134,
         54.956
-      ]
-    ]
-  },
-  {
-    "hex": "a95c2f",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR8876",
-    "lon": 71.9292,
-    "lat": 19.2411,
-    "alt": 6347.46,
-    "velocity": 222.33,
-    "heading": 298.17,
-    "trace": [
-      [
-        19.0932,
-        72.8692
-      ],
-      [
-        19.2411,
-        71.9292
-      ]
-    ]
-  },
-  {
-    "hex": "400e15",
-    "name": "Draken Europe",
-    "category": "Hired Gun",
-    "callsign": "FRA81",
-    "lon": 23.9056,
-    "lat": 36.4857,
-    "alt": 8077.2,
-    "velocity": 195.49,
-    "heading": 126.87,
-    "trace": [
-      [
-        38.3553,
-        21.2048
-      ],
-      [
-        36.4857,
-        23.9056
-      ]
-    ]
-  },
-  {
-    "hex": "ab9639",
-    "name": "Omni Air International",
-    "category": "Hired Gun",
-    "callsign": "OAE3894",
-    "lon": -67.4408,
-    "lat": 48.6502,
-    "alt": 11887.2,
-    "velocity": 278.18,
-    "heading": 64.24,
-    "trace": [
-      [
-        35.3043,
-        -94.7564
-      ],
-      [
-        38.4399,
-        -91.0199
-      ],
-      [
-        40.2265,
-        -84.3984
-      ],
-      [
-        43.3229,
-        -80.4107
-      ],
-      [
-        44.5219,
-        -77.9724
-      ],
-      [
-        46.6944,
-        -72.9404
-      ],
-      [
-        48.6502,
-        -67.4408
       ]
     ]
   }
