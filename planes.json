@@ -1,51 +1,14 @@
 [
   {
-    "hex": "896264",
-    "name": "Abu Dhabi Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "AUH03",
-    "lon": -4.0087,
-    "lat": 46.6087,
-    "alt": 11582.4,
-    "velocity": 235.96,
-    "heading": 298.52,
-    "trace": [
-      [
-        42.6272,
-        10.2574
-      ],
-      [
-        43.9118,
-        6.8759
-      ],
-      [
-        45.1959,
-        3.7246
-      ],
-      [
-        45.6035,
-        -0.3974
-      ],
-      [
-        46.1509,
-        -2.8232
-      ],
-      [
-        46.6087,
-        -4.0087
-      ]
-    ]
-  },
-  {
     "hex": "a3defb",
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT5771",
-    "lon": -94.2234,
-    "lat": 31.8834,
-    "alt": 10668,
-    "velocity": 232.14,
-    "heading": 30.2,
+    "lon": -88.7616,
+    "lat": 37.4435,
+    "alt": 10058.4,
+    "velocity": 250.57,
+    "heading": 66.01,
     "trace": [
       [
         31.0732,
@@ -54,6 +17,10 @@
       [
         31.8834,
         -94.2234
+      ],
+      [
+        37.4435,
+        -88.7616
       ]
     ]
   },
@@ -62,11 +29,11 @@
     "name": "Bahrain Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "BAH6",
-    "lon": 15.2035,
-    "lat": 42.7445,
+    "lon": 22.327,
+    "lat": 36.2633,
     "alt": 12496.8,
-    "velocity": 266.9,
-    "heading": 138.91,
+    "velocity": 284.98,
+    "heading": 141.74,
     "trace": [
       [
         50.8686,
@@ -91,6 +58,27 @@
       [
         42.7445,
         15.2035
+      ],
+      [
+        36.2633,
+        22.327
+      ]
+    ]
+  },
+  {
+    "hex": "06a00f",
+    "name": "Gov of Qatar",
+    "category": "Dictator Alert",
+    "callsign": "QAF7",
+    "lon": 18.8459,
+    "lat": 42.2704,
+    "alt": 10363.2,
+    "velocity": 226.48,
+    "heading": 327.43,
+    "trace": [
+      [
+        42.2704,
+        18.8459
       ]
     ]
   },
@@ -99,44 +87,53 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6120",
-    "lon": -92.6401,
-    "lat": 31.2376,
-    "alt": 1531.62,
-    "velocity": 139.94,
-    "heading": 199.77,
+    "lon": -97.0644,
+    "lat": 25.7115,
+    "alt": 10363.2,
+    "velocity": 233.06,
+    "heading": 191.46,
     "trace": [
       [
         31.2376,
         -92.6401
+      ],
+      [
+        25.7115,
+        -97.0644
       ]
     ]
   },
   {
-    "hex": "a5365d",
-    "name": "Global Crossing Airlines",
+    "hex": "a3e4e3",
+    "name": "Airborne Tactical Advantage",
     "category": "Hired Gun",
-    "callsign": "GXA599",
-    "lon": -83.422,
-    "lat": 31.8992,
-    "alt": 10058.4,
-    "velocity": 243.88,
-    "heading": 153.98,
+    "callsign": "N350AX",
+    "lon": -82.8069,
+    "lat": 29.0539,
+    "alt": 5486.4,
+    "velocity": 218.43,
+    "heading": 15.57,
     "trace": [
       [
-        37.4909,
-        -84.7878
-      ],
+        29.0539,
+        -82.8069
+      ]
+    ]
+  },
+  {
+    "hex": "a86e85",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA200",
+    "lon": -78.2997,
+    "lat": 24.9563,
+    "alt": 9540.24,
+    "velocity": 246.3,
+    "heading": 118.44,
+    "trace": [
       [
-        34.4621,
-        -84.5691
-      ],
-      [
-        32.7663,
-        -83.9245
-      ],
-      [
-        31.8992,
-        -83.422
+        24.9563,
+        -78.2997
       ]
     ]
   },
@@ -145,11 +142,11 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA973",
-    "lon": 95.7843,
-    "lat": 22.7653,
-    "alt": 9144,
-    "velocity": 227.67,
-    "heading": 262.73,
+    "lon": 87.8923,
+    "lat": 22.713,
+    "alt": 9753.6,
+    "velocity": 218.12,
+    "heading": 273.92,
     "trace": [
       [
         22.8476,
@@ -158,31 +155,10 @@
       [
         22.7653,
         95.7843
-      ]
-    ]
-  },
-  {
-    "hex": "157717",
-    "name": "Russia Special Flight Detachment",
-    "category": "Dictator Alert",
-    "callsign": "RSD953",
-    "lon": 82.831,
-    "lat": 57.3842,
-    "alt": 10363.2,
-    "velocity": 211.65,
-    "heading": 282.92,
-    "trace": [
-      [
-        56.8883,
-        86.0989
       ],
       [
-        57.3214,
-        83.3309
-      ],
-      [
-        57.3842,
-        82.831
+        22.713,
+        87.8923
       ]
     ]
   }
