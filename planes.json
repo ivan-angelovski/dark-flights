@@ -1,43 +1,52 @@
 [
   {
-    "hex": "06a014",
-    "name": "Qatar Amiri Flight",
+    "hex": "896264",
+    "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
-    "callsign": "QQE926",
-    "lon": 30.8182,
-    "lat": 36.2351,
-    "alt": 10972.8,
-    "velocity": 229.01,
-    "heading": 358.46,
+    "callsign": "AUH03",
+    "lon": 10.2574,
+    "lat": 42.6272,
+    "alt": 10050.78,
+    "velocity": 239.85,
+    "heading": 311.35,
     "trace": [
       [
-        34.6811,
-        30.9115
-      ],
-      [
-        36.2351,
-        30.8182
+        42.6272,
+        10.2574
       ]
     ]
   },
   {
-    "hex": "06a00f",
-    "name": "Gov of Qatar",
+    "hex": "89407f",
+    "name": "Bahrain Amiri Flight",
     "category": "Dictator Alert",
-    "callsign": "QAF7",
-    "lon": 24.8486,
-    "lat": 36.3425,
-    "alt": 10309.86,
-    "velocity": 204.57,
-    "heading": 332.28,
+    "callsign": "BAH6",
+    "lon": 2.8004,
+    "lat": 50.8686,
+    "alt": 12496.8,
+    "velocity": 249.87,
+    "heading": 115.88,
     "trace": [
       [
-        34.7655,
-        26.2142
-      ],
+        50.8686,
+        2.8004
+      ]
+    ]
+  },
+  {
+    "hex": "48448c",
+    "name": "Equatorial Guinea",
+    "category": "Dictator Alert",
+    "callsign": "P4SKN",
+    "lon": -13.5666,
+    "lat": 13.765,
+    "alt": 10972.8,
+    "velocity": 245.98,
+    "heading": 288.28,
+    "trace": [
       [
-        36.3425,
-        24.8486
+        13.765,
+        -13.5666
       ]
     ]
   },
@@ -46,11 +55,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA150",
-    "lon": -120.7797,
-    "lat": 45.0599,
-    "alt": 9624.06,
-    "velocity": 183.96,
-    "heading": 318.06,
+    "lon": -122.581,
+    "lat": 45.582,
+    "alt": null,
+    "velocity": 2.31,
+    "heading": 45,
     "trace": [
       [
         44.0359,
@@ -59,6 +68,10 @@
       [
         45.0599,
         -120.7797
+      ],
+      [
+        45.582,
+        -122.581
       ]
     ]
   }
