@@ -1,14 +1,48 @@
 [
   {
+    "hex": "acfc26",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR658",
+    "lon": -149.9888,
+    "lat": 61.1768,
+    "alt": null,
+    "velocity": 0.45,
+    "heading": 258.75,
+    "trace": [
+      [
+        61.1768,
+        -149.9888
+      ]
+    ]
+  },
+  {
+    "hex": "a87876",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI8784",
+    "lon": -61.3038,
+    "lat": 11.783,
+    "alt": 4145.28,
+    "velocity": 203.49,
+    "heading": 150.13,
+    "trace": [
+      [
+        11.783,
+        -61.3038
+      ]
+    ]
+  },
+  {
     "hex": "a83f98",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA691",
-    "lon": -84.9461,
-    "lat": 32.1998,
-    "alt": 11285.22,
-    "velocity": 242.31,
-    "heading": 160.14,
+    "lon": -83.5324,
+    "lat": 29.5481,
+    "alt": 11277.6,
+    "velocity": 247,
+    "heading": 150.28,
     "trace": [
       [
         38.5213,
@@ -25,6 +59,10 @@
       [
         32.1998,
         -84.9461
+      ],
+      [
+        29.5481,
+        -83.5324
       ]
     ]
   },
@@ -33,11 +71,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA179",
-    "lon": -84.0587,
-    "lat": 30.8206,
+    "lon": -85.824,
+    "lat": 33.005,
     "alt": 11582.4,
-    "velocity": 217.03,
-    "heading": 325.82,
+    "velocity": 217.51,
+    "heading": 324.92,
     "trace": [
       [
         26.89,
@@ -50,27 +88,27 @@
       [
         30.8206,
         -84.0587
+      ],
+      [
+        33.005,
+        -85.824
       ]
     ]
   },
   {
-    "hex": "a36d2b",
-    "name": "ISR Platforms",
+    "hex": "a0c62d",
+    "name": "Eastern Air Express",
     "category": "Hired Gun",
-    "callsign": "N32NH",
-    "lon": -87.413,
-    "lat": 36.8649,
-    "alt": 563.88,
-    "velocity": 47.56,
-    "heading": 254.31,
+    "callsign": "BBQ9801",
+    "lon": -74.5549,
+    "lat": 40.6366,
+    "alt": 4465.32,
+    "velocity": 135.72,
+    "heading": 276.75,
     "trace": [
       [
-        36.6695,
-        -85.9816
-      ],
-      [
-        36.8649,
-        -87.413
+        40.6366,
+        -74.5549
       ]
     ]
   },
@@ -79,11 +117,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "CMB586",
-    "lon": -91.1794,
-    "lat": 34.8999,
+    "lon": -94.4598,
+    "lat": 34.1715,
     "alt": 12192,
-    "velocity": 232.01,
-    "heading": 254.7,
+    "velocity": 233.68,
+    "heading": 260.5,
     "trace": [
       [
         39.1843,
@@ -108,6 +146,10 @@
       [
         34.8999,
         -91.1794
+      ],
+      [
+        34.1715,
+        -94.4598
       ]
     ]
   },
@@ -116,11 +158,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA187",
-    "lon": -118.9361,
-    "lat": 35.3966,
-    "alt": 9456.42,
-    "velocity": 230.53,
-    "heading": 161.12,
+    "lon": -117.4848,
+    "lat": 33.139,
+    "alt": 4533.9,
+    "velocity": 175.88,
+    "heading": 139.51,
     "trace": [
       [
         38.6112,
@@ -129,6 +171,27 @@
       [
         35.3966,
         -118.9361
+      ],
+      [
+        33.139,
+        -117.4848
+      ]
+    ]
+  },
+  {
+    "hex": "710100",
+    "name": "Saudi Ministry of Finance",
+    "category": "Dictator Alert",
+    "callsign": "SVA917",
+    "lon": 31.4926,
+    "lat": 30.0257,
+    "alt": 9753.6,
+    "velocity": 211.55,
+    "heading": 306.4,
+    "trace": [
+      [
+        30.0257,
+        31.4926
       ]
     ]
   },
@@ -137,11 +200,11 @@
     "name": "Saudi Special Flight Services",
     "category": "Dictator Alert",
     "callsign": "SVA003",
-    "lon": 17.437,
-    "lat": 40.9548,
+    "lon": 19.9826,
+    "lat": 38.4326,
     "alt": 11277.6,
-    "velocity": 257.95,
-    "heading": 143.68,
+    "velocity": 276.21,
+    "heading": 139.46,
     "trace": [
       [
         51.8867,
@@ -170,6 +233,10 @@
       [
         40.9548,
         17.437
+      ],
+      [
+        38.4326,
+        19.9826
       ]
     ]
   }
