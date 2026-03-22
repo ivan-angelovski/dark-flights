@@ -4,11 +4,11 @@
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "AUH03",
-    "lon": 6.8759,
-    "lat": 43.9118,
+    "lon": 3.7246,
+    "lat": 45.1959,
     "alt": 10972.8,
-    "velocity": 238.25,
-    "heading": 309.57,
+    "velocity": 234.48,
+    "heading": 283.06,
     "trace": [
       [
         42.6272,
@@ -17,6 +17,10 @@
       [
         43.9118,
         6.8759
+      ],
+      [
+        45.1959,
+        3.7246
       ]
     ]
   },
@@ -25,11 +29,11 @@
     "name": "Bahrain Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "BAH6",
-    "lon": 6.8059,
-    "lat": 49.4684,
+    "lon": 10.07,
+    "lat": 47.6813,
     "alt": 12496.8,
-    "velocity": 252.97,
-    "heading": 123.72,
+    "velocity": 252.77,
+    "heading": 139.21,
     "trace": [
       [
         50.8686,
@@ -38,6 +42,27 @@
       [
         49.4684,
         6.8059
+      ],
+      [
+        47.6813,
+        10.07
+      ]
+    ]
+  },
+  {
+    "hex": "78048c",
+    "name": "Gov of PRC",
+    "category": "Dictator Alert",
+    "callsign": "CCA1342",
+    "lon": 113.7359,
+    "lat": 22.9468,
+    "alt": 5516.88,
+    "velocity": 195.05,
+    "heading": 344.86,
+    "trace": [
+      [
+        22.9468,
+        113.7359
       ]
     ]
   },
@@ -46,11 +71,11 @@
     "name": "Equatorial Guinea",
     "category": "Dictator Alert",
     "callsign": "P4SKN",
-    "lon": -16.2903,
-    "lat": 14.6021,
+    "lon": -18.7656,
+    "lat": 15.3293,
     "alt": 10972.8,
-    "velocity": 226.67,
-    "heading": 287.16,
+    "velocity": 223.81,
+    "heading": 286.56,
     "trace": [
       [
         13.765,
@@ -59,6 +84,27 @@
       [
         14.6021,
         -16.2903
+      ],
+      [
+        15.3293,
+        -18.7656
+      ]
+    ]
+  },
+  {
+    "hex": "a5365d",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA599",
+    "lon": -84.7878,
+    "lat": 37.4909,
+    "alt": 8305.8,
+    "velocity": 245.91,
+    "heading": 179.64,
+    "trace": [
+      [
+        37.4909,
+        -84.7878
       ]
     ]
   }
