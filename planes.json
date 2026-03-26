@@ -1,22 +1,35 @@
 [
   {
-    "hex": "a1ac1a",
-    "name": "Omni Air International",
+    "hex": "a8699a",
+    "name": "Atlas Air",
     "category": "Hired Gun",
-    "callsign": "OAE2025",
-    "lon": -148.6235,
-    "lat": 60.7711,
-    "alt": 6057.9,
-    "velocity": 185.61,
-    "heading": 291.8,
+    "callsign": "GTI8290",
+    "lon": 139.345,
+    "lat": 35.7483,
+    "alt": null,
+    "velocity": 4.89,
+    "heading": 171.56,
     "trace": [
       [
-        56.4184,
-        -135.8282
-      ],
+        35.7483,
+        139.345
+      ]
+    ]
+  },
+  {
+    "hex": "896272",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB4",
+    "lon": -0.6672,
+    "lat": 51.1621,
+    "alt": 6690.36,
+    "velocity": 280.55,
+    "heading": 154.94,
+    "trace": [
       [
-        60.7711,
-        -148.6235
+        51.1621,
+        -0.6672
       ]
     ]
   },
@@ -25,15 +38,19 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD69",
-    "lon": 5.8744,
-    "lat": 48.7283,
-    "alt": 3451.86,
-    "velocity": 122.83,
-    "heading": 108.81,
+    "lon": 5.7673,
+    "lat": 48.6554,
+    "alt": 922.02,
+    "velocity": 119.09,
+    "heading": 3.72,
     "trace": [
       [
         48.7283,
         5.8744
+      ],
+      [
+        48.6554,
+        5.7673
       ]
     ]
   },
@@ -42,15 +59,104 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD93",
-    "lon": 14.7511,
-    "lat": 51.2046,
-    "alt": 4572,
-    "velocity": 161.6,
-    "heading": 181.64,
+    "lon": 13.2968,
+    "lat": 51.7292,
+    "alt": 1653.54,
+    "velocity": 142.92,
+    "heading": 118.13,
     "trace": [
       [
         51.2046,
         14.7511
+      ],
+      [
+        51.7292,
+        13.2968
+      ]
+    ]
+  },
+  {
+    "hex": "4009ce",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "ZODIAC02",
+    "lon": -1.0543,
+    "lat": 55.0098,
+    "alt": 5836.92,
+    "velocity": 121.31,
+    "heading": 12.74,
+    "trace": [
+      [
+        55.0098,
+        -1.0543
+      ]
+    ]
+  },
+  {
+    "hex": "4009cb",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "ZODIAC04",
+    "lon": -1.0572,
+    "lat": 54.9779,
+    "alt": 5676.9,
+    "velocity": 119.92,
+    "heading": 13.14,
+    "trace": [
+      [
+        54.9779,
+        -1.0572
+      ]
+    ]
+  },
+  {
+    "hex": "4009ca",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "ZODIAC01",
+    "lon": -1.3321,
+    "lat": 55.4738,
+    "alt": 8290.56,
+    "velocity": 127.35,
+    "heading": 335.92,
+    "trace": [
+      [
+        55.4738,
+        -1.3321
+      ]
+    ]
+  },
+  {
+    "hex": "4009d6",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "ZODIAC03",
+    "lon": -1.0579,
+    "lat": 54.9969,
+    "alt": 5730.24,
+    "velocity": 118.3,
+    "heading": 13.07,
+    "trace": [
+      [
+        54.9969,
+        -1.0579
+      ]
+    ]
+  },
+  {
+    "hex": "a5365d",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA2964",
+    "lon": -80.1867,
+    "lat": 25.7267,
+    "alt": 2987.04,
+    "velocity": 146.28,
+    "heading": 313.58,
+    "trace": [
+      [
+        25.7267,
+        -80.1867
       ]
     ]
   },
@@ -59,40 +165,19 @@
     "name": "Draken Europe",
     "category": "Hired Gun",
     "callsign": "FRA81",
-    "lon": 1.2219,
-    "lat": 44.5612,
+    "lon": -1.3917,
+    "lat": 48.2078,
     "alt": 7315.2,
-    "velocity": 145,
-    "heading": 318.16,
+    "velocity": 142.68,
+    "heading": 351.08,
     "trace": [
       [
         44.5612,
         1.2219
-      ]
-    ]
-  },
-  {
-    "hex": "adccd1",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA599",
-    "lon": -80.876,
-    "lat": 25.8505,
-    "alt": 2415.54,
-    "velocity": 128.62,
-    "heading": 113.08,
-    "trace": [
-      [
-        38.6749,
-        -84.6203
       ],
       [
-        32.521,
-        -84.4193
-      ],
-      [
-        25.8505,
-        -80.876
+        48.2078,
+        -1.3917
       ]
     ]
   },
@@ -101,15 +186,36 @@
     "name": "Pallas Aviation",
     "category": "Hired Gun",
     "callsign": "WDE01",
-    "lon": -88.7842,
-    "lat": 30.6361,
+    "lon": -94.4158,
+    "lat": 30.4157,
     "alt": 7924.8,
-    "velocity": 168.84,
-    "heading": 263.35,
+    "velocity": 163.04,
+    "heading": 281.1,
     "trace": [
       [
         30.6361,
         -88.7842
+      ],
+      [
+        30.4157,
+        -94.4158
+      ]
+    ]
+  },
+  {
+    "hex": "a3ac55",
+    "name": "Kalitta Charters II",
+    "category": "Hired Gun",
+    "callsign": "KII336",
+    "lon": -86.668,
+    "lat": 36.1647,
+    "alt": 304.8,
+    "velocity": 59.72,
+    "heading": 197.03,
+    "trace": [
+      [
+        36.1647,
+        -86.668
       ]
     ]
   }
