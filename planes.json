@@ -4,15 +4,19 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB4",
-    "lon": 0.4769,
-    "lat": 51.8379,
-    "alt": 1805.94,
-    "velocity": 146.7,
-    "heading": 79.08,
+    "lon": 7.0264,
+    "lat": 50.9383,
+    "alt": 11277.6,
+    "velocity": 268.21,
+    "heading": 121.19,
     "trace": [
       [
         51.8379,
         0.4769
+      ],
+      [
+        50.9383,
+        7.0264
       ]
     ]
   },
@@ -21,15 +25,19 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT774",
-    "lon": -86.7343,
-    "lat": 36.9206,
+    "lon": -90.1501,
+    "lat": 34.1843,
     "alt": 10363.2,
-    "velocity": 215.08,
-    "heading": 226.65,
+    "velocity": 230.27,
+    "heading": 224.55,
     "trace": [
       [
         36.9206,
         -86.7343
+      ],
+      [
+        34.1843,
+        -90.1501
       ]
     ]
   },
@@ -38,11 +46,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "EXS49YF",
-    "lon": -5.1136,
-    "lat": 47.8461,
+    "lon": -7.4924,
+    "lat": 44.0228,
     "alt": 11887.2,
-    "velocity": 241.29,
-    "heading": 203.23,
+    "velocity": 236.74,
+    "heading": 206.73,
     "trace": [
       [
         53.3607,
@@ -55,6 +63,10 @@
       [
         47.8461,
         -5.1136
+      ],
+      [
+        44.0228,
+        -7.4924
       ]
     ]
   },
@@ -63,15 +75,19 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW860",
-    "lon": -1.8948,
-    "lat": 51.7733,
-    "alt": 2979.42,
-    "velocity": 139.58,
-    "heading": 251.3,
+    "lon": -6.9234,
+    "lat": 52.3882,
+    "alt": 6819.9,
+    "velocity": 153.55,
+    "heading": 285.95,
     "trace": [
       [
         51.7733,
         -1.8948
+      ],
+      [
+        52.3882,
+        -6.9234
       ]
     ]
   },
@@ -80,11 +96,11 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD40",
-    "lon": 12.2771,
-    "lat": 54.4634,
-    "alt": 1074.42,
-    "velocity": 120.75,
-    "heading": 139.32,
+    "lon": 12.35,
+    "lat": 54.5697,
+    "alt": 1059.18,
+    "velocity": 104.96,
+    "heading": 233.97,
     "trace": [
       [
         54.6163,
@@ -93,6 +109,10 @@
       [
         54.4634,
         12.2771
+      ],
+      [
+        54.5697,
+        12.35
       ]
     ]
   },
@@ -101,11 +121,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA152",
-    "lon": -87.2887,
-    "lat": 29.5435,
-    "alt": 11887.2,
-    "velocity": 241.36,
-    "heading": 115.91,
+    "lon": -83.2357,
+    "lat": 27.4452,
+    "alt": 11894.82,
+    "velocity": 239.37,
+    "heading": 129.51,
     "trace": [
       [
         32.6397,
@@ -118,6 +138,27 @@
       [
         29.5435,
         -87.2887
+      ],
+      [
+        27.4452,
+        -83.2357
+      ]
+    ]
+  },
+  {
+    "hex": "157712",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD836",
+    "lon": 39.7039,
+    "lat": 55.6082,
+    "alt": 7749.54,
+    "velocity": 27.85,
+    "heading": 244.86,
+    "trace": [
+      [
+        55.6082,
+        39.7039
       ]
     ]
   }
