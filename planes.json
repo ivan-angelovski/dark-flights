@@ -1,14 +1,48 @@
 [
   {
+    "hex": "896272",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB4",
+    "lon": 0.4769,
+    "lat": 51.8379,
+    "alt": 1805.94,
+    "velocity": 146.7,
+    "heading": 79.08,
+    "trace": [
+      [
+        51.8379,
+        0.4769
+      ]
+    ]
+  },
+  {
+    "hex": "a3defb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT774",
+    "lon": -86.7343,
+    "lat": 36.9206,
+    "alt": 10363.2,
+    "velocity": 215.08,
+    "heading": 226.65,
+    "trace": [
+      [
+        36.9206,
+        -86.7343
+      ]
+    ]
+  },
+  {
     "hex": "406d27",
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "EXS49YF",
-    "lon": -3.0173,
-    "lat": 50.9315,
-    "alt": 10980.42,
-    "velocity": 253.71,
-    "heading": 187.46,
+    "lon": -5.1136,
+    "lat": 47.8461,
+    "alt": 11887.2,
+    "velocity": 241.29,
+    "heading": 203.23,
     "trace": [
       [
         53.3607,
@@ -17,6 +51,27 @@
       [
         50.9315,
         -3.0173
+      ],
+      [
+        47.8461,
+        -5.1136
+      ]
+    ]
+  },
+  {
+    "hex": "406e9f",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "TOW860",
+    "lon": -1.8948,
+    "lat": 51.7733,
+    "alt": 2979.42,
+    "velocity": 139.58,
+    "heading": 251.3,
+    "trace": [
+      [
+        51.7733,
+        -1.8948
       ]
     ]
   },
@@ -25,15 +80,19 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD40",
-    "lon": 12.4704,
-    "lat": 54.6163,
-    "alt": 1059.18,
-    "velocity": 132.48,
-    "heading": 280.74,
+    "lon": 12.2771,
+    "lat": 54.4634,
+    "alt": 1074.42,
+    "velocity": 120.75,
+    "heading": 139.32,
     "trace": [
       [
         54.6163,
         12.4704
+      ],
+      [
+        54.4634,
+        12.2771
       ]
     ]
   },
@@ -42,11 +101,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA152",
-    "lon": -90.8713,
-    "lat": 30.9976,
+    "lon": -87.2887,
+    "lat": 29.5435,
     "alt": 11887.2,
-    "velocity": 240.17,
-    "heading": 114.15,
+    "velocity": 241.36,
+    "heading": 115.91,
     "trace": [
       [
         32.6397,
@@ -55,6 +114,10 @@
       [
         30.9976,
         -90.8713
+      ],
+      [
+        29.5435,
+        -87.2887
       ]
     ]
   }
