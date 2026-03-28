@@ -1,18 +1,35 @@
 [
   {
-    "hex": "a451cb",
-    "name": "Amerijet International",
+    "hex": "406d27",
+    "name": "AirTanker",
     "category": "Hired Gun",
-    "callsign": "AJT8641",
-    "lon": -65.9933,
-    "lat": 18.4346,
+    "callsign": "EXS49YF",
+    "lon": -2.2801,
+    "lat": 53.3607,
     "alt": null,
-    "velocity": 6.43,
-    "heading": 270,
+    "velocity": 4.63,
+    "heading": 140.62,
     "trace": [
       [
-        18.4346,
-        -65.9933
+        53.3607,
+        -2.2801
+      ]
+    ]
+  },
+  {
+    "hex": "a75013",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA152",
+    "lon": -95.5016,
+    "lat": 32.6397,
+    "alt": 9098.28,
+    "velocity": 253.51,
+    "heading": 94.89,
+    "trace": [
+      [
+        32.6397,
+        -95.5016
       ]
     ]
   },
@@ -21,11 +38,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA599",
-    "lon": -83.1775,
-    "lat": 29.8737,
-    "alt": 10668,
-    "velocity": 251.77,
-    "heading": 167.61,
+    "lon": -81.3442,
+    "lat": 26.0461,
+    "alt": 4472.94,
+    "velocity": 183.62,
+    "heading": 115.56,
     "trace": [
       [
         36.1007,
@@ -34,6 +51,10 @@
       [
         29.8737,
         -83.1775
+      ],
+      [
+        26.0461,
+        -81.3442
       ]
     ]
   },
@@ -42,11 +63,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA158",
-    "lon": -97.6613,
-    "lat": 30.1853,
-    "alt": null,
-    "velocity": 0,
-    "heading": 129.38,
+    "lon": -98.2074,
+    "lat": 29.3789,
+    "alt": 8534.4,
+    "velocity": 238,
+    "heading": 171.05,
     "trace": [
       [
         33.0353,
@@ -63,6 +84,27 @@
       [
         30.1853,
         -97.6613
+      ],
+      [
+        29.3789,
+        -98.2074
+      ]
+    ]
+  },
+  {
+    "hex": "710100",
+    "name": "Saudi Ministry of Finance",
+    "category": "Dictator Alert",
+    "callsign": "SVA972",
+    "lon": 113.9016,
+    "lat": 22.3103,
+    "alt": null,
+    "velocity": 9.26,
+    "heading": 70.31,
+    "trace": [
+      [
+        22.3103,
+        113.9016
       ]
     ]
   }
