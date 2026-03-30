@@ -4,11 +4,11 @@
     "name": "N550GP LLC",
     "category": "Dictator Alert",
     "callsign": "N550GP",
-    "lon": -98.5039,
-    "lat": 30.4805,
+    "lon": -103.6222,
+    "lat": 31.4161,
     "alt": 13716,
-    "velocity": 231.09,
-    "heading": 283.39,
+    "velocity": 236.6,
+    "heading": 280.65,
     "trace": [
       [
         26.0076,
@@ -25,27 +25,44 @@
       [
         30.4805,
         -98.5039
+      ],
+      [
+        31.4161,
+        -103.6222
       ]
     ]
   },
   {
-    "hex": "a80e20",
-    "name": "Tactical Air Support",
+    "hex": "a81043",
+    "name": "Airborne Tactical Advantage",
     "category": "Hired Gun",
-    "callsign": "VN1",
-    "lon": -86.1337,
-    "lat": 30.2663,
-    "alt": 3040.38,
-    "velocity": 220.43,
-    "heading": 288.65,
+    "callsign": "ATAC21",
+    "lon": -113.2757,
+    "lat": 33.8663,
+    "alt": 6164.58,
+    "velocity": 236.53,
+    "heading": 295.78,
     "trace": [
       [
-        29.9075,
-        -84.7973
-      ],
+        33.8663,
+        -113.2757
+      ]
+    ]
+  },
+  {
+    "hex": "a85065",
+    "name": "Airborne Tactical Advantage",
+    "category": "Hired Gun",
+    "callsign": "ATAC24",
+    "lon": -113.2137,
+    "lat": 33.7999,
+    "alt": 6484.62,
+    "velocity": 198,
+    "heading": 280.03,
+    "trace": [
       [
-        30.2663,
-        -86.1337
+        33.7999,
+        -113.2137
       ]
     ]
   },
@@ -54,11 +71,11 @@
     "name": "ISR Platforms",
     "category": "Hired Gun",
     "callsign": "",
-    "lon": 129.4752,
-    "lat": 38.3036,
-    "alt": 12192,
-    "velocity": 250.28,
-    "heading": 128.07,
+    "lon": 125.1479,
+    "lat": 37.2094,
+    "alt": 12199.62,
+    "velocity": 190.99,
+    "heading": 262.42,
     "trace": [
       [
         37.2186,
@@ -95,6 +112,10 @@
       [
         38.3036,
         129.4752
+      ],
+      [
+        37.2094,
+        125.1479
       ]
     ]
   },
@@ -103,11 +124,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR840",
-    "lon": -71.5878,
-    "lat": 41.5824,
-    "alt": 9502.14,
-    "velocity": 230.41,
-    "heading": 220.02,
+    "lon": -73.7779,
+    "lat": 40.633,
+    "alt": null,
+    "velocity": 4.89,
+    "heading": 300.94,
     "trace": [
       [
         45.0109,
@@ -116,89 +137,78 @@
       [
         41.5824,
         -71.5878
+      ],
+      [
+        40.633,
+        -73.7779
       ]
     ]
   },
   {
-    "hex": "06a014",
-    "name": "Qatar Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "QQE752",
-    "lon": 3.4338,
-    "lat": 39.5945,
-    "alt": 10668,
-    "velocity": 267.96,
-    "heading": 188.61,
-    "trace": [
-      [
-        51.5544,
-        12.2135
-      ],
-      [
-        45.5099,
-        6.0882
-      ],
-      [
-        39.5945,
-        3.4338
-      ]
-    ]
-  },
-  {
-    "hex": "abb7de",
-    "name": "Top Aces Inc",
+    "hex": "a9c52e",
+    "name": "National Airlines",
     "category": "Hired Gun",
-    "callsign": "FR01",
-    "lon": -85.8137,
-    "lat": 30.147,
-    "alt": 2987.04,
-    "velocity": 200.16,
-    "heading": 293.8,
+    "callsign": "NCR891",
+    "lon": 74.0367,
+    "lat": 16.8569,
+    "alt": 12496.8,
+    "velocity": 257.93,
+    "heading": 122.04,
     "trace": [
       [
-        28.7267,
-        -84.1472
-      ],
-      [
-        30.147,
-        -85.8137
+        16.8569,
+        74.0367
       ]
     ]
   },
   {
-    "hex": "a2c4e0",
-    "name": "Global Crossing Airlines",
+    "hex": "a808d5",
+    "name": "Airborne Tactical Advantage",
     "category": "Hired Gun",
-    "callsign": "GXA137",
-    "lon": -112.2015,
-    "lat": 38.8213,
-    "alt": 11567.16,
-    "velocity": 196.57,
-    "heading": 268.65,
+    "callsign": "ATAC23",
+    "lon": -113.2465,
+    "lat": 33.8105,
+    "alt": 6736.08,
+    "velocity": 209.81,
+    "heading": 285.5,
     "trace": [
       [
-        35.8226,
-        -79.0913
-      ],
+        33.8105,
+        -113.2465
+      ]
+    ]
+  },
+  {
+    "hex": "a6a435",
+    "name": "Phoenix Air",
+    "category": "Hired Gun",
+    "callsign": "N527PA",
+    "lon": -83.5247,
+    "lat": 32.5702,
+    "alt": 7322.82,
+    "velocity": 194.13,
+    "heading": 139.51,
+    "trace": [
       [
-        37.7395,
-        -86.1579
-      ],
+        32.5702,
+        -83.5247
+      ]
+    ]
+  },
+  {
+    "hex": "aa3086",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR8808",
+    "lon": 1.0063,
+    "lat": 35.8264,
+    "alt": 12192,
+    "velocity": 264.33,
+    "heading": 248.18,
+    "trace": [
       [
-        38.3225,
-        -94.5837
-      ],
-      [
-        38.4847,
-        -98.9385
-      ],
-      [
-        38.7816,
-        -106.2297
-      ],
-      [
-        38.8213,
-        -112.2015
+        35.8264,
+        1.0063
       ]
     ]
   },
@@ -207,15 +217,19 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6207",
-    "lon": -86.9021,
-    "lat": 18.7363,
-    "alt": 11582.4,
-    "velocity": 239.24,
-    "heading": 359.26,
+    "lon": -86.2661,
+    "lat": 23.4555,
+    "alt": 11277.6,
+    "velocity": 246.87,
+    "heading": 9.72,
     "trace": [
       [
         18.7363,
         -86.9021
+      ],
+      [
+        23.4555,
+        -86.2661
       ]
     ]
   },
@@ -224,11 +238,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6226",
-    "lon": -97.1274,
-    "lat": 21.0315,
-    "alt": 11285.22,
-    "velocity": 240.29,
-    "heading": 140.04,
+    "lon": -94.0917,
+    "lat": 18.441,
+    "alt": 5669.28,
+    "velocity": 205.7,
+    "heading": 109.89,
     "trace": [
       [
         30.6725,
@@ -245,6 +259,44 @@
       [
         21.0315,
         -97.1274
+      ],
+      [
+        18.441,
+        -94.0917
+      ]
+    ]
+  },
+  {
+    "hex": "a828e6",
+    "name": "Airborne Tactical Advantage",
+    "category": "Hired Gun",
+    "callsign": "ATAC22",
+    "lon": -113.2704,
+    "lat": 33.8843,
+    "alt": 6697.98,
+    "velocity": 233.77,
+    "heading": 291.43,
+    "trace": [
+      [
+        33.8843,
+        -113.2704
+      ]
+    ]
+  },
+  {
+    "hex": "a3ac55",
+    "name": "Kalitta Charters II",
+    "category": "Hired Gun",
+    "callsign": "KII336",
+    "lon": -83.9872,
+    "lat": 41.187,
+    "alt": 9166.86,
+    "velocity": 222.56,
+    "heading": 199.02,
+    "trace": [
+      [
+        41.187,
+        -83.9872
       ]
     ]
   }
