@@ -4,11 +4,11 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "CMB560",
-    "lon": -2.6563,
-    "lat": 53.85,
-    "alt": 9669.78,
-    "velocity": 178.87,
-    "heading": 279.44,
+    "lon": -10.6351,
+    "lat": 55.4751,
+    "alt": 10972.8,
+    "velocity": 179.55,
+    "heading": 283.76,
     "trace": [
       [
         47.3212,
@@ -25,6 +25,10 @@
       [
         53.85,
         -2.6563
+      ],
+      [
+        55.4751,
+        -10.6351
       ]
     ]
   },
@@ -33,11 +37,11 @@
     "name": "Gov of Azerbaijan",
     "category": "Dictator Alert",
     "callsign": "AHY606",
-    "lon": 80.7394,
-    "lat": 26.8775,
-    "alt": 13106.4,
-    "velocity": 233.52,
-    "heading": 310.53,
+    "lon": 75.2737,
+    "lat": 30.648,
+    "alt": 13716,
+    "velocity": 255.04,
+    "heading": 327.69,
     "trace": [
       [
         18.5028,
@@ -50,6 +54,10 @@
       [
         26.8775,
         80.7394
+      ],
+      [
+        30.648,
+        75.2737
       ]
     ]
   },
@@ -58,11 +66,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "EXS77RN",
-    "lon": -8.9173,
-    "lat": 39.6299,
+    "lon": -13.1876,
+    "lat": 33.9629,
     "alt": 12496.8,
-    "velocity": 243.24,
-    "heading": 209.38,
+    "velocity": 231.17,
+    "heading": 214.57,
     "trace": [
       [
         51.292,
@@ -75,23 +83,61 @@
       [
         39.6299,
         -8.9173
+      ],
+      [
+        33.9629,
+        -13.1876
       ]
     ]
   },
   {
-    "hex": "a95c2f",
-    "name": "National Airlines",
+    "hex": "a2f9dd",
+    "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "NCR869",
-    "lon": 31.3201,
-    "lat": 32.0386,
-    "alt": 8435.34,
-    "velocity": 265.48,
-    "heading": 353.77,
+    "callsign": "GXA613",
+    "lon": -78.7569,
+    "lat": 25.1148,
+    "alt": 8176.26,
+    "velocity": 237.54,
+    "heading": 130.52,
     "trace": [
       [
-        32.0386,
-        31.3201
+        25.1148,
+        -78.7569
+      ]
+    ]
+  },
+  {
+    "hex": "a09d9f",
+    "name": "Skyline Aviation",
+    "category": "Hired Gun",
+    "callsign": "N139LE",
+    "lon": 6.5949,
+    "lat": 53.1271,
+    "alt": 30.48,
+    "velocity": 59.06,
+    "heading": 232.43,
+    "trace": [
+      [
+        53.1271,
+        6.5949
+      ]
+    ]
+  },
+  {
+    "hex": "14fa3a",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD603",
+    "lon": 32.2272,
+    "lat": 58.8546,
+    "alt": 7985.76,
+    "velocity": 207.02,
+    "heading": 319.94,
+    "trace": [
+      [
+        58.8546,
+        32.2272
       ]
     ]
   },
@@ -100,11 +146,11 @@
     "name": "Government of Egypt",
     "category": "Dictator Alert",
     "callsign": "SUBTT",
-    "lon": 6.8636,
-    "lat": 46.4496,
-    "alt": 12184.38,
-    "velocity": 249.44,
-    "heading": 295.4,
+    "lon": 2.464,
+    "lat": 48.966,
+    "alt": 83.82,
+    "velocity": 58.83,
+    "heading": 265.49,
     "trace": [
       [
         38.7019,
@@ -117,6 +163,10 @@
       [
         46.4496,
         6.8636
+      ],
+      [
+        48.966,
+        2.464
       ]
     ]
   },
@@ -125,11 +175,11 @@
     "name": "Kalitta Charters II",
     "category": "Hired Gun",
     "callsign": "KII336",
-    "lon": -94.5635,
-    "lat": 31.0815,
-    "alt": 10043.16,
-    "velocity": 231.66,
-    "heading": 50.41,
+    "lon": -88.6106,
+    "lat": 35.115,
+    "alt": 8244.84,
+    "velocity": 228.05,
+    "heading": 49.48,
     "trace": [
       [
         27.989,
@@ -138,31 +188,10 @@
       [
         31.0815,
         -94.5635
-      ]
-    ]
-  },
-  {
-    "hex": "a6b0f5",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA155",
-    "lon": -74.5016,
-    "lat": 39.462,
-    "alt": 5364.48,
-    "velocity": 203.62,
-    "heading": 55.71,
-    "trace": [
-      [
-        33.5106,
-        -87.4508
       ],
       [
-        37.5195,
-        -79.8055
-      ],
-      [
-        39.462,
-        -74.5016
+        35.115,
+        -88.6106
       ]
     ]
   }
