@@ -4,11 +4,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "CMB588",
-    "lon": 4.3826,
-    "lat": 52.0042,
-    "alt": 11887.2,
-    "velocity": 258.99,
-    "heading": 118.6,
+    "lon": 9.8769,
+    "lat": 50.069,
+    "alt": 6614.16,
+    "velocity": 234.21,
+    "heading": 116.9,
     "trace": [
       [
         53.7366,
@@ -17,6 +17,10 @@
       [
         52.0042,
         4.3826
+      ],
+      [
+        50.069,
+        9.8769
       ]
     ]
   },
@@ -25,15 +29,36 @@
     "name": "Gov of Azerbaijan",
     "category": "Dictator Alert",
     "callsign": "AHY615",
-    "lon": 47.6199,
-    "lat": 41.1324,
-    "alt": 11811,
-    "velocity": 227.84,
-    "heading": 284.38,
+    "lon": 42.5762,
+    "lat": 41.3787,
+    "alt": 12192,
+    "velocity": 246.11,
+    "heading": 260.62,
     "trace": [
       [
         41.1324,
         47.6199
+      ],
+      [
+        41.3787,
+        42.5762
+      ]
+    ]
+  },
+  {
+    "hex": "406d27",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "EXS79T",
+    "lon": -2.2865,
+    "lat": 53.3672,
+    "alt": null,
+    "velocity": 1.03,
+    "heading": 244.69,
+    "trace": [
+      [
+        53.3672,
+        -2.2865
       ]
     ]
   },
@@ -42,11 +67,11 @@
     "name": "Gov of Qatar",
     "category": "Dictator Alert",
     "callsign": "QAF7",
-    "lon": 17.2062,
-    "lat": 40.9013,
-    "alt": 10058.4,
-    "velocity": 240.28,
-    "heading": 138.91,
+    "lon": 20.4548,
+    "lat": 37.9749,
+    "alt": 10683.24,
+    "velocity": 244.12,
+    "heading": 139.53,
     "trace": [
       [
         46.3564,
@@ -55,23 +80,10 @@
       [
         40.9013,
         17.2062
-      ]
-    ]
-  },
-  {
-    "hex": "aa3086",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR8809",
-    "lon": 28.2687,
-    "lat": -26.0982,
-    "alt": 1805.94,
-    "velocity": 84.87,
-    "heading": 195.47,
-    "trace": [
+      ],
       [
-        -26.0982,
-        28.2687
+        37.9749,
+        20.4548
       ]
     ]
   },
@@ -80,15 +92,19 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA599",
-    "lon": -84.7845,
-    "lat": 38.0915,
-    "alt": 7086.6,
-    "velocity": 212.44,
-    "heading": 183.89,
+    "lon": -84.3172,
+    "lat": 34.425,
+    "alt": 11285.22,
+    "velocity": 239.59,
+    "heading": 176.8,
     "trace": [
       [
         38.0915,
         -84.7845
+      ],
+      [
+        34.425,
+        -84.3172
       ]
     ]
   },
@@ -97,32 +113,36 @@
     "name": "Equatorial Guinea",
     "category": "Dictator Alert",
     "callsign": "P4VIP",
-    "lon": 2.9454,
-    "lat": 45.7286,
+    "lon": 4.7867,
+    "lat": 42.0076,
     "alt": 12473.94,
-    "velocity": 245.18,
-    "heading": 160.77,
+    "velocity": 253.62,
+    "heading": 161.31,
     "trace": [
       [
         45.7286,
         2.9454
+      ],
+      [
+        42.0076,
+        4.7867
       ]
     ]
   },
   {
-    "hex": "710100",
-    "name": "Saudi Ministry of Finance",
+    "hex": "0101d3",
+    "name": "Government of Egypt",
     "category": "Dictator Alert",
-    "callsign": "SVA986",
-    "lon": 51.685,
-    "lat": 22.5117,
-    "alt": 12496.8,
-    "velocity": 273.52,
-    "heading": 101.5,
+    "callsign": "SUBTT",
+    "lon": 2.3098,
+    "lat": 48.9678,
+    "alt": 937.26,
+    "velocity": 126.8,
+    "heading": 311.71,
     "trace": [
       [
-        22.5117,
-        51.685
+        48.9678,
+        2.3098
       ]
     ]
   },
@@ -131,11 +151,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA4608",
-    "lon": -94.6752,
-    "lat": 33.8741,
-    "alt": 10873.74,
-    "velocity": 206.92,
-    "heading": 245.16,
+    "lon": -96.8636,
+    "lat": 32.8514,
+    "alt": 175.26,
+    "velocity": 70.94,
+    "heading": 135.88,
     "trace": [
       [
         37.1841,
@@ -144,6 +164,10 @@
       [
         33.8741,
         -94.6752
+      ],
+      [
+        32.8514,
+        -96.8636
       ]
     ]
   }
