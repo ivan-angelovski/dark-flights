@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a8699a",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI8895",
+    "lon": -72.3098,
+    "lat": 43.1575,
+    "alt": 10637.52,
+    "velocity": 198.48,
+    "heading": 273.72,
+    "trace": [
+      [
+        43.1575,
+        -72.3098
+      ]
+    ]
+  },
+  {
     "hex": "a9c52e",
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR880",
-    "lon": 0.1039,
-    "lat": 51.3726,
-    "alt": 11887.2,
-    "velocity": 266.59,
-    "heading": 98.88,
+    "lon": 3.591,
+    "lat": 50.6368,
+    "alt": 10012.68,
+    "velocity": 259.16,
+    "heading": 118.19,
     "trace": [
       [
         52.377,
@@ -17,6 +34,10 @@
       [
         51.3726,
         0.1039
+      ],
+      [
+        50.6368,
+        3.591
       ]
     ]
   },
@@ -25,32 +46,19 @@
     "name": "DJT Operations",
     "category": "Dictator Alert",
     "callsign": "N757AF",
-    "lon": -80.9717,
-    "lat": 27.007,
-    "alt": 6736.08,
-    "velocity": 219.65,
-    "heading": 302.28,
+    "lon": -81.598,
+    "lat": 28.8735,
+    "alt": 11887.2,
+    "velocity": 221.69,
+    "heading": 349.71,
     "trace": [
       [
         27.007,
         -80.9717
-      ]
-    ]
-  },
-  {
-    "hex": "a86e85",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA201",
-    "lon": -72.8433,
-    "lat": 19.494,
-    "alt": 11582.4,
-    "velocity": 213.12,
-    "heading": 330.34,
-    "trace": [
+      ],
       [
-        19.494,
-        -72.8433
+        28.8735,
+        -81.598
       ]
     ]
   },
@@ -59,15 +67,19 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA969",
-    "lon": 94.347,
-    "lat": 22.6323,
+    "lon": 92.2376,
+    "lat": 22.458,
     "alt": 9753.6,
-    "velocity": 222.52,
-    "heading": 260.82,
+    "velocity": 223.61,
+    "heading": 273.17,
     "trace": [
       [
         22.6323,
         94.347
+      ],
+      [
+        22.458,
+        92.2376
       ]
     ]
   }
