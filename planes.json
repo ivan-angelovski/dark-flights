@@ -1,52 +1,39 @@
 [
   {
-    "hex": "a49951",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT411",
-    "lon": -78.1969,
-    "lat": 30.8443,
-    "alt": 11285.22,
-    "velocity": 231.5,
-    "heading": 16.26,
-    "trace": [
-      [
-        30.8443,
-        -78.1969
-      ]
-    ]
-  },
-  {
-    "hex": "a8699a",
-    "name": "Atlas Air",
-    "category": "Hired Gun",
-    "callsign": "GTI8895",
-    "lon": -119.7403,
-    "lat": 46.1686,
-    "alt": 10713.72,
-    "velocity": 218.09,
-    "heading": 309.74,
-    "trace": [
-      [
-        46.1686,
-        -119.7403
-      ]
-    ]
-  },
-  {
     "hex": "406d26",
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "TOW2230",
-    "lon": -14.8053,
-    "lat": 29.8334,
+    "lon": -17.9999,
+    "lat": 14.3658,
     "alt": 11582.4,
-    "velocity": 227.13,
-    "heading": 197.53,
+    "velocity": 241.79,
+    "heading": 180,
     "trace": [
       [
         29.8334,
         -14.8053
+      ],
+      [
+        14.3658,
+        -17.9999
+      ]
+    ]
+  },
+  {
+    "hex": "600be9",
+    "name": "Gov of Azerbaijan",
+    "category": "Dictator Alert",
+    "callsign": "AHY6731",
+    "lon": 45.0689,
+    "lat": 41.5757,
+    "alt": 1143,
+    "velocity": 60.78,
+    "heading": 316.71,
+    "trace": [
+      [
+        41.5757,
+        45.0689
       ]
     ]
   },
@@ -54,33 +41,20 @@
     "hex": "ab7437",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "GXA4681",
-    "lon": -73.99,
-    "lat": 44.6414,
-    "alt": 8122.92,
-    "velocity": 194.47,
-    "heading": 180.61,
+    "callsign": "GXA1682",
+    "lon": -74.2651,
+    "lat": 40.5211,
+    "alt": 3573.78,
+    "velocity": 154.06,
+    "heading": 161.5,
     "trace": [
       [
         44.6414,
         -73.99
-      ]
-    ]
-  },
-  {
-    "hex": "710100",
-    "name": "Saudi Ministry of Finance",
-    "category": "Dictator Alert",
-    "callsign": "SVA969",
-    "lon": 56.8501,
-    "lat": 22.1328,
-    "alt": 10363.2,
-    "velocity": 231.05,
-    "heading": 271.4,
-    "trace": [
+      ],
       [
-        22.1328,
-        56.8501
+        40.5211,
+        -74.2651
       ]
     ]
   }
