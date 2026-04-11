@@ -1,35 +1,56 @@
 [
   {
-    "hex": "a3a4c1",
-    "name": "Airborne Tactical Advantage",
-    "category": "Hired Gun",
-    "callsign": "ATAC31",
-    "lon": -118.8199,
-    "lat": 35.5561,
-    "alt": 6408.42,
-    "velocity": 226.11,
-    "heading": 35.46,
-    "trace": [
-      [
-        35.5561,
-        -118.8199
-      ]
-    ]
-  },
-  {
     "hex": "a49951",
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT760",
-    "lon": -81.3199,
-    "lat": 24.7723,
-    "alt": 7627.62,
-    "velocity": 182.65,
-    "heading": 122.93,
+    "lon": -80.7752,
+    "lat": 25.4943,
+    "alt": 3070.86,
+    "velocity": 143.81,
+    "heading": 62.52,
     "trace": [
       [
         24.7723,
         -81.3199
+      ],
+      [
+        25.4943,
+        -80.7752
+      ]
+    ]
+  },
+  {
+    "hex": "a8699a",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI8819",
+    "lon": -125.013,
+    "lat": 46.4775,
+    "alt": 10972.8,
+    "velocity": 229.14,
+    "heading": 231.38,
+    "trace": [
+      [
+        46.4775,
+        -125.013
+      ]
+    ]
+  },
+  {
+    "hex": "a1f3aa",
+    "name": "Omni Air International",
+    "category": "Hired Gun",
+    "callsign": "OAE2108",
+    "lon": -77.7354,
+    "lat": 25.4176,
+    "alt": 11590.02,
+    "velocity": 210.54,
+    "heading": 289.41,
+    "trace": [
+      [
+        25.4176,
+        -77.7354
       ]
     ]
   },
@@ -38,11 +59,11 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "CMB137",
-    "lon": 2.5283,
-    "lat": 41.2702,
+    "lon": -1.4169,
+    "lat": 38.9318,
     "alt": 11887.2,
-    "velocity": 227.42,
-    "heading": 276.76,
+    "velocity": 231.2,
+    "heading": 232.59,
     "trace": [
       [
         37.5376,
@@ -59,6 +80,10 @@
       [
         41.2702,
         2.5283
+      ],
+      [
+        38.9318,
+        -1.4169
       ]
     ]
   },
@@ -67,11 +92,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR831",
-    "lon": -89.7177,
-    "lat": 34.0691,
+    "lon": -93.1803,
+    "lat": 30.9543,
     "alt": 10972.8,
-    "velocity": 246.97,
-    "heading": 220.69,
+    "velocity": 234.16,
+    "heading": 238.47,
     "trace": [
       [
         48.7902,
@@ -100,6 +125,44 @@
       [
         34.0691,
         -89.7177
+      ],
+      [
+        30.9543,
+        -93.1803
+      ]
+    ]
+  },
+  {
+    "hex": "a047d4",
+    "name": "US Department of Energy",
+    "category": "Nuclear",
+    "callsign": "N117SR",
+    "lon": -81.4909,
+    "lat": 33.0659,
+    "alt": 167.64,
+    "velocity": 55.98,
+    "heading": 233.97,
+    "trace": [
+      [
+        33.0659,
+        -81.4909
+      ]
+    ]
+  },
+  {
+    "hex": "a2c4e0",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6164",
+    "lon": -89.7734,
+    "lat": 14.1911,
+    "alt": 11590.02,
+    "velocity": 230.61,
+    "heading": 305.92,
+    "trace": [
+      [
+        14.1911,
+        -89.7734
       ]
     ]
   },
@@ -108,11 +171,11 @@
     "name": "Meta Aerospace",
     "category": "Hired Gun",
     "callsign": "SWB71",
-    "lon": -114.4746,
-    "lat": 37.2058,
+    "lon": -114.414,
+    "lat": 37.4386,
     "alt": 8534.4,
-    "velocity": 212.2,
-    "heading": 141.99,
+    "velocity": 162.43,
+    "heading": 215.2,
     "trace": [
       [
         32.972,
@@ -145,6 +208,10 @@
       [
         37.2058,
         -114.4746
+      ],
+      [
+        37.4386,
+        -114.414
       ]
     ]
   },
@@ -153,11 +220,16 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA979",
-    "lon": null,
-    "lat": null,
-    "alt": 9144,
-    "velocity": 235.97,
-    "heading": 260.97,
-    "trace": []
+    "lon": 90.9845,
+    "lat": 22.358,
+    "alt": 9753.6,
+    "velocity": 233.99,
+    "heading": 277.45,
+    "trace": [
+      [
+        22.358,
+        90.9845
+      ]
+    ]
   }
 ]
