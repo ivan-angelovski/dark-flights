@@ -1,18 +1,39 @@
 [
   {
+    "hex": "a8699a",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI8819",
+    "lon": -157.9463,
+    "lat": 21.3141,
+    "alt": null,
+    "velocity": 10.29,
+    "heading": 174.38,
+    "trace": [
+      [
+        21.3141,
+        -157.9463
+      ]
+    ]
+  },
+  {
     "hex": "89615a",
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB8",
-    "lon": 49.1288,
-    "lat": 23.4612,
-    "alt": 11582.4,
-    "velocity": 219.02,
-    "heading": 321.68,
+    "lon": 50.5129,
+    "lat": 26.1723,
+    "alt": 754.38,
+    "velocity": 95.48,
+    "heading": 175.36,
     "trace": [
       [
         23.4612,
         49.1288
+      ],
+      [
+        26.1723,
+        50.5129
       ]
     ]
   },
@@ -21,15 +42,19 @@
     "name": "Omni Air International",
     "category": "Hired Gun",
     "callsign": "CMB538",
-    "lon": -75.7703,
-    "lat": 39.4247,
-    "alt": 7162.8,
-    "velocity": 239.34,
-    "heading": 51.28,
+    "lon": -68.5327,
+    "lat": 42.3762,
+    "alt": 10668,
+    "velocity": 242.13,
+    "heading": 65.12,
     "trace": [
       [
         39.4247,
         -75.7703
+      ],
+      [
+        42.3762,
+        -68.5327
       ]
     ]
   },
@@ -38,32 +63,121 @@
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "AUH02",
-    "lon": 54.6962,
-    "lat": 23.6475,
-    "alt": 9936.48,
-    "velocity": 219.63,
-    "heading": 257.01,
+    "lon": 48.5292,
+    "lat": 24.0362,
+    "alt": 10972.8,
+    "velocity": 209.22,
+    "heading": 264.78,
     "trace": [
       [
         23.6475,
         54.6962
+      ],
+      [
+        24.0362,
+        48.5292
       ]
     ]
   },
   {
-    "hex": "06a00f",
-    "name": "Gov of Qatar",
+    "hex": "896571",
+    "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
-    "callsign": "QAF7",
-    "lon": 47.8728,
-    "lat": 24.5611,
-    "alt": 10363.2,
-    "velocity": 207.32,
-    "heading": 291.09,
+    "callsign": "AUH06",
+    "lon": 90.4235,
+    "lat": 22.4255,
+    "alt": 11879.58,
+    "velocity": 280.5,
+    "heading": 97.16,
     "trace": [
       [
-        24.5611,
-        47.8728
+        22.4255,
+        90.4235
+      ]
+    ]
+  },
+  {
+    "hex": "406d27",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "EXS47S",
+    "lon": -2.371,
+    "lat": 53.3189,
+    "alt": 845.82,
+    "velocity": 90.51,
+    "heading": 282.14,
+    "trace": [
+      [
+        53.3189,
+        -2.371
+      ]
+    ]
+  },
+  {
+    "hex": "acfc26",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR833",
+    "lon": -113.8473,
+    "lat": 31.0555,
+    "alt": 12192,
+    "velocity": 208.51,
+    "heading": 316.5,
+    "trace": [
+      [
+        31.0555,
+        -113.8473
+      ]
+    ]
+  },
+  {
+    "hex": "0a4005",
+    "name": "Gov of Algeria",
+    "category": "Dictator Alert",
+    "callsign": "Q7TVPR",
+    "lon": -7.1619,
+    "lat": 37.8936,
+    "alt": 13114.02,
+    "velocity": 250.69,
+    "heading": 108.17,
+    "trace": [
+      [
+        37.8936,
+        -7.1619
+      ]
+    ]
+  },
+  {
+    "hex": "a9c52e",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR912",
+    "lon": 33.0059,
+    "lat": 29.1719,
+    "alt": 10363.2,
+    "velocity": 239.4,
+    "heading": 313.96,
+    "trace": [
+      [
+        29.1719,
+        33.0059
+      ]
+    ]
+  },
+  {
+    "hex": "acb84d",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR8892",
+    "lon": 26.4941,
+    "lat": 37.7292,
+    "alt": 12192,
+    "velocity": 215.49,
+    "heading": 321.98,
+    "trace": [
+      [
+        37.7292,
+        26.4941
       ]
     ]
   },
@@ -72,11 +186,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA110",
-    "lon": -101.522,
-    "lat": 36.7284,
+    "lon": -107.938,
+    "lat": 35.5319,
     "alt": 11590.02,
-    "velocity": 192.14,
-    "heading": 250.93,
+    "velocity": 220.21,
+    "heading": 265.98,
     "trace": [
       [
         39.2637,
@@ -85,6 +199,10 @@
       [
         36.7284,
         -101.522
+      ],
+      [
+        35.5319,
+        -107.938
       ]
     ]
   }
