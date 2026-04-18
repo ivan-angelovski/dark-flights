@@ -3,12 +3,12 @@
     "hex": "406d27",
     "name": "AirTanker",
     "category": "Hired Gun",
-    "callsign": "",
-    "lon": null,
-    "lat": null,
+    "callsign": "EXS79T",
+    "lon": -15.5753,
+    "lat": 30.8704,
     "alt": 11887.2,
-    "velocity": 220.6,
-    "heading": 214.36,
+    "velocity": 225.61,
+    "heading": 208.61,
     "trace": [
       [
         53.155,
@@ -25,6 +25,10 @@
       [
         38.1902,
         -10.5381
+      ],
+      [
+        30.8704,
+        -15.5753
       ]
     ]
   },
@@ -33,32 +37,70 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD40",
-    "lon": 11.3229,
-    "lat": 54.0545,
-    "alt": 1013.46,
-    "velocity": 112.94,
-    "heading": 164.95,
+    "lon": 11.4027,
+    "lat": 53.9946,
+    "alt": 861.06,
+    "velocity": 134.9,
+    "heading": 329.52,
     "trace": [
       [
         54.0545,
         11.3229
+      ],
+      [
+        53.9946,
+        11.4027
       ]
     ]
   },
   {
-    "hex": "a2f9dd",
-    "name": "Global Crossing Airlines",
+    "hex": "a9c52e",
+    "name": "National Airlines",
     "category": "Hired Gun",
-    "callsign": "GXA613",
-    "lon": -78.2083,
-    "lat": 24.5328,
-    "alt": 9121.14,
-    "velocity": 259.85,
-    "heading": 129.46,
+    "callsign": "NCR817",
+    "lon": -94.0681,
+    "lat": 29.7217,
+    "alt": 10363.2,
+    "velocity": 239.15,
+    "heading": 325.69,
     "trace": [
       [
-        24.5328,
-        -78.2083
+        29.7217,
+        -94.0681
+      ]
+    ]
+  },
+  {
+    "hex": "400e15",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "FRA81",
+    "lon": 16.2471,
+    "lat": 41.0647,
+    "alt": 3512.82,
+    "velocity": 140.78,
+    "heading": 263.71,
+    "trace": [
+      [
+        41.0647,
+        16.2471
+      ]
+    ]
+  },
+  {
+    "hex": "ab7437",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA200",
+    "lon": -78.445,
+    "lat": 25.0293,
+    "alt": 8816.34,
+    "velocity": 251.44,
+    "heading": 118.87,
+    "trace": [
+      [
+        25.0293,
+        -78.445
       ]
     ]
   }
