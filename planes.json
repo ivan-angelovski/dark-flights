@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a8699a",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI9846",
+    "lon": -121.2369,
+    "lat": 47.2369,
+    "alt": 11285.22,
+    "velocity": 240.79,
+    "heading": 107.66,
+    "trace": [
+      [
+        47.2369,
+        -121.2369
+      ]
+    ]
+  },
+  {
     "hex": "600806",
     "name": "Gov of Azerbaijan",
     "category": "Dictator Alert",
     "callsign": "AHY550",
-    "lon": 39.5447,
-    "lat": 41.0218,
+    "lon": null,
+    "lat": null,
     "alt": 13106.4,
-    "velocity": 225.76,
-    "heading": 277.59,
+    "velocity": 63.22,
+    "heading": 214.72,
     "trace": [
       [
         41.0218,
@@ -17,87 +34,36 @@
     ]
   },
   {
-    "hex": "a451cb",
-    "name": "Amerijet International",
-    "category": "Hired Gun",
-    "callsign": "AJT8541",
-    "lon": -66.0546,
-    "lat": 18.4337,
-    "alt": 243.84,
-    "velocity": 77.17,
-    "heading": 89.62,
-    "trace": [
-      [
-        18.4337,
-        -66.0546
-      ]
-    ]
-  },
-  {
-    "hex": "406d27",
+    "hex": "406e9f",
     "name": "AirTanker",
     "category": "Hired Gun",
-    "callsign": "EXS77RN",
-    "lon": -8.6003,
-    "lat": 42.8997,
-    "alt": 11887.2,
-    "velocity": 225.52,
-    "heading": 210.43,
+    "callsign": "RRR3225",
+    "lon": 7.5652,
+    "lat": 52.2145,
+    "alt": 10035.54,
+    "velocity": 219.86,
+    "heading": 263.96,
     "trace": [
       [
-        42.8997,
-        -8.6003
+        52.2145,
+        7.5652
       ]
     ]
   },
   {
-    "hex": "4009d3",
-    "name": "Draken Europe",
+    "hex": "a2f9dd",
+    "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "AMBER2",
-    "lon": -5.4663,
-    "lat": 50.1614,
-    "alt": 502.92,
-    "velocity": 86.95,
-    "heading": 127.55,
+    "callsign": "GXA613",
+    "lon": -78.4543,
+    "lat": 24.7285,
+    "alt": 9464.04,
+    "velocity": 245.95,
+    "heading": 129.48,
     "trace": [
       [
-        50.1614,
-        -5.4663
-      ]
-    ]
-  },
-  {
-    "hex": "4009d2",
-    "name": "Draken Europe",
-    "category": "Hired Gun",
-    "callsign": "AMBER1",
-    "lon": -4.7534,
-    "lat": 50.1588,
-    "alt": 4823.46,
-    "velocity": 150.36,
-    "heading": 70.2,
-    "trace": [
-      [
-        50.1588,
-        -4.7534
-      ]
-    ]
-  },
-  {
-    "hex": "a95c2f",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR8815",
-    "lon": 29.147,
-    "lat": -24.7844,
-    "alt": 10363.2,
-    "velocity": 231.24,
-    "heading": 238.93,
-    "trace": [
-      [
-        -24.7844,
-        29.147
+        24.7285,
+        -78.4543
       ]
     ]
   },
@@ -106,15 +72,53 @@
     "name": "Pallas Aviation",
     "category": "Hired Gun",
     "callsign": "WDE11",
-    "lon": -2.1662,
-    "lat": 51.5367,
-    "alt": 7620,
-    "velocity": 179.29,
-    "heading": 101.92,
+    "lon": 6.8814,
+    "lat": 50.0398,
+    "alt": 5227.32,
+    "velocity": 152.17,
+    "heading": 169.68,
     "trace": [
       [
         51.5367,
         -2.1662
+      ],
+      [
+        50.0398,
+        6.8814
+      ]
+    ]
+  },
+  {
+    "hex": "710190",
+    "name": "Saudi Arabian Government",
+    "category": "Dictator Alert",
+    "callsign": "SRA106",
+    "lon": -64.2734,
+    "lat": 43.4563,
+    "alt": 10972.8,
+    "velocity": 246.5,
+    "heading": 250.62,
+    "trace": [
+      [
+        43.4563,
+        -64.2734
+      ]
+    ]
+  },
+  {
+    "hex": "71019b",
+    "name": "Saudi Ministry of Finance",
+    "category": "Dictator Alert",
+    "callsign": "SRA107",
+    "lon": -63.2666,
+    "lat": 43.5107,
+    "alt": 12184.38,
+    "velocity": 252.63,
+    "heading": 253.56,
+    "trace": [
+      [
+        43.5107,
+        -63.2666
       ]
     ]
   }
