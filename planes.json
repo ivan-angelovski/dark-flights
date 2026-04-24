@@ -1,18 +1,35 @@
 [
   {
-    "hex": "a8699a",
-    "name": "Atlas Air",
+    "hex": "a49951",
+    "name": "Amerijet International",
     "category": "Hired Gun",
-    "callsign": "GTI9846",
-    "lon": -121.2369,
-    "lat": 47.2369,
-    "alt": 11285.22,
-    "velocity": 240.79,
-    "heading": 107.66,
+    "callsign": "AJT5787",
+    "lon": -92.6037,
+    "lat": 32.6754,
+    "alt": 10668,
+    "velocity": 248.71,
+    "heading": 42.4,
     "trace": [
       [
-        47.2369,
-        -121.2369
+        32.6754,
+        -92.6037
+      ]
+    ]
+  },
+  {
+    "hex": "a835d1",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6121",
+    "lon": -94.42,
+    "lat": 27.407,
+    "alt": 10363.2,
+    "velocity": 236.17,
+    "heading": 196.58,
+    "trace": [
+      [
+        27.407,
+        -94.42
       ]
     ]
   },
@@ -34,57 +51,108 @@
     ]
   },
   {
+    "hex": "a2bd72",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6151",
+    "lon": -101.3783,
+    "lat": 29.808,
+    "alt": 10972.8,
+    "velocity": 187.72,
+    "heading": 309.89,
+    "trace": [
+      [
+        29.808,
+        -101.3783
+      ]
+    ]
+  },
+  {
+    "hex": "a7a2be",
+    "name": "ISR Platforms",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": 127.0204,
+    "lat": 36.9684,
+    "alt": null,
+    "velocity": 3.6,
+    "heading": 219.38,
+    "trace": [
+      [
+        36.9684,
+        127.0204
+      ]
+    ]
+  },
+  {
+    "hex": "406d27",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "EXS77RN",
+    "lon": -17.2359,
+    "lat": 29.1006,
+    "alt": 7338.06,
+    "velocity": 193.22,
+    "heading": 183.21,
+    "trace": [
+      [
+        29.1006,
+        -17.2359
+      ]
+    ]
+  },
+  {
     "hex": "406e9f",
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "RRR3225",
-    "lon": 7.5652,
-    "lat": 52.2145,
-    "alt": 10035.54,
-    "velocity": 219.86,
-    "heading": 263.96,
+    "lon": -1.6253,
+    "lat": 51.7302,
+    "alt": 1767.84,
+    "velocity": 120.98,
+    "heading": 16.05,
     "trace": [
       [
         52.2145,
         7.5652
-      ]
-    ]
-  },
-  {
-    "hex": "a2f9dd",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA613",
-    "lon": -78.4543,
-    "lat": 24.7285,
-    "alt": 9464.04,
-    "velocity": 245.95,
-    "heading": 129.48,
-    "trace": [
-      [
-        24.7285,
-        -78.4543
-      ]
-    ]
-  },
-  {
-    "hex": "ad5ae7",
-    "name": "Pallas Aviation",
-    "category": "Hired Gun",
-    "callsign": "WDE11",
-    "lon": 6.8814,
-    "lat": 50.0398,
-    "alt": 5227.32,
-    "velocity": 152.17,
-    "heading": 169.68,
-    "trace": [
-      [
-        51.5367,
-        -2.1662
       ],
       [
-        50.0398,
-        6.8814
+        51.7302,
+        -1.6253
+      ]
+    ]
+  },
+  {
+    "hex": "a87876",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "CMB140",
+    "lon": 6.2822,
+    "lat": 50.1982,
+    "alt": 8656.32,
+    "velocity": 236.59,
+    "heading": 302.93,
+    "trace": [
+      [
+        50.1982,
+        6.2822
+      ]
+    ]
+  },
+  {
+    "hex": "4009cb",
+    "name": "Draken Europe",
+    "category": "Hired Gun",
+    "callsign": "FRA91",
+    "lon": 6.4807,
+    "lat": 48.1495,
+    "alt": 8686.8,
+    "velocity": 188.44,
+    "heading": 353.57,
+    "trace": [
+      [
+        48.1495,
+        6.4807
       ]
     ]
   },
@@ -93,15 +161,19 @@
     "name": "Saudi Arabian Government",
     "category": "Dictator Alert",
     "callsign": "SRA106",
-    "lon": -64.2734,
-    "lat": 43.4563,
-    "alt": 10972.8,
-    "velocity": 246.5,
-    "heading": 250.62,
+    "lon": -73.0696,
+    "lat": 40.66,
+    "alt": 2606.04,
+    "velocity": 133.5,
+    "heading": 224.84,
     "trace": [
       [
         43.4563,
         -64.2734
+      ],
+      [
+        40.66,
+        -73.0696
       ]
     ]
   },
@@ -110,15 +182,19 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SRA107",
-    "lon": -63.2666,
-    "lat": 43.5107,
-    "alt": 12184.38,
-    "velocity": 252.63,
-    "heading": 253.56,
+    "lon": -72.1291,
+    "lat": 41.1506,
+    "alt": 6621.78,
+    "velocity": 203.95,
+    "heading": 182.75,
     "trace": [
       [
         43.5107,
         -63.2666
+      ],
+      [
+        41.1506,
+        -72.1291
       ]
     ]
   }
