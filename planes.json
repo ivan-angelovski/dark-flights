@@ -1,43 +1,52 @@
 [
   {
-    "hex": "a1ac1a",
-    "name": "Omni Air International",
-    "category": "Hired Gun",
-    "callsign": "CMB578",
-    "lon": -23.206,
-    "lat": 62.764,
-    "alt": 11529.06,
-    "velocity": 240.24,
-    "heading": 259.39,
+    "hex": "89629f",
+    "name": "Abu Dhabi Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "AUH02",
+    "lon": 56.4069,
+    "lat": 24.8829,
+    "alt": 1470.66,
+    "velocity": 130.33,
+    "heading": 42.76,
     "trace": [
       [
-        61.9858,
-        0.1395
-      ],
-      [
-        62.764,
-        -23.206
+        24.8829,
+        56.4069
       ]
     ]
   },
   {
-    "hex": "406d26",
-    "name": "AirTanker",
+    "hex": "a3defb",
+    "name": "Amerijet International",
     "category": "Hired Gun",
-    "callsign": "TOW2233",
-    "lon": -1.7039,
-    "lat": 51.7334,
-    "alt": 1844.04,
-    "velocity": 121.16,
-    "heading": 75.49,
+    "callsign": "AJT8544",
+    "lon": -80.5534,
+    "lat": 25.7501,
+    "alt": 937.26,
+    "velocity": 102.43,
+    "heading": 353.95,
     "trace": [
       [
-        42.4205,
-        -8.9659
-      ],
+        25.7501,
+        -80.5534
+      ]
+    ]
+  },
+  {
+    "hex": "acfc26",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR879",
+    "lon": 4.7503,
+    "lat": 50.7351,
+    "alt": 10668,
+    "velocity": 255.96,
+    "heading": 101.24,
+    "trace": [
       [
-        51.7334,
-        -1.7039
+        50.7351,
+        4.7503
       ]
     ]
   },
@@ -46,15 +55,19 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "QAF4",
-    "lon": 1.2371,
-    "lat": 46.345,
+    "lon": 14.9864,
+    "lat": 39.552,
     "alt": 11887.2,
-    "velocity": 244.92,
-    "heading": 120.55,
+    "velocity": 242.57,
+    "heading": 128.11,
     "trace": [
       [
         46.345,
         1.2371
+      ],
+      [
+        39.552,
+        14.9864
       ]
     ]
   },
@@ -63,15 +76,53 @@
     "name": "Gesellschaft fur Flugzieldarstellung",
     "category": "Hired Gun",
     "callsign": "GFD93",
-    "lon": 8.1922,
-    "lat": 54.3516,
-    "alt": 11490.96,
-    "velocity": 201.98,
-    "heading": 321.2,
+    "lon": 12.6108,
+    "lat": 51.4891,
+    "alt": 12489.18,
+    "velocity": 221.73,
+    "heading": 13.55,
     "trace": [
       [
         54.3516,
         8.1922
+      ],
+      [
+        51.4891,
+        12.6108
+      ]
+    ]
+  },
+  {
+    "hex": "adccd1",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA599",
+    "lon": -84.628,
+    "lat": 37.622,
+    "alt": 8572.5,
+    "velocity": 243.53,
+    "heading": 177.7,
+    "trace": [
+      [
+        37.622,
+        -84.628
+      ]
+    ]
+  },
+  {
+    "hex": "ad5ae7",
+    "name": "Pallas Aviation",
+    "category": "Hired Gun",
+    "callsign": "WDE11",
+    "lon": 7.6935,
+    "lat": 49.448,
+    "alt": 822.96,
+    "velocity": 95.65,
+    "heading": 31.81,
+    "trace": [
+      [
+        49.448,
+        7.6935
       ]
     ]
   }
