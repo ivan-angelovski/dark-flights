@@ -4,15 +4,53 @@
     "name": "Amerijet International",
     "category": "Hired Gun",
     "callsign": "AJT782",
-    "lon": -86.2026,
-    "lat": 38.055,
-    "alt": 5151.12,
-    "velocity": 198.97,
-    "heading": 264.51,
+    "lon": -90.8217,
+    "lat": 35.533,
+    "alt": 10980.42,
+    "velocity": 203.22,
+    "heading": 233.86,
     "trace": [
       [
         38.055,
         -86.2026
+      ],
+      [
+        35.533,
+        -90.8217
+      ]
+    ]
+  },
+  {
+    "hex": "a1ac1a",
+    "name": "Omni Air International",
+    "category": "Hired Gun",
+    "callsign": "CMB578",
+    "lon": -71.2463,
+    "lat": 45.6291,
+    "alt": 11536.68,
+    "velocity": 254.72,
+    "heading": 207.55,
+    "trace": [
+      [
+        45.6291,
+        -71.2463
+      ]
+    ]
+  },
+  {
+    "hex": "4b85cb",
+    "name": "Gov of Turkey",
+    "category": "Dictator Alert",
+    "callsign": "TRK10",
+    "lon": 27.6685,
+    "lat": 40.4027,
+    "alt": 5631.18,
+    "velocity": 184.29,
+    "heading": 242.93,
+    "trace": [
+      [
+        40.4027,
+        27.6685
       ]
     ]
   },
@@ -21,11 +59,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "EXS79T",
-    "lon": -6.0864,
-    "lat": 46.3297,
+    "lon": -8.9916,
+    "lat": 41.7351,
     "alt": 11887.2,
-    "velocity": 231.37,
-    "heading": 201.66,
+    "velocity": 240.47,
+    "heading": 199.37,
     "trace": [
       [
         52.8465,
@@ -34,6 +72,10 @@
       [
         46.3297,
         -6.0864
+      ],
+      [
+        41.7351,
+        -8.9916
       ]
     ]
   },
@@ -42,11 +84,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR879",
-    "lon": 22.0705,
-    "lat": 42.5542,
+    "lon": 25.2973,
+    "lat": 37.7775,
     "alt": 11277.6,
-    "velocity": 260.93,
-    "heading": 152.53,
+    "velocity": 244.95,
+    "heading": 148.05,
     "trace": [
       [
         50.7351,
@@ -59,31 +101,27 @@
       [
         42.5542,
         22.0705
+      ],
+      [
+        37.7775,
+        25.2973
       ]
     ]
   },
   {
-    "hex": "adccd1",
-    "name": "Global Crossing Airlines",
+    "hex": "aa3086",
+    "name": "National Airlines",
     "category": "Hired Gun",
-    "callsign": "GXA599",
-    "lon": -80.3681,
-    "lat": 25.7838,
-    "alt": 320.04,
-    "velocity": 66.97,
-    "heading": 86.92,
+    "callsign": "NCR8857",
+    "lon": 55.1467,
+    "lat": 24.0403,
+    "alt": 2468.88,
+    "velocity": 154.84,
+    "heading": 297.08,
     "trace": [
       [
-        37.622,
-        -84.628
-      ],
-      [
-        31.2202,
-        -84.2273
-      ],
-      [
-        25.7838,
-        -80.3681
+        24.0403,
+        55.1467
       ]
     ]
   },
@@ -92,11 +130,11 @@
     "name": "Pallas Aviation",
     "category": "Hired Gun",
     "callsign": "WDE11",
-    "lon": 14.7607,
-    "lat": 42.8208,
+    "lon": 18.1804,
+    "lat": 40.6219,
     "alt": 7620,
-    "velocity": 159.41,
-    "heading": 129.24,
+    "velocity": 153.03,
+    "heading": 131.73,
     "trace": [
       [
         49.448,
@@ -109,6 +147,27 @@
       [
         42.8208,
         14.7607
+      ],
+      [
+        40.6219,
+        18.1804
+      ]
+    ]
+  },
+  {
+    "hex": "157712",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD956",
+    "lon": 51.637,
+    "lat": 55.3537,
+    "alt": 10363.2,
+    "velocity": 40.51,
+    "heading": 220.36,
+    "trace": [
+      [
+        55.3537,
+        51.637
       ]
     ]
   }
