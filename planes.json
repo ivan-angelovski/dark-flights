@@ -1,35 +1,14 @@
 [
   {
-    "hex": "a5ad74",
-    "name": "Phoenix Air",
-    "category": "Hired Gun",
-    "callsign": "N465PA",
-    "lon": -118.5645,
-    "lat": 34.6688,
-    "alt": 3840.48,
-    "velocity": 124.16,
-    "heading": 219.96,
-    "trace": [
-      [
-        35.3328,
-        -118.0555
-      ],
-      [
-        34.6688,
-        -118.5645
-      ]
-    ]
-  },
-  {
     "hex": "406e9f",
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "EXS7GT",
-    "lon": 14.7081,
-    "lat": 49.0514,
+    "lon": 5.4004,
+    "lat": 51.4031,
     "alt": 12192,
-    "velocity": 226.17,
-    "heading": 297.21,
+    "velocity": 233.87,
+    "heading": 290.07,
     "trace": [
       [
         39.479,
@@ -42,23 +21,10 @@
       [
         49.0514,
         14.7081
-      ]
-    ]
-  },
-  {
-    "hex": "ad8547",
-    "name": "Nuclear Security Administration",
-    "category": "Nuclear",
-    "callsign": "ENRGY70",
-    "lon": -103.7658,
-    "lat": 35.1748,
-    "alt": 8534.4,
-    "velocity": 204.01,
-    "heading": 266.96,
-    "trace": [
+      ],
       [
-        35.1748,
-        -103.7658
+        51.4031,
+        5.4004
       ]
     ]
   },
@@ -67,11 +33,11 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "CMB140",
-    "lon": -72.2873,
-    "lat": 42.2559,
-    "alt": 10980.42,
-    "velocity": 210.69,
-    "heading": 223.52,
+    "lon": -76.8046,
+    "lat": 39.1927,
+    "alt": 480.06,
+    "velocity": 72.07,
+    "heading": 124.82,
     "trace": [
       [
         45.2312,
@@ -80,6 +46,10 @@
       [
         42.2559,
         -72.2873
+      ],
+      [
+        39.1927,
+        -76.8046
       ]
     ]
   },
@@ -88,11 +58,11 @@
     "name": "Omega Air",
     "category": "Hired Gun",
     "callsign": "OME71",
-    "lon": -118.2808,
-    "lat": 31.3558,
+    "lon": -118.283,
+    "lat": 30.8268,
     "alt": 6682.74,
-    "velocity": 192.65,
-    "heading": 2.91,
+    "velocity": 189.24,
+    "heading": 356.1,
     "trace": [
       [
         31.233,
@@ -105,6 +75,10 @@
       [
         31.3558,
         -118.2808
+      ],
+      [
+        30.8268,
+        -118.283
       ]
     ]
   },
@@ -113,11 +87,11 @@
     "name": "Meta Aerospace",
     "category": "Hired Gun",
     "callsign": "SWB71",
-    "lon": -121.364,
-    "lat": 42.808,
+    "lon": -119.3006,
+    "lat": 37.0109,
     "alt": 11277.6,
-    "velocity": 214.37,
-    "heading": 157.87,
+    "velocity": 217.93,
+    "heading": 173.63,
     "trace": [
       [
         61.9552,
@@ -138,6 +112,10 @@
       [
         42.808,
         -121.364
+      ],
+      [
+        37.0109,
+        -119.3006
       ]
     ]
   },
@@ -146,15 +124,53 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA158",
-    "lon": -97.593,
-    "lat": 26.3386,
-    "alt": 1905,
-    "velocity": 150.47,
-    "heading": 62.73,
+    "lon": -89.5418,
+    "lat": 27.3732,
+    "alt": 11887.2,
+    "velocity": 269.02,
+    "heading": 82.97,
     "trace": [
       [
         26.3386,
         -97.593
+      ],
+      [
+        27.3732,
+        -89.5418
+      ]
+    ]
+  },
+  {
+    "hex": "ad387a",
+    "name": "IBC Airways",
+    "category": "Hired Gun",
+    "callsign": "CSQ212",
+    "lon": -80.9278,
+    "lat": 25.6238,
+    "alt": 1234.44,
+    "velocity": 114.73,
+    "heading": 359.23,
+    "trace": [
+      [
+        25.6238,
+        -80.9278
+      ]
+    ]
+  },
+  {
+    "hex": "a2f016",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6142",
+    "lon": -95.1343,
+    "lat": 41.5229,
+    "alt": 11590.02,
+    "velocity": 231.45,
+    "heading": 206.96,
+    "trace": [
+      [
+        41.5229,
+        -95.1343
       ]
     ]
   },
@@ -163,11 +179,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA153",
-    "lon": -89.3025,
-    "lat": 28.2409,
+    "lon": -95.0896,
+    "lat": 27.2726,
     "alt": 11582.4,
-    "velocity": 189.86,
-    "heading": 271.09,
+    "velocity": 185.17,
+    "heading": 246.07,
     "trace": [
       [
         27.0596,
@@ -176,39 +192,10 @@
       [
         28.2409,
         -89.3025
-      ]
-    ]
-  },
-  {
-    "hex": "710125",
-    "name": "Gov of Saudi Arabia",
-    "category": "Dictator Alert",
-    "callsign": "SVA7110",
-    "lon": -4.7926,
-    "lat": 52.7744,
-    "alt": 10363.2,
-    "velocity": 251.84,
-    "heading": 298.55,
-    "trace": [
-      [
-        36.7736,
-        24.1379
       ],
       [
-        41.2072,
-        19.3771
-      ],
-      [
-        46.5572,
-        13.3173
-      ],
-      [
-        50.7276,
-        4.4374
-      ],
-      [
-        52.7744,
-        -4.7926
+        27.2726,
+        -95.0896
       ]
     ]
   },
@@ -217,11 +204,11 @@
     "name": "Saudi Arabian Government",
     "category": "Dictator Alert",
     "callsign": "SRA120",
-    "lon": 3.2688,
-    "lat": 41.2012,
+    "lon": -5.293,
+    "lat": 42.6519,
     "alt": 9448.8,
-    "velocity": 247.32,
-    "heading": 277.17,
+    "velocity": 231.06,
+    "heading": 276.78,
     "trace": [
       [
         38.1129,
@@ -234,6 +221,10 @@
       [
         41.2012,
         3.2688
+      ],
+      [
+        42.6519,
+        -5.293
       ]
     ]
   },
@@ -242,15 +233,19 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA6212",
-    "lon": -96.443,
-    "lat": 22.5368,
-    "alt": 11277.6,
-    "velocity": 215.72,
-    "heading": 314.71,
+    "lon": -101.69,
+    "lat": 26.2091,
+    "alt": 11574.78,
+    "velocity": 188.78,
+    "heading": 304.34,
     "trace": [
       [
         22.5368,
         -96.443
+      ],
+      [
+        26.2091,
+        -101.69
       ]
     ]
   }
