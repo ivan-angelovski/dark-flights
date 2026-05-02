@@ -1,18 +1,39 @@
 [
   {
+    "hex": "a835d1",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": -89.4155,
+    "lat": 18.2255,
+    "alt": 11582.4,
+    "velocity": 224.83,
+    "heading": 288.27,
+    "trace": [
+      [
+        18.2255,
+        -89.4155
+      ]
+    ]
+  },
+  {
     "hex": "a75aa2",
     "name": "Meta Aerospace",
     "category": "Hired Gun",
     "callsign": "SWB73",
-    "lon": -145.9472,
-    "lat": 64.227,
+    "lon": -141.6152,
+    "lat": 62.7936,
     "alt": 7612.38,
-    "velocity": 216.17,
-    "heading": 123.35,
+    "velocity": 234.04,
+    "heading": 138.74,
     "trace": [
       [
         64.227,
         -145.9472
+      ],
+      [
+        62.7936,
+        -141.6152
       ]
     ]
   },
@@ -21,11 +42,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "EXS49YF",
-    "lon": -10.3553,
-    "lat": 38.6065,
-    "alt": 11887.2,
-    "velocity": 221.41,
-    "heading": 198.56,
+    "lon": -14.5058,
+    "lat": 32.3217,
+    "alt": 12496.8,
+    "velocity": 209.46,
+    "heading": 213.89,
     "trace": [
       [
         49.5771,
@@ -38,77 +59,27 @@
       [
         38.6065,
         -10.3553
+      ],
+      [
+        32.3217,
+        -14.5058
       ]
     ]
   },
   {
-    "hex": "acfc26",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR8818",
-    "lon": 50.8565,
-    "lat": 23.0566,
-    "alt": 10058.4,
-    "velocity": 293.78,
-    "heading": 98.36,
+    "hex": "600bc4",
+    "name": "Gov of Azerbaijan",
+    "category": "Dictator Alert",
+    "callsign": "AHY600",
+    "lon": -81.2042,
+    "lat": 32.1203,
+    "alt": null,
+    "velocity": 0,
+    "heading": 90,
     "trace": [
       [
-        23.0566,
-        50.8565
-      ]
-    ]
-  },
-  {
-    "hex": "406e9f",
-    "name": "AirTanker",
-    "category": "Hired Gun",
-    "callsign": "EXS4KU",
-    "lon": 26.2838,
-    "lat": 38.9418,
-    "alt": 12496.8,
-    "velocity": 251.18,
-    "heading": 132.84,
-    "trace": [
-      [
-        53.3627,
-        -2.2603
-      ],
-      [
-        47.5128,
-        13.1963
-      ],
-      [
-        43.3602,
-        20.094
-      ],
-      [
-        38.9418,
-        26.2838
-      ]
-    ]
-  },
-  {
-    "hex": "ad8547",
-    "name": "Nuclear Security Administration",
-    "category": "Nuclear",
-    "callsign": "ENRGY70",
-    "lon": -79.9254,
-    "lat": 35.7213,
-    "alt": 10675.62,
-    "velocity": 276.27,
-    "heading": 72.44,
-    "trace": [
-      [
-        30.8508,
-        -95.8224
-      ],
-      [
-        33.3275,
-        -87.8179
-      ],
-      [
-        35.7213,
-        -79.9254
+        32.1203,
+        -81.2042
       ]
     ]
   },
@@ -117,11 +88,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR575",
-    "lon": -112.7651,
-    "lat": 34.8618,
-    "alt": 10972.8,
-    "velocity": 213.03,
-    "heading": 304.07,
+    "lon": -120.6618,
+    "lat": 37.9234,
+    "alt": 5852.16,
+    "velocity": 186.41,
+    "heading": 279.85,
     "trace": [
       [
         32.3935,
@@ -130,73 +101,61 @@
       [
         34.8618,
         -112.7651
+      ],
+      [
+        37.9234,
+        -120.6618
       ]
     ]
   },
   {
-    "hex": "a75013",
+    "hex": "a96fb1",
+    "name": "Omega Air",
+    "category": "Hired Gun",
+    "callsign": "OME71",
+    "lon": -117.0323,
+    "lat": 33.3441,
+    "alt": 4602.48,
+    "velocity": 160.37,
+    "heading": 152.7,
+    "trace": [
+      [
+        33.3441,
+        -117.0323
+      ]
+    ]
+  },
+  {
+    "hex": "a0c62d",
+    "name": "Eastern Air Express",
+    "category": "Hired Gun",
+    "callsign": "BBQ2151",
+    "lon": -82.802,
+    "lat": 24.4141,
+    "alt": 7170.42,
+    "velocity": 221.75,
+    "heading": 174.41,
+    "trace": [
+      [
+        24.4141,
+        -82.802
+      ]
+    ]
+  },
+  {
+    "hex": "ab7437",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "GXA604",
-    "lon": -104.4837,
-    "lat": 34.8036,
-    "alt": 8854.44,
-    "velocity": 196.52,
-    "heading": 286.11,
+    "callsign": "GXA201",
+    "lon": -80.2677,
+    "lat": 25.7816,
+    "alt": 99.06,
+    "velocity": 72.36,
+    "heading": 299.85,
     "trace": [
       [
-        29.4485,
-        -83.0276
-      ],
-      [
-        31.6762,
-        -93.6406
-      ],
-      [
-        33.761,
-        -98.9705
-      ],
-      [
-        34.8036,
-        -104.4837
-      ]
-    ]
-  },
-  {
-    "hex": "710125",
-    "name": "Gov of Saudi Arabia",
-    "category": "Dictator Alert",
-    "callsign": "SVA7110",
-    "lon": -63.1983,
-    "lat": 44.0681,
-    "alt": 10668,
-    "velocity": 304.81,
-    "heading": 80.28,
-    "trace": [
-      [
-        41.4225,
-        -73.0462
-      ],
-      [
-        44.0681,
-        -63.1983
-      ]
-    ]
-  },
-  {
-    "hex": "71019b",
-    "name": "Saudi Ministry of Finance",
-    "category": "Dictator Alert",
-    "callsign": "SRA118",
-    "lon": -69.9973,
-    "lat": 42.5689,
-    "alt": 9441.18,
-    "velocity": 324.69,
-    "heading": 64.57,
-    "trace": [
-      [
-        42.5689,
-        -69.9973
+        25.7816,
+        -80.2677
       ]
     ]
   }
