@@ -1,35 +1,35 @@
 [
   {
-    "hex": "a3defb",
-    "name": "Amerijet International",
+    "hex": "a8699a",
+    "name": "Atlas Air",
     "category": "Hired Gun",
-    "callsign": "AJT8641",
-    "lon": -79.3955,
-    "lat": 25.4862,
-    "alt": 7513.32,
-    "velocity": 263,
-    "heading": 112.3,
+    "callsign": "GTI9850",
+    "lon": 24.0847,
+    "lat": 54.9661,
+    "alt": null,
+    "velocity": 0,
+    "heading": 225,
     "trace": [
       [
-        25.4862,
-        -79.3955
+        54.9661,
+        24.0847
       ]
     ]
   },
   {
-    "hex": "a2bd72",
-    "name": "Global Crossing Airlines",
+    "hex": "a8d972",
+    "name": "Pallas Aviation",
     "category": "Hired Gun",
-    "callsign": "GXA3155",
-    "lon": 10.2417,
-    "lat": 51.7496,
-    "alt": 10972.8,
-    "velocity": 224.34,
-    "heading": 251.27,
+    "callsign": "WDE25",
+    "lon": 24.319,
+    "lat": 36.5876,
+    "alt": 7924.8,
+    "velocity": 144.78,
+    "heading": 320.77,
     "trace": [
       [
-        51.7496,
-        10.2417
+        36.5876,
+        24.319
       ]
     ]
   },
@@ -38,11 +38,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR8817",
-    "lon": 15.1496,
-    "lat": 46.7611,
-    "alt": 12192,
-    "velocity": 231.41,
-    "heading": 316.26,
+    "lon": 4.7227,
+    "lat": 52.3282,
+    "alt": null,
+    "velocity": 5.14,
+    "heading": 120.94,
     "trace": [
       [
         39.2645,
@@ -51,23 +51,10 @@
       [
         46.7611,
         15.1496
-      ]
-    ]
-  },
-  {
-    "hex": "78048c",
-    "name": "Gov of PRC",
-    "category": "Dictator Alert",
-    "callsign": "CCA1384",
-    "lon": 113.8104,
-    "lat": 22.5677,
-    "alt": 944.88,
-    "velocity": 84.56,
-    "heading": 176.16,
-    "trace": [
+      ],
       [
-        22.5677,
-        113.8104
+        52.3282,
+        4.7227
       ]
     ]
   },
@@ -76,15 +63,19 @@
     "name": "Gov of Turkey",
     "category": "Dictator Alert",
     "callsign": "TCCJB",
-    "lon": 26.1834,
-    "lat": 42.889,
+    "lon": 13.0213,
+    "lat": 48.8502,
     "alt": 12192,
-    "velocity": 231.51,
-    "heading": 307.51,
+    "velocity": 225.93,
+    "heading": 292.07,
     "trace": [
       [
         42.889,
         26.1834
+      ],
+      [
+        48.8502,
+        13.0213
       ]
     ]
   },
@@ -93,49 +84,70 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "EXS22RB",
-    "lon": -4.4047,
-    "lat": 47.5181,
-    "alt": 11887.2,
-    "velocity": 226.69,
-    "heading": 195.8,
+    "lon": -7.6281,
+    "lat": 37.6134,
+    "alt": 3093.72,
+    "velocity": 156.64,
+    "heading": 183.2,
     "trace": [
       [
         47.5181,
         -4.4047
+      ],
+      [
+        37.6134,
+        -7.6281
       ]
     ]
   },
   {
-    "hex": "0900b5",
-    "name": "Gov of Angola",
+    "hex": "06a00f",
+    "name": "Gov of Qatar",
     "category": "Dictator Alert",
-    "callsign": "",
-    "lon": 13.5942,
-    "lat": -8.9579,
-    "alt": 5730.24,
-    "velocity": 125.01,
-    "heading": 89.53,
+    "callsign": "QAF7",
+    "lon": 12.9943,
+    "lat": 40.9791,
+    "alt": 10066.02,
+    "velocity": 253.86,
+    "heading": 132.13,
     "trace": [
       [
-        -8.9579,
-        13.5942
+        40.9791,
+        12.9943
       ]
     ]
   },
   {
-    "hex": "710100",
-    "name": "Saudi Ministry of Finance",
+    "hex": "600be8",
+    "name": "Gov of Azerbaijan",
     "category": "Dictator Alert",
-    "callsign": "SVA986",
-    "lon": 50.5089,
-    "lat": 22.7276,
-    "alt": 11887.2,
-    "velocity": 276.85,
-    "heading": 101.14,
+    "callsign": "AHY3111",
+    "lon": 38.821,
+    "lat": 41.0863,
+    "alt": 10370.82,
+    "velocity": 192.2,
+    "heading": 276.76,
     "trace": [
       [
-        22.7276,
-        50.5089
+        41.0863,
+        38.821
+      ]
+    ]
+  },
+  {
+    "hex": "a5365d",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA599",
+    "lon": -84.6109,
+    "lat": 35.5724,
+    "alt": 10683.24,
+    "velocity": 210.63,
+    "heading": 177.34,
+    "trace": [
+      [
+        35.5724,
+        -84.6109
       ]
     ]
   }
