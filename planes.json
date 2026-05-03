@@ -1,35 +1,52 @@
 [
   {
-    "hex": "acb84d",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR824",
-    "lon": -64.5311,
-    "lat": 46.1117,
-    "alt": 9448.8,
-    "velocity": 295.45,
-    "heading": 57.8,
+    "hex": "896572",
+    "name": "Abu Dhabi Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "AUH07",
+    "lon": 22.0485,
+    "lat": 36.7477,
+    "alt": 10965.18,
+    "velocity": 218.27,
+    "heading": 318.34,
     "trace": [
       [
-        46.1117,
-        -64.5311
+        36.7477,
+        22.0485
       ]
     ]
   },
   {
-    "hex": "a2c129",
-    "name": "Global Crossing Airlines",
+    "hex": "406e9f",
+    "name": "AirTanker",
     "category": "Hired Gun",
-    "callsign": "GXA6161",
-    "lon": -101.8748,
-    "lat": 30.1018,
-    "alt": 10972.8,
-    "velocity": 175.59,
-    "heading": 301.83,
+    "callsign": "EXS45VK",
+    "lon": -8.1089,
+    "lat": 37.1186,
+    "alt": 1905,
+    "velocity": 149.31,
+    "heading": 7.13,
     "trace": [
       [
-        30.1018,
-        -101.8748
+        37.1186,
+        -8.1089
+      ]
+    ]
+  },
+  {
+    "hex": "a95c2f",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR8810",
+    "lon": 76.001,
+    "lat": 28.4811,
+    "alt": 8412.48,
+    "velocity": 237.92,
+    "heading": 272.6,
+    "trace": [
+      [
+        28.4811,
+        76.001
       ]
     ]
   },
@@ -38,11 +55,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA599",
-    "lon": -84.7779,
-    "lat": 36.3904,
-    "alt": 10058.4,
-    "velocity": 238.19,
-    "heading": 174.67,
+    "lon": -82.1791,
+    "lat": 29.9031,
+    "alt": 7277.1,
+    "velocity": 210.93,
+    "heading": 170.17,
     "trace": [
       [
         39.0385,
@@ -51,6 +68,10 @@
       [
         36.3904,
         -84.7779
+      ],
+      [
+        29.9031,
+        -82.1791
       ]
     ]
   },
@@ -59,15 +80,36 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA917",
-    "lon": 22.9752,
-    "lat": 37.893,
+    "lon": 17.2326,
+    "lat": 42.9028,
     "alt": 10972.8,
-    "velocity": 234.09,
-    "heading": 320.08,
+    "velocity": 229.23,
+    "heading": 313.73,
     "trace": [
       [
         37.893,
         22.9752
+      ],
+      [
+        42.9028,
+        17.2326
+      ]
+    ]
+  },
+  {
+    "hex": "710125",
+    "name": "Gov of Saudi Arabia",
+    "category": "Dictator Alert",
+    "callsign": "SVA7111",
+    "lon": -72.2953,
+    "lat": 41.0561,
+    "alt": 5631.18,
+    "velocity": 188.72,
+    "heading": 252.06,
+    "trace": [
+      [
+        41.0561,
+        -72.2953
       ]
     ]
   },
@@ -76,15 +118,36 @@
     "name": "Saudi Arabian Government",
     "category": "Dictator Alert",
     "callsign": "SRA122",
-    "lon": -4.6251,
-    "lat": 34.629,
-    "alt": 10363.2,
-    "velocity": 277.73,
-    "heading": 42.97,
+    "lon": 3.2602,
+    "lat": 39.5096,
+    "alt": 10972.8,
+    "velocity": 267.43,
+    "heading": 67.13,
     "trace": [
       [
         34.629,
         -4.6251
+      ],
+      [
+        39.5096,
+        3.2602
+      ]
+    ]
+  },
+  {
+    "hex": "a73e80",
+    "name": "C2D LLC",
+    "category": "Hired Gun",
+    "callsign": "GRB671",
+    "lon": 4.4629,
+    "lat": 45.6551,
+    "alt": 13716,
+    "velocity": 230.54,
+    "heading": 234.54,
+    "trace": [
+      [
+        45.6551,
+        4.4629
       ]
     ]
   }
