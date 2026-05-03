@@ -1,60 +1,56 @@
 [
   {
+    "hex": "a8699a",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI9906",
+    "lon": -138.031,
+    "lat": 62.2846,
+    "alt": 12192,
+    "velocity": 204.75,
+    "heading": 269.86,
+    "trace": [
+      [
+        62.2846,
+        -138.031
+      ]
+    ]
+  },
+  {
     "hex": "04200a",
     "name": "Equatorial Guinea",
     "category": "Dictator Alert",
     "callsign": "3CEGE",
-    "lon": -82.5226,
-    "lat": 28.5987,
+    "lon": -87.4397,
+    "lat": 30.2349,
     "alt": 10972.8,
-    "velocity": 230.54,
-    "heading": 324.54,
+    "velocity": 198.06,
+    "heading": 269.7,
     "trace": [
       [
         28.5987,
         -82.5226
+      ],
+      [
+        30.2349,
+        -87.4397
       ]
     ]
   },
   {
-    "hex": "600806",
-    "name": "Gov of Azerbaijan",
-    "category": "Dictator Alert",
-    "callsign": "AHY500",
-    "lon": 45.7636,
-    "lat": 43.3055,
-    "alt": 10728.96,
-    "velocity": 4.66,
-    "heading": 263.66,
-    "trace": [
-      [
-        45.3303,
-        23.7464
-      ],
-      [
-        43.4861,
-        28.8974
-      ],
-      [
-        43.3055,
-        45.7636
-      ]
-    ]
-  },
-  {
-    "hex": "acfc26",
-    "name": "National Airlines",
+    "hex": "406d27",
+    "name": "AirTanker",
     "category": "Hired Gun",
-    "callsign": "NCR8801",
-    "lon": 174.7661,
-    "lat": -37.0176,
-    "alt": -129.54,
-    "velocity": 71.43,
-    "heading": 70.65,
+    "callsign": "EXS7MU",
+    "lon": -9.7169,
+    "lat": 40.1639,
+    "alt": 12192,
+    "velocity": 255.75,
+    "heading": 19.02,
     "trace": [
       [
-        -37.0176,
-        174.7661
+        40.1639,
+        -9.7169
       ]
     ]
   },
@@ -63,15 +59,19 @@
     "name": "Equatorial Guinea",
     "category": "Dictator Alert",
     "callsign": "P4SKN",
-    "lon": -82.2027,
-    "lat": 28.1999,
+    "lon": -86.7901,
+    "lat": 30.8203,
     "alt": 11582.4,
-    "velocity": 227.37,
-    "heading": 324.76,
+    "velocity": 207.72,
+    "heading": 266.45,
     "trace": [
       [
         28.1999,
         -82.2027
+      ],
+      [
+        30.8203,
+        -86.7901
       ]
     ]
   },
@@ -80,11 +80,11 @@
     "name": "Phoenix Air",
     "category": "Hired Gun",
     "callsign": "FENIX98",
-    "lon": -115.0515,
-    "lat": 34.7769,
-    "alt": 9761.22,
-    "velocity": 197.13,
-    "heading": 271.79,
+    "lon": -119.0738,
+    "lat": 34.2136,
+    "alt": 91.44,
+    "velocity": 66.88,
+    "heading": 270,
     "trace": [
       [
         34.7256,
@@ -101,6 +101,27 @@
       [
         34.7769,
         -115.0515
+      ],
+      [
+        34.2136,
+        -119.0738
+      ]
+    ]
+  },
+  {
+    "hex": "710125",
+    "name": "Gov of Saudi Arabia",
+    "category": "Dictator Alert",
+    "callsign": "SVA7111",
+    "lon": -1.0739,
+    "lat": 35.074,
+    "alt": 11277.6,
+    "velocity": 271.95,
+    "heading": 63,
+    "trace": [
+      [
+        35.074,
+        -1.0739
       ]
     ]
   }
