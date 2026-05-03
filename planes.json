@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a835d1",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6126",
+    "lon": -91.4147,
+    "lat": 30.6622,
+    "alt": 7741.92,
+    "velocity": 247.24,
+    "heading": 121.9,
+    "trace": [
+      [
+        30.6622,
+        -91.4147
+      ]
+    ]
+  },
+  {
     "hex": "896572",
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "AUH07",
-    "lon": 18.3271,
-    "lat": 40.189,
-    "alt": 10965.18,
-    "velocity": 216.26,
-    "heading": 329.71,
+    "lon": 14.8297,
+    "lat": 43.598,
+    "alt": 10972.8,
+    "velocity": 230.38,
+    "heading": 322.44,
     "trace": [
       [
         36.7477,
@@ -17,23 +34,27 @@
       [
         40.189,
         18.3271
+      ],
+      [
+        43.598,
+        14.8297
       ]
     ]
   },
   {
-    "hex": "a451cb",
-    "name": "Amerijet International",
+    "hex": "406d27",
+    "name": "AirTanker",
     "category": "Hired Gun",
-    "callsign": "AJT775",
-    "lon": -80.3135,
-    "lat": 25.7987,
-    "alt": 266.7,
-    "velocity": 96.31,
-    "heading": 250.98,
+    "callsign": "EXS45KL",
+    "lon": 1.5966,
+    "lat": 40.3373,
+    "alt": 8351.52,
+    "velocity": 231.85,
+    "heading": 338.39,
     "trace": [
       [
-        25.7987,
-        -80.3135
+        40.3373,
+        1.5966
       ]
     ]
   },
@@ -42,11 +63,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "EXS45VK",
-    "lon": -5.6314,
-    "lat": 41.6875,
-    "alt": 12199.62,
-    "velocity": 257.7,
-    "heading": 25.8,
+    "lon": -4.0067,
+    "lat": 46.368,
+    "alt": 12192,
+    "velocity": 252.36,
+    "heading": 2.69,
     "trace": [
       [
         37.1186,
@@ -55,6 +76,27 @@
       [
         41.6875,
         -5.6314
+      ],
+      [
+        46.368,
+        -4.0067
+      ]
+    ]
+  },
+  {
+    "hex": "a2c129",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6162",
+    "lon": -104.4243,
+    "lat": 31.2261,
+    "alt": 8633.46,
+    "velocity": 270.41,
+    "heading": 102.08,
+    "trace": [
+      [
+        31.2261,
+        -104.4243
       ]
     ]
   },
@@ -63,11 +105,11 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA917",
-    "lon": 12.19,
-    "lat": 46.2519,
-    "alt": 10972.8,
-    "velocity": 239.03,
-    "heading": 315.96,
+    "lon": 7.6268,
+    "lat": 49.818,
+    "alt": 9250.68,
+    "velocity": 250.37,
+    "heading": 307.91,
     "trace": [
       [
         37.893,
@@ -80,27 +122,10 @@
       [
         46.2519,
         12.19
-      ]
-    ]
-  },
-  {
-    "hex": "710125",
-    "name": "Gov of Saudi Arabia",
-    "category": "Dictator Alert",
-    "callsign": "SVA7111",
-    "lon": -73.8054,
-    "lat": 40.6468,
-    "alt": null,
-    "velocity": 0,
-    "heading": 210.94,
-    "trace": [
-      [
-        41.0561,
-        -72.2953
       ],
       [
-        40.6468,
-        -73.8054
+        49.818,
+        7.6268
       ]
     ]
   },
@@ -109,11 +134,11 @@
     "name": "Saudi Arabian Government",
     "category": "Dictator Alert",
     "callsign": "SRA122",
-    "lon": 10.3348,
-    "lat": 39.7685,
+    "lon": 16.6932,
+    "lat": 37.796,
     "alt": 11277.6,
-    "velocity": 282.97,
-    "heading": 109.65,
+    "velocity": 275.54,
+    "heading": 113.55,
     "trace": [
       [
         34.629,
@@ -126,6 +151,10 @@
       [
         39.7685,
         10.3348
+      ],
+      [
+        37.796,
+        16.6932
       ]
     ]
   },
@@ -134,11 +163,11 @@
     "name": "C2D LLC",
     "category": "Hired Gun",
     "callsign": "GRB671",
-    "lon": -0.5186,
-    "lat": 42.6497,
+    "lon": -0.5547,
+    "lat": 38.3075,
     "alt": 13700.76,
-    "velocity": 231.58,
-    "heading": 201.09,
+    "velocity": 236.67,
+    "heading": 163.46,
     "trace": [
       [
         45.6551,
@@ -147,6 +176,10 @@
       [
         42.6497,
         -0.5186
+      ],
+      [
+        38.3075,
+        -0.5547
       ]
     ]
   }
