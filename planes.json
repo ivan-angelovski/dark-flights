@@ -1,18 +1,39 @@
 [
   {
+    "hex": "894016",
+    "name": "Bahrain Defence Force",
+    "category": "Dictator Alert",
+    "callsign": "BAH8",
+    "lon": 53.5324,
+    "lat": 25.1778,
+    "alt": 6789.42,
+    "velocity": 193.49,
+    "heading": 304.49,
+    "trace": [
+      [
+        25.1778,
+        53.5324
+      ]
+    ]
+  },
+  {
     "hex": "406d27",
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "EXS2BK",
-    "lon": -1.9008,
-    "lat": 52.2536,
-    "alt": 8907.78,
-    "velocity": 202.71,
-    "heading": 152.65,
+    "lon": 2.5835,
+    "lat": 40.5792,
+    "alt": 7193.28,
+    "velocity": 151.17,
+    "heading": 186.45,
     "trace": [
       [
         52.2536,
         -1.9008
+      ],
+      [
+        40.5792,
+        2.5835
       ]
     ]
   },
@@ -21,15 +42,19 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "EXS22RB",
-    "lon": -2.8809,
-    "lat": 51.0387,
-    "alt": 11658.6,
-    "velocity": 230.85,
-    "heading": 197.91,
+    "lon": -7.533,
+    "lat": 38.6123,
+    "alt": 7414.26,
+    "velocity": 196.46,
+    "heading": 183.9,
     "trace": [
       [
         51.0387,
         -2.8809
+      ],
+      [
+        38.6123,
+        -7.533
       ]
     ]
   },
@@ -38,32 +63,36 @@
     "name": "Qatar Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "QQE858",
-    "lon": -1.3996,
-    "lat": 43.2518,
-    "alt": 11285.22,
-    "velocity": 206.5,
-    "heading": 203.18,
+    "lon": -7.3935,
+    "lat": 33.0069,
+    "alt": 10027.92,
+    "velocity": 214.48,
+    "heading": 185.51,
     "trace": [
       [
         43.2518,
         -1.3996
+      ],
+      [
+        33.0069,
+        -7.3935
       ]
     ]
   },
   {
-    "hex": "01008f",
-    "name": "Gov of Egypt",
-    "category": "Dictator Alert",
-    "callsign": "SUBPF",
-    "lon": 30.1539,
-    "lat": 31.0508,
-    "alt": 8534.4,
-    "velocity": 211.19,
-    "heading": 304.58,
+    "hex": "adccd1",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA599",
+    "lon": -84.6556,
+    "lat": 39.0385,
+    "alt": null,
+    "velocity": 0,
+    "heading": 0,
     "trace": [
       [
-        31.0508,
-        30.1539
+        39.0385,
+        -84.6556
       ]
     ]
   }
