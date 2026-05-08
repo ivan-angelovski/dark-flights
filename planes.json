@@ -1,35 +1,47 @@
 [
   {
-    "hex": "a1f3aa",
-    "name": "Omni Air International",
+    "hex": "a451cb",
+    "name": "Amerijet International",
     "category": "Hired Gun",
-    "callsign": "CMB532",
-    "lon": -97.3389,
-    "lat": 33.0899,
-    "alt": 708.66,
-    "velocity": 64.7,
-    "heading": 170.39,
+    "callsign": "",
+    "lon": null,
+    "lat": null,
+    "alt": null,
+    "velocity": 253,
+    "heading": 122.88,
+    "trace": []
+  },
+  {
+    "hex": "406e9f",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "EXS22RB",
+    "lon": -3.6683,
+    "lat": 49.4174,
+    "alt": 12496.8,
+    "velocity": 234.04,
+    "heading": 195.69,
     "trace": [
       [
-        33.0899,
-        -97.3389
+        49.4174,
+        -3.6683
       ]
     ]
   },
   {
-    "hex": "acb84d",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR455",
-    "lon": -123.4179,
-    "lat": 37.802,
-    "alt": 8610.6,
-    "velocity": 228.31,
-    "heading": 53.34,
+    "hex": "51002b",
+    "name": "Gov of Belarus",
+    "category": "Dictator Alert",
+    "callsign": "BRU8001",
+    "lon": 28.3319,
+    "lat": 54.1088,
+    "alt": 8602.98,
+    "velocity": 164.44,
+    "heading": 29.21,
     "trace": [
       [
-        37.802,
-        -123.4179
+        54.1088,
+        28.3319
       ]
     ]
   },
@@ -38,11 +50,11 @@
     "name": "National Airlines",
     "category": "Hired Gun",
     "callsign": "NCR806",
-    "lon": 34.8902,
-    "lat": 32.0062,
-    "alt": null,
-    "velocity": 6.69,
-    "heading": 28.12,
+    "lon": 25.6833,
+    "lat": 36.0784,
+    "alt": 12192,
+    "velocity": 205.92,
+    "heading": 297.21,
     "trace": [
       [
         41.0489,
@@ -55,6 +67,10 @@
       [
         32.0062,
         34.8902
+      ],
+      [
+        36.0784,
+        25.6833
       ]
     ]
   }
