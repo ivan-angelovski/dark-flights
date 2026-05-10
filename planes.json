@@ -1,64 +1,107 @@
 [
   {
+    "hex": "406d26",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "TOW2230",
+    "lon": -8.1052,
+    "lat": 43.7162,
+    "alt": 10668,
+    "velocity": 243.46,
+    "heading": 207.7,
+    "trace": [
+      [
+        43.7162,
+        -8.1052
+      ]
+    ]
+  },
+  {
+    "hex": "406d27",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "EXS2BK",
+    "lon": 1.8464,
+    "lat": 43.5254,
+    "alt": 12496.8,
+    "velocity": 236.74,
+    "heading": 172.26,
+    "trace": [
+      [
+        43.5254,
+        1.8464
+      ]
+    ]
+  },
+  {
     "hex": "406e9f",
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "EXS22RB",
-    "lon": -2.5342,
-    "lat": 53.2906,
-    "alt": 3261.36,
-    "velocity": 165.81,
-    "heading": 221.6,
+    "lon": -7.5093,
+    "lat": 38.9888,
+    "alt": 10226.04,
+    "velocity": 203.61,
+    "heading": 183.62,
     "trace": [
       [
         53.2906,
         -2.5342
+      ],
+      [
+        38.9888,
+        -7.5093
       ]
     ]
   },
   {
-    "hex": "06a014",
-    "name": "Qatar Amiri Flight",
+    "hex": "0a4006",
+    "name": "Gov of Algeria",
     "category": "Dictator Alert",
-    "callsign": "",
-    "lon": null,
-    "lat": null,
-    "alt": null,
-    "velocity": 248.74,
-    "heading": 113.91,
-    "trace": []
-  },
-  {
-    "hex": "acb84d",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR603",
-    "lon": 44.5117,
-    "lat": 40.811,
-    "alt": 11887.2,
-    "velocity": 262.19,
-    "heading": 92.92,
+    "callsign": "7TVPS",
+    "lon": 13.1299,
+    "lat": 35.9082,
+    "alt": 11582.4,
+    "velocity": 188.9,
+    "heading": 276.25,
     "trace": [
       [
-        40.811,
-        44.5117
+        35.9082,
+        13.1299
       ]
     ]
   },
   {
-    "hex": "a4cb6f",
+    "hex": "a87876",
     "name": "Atlas Air",
     "category": "Hired Gun",
-    "callsign": "GTI8292",
-    "lon": 86.4145,
-    "lat": 22.8003,
-    "alt": 12496.8,
-    "velocity": 272.58,
-    "heading": 93.25,
+    "callsign": "GTI8541",
+    "lon": -150.1119,
+    "lat": 61.1677,
+    "alt": 419.1,
+    "velocity": 76.65,
+    "heading": 90,
     "trace": [
       [
-        22.8003,
-        86.4145
+        61.1677,
+        -150.1119
+      ]
+    ]
+  },
+  {
+    "hex": "4b9030",
+    "name": "Turkish Government",
+    "category": "Dictator Alert",
+    "callsign": "TRK6",
+    "lon": 44.8481,
+    "lat": 41.3684,
+    "alt": 12496.8,
+    "velocity": 267.38,
+    "heading": 93.09,
+    "trace": [
+      [
+        41.3684,
+        44.8481
       ]
     ]
   }
