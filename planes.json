@@ -1,35 +1,90 @@
 [
   {
-    "hex": "06a001",
-    "name": "Qatar Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "A7HHK",
-    "lon": 13.2924,
-    "lat": 47.1004,
-    "alt": 10668,
-    "velocity": 227.86,
-    "heading": 137.01,
+    "hex": "a835d1",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6121",
+    "lon": -94.3035,
+    "lat": 27.9307,
+    "alt": 10363.2,
+    "velocity": 210.3,
+    "heading": 205.81,
     "trace": [
       [
-        47.1004,
-        13.2924
+        27.9307,
+        -94.3035
       ]
     ]
   },
   {
-    "hex": "407c18",
-    "name": "Draken Intl",
+    "hex": "a451cb",
+    "name": "Amerijet International",
     "category": "Hired Gun",
-    "callsign": "FRA33",
-    "lon": -6.195,
-    "lat": 54.9215,
-    "alt": 1447.8,
-    "velocity": 65.24,
-    "heading": 131.48,
+    "callsign": "AJT771",
+    "lon": -80.2006,
+    "lat": 25.6184,
+    "alt": 3825.24,
+    "velocity": 165.8,
+    "heading": 199.39,
     "trace": [
       [
-        54.9215,
-        -6.195
+        25.6184,
+        -80.2006
+      ]
+    ]
+  },
+  {
+    "hex": "406d27",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "EXS9KL",
+    "lon": -2.2866,
+    "lat": 53.3506,
+    "alt": null,
+    "velocity": 7.72,
+    "heading": 230.62,
+    "trace": [
+      [
+        53.3506,
+        -2.2866
+      ]
+    ]
+  },
+  {
+    "hex": "06a001",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "A7HHK",
+    "lon": 19.7938,
+    "lat": 41.1488,
+    "alt": 10668,
+    "velocity": 240.37,
+    "heading": 150.09,
+    "trace": [
+      [
+        47.1004,
+        13.2924
+      ],
+      [
+        41.1488,
+        19.7938
+      ]
+    ]
+  },
+  {
+    "hex": "3cd05c",
+    "name": "Gesellschaft fur Flugzieldarstellung",
+    "category": "Hired Gun",
+    "callsign": "KITE",
+    "lon": 22.7655,
+    "lat": 37.962,
+    "alt": 0,
+    "velocity": 167.95,
+    "heading": 119.55,
+    "trace": [
+      [
+        37.962,
+        22.7655
       ]
     ]
   },
@@ -38,32 +93,19 @@
     "name": "US Department of Energy",
     "category": "Nuclear",
     "callsign": "N116SR",
-    "lon": -81.6544,
-    "lat": 33.2842,
-    "alt": 297.18,
-    "velocity": 15.96,
-    "heading": 358.15,
+    "lon": -81.7287,
+    "lat": 33.2824,
+    "alt": 76.2,
+    "velocity": 15.3,
+    "heading": 42.27,
     "trace": [
       [
         33.2842,
         -81.6544
-      ]
-    ]
-  },
-  {
-    "hex": "a4cb6f",
-    "name": "Atlas Air",
-    "category": "Hired Gun",
-    "callsign": "GTI654",
-    "lon": 121.5741,
-    "lat": 24.8122,
-    "alt": 8839.2,
-    "velocity": 277.27,
-    "heading": 51.71,
-    "trace": [
+      ],
       [
-        24.8122,
-        121.5741
+        33.2824,
+        -81.7287
       ]
     ]
   }
