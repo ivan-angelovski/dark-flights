@@ -4,15 +4,19 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB3",
-    "lon": 5.4203,
-    "lat": 50.5099,
+    "lon": 16.2551,
+    "lat": 44.7117,
     "alt": 11277.6,
-    "velocity": 272.36,
-    "heading": 111.96,
+    "velocity": 266.56,
+    "heading": 138.99,
     "trace": [
       [
         50.5099,
         5.4203
+      ],
+      [
+        44.7117,
+        16.2551
       ]
     ]
   },
@@ -21,11 +25,11 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB4",
-    "lon": 17.4541,
-    "lat": 43.7933,
+    "lon": 25.5728,
+    "lat": 35.9048,
     "alt": 12496.8,
-    "velocity": 268.68,
-    "heading": 140.67,
+    "velocity": 301.16,
+    "heading": 142.91,
     "trace": [
       [
         50.5194,
@@ -34,27 +38,95 @@
       [
         43.7933,
         17.4541
+      ],
+      [
+        35.9048,
+        25.5728
       ]
     ]
   },
   {
-    "hex": "896571",
-    "name": "Abu Dhabi Amiri Flight",
-    "category": "Dictator Alert",
-    "callsign": "AUH06",
-    "lon": -4.3581,
-    "lat": 40.5462,
-    "alt": 12496.8,
-    "velocity": 237.31,
-    "heading": 189.48,
+    "hex": "a835d1",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA613",
+    "lon": -78.1548,
+    "lat": 23.944,
+    "alt": 11170.92,
+    "velocity": 228.15,
+    "heading": 125.73,
     "trace": [
       [
-        50.2574,
-        -3.393
-      ],
+        23.944,
+        -78.1548
+      ]
+    ]
+  },
+  {
+    "hex": "a3defb",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT8621",
+    "lon": -65.6955,
+    "lat": 18.5963,
+    "alt": 3124.2,
+    "velocity": 161.46,
+    "heading": 76.36,
+    "trace": [
       [
-        40.5462,
-        -4.3581
+        18.5963,
+        -65.6955
+      ]
+    ]
+  },
+  {
+    "hex": "406d27",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "EXS97UE",
+    "lon": 3.9146,
+    "lat": 40.448,
+    "alt": 8153.4,
+    "velocity": 228.73,
+    "heading": 23.74,
+    "trace": [
+      [
+        40.448,
+        3.9146
+      ]
+    ]
+  },
+  {
+    "hex": "406e9f",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "EXS45VK",
+    "lon": -6.6566,
+    "lat": 38.1455,
+    "alt": 9784.08,
+    "velocity": 239.88,
+    "heading": 12.64,
+    "trace": [
+      [
+        38.1455,
+        -6.6566
+      ]
+    ]
+  },
+  {
+    "hex": "06a00f",
+    "name": "Gov of Qatar",
+    "category": "Dictator Alert",
+    "callsign": "QAF7",
+    "lon": 13.3052,
+    "lat": 40.5227,
+    "alt": 7574.28,
+    "velocity": 287.37,
+    "heading": 126.85,
+    "trace": [
+      [
+        40.5227,
+        13.3052
       ]
     ]
   },
@@ -63,74 +135,70 @@
     "name": "Atlas Air",
     "category": "Hired Gun",
     "callsign": "GTI8548",
-    "lon": -165.3348,
-    "lat": 58.9925,
-    "alt": 10668,
-    "velocity": 220.92,
-    "heading": 71.82,
+    "lon": -150.2351,
+    "lat": 61.2332,
+    "alt": 1135.38,
+    "velocity": 130.68,
+    "heading": 347.5,
     "trace": [
       [
         58.9925,
         -165.3348
+      ],
+      [
+        61.2332,
+        -150.2351
       ]
     ]
   },
   {
-    "hex": "acb84d",
+    "hex": "06a0a4",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "A7MBK",
+    "lon": 21.2542,
+    "lat": 40.4109,
+    "alt": 8839.2,
+    "velocity": 165.91,
+    "heading": 218.33,
+    "trace": [
+      [
+        40.4109,
+        21.2542
+      ]
+    ]
+  },
+  {
+    "hex": "06a0a2",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "QAF1",
+    "lon": 15.781,
+    "lat": 39.0564,
+    "alt": 10675.62,
+    "velocity": 304.66,
+    "heading": 128.42,
+    "trace": [
+      [
+        39.0564,
+        15.781
+      ]
+    ]
+  },
+  {
+    "hex": "aa3086",
     "name": "National Airlines",
     "category": "Hired Gun",
-    "callsign": "NCR889",
-    "lon": 33.2119,
-    "lat": 32.6364,
-    "alt": 12192,
-    "velocity": 185.52,
-    "heading": 304.84,
+    "callsign": "NCR866",
+    "lon": 7.0427,
+    "lat": 49.9668,
+    "alt": 2308.86,
+    "velocity": 135.44,
+    "heading": 336.26,
     "trace": [
       [
-        32.6364,
-        33.2119
-      ]
-    ]
-  },
-  {
-    "hex": "400e15",
-    "name": "Draken Europe",
-    "category": "Hired Gun",
-    "callsign": "DRKEN01",
-    "lon": -6.334,
-    "lat": 36.6437,
-    "alt": 7.62,
-    "velocity": 68.85,
-    "heading": 276.43,
-    "trace": [
-      [
-        36.3676,
-        -7.0612
-      ],
-      [
-        36.6437,
-        -6.334
-      ]
-    ]
-  },
-  {
-    "hex": "710100",
-    "name": "Saudi Ministry of Finance",
-    "category": "Dictator Alert",
-    "callsign": "SVA972",
-    "lon": 86.1514,
-    "lat": 23.0858,
-    "alt": 12496.8,
-    "velocity": 265.68,
-    "heading": 100.37,
-    "trace": [
-      [
-        23.1081,
-        73.7723
-      ],
-      [
-        23.0858,
-        86.1514
+        49.9668,
+        7.0427
       ]
     ]
   }
