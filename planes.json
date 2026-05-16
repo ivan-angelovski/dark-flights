@@ -1,18 +1,69 @@
 [
   {
-    "hex": "a38c1e",
-    "name": "Airborne Tactical Advantage",
+    "hex": "a0d062",
+    "name": "Atlas Air",
     "category": "Hired Gun",
-    "callsign": "N328AX",
-    "lon": -118.058,
-    "lat": 35.3291,
-    "alt": 4709.16,
-    "velocity": 95.29,
-    "heading": 52.02,
+    "callsign": "GTI8749",
+    "lon": -95.784,
+    "lat": 34.1503,
+    "alt": 12374.88,
+    "velocity": 258.48,
+    "heading": 129.27,
     "trace": [
       [
-        35.3291,
-        -118.058
+        34.1503,
+        -95.784
+      ]
+    ]
+  },
+  {
+    "hex": "896571",
+    "name": "Abu Dhabi Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "AUH06",
+    "lon": -71.77,
+    "lat": 42.3659,
+    "alt": 10668,
+    "velocity": 207.16,
+    "heading": 30.77,
+    "trace": [
+      [
+        42.3659,
+        -71.77
+      ]
+    ]
+  },
+  {
+    "hex": "a80e20",
+    "name": "Tactical Air Support",
+    "category": "Hired Gun",
+    "callsign": "VILLN91",
+    "lon": -112.4843,
+    "lat": 41.1932,
+    "alt": 2811.78,
+    "velocity": 170.51,
+    "heading": 303.31,
+    "trace": [
+      [
+        41.1932,
+        -112.4843
+      ]
+    ]
+  },
+  {
+    "hex": "406d26",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "TOW2233",
+    "lon": -17.9999,
+    "lat": 17.48,
+    "alt": 11887.2,
+    "velocity": 173.62,
+    "heading": 321.74,
+    "trace": [
+      [
+        17.48,
+        -17.9999
       ]
     ]
   },
@@ -21,11 +72,11 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "EXS7GT",
-    "lon": 14.1052,
-    "lat": 44.9142,
-    "alt": 12192,
-    "velocity": 238.28,
-    "heading": 303.55,
+    "lon": -1.4348,
+    "lat": 52.8766,
+    "alt": 5128.26,
+    "velocity": 168.4,
+    "heading": 321.45,
     "trace": [
       [
         37.137,
@@ -38,40 +89,61 @@
       [
         44.9142,
         14.1052
+      ],
+      [
+        52.8766,
+        -1.4348
       ]
     ]
   },
   {
-    "hex": "acfc26",
+    "hex": "acb84d",
     "name": "National Airlines",
     "category": "Hired Gun",
-    "callsign": "NCR8890",
-    "lon": 29.5867,
-    "lat": -24.5418,
-    "alt": 12192,
-    "velocity": 221.1,
-    "heading": 238.9,
+    "callsign": "NCR822",
+    "lon": 4.221,
+    "lat": 50.9086,
+    "alt": 10668,
+    "velocity": 265.34,
+    "heading": 98.59,
     "trace": [
       [
-        -24.5418,
-        29.5867
+        50.9086,
+        4.221
       ]
     ]
   },
   {
-    "hex": "a047d4",
-    "name": "US Department of Energy",
-    "category": "Nuclear",
-    "callsign": "N117SR",
-    "lon": -81.7032,
-    "lat": 33.2536,
-    "alt": 236.22,
-    "velocity": 55.26,
-    "heading": 144.09,
+    "hex": "a2c4e0",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6143",
+    "lon": -103.7306,
+    "lat": 37.7952,
+    "alt": 11887.2,
+    "velocity": 242.67,
+    "heading": 150.12,
     "trace": [
       [
-        33.2536,
-        -81.7032
+        37.7952,
+        -103.7306
+      ]
+    ]
+  },
+  {
+    "hex": "a75013",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6207",
+    "lon": -90.5935,
+    "lat": 14.6203,
+    "alt": 11597.64,
+    "velocity": 228.5,
+    "heading": 310.25,
+    "trace": [
+      [
+        14.6203,
+        -90.5935
       ]
     ]
   },
@@ -80,11 +152,11 @@
     "name": "Phoenix Air",
     "category": "Hired Gun",
     "callsign": "FENIX62",
-    "lon": -101.7875,
-    "lat": 33.6388,
-    "alt": 12489.18,
-    "velocity": 240.56,
-    "heading": 104.36,
+    "lon": -85.1035,
+    "lat": 34.1269,
+    "alt": 1303.02,
+    "velocity": 119.36,
+    "heading": 89.26,
     "trace": [
       [
         33.3795,
@@ -97,31 +169,10 @@
       [
         33.6388,
         -101.7875
-      ]
-    ]
-  },
-  {
-    "hex": "a6d6d9",
-    "name": "Phoenix Air",
-    "category": "Hired Gun",
-    "callsign": "GRB425",
-    "lon": -103.2848,
-    "lat": 36.0632,
-    "alt": 11269.98,
-    "velocity": 211.03,
-    "heading": 111.75,
-    "trace": [
-      [
-        37.8463,
-        -121.729
       ],
       [
-        37.925,
-        -112.3756
-      ],
-      [
-        36.0632,
-        -103.2848
+        34.1269,
+        -85.1035
       ]
     ]
   }
