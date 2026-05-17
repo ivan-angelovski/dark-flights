@@ -1,76 +1,39 @@
 [
   {
-    "hex": "406e9f",
-    "name": "AirTanker",
-    "category": "Hired Gun",
-    "callsign": "EXS78PB",
-    "lon": -2.2848,
-    "lat": 53.3653,
-    "alt": null,
-    "velocity": 0,
-    "heading": 315,
-    "trace": [
-      [
-        39.8981,
-        24.8353
-      ],
-      [
-        45.2669,
-        20.1543
-      ],
-      [
-        49.31,
-        14.2445
-      ],
-      [
-        53.3653,
-        -2.2848
-      ]
-    ]
-  },
-  {
-    "hex": "a87876",
-    "name": "Atlas Air",
-    "category": "Hired Gun",
-    "callsign": "GTI8548",
-    "lon": -81.7167,
-    "lat": 40.0164,
-    "alt": 12504.42,
-    "velocity": 246.52,
-    "heading": 88.33,
-    "trace": [
-      [
-        33.6786,
-        -116.4795
-      ],
-      [
-        36.6369,
-        -108.3606
-      ],
-      [
-        38.4808,
-        -100.9
-      ],
-      [
-        40.0164,
-        -81.7167
-      ]
-    ]
-  },
-  {
     "hex": "a2c4e0",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "GXA6162",
-    "lon": -94.1987,
-    "lat": 17.7286,
-    "alt": 8229.6,
-    "velocity": 239.74,
-    "heading": 135.61,
+    "callsign": "GXA6163",
+    "lon": -96.7992,
+    "lat": 20.01,
+    "alt": 9448.8,
+    "velocity": 252.13,
+    "heading": 353.56,
     "trace": [
       [
         17.7286,
         -94.1987
+      ],
+      [
+        20.01,
+        -96.7992
+      ]
+    ]
+  },
+  {
+    "hex": "a2d615",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA4603",
+    "lon": -85.259,
+    "lat": 37.0325,
+    "alt": 8267.7,
+    "velocity": 227.58,
+    "heading": 165.87,
+    "trace": [
+      [
+        37.0325,
+        -85.259
       ]
     ]
   },
@@ -79,15 +42,53 @@
     "name": "Gov of Brunei",
     "category": "Dictator Alert",
     "callsign": "V8BKH",
-    "lon": 44.196,
-    "lat": 40.8228,
-    "alt": 10972.8,
-    "velocity": 256.47,
-    "heading": 272.64,
+    "lon": 13.5089,
+    "lat": 52.3808,
+    "alt": null,
+    "velocity": 1.03,
+    "heading": 56.25,
     "trace": [
       [
         40.8228,
         44.196
+      ],
+      [
+        52.3808,
+        13.5089
+      ]
+    ]
+  },
+  {
+    "hex": "8953c7",
+    "name": "Gov of Brunei",
+    "category": "Dictator Alert",
+    "callsign": "V8MHB",
+    "lon": 0.4086,
+    "lat": 51.9966,
+    "alt": 1059.18,
+    "velocity": 88.55,
+    "heading": 253.46,
+    "trace": [
+      [
+        51.9966,
+        0.4086
+      ]
+    ]
+  },
+  {
+    "hex": "710100",
+    "name": "Saudi Ministry of Finance",
+    "category": "Dictator Alert",
+    "callsign": "SVA917",
+    "lon": 31.879,
+    "lat": 29.7838,
+    "alt": 10363.2,
+    "velocity": 217.99,
+    "heading": 294.69,
+    "trace": [
+      [
+        29.7838,
+        31.879
       ]
     ]
   }
