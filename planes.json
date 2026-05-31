@@ -1,14 +1,31 @@
 [
   {
+    "hex": "a2bd72",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA6214",
+    "lon": -98.4843,
+    "lat": 26.4477,
+    "alt": 6758.94,
+    "velocity": 215.48,
+    "heading": 321.11,
+    "trace": [
+      [
+        26.4477,
+        -98.4843
+      ]
+    ]
+  },
+  {
     "hex": "a7a2be",
     "name": "ISR Platforms",
     "category": "Hired Gun",
     "callsign": "",
-    "lon": 128.2547,
-    "lat": 37.892,
-    "alt": 12192,
-    "velocity": 266.42,
-    "heading": 63.39,
+    "lon": 127.1067,
+    "lat": 36.9088,
+    "alt": 495.3,
+    "velocity": 59.04,
+    "heading": 311.47,
     "trace": [
       [
         38.1429,
@@ -21,6 +38,27 @@
       [
         37.892,
         128.2547
+      ],
+      [
+        36.9088,
+        127.1067
+      ]
+    ]
+  },
+  {
+    "hex": "406d26",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": -1.5777,
+    "lat": 51.7553,
+    "alt": null,
+    "velocity": 0.9,
+    "heading": 264.38,
+    "trace": [
+      [
+        51.7553,
+        -1.5777
       ]
     ]
   },
@@ -29,49 +67,19 @@
     "name": "AirTanker",
     "category": "Hired Gun",
     "callsign": "EXS7MU",
-    "lon": -9.6292,
-    "lat": 40.3695,
+    "lon": -5.07,
+    "lat": 47.8098,
     "alt": 12192,
-    "velocity": 238.02,
-    "heading": 19.18,
+    "velocity": 244.56,
+    "heading": 24.08,
     "trace": [
       [
         40.3695,
         -9.6292
-      ]
-    ]
-  },
-  {
-    "hex": "ad3c48",
-    "name": "National Airlines",
-    "category": "Hired Gun",
-    "callsign": "NCR8822",
-    "lon": 144.8472,
-    "lat": -37.6783,
-    "alt": null,
-    "velocity": 0,
-    "heading": 126.56,
-    "trace": [
+      ],
       [
-        -37.6783,
-        144.8472
-      ]
-    ]
-  },
-  {
-    "hex": "a2f9dd",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA614",
-    "lon": -78.8829,
-    "lat": 25.0618,
-    "alt": 7155.18,
-    "velocity": 200.96,
-    "heading": 293.22,
-    "trace": [
-      [
-        25.0618,
-        -78.8829
+        47.8098,
+        -5.07
       ]
     ]
   },
@@ -80,11 +88,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA606",
-    "lon": -76.1308,
-    "lat": 40.4829,
-    "alt": 9479.28,
-    "velocity": 222.01,
-    "heading": 243.43,
+    "lon": -82.9134,
+    "lat": 39.9939,
+    "alt": 266.7,
+    "velocity": 69.64,
+    "heading": 94.24,
     "trace": [
       [
         41.6597,
@@ -93,23 +101,44 @@
       [
         40.4829,
         -76.1308
+      ],
+      [
+        39.9939,
+        -82.9134
       ]
     ]
   },
   {
-    "hex": "c08163",
-    "name": "Top Aces Inc",
+    "hex": "a2c4e0",
+    "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "CHETA17",
-    "lon": -102.2601,
-    "lat": 51.8528,
-    "alt": 8214.36,
-    "velocity": 223.36,
-    "heading": 122.3,
+    "callsign": "GXA6182",
+    "lon": -118.4573,
+    "lat": 35.0467,
+    "alt": 7056.12,
+    "velocity": 224.71,
+    "heading": 114.34,
     "trace": [
       [
-        51.8528,
-        -102.2601
+        35.0467,
+        -118.4573
+      ]
+    ]
+  },
+  {
+    "hex": "aa1e68",
+    "name": "Skyways Charter LLC",
+    "category": "Hired Gun",
+    "callsign": "N751GT",
+    "lon": -92.2971,
+    "lat": 31.255,
+    "alt": 12466.32,
+    "velocity": 278.97,
+    "heading": 59.04,
+    "trace": [
+      [
+        31.255,
+        -92.2971
       ]
     ]
   },
@@ -118,11 +147,11 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA150",
-    "lon": -97.1204,
-    "lat": 26.9335,
-    "alt": 7345.68,
-    "velocity": 222.55,
-    "heading": 42.1,
+    "lon": -88.7124,
+    "lat": 27.7241,
+    "alt": 11887.2,
+    "velocity": 257.03,
+    "heading": 92.87,
     "trace": [
       [
         20.6917,
@@ -135,6 +164,10 @@
       [
         26.9335,
         -97.1204
+      ],
+      [
+        27.7241,
+        -88.7124
       ]
     ]
   }
