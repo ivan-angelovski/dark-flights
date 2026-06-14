@@ -1,18 +1,35 @@
 [
   {
-    "hex": "8961b4",
+    "hex": "8960ae",
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
-    "callsign": "DUB3",
-    "lon": 1.3002,
-    "lat": 51.9412,
-    "alt": 4015.74,
-    "velocity": 147.75,
-    "heading": 279.82,
+    "callsign": "DUB2",
+    "lon": 4.0971,
+    "lat": 47.1942,
+    "alt": 11292.84,
+    "velocity": 262.81,
+    "heading": 137.06,
     "trace": [
       [
-        51.9412,
-        1.3002
+        47.1942,
+        4.0971
+      ]
+    ]
+  },
+  {
+    "hex": "a49951",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT4475",
+    "lon": -79.1987,
+    "lat": 25.1466,
+    "alt": 8054.34,
+    "velocity": 250.28,
+    "heading": 128.07,
+    "trace": [
+      [
+        25.1466,
+        -79.1987
       ]
     ]
   },
@@ -20,12 +37,12 @@
     "hex": "406d27",
     "name": "AirTanker",
     "category": "Hired Gun",
-    "callsign": "EXS22RB",
-    "lon": -3.7145,
-    "lat": 49.5943,
-    "alt": 12496.8,
-    "velocity": 237.7,
-    "heading": 205.51,
+    "callsign": "EXS45VK",
+    "lon": -7.9685,
+    "lat": 37.0183,
+    "alt": null,
+    "velocity": 1.54,
+    "heading": 281.25,
     "trace": [
       [
         37.6853,
@@ -42,103 +59,95 @@
       [
         49.5943,
         -3.7145
+      ],
+      [
+        37.0183,
+        -7.9685
       ]
     ]
   },
   {
-    "hex": "acfc26",
+    "hex": "0a400b",
+    "name": "Gov of Algeria",
+    "category": "Dictator Alert",
+    "callsign": "7TVPG",
+    "lon": 1.6052,
+    "lat": 36.3933,
+    "alt": 5128.26,
+    "velocity": 179.42,
+    "heading": 66.15,
+    "trace": [
+      [
+        36.3933,
+        1.6052
+      ]
+    ]
+  },
+  {
+    "hex": "a95c2f",
     "name": "National Airlines",
     "category": "Hired Gun",
-    "callsign": "NCR606",
-    "lon": -159.0068,
-    "lat": 60.9157,
-    "alt": 11582.4,
-    "velocity": 261,
-    "heading": 265.82,
+    "callsign": "NCR862",
+    "lon": -120.6677,
+    "lat": 45.3386,
+    "alt": 10058.4,
+    "velocity": 273.57,
+    "heading": 141.64,
     "trace": [
       [
-        60.9157,
-        -159.0068
+        45.3386,
+        -120.6677
       ]
     ]
   },
   {
-    "hex": "406e9f",
-    "name": "AirTanker",
-    "category": "Hired Gun",
-    "callsign": "EXS9TL",
-    "lon": -2.3657,
-    "lat": 53.3136,
-    "alt": 586.74,
-    "velocity": 87.09,
-    "heading": 273.39,
-    "trace": [
-      [
-        40.854,
-        -9.3947
-      ],
-      [
-        48.8957,
-        -6.2726
-      ],
-      [
-        53.3136,
-        -2.3657
-      ]
-    ]
-  },
-  {
-    "hex": "a87876",
-    "name": "Atlas Air",
-    "category": "Hired Gun",
-    "callsign": "GTI9001",
-    "lon": -167.5011,
-    "lat": 56.4394,
-    "alt": 10370.82,
-    "velocity": 249.48,
-    "heading": 237.72,
-    "trace": [
-      [
-        56.4394,
-        -167.5011
-      ]
-    ]
-  },
-  {
-    "hex": "a2f9dd",
+    "hex": "a2d25e",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "GXA158",
-    "lon": -82.8252,
-    "lat": 36.2366,
-    "alt": 11582.4,
-    "velocity": 208.54,
-    "heading": 234.74,
+    "callsign": "GXA6161",
+    "lon": -98.2272,
+    "lat": 26.4171,
+    "alt": 5105.4,
+    "velocity": 204.86,
+    "heading": 322.76,
     "trace": [
       [
-        36.2366,
-        -82.8252
+        26.4171,
+        -98.2272
       ]
     ]
   },
   {
-    "hex": "a4cb6f",
-    "name": "Atlas Air",
-    "category": "Hired Gun",
-    "callsign": "GTI8296",
-    "lon": -121.9555,
-    "lat": 38.2504,
-    "alt": null,
-    "velocity": 0,
-    "heading": 47.81,
+    "hex": "01008e",
+    "name": "Gov of Egypt",
+    "category": "Dictator Alert",
+    "callsign": "SUBPE",
+    "lon": 30.753,
+    "lat": 30.5313,
+    "alt": 2743.2,
+    "velocity": 150.63,
+    "heading": 133.89,
     "trace": [
       [
-        61.2531,
-        -149.8276
-      ],
+        30.5313,
+        30.753
+      ]
+    ]
+  },
+  {
+    "hex": "010070",
+    "name": "Government of Egypt",
+    "category": "Dictator Alert",
+    "callsign": "SUBGM",
+    "lon": -8.6226,
+    "lat": 52.0523,
+    "alt": 12199.62,
+    "velocity": 221.92,
+    "heading": 310.3,
+    "trace": [
       [
-        38.2504,
-        -121.9555
+        52.0523,
+        -8.6226
       ]
     ]
   }
