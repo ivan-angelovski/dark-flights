@@ -1,86 +1,141 @@
 [
   {
+    "hex": "a7000f",
+    "name": "N550GP LLC",
+    "category": "Dictator Alert",
+    "callsign": "N550GP",
+    "lon": -5.4199,
+    "lat": 49.8355,
+    "alt": 14325.6,
+    "velocity": 242.24,
+    "heading": 108.7,
+    "trace": [
+      [
+        49.8355,
+        -5.4199
+      ]
+    ]
+  },
+  {
+    "hex": "8960ae",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB2",
+    "lon": 30.8266,
+    "lat": 30.6128,
+    "alt": 11582.4,
+    "velocity": 254.04,
+    "heading": 316.81,
+    "trace": [
+      [
+        30.6128,
+        30.8266
+      ]
+    ]
+  },
+  {
+    "hex": "a49951",
+    "name": "Amerijet International",
+    "category": "Hired Gun",
+    "callsign": "AJT8642",
+    "lon": -80.4899,
+    "lat": 25.7902,
+    "alt": 548.64,
+    "velocity": 116.1,
+    "heading": 74.05,
+    "trace": [
+      [
+        25.7902,
+        -80.4899
+      ]
+    ]
+  },
+  {
+    "hex": "89615a",
+    "name": "Dubai Air Wing",
+    "category": "Dictator Alert",
+    "callsign": "DUB8",
+    "lon": 55.3182,
+    "lat": 25.283,
+    "alt": 1661.16,
+    "velocity": 105.74,
+    "heading": 302.68,
+    "trace": [
+      [
+        25.283,
+        55.3182
+      ]
+    ]
+  },
+  {
     "hex": "896264",
     "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
     "callsign": "AUH03",
-    "lon": 32.4552,
-    "lat": 29.3839,
-    "alt": 11582.4,
-    "velocity": 237.51,
-    "heading": 307.96,
+    "lon": 8.9511,
+    "lat": 47.186,
+    "alt": 7620,
+    "velocity": 215.94,
+    "heading": 317.61,
     "trace": [
       [
         29.3839,
         32.4552
-      ]
-    ]
-  },
-  {
-    "hex": "406d26",
-    "name": "AirTanker",
-    "category": "Hired Gun",
-    "callsign": "TOW2233",
-    "lon": -1.5561,
-    "lat": 51.755,
-    "alt": 83.82,
-    "velocity": 65.44,
-    "heading": 253.56,
-    "trace": [
+      ],
       [
-        51.755,
-        -1.5561
+        47.186,
+        8.9511
       ]
     ]
   },
   {
-    "hex": "06a0a2",
-    "name": "Qatar Amiri Flight",
+    "hex": "89636e",
+    "name": "Abu Dhabi Amiri Flight",
     "category": "Dictator Alert",
-    "callsign": "QAF1",
-    "lon": -110.1721,
-    "lat": 40.1578,
-    "alt": 10058.4,
-    "velocity": 285.14,
-    "heading": 48.95,
+    "callsign": "AUH04",
+    "lon": 51.1131,
+    "lat": 22.8408,
+    "alt": 12192,
+    "velocity": 265.46,
+    "heading": 269.56,
     "trace": [
       [
-        40.1578,
-        -110.1721
+        22.8408,
+        51.1131
       ]
     ]
   },
   {
-    "hex": "a95c2f",
+    "hex": "acfc26",
     "name": "National Airlines",
     "category": "Hired Gun",
-    "callsign": "NCR814",
-    "lon": 101.1328,
-    "lat": 3.5591,
-    "alt": 9144,
-    "velocity": 240.43,
-    "heading": 328.38,
+    "callsign": "NCR898",
+    "lon": 47.7274,
+    "lat": 41.0645,
+    "alt": 9753.6,
+    "velocity": 217.75,
+    "heading": 256.75,
     "trace": [
       [
-        3.5591,
-        101.1328
+        41.0645,
+        47.7274
       ]
     ]
   },
   {
-    "hex": "ab9639",
-    "name": "Omni Air International",
+    "hex": "aa3086",
+    "name": "National Airlines",
     "category": "Hired Gun",
-    "callsign": "CMB556",
-    "lon": -77.5596,
-    "lat": 41.1088,
-    "alt": 11277.6,
-    "velocity": 297.61,
-    "heading": 59.8,
+    "callsign": "NCR810",
+    "lon": 14.7861,
+    "lat": 43.7855,
+    "alt": 10058.4,
+    "velocity": 256.46,
+    "heading": 134.76,
     "trace": [
       [
-        41.1088,
-        -77.5596
+        43.7855,
+        14.7861
       ]
     ]
   },
@@ -89,15 +144,36 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA972",
-    "lon": 56.8472,
-    "lat": 22.9159,
+    "lon": 85.8799,
+    "lat": 22.5706,
     "alt": 11887.2,
-    "velocity": 245.27,
-    "heading": 78.38,
+    "velocity": 245.43,
+    "heading": 88.92,
     "trace": [
       [
         22.9159,
         56.8472
+      ],
+      [
+        22.5706,
+        85.8799
+      ]
+    ]
+  },
+  {
+    "hex": "71012e",
+    "name": "Gov of Saudi Arabia",
+    "category": "Dictator Alert",
+    "callsign": "SVA7304",
+    "lon": 23.6904,
+    "lat": 36.6396,
+    "alt": 10972.8,
+    "velocity": 240.99,
+    "heading": 335.13,
+    "trace": [
+      [
+        36.6396,
+        23.6904
       ]
     ]
   }
