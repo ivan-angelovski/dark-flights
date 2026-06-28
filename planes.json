@@ -1,35 +1,73 @@
 [
   {
-    "hex": "406d27",
-    "name": "AirTanker",
-    "category": "Hired Gun",
-    "callsign": "EXS32HL",
-    "lon": -11.4958,
-    "lat": 35.9172,
-    "alt": 12192,
-    "velocity": 225.49,
-    "heading": 27.44,
+    "hex": "600807",
+    "name": "Gov of Azerbaijan",
+    "category": "Dictator Alert",
+    "callsign": "AHY6738",
+    "lon": 45.358,
+    "lat": 41.289,
+    "alt": 11887.2,
+    "velocity": 260.83,
+    "heading": 107.33,
     "trace": [
       [
-        35.9172,
-        -11.4958
+        41.289,
+        45.358
       ]
     ]
   },
   {
-    "hex": "acfc26",
-    "name": "National Airlines",
+    "hex": "a7a2be",
+    "name": "ISR Platforms",
     "category": "Hired Gun",
-    "callsign": "NCR532",
-    "lon": 69.7822,
-    "lat": 24.1005,
-    "alt": 11887.2,
-    "velocity": 250.59,
-    "heading": 91.18,
+    "callsign": "",
+    "lon": 126.9093,
+    "lat": 37.385,
+    "alt": 12192,
+    "velocity": 265.14,
+    "heading": 83.43,
     "trace": [
       [
-        24.1005,
-        69.7822
+        37.385,
+        126.9093
+      ]
+    ]
+  },
+  {
+    "hex": "406d26",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "TOW2233",
+    "lon": -3.6449,
+    "lat": 50.56,
+    "alt": 9448.8,
+    "velocity": 254.35,
+    "heading": 6.74,
+    "trace": [
+      [
+        50.56,
+        -3.6449
+      ]
+    ]
+  },
+  {
+    "hex": "406d27",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "EXS9TL",
+    "lon": 1.8485,
+    "lat": 43.2654,
+    "alt": 12496.8,
+    "velocity": 222.94,
+    "heading": 170.17,
+    "trace": [
+      [
+        35.9172,
+        -11.4958
+      ],
+      [
+        43.2654,
+        1.8485
       ]
     ]
   },
@@ -37,12 +75,12 @@
     "hex": "406e9f",
     "name": "AirTanker",
     "category": "Hired Gun",
-    "callsign": "EXS78PB",
-    "lon": 18.457,
-    "lat": 43.9934,
-    "alt": 12192,
-    "velocity": 235.15,
-    "heading": 310.03,
+    "callsign": "EXS22RB",
+    "lon": -7.4309,
+    "lat": 39.8962,
+    "alt": 12496.8,
+    "velocity": 241.04,
+    "heading": 184.65,
     "trace": [
       [
         41.207,
@@ -63,31 +101,44 @@
       [
         43.9934,
         18.457
+      ],
+      [
+        39.8962,
+        -7.4309
       ]
     ]
   },
   {
-    "hex": "a2d25e",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA6162",
-    "lon": -97.4272,
-    "lat": 38.9768,
-    "alt": 10972.8,
-    "velocity": 206.45,
-    "heading": 251.25,
+    "hex": "06a014",
+    "name": "Qatar Amiri Flight",
+    "category": "Dictator Alert",
+    "callsign": "A7HHJ",
+    "lon": 51.5758,
+    "lat": 25.2367,
+    "alt": 152.4,
+    "velocity": 70.41,
+    "heading": 338.12,
     "trace": [
       [
-        40.5579,
-        -82.8042
-      ],
+        25.2367,
+        51.5758
+      ]
+    ]
+  },
+  {
+    "hex": "8953e3",
+    "name": "Gov of Brunei",
+    "category": "Dictator Alert",
+    "callsign": "V8OAS",
+    "lon": 71.814,
+    "lat": 31.4913,
+    "alt": 11582.4,
+    "velocity": 253.41,
+    "heading": 298.23,
+    "trace": [
       [
-        41.3211,
-        -87.8179
-      ],
-      [
-        38.9768,
-        -97.4272
+        31.4913,
+        71.814
       ]
     ]
   }
