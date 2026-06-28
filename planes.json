@@ -1,22 +1,52 @@
 [
   {
-    "hex": "a9c52e",
-    "name": "National Airlines",
+    "hex": "406d27",
+    "name": "AirTanker",
     "category": "Hired Gun",
-    "callsign": "NCR845",
-    "lon": 136.554,
-    "lat": 37.365,
-    "alt": 9448.8,
-    "velocity": 286.88,
-    "heading": 72.9,
+    "callsign": "EXS7MU",
+    "lon": -14.913,
+    "lat": 31.6329,
+    "alt": 12192,
+    "velocity": 225.89,
+    "heading": 32.82,
     "trace": [
       [
-        37.4735,
-        126.4525
-      ],
+        31.6329,
+        -14.913
+      ]
+    ]
+  },
+  {
+    "hex": "acfc26",
+    "name": "National Airlines",
+    "category": "Hired Gun",
+    "callsign": "NCR534",
+    "lon": 53.9562,
+    "lat": 23.9375,
+    "alt": 6210.3,
+    "velocity": 245.48,
+    "heading": 239.94,
+    "trace": [
       [
-        37.365,
-        136.554
+        23.9375,
+        53.9562
+      ]
+    ]
+  },
+  {
+    "hex": "ad7274",
+    "name": "Global Crossing Airlines",
+    "category": "Hired Gun",
+    "callsign": "GXA120",
+    "lon": -96.3942,
+    "lat": 26.728,
+    "alt": 8412.48,
+    "velocity": 236.58,
+    "heading": 75.39,
+    "trace": [
+      [
+        26.728,
+        -96.3942
       ]
     ]
   },
@@ -25,15 +55,19 @@
     "name": "Saudi Ministry of Finance",
     "category": "Dictator Alert",
     "callsign": "SVA7353",
-    "lon": 17.1344,
-    "lat": 43.0972,
+    "lon": 24.9373,
+    "lat": 36.5701,
     "alt": 12496.8,
-    "velocity": 243.57,
-    "heading": 131.06,
+    "velocity": 234.4,
+    "heading": 142.4,
     "trace": [
       [
         43.0972,
         17.1344
+      ],
+      [
+        36.5701,
+        24.9373
       ]
     ]
   },
@@ -42,32 +76,70 @@
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
     "callsign": "GXA102",
-    "lon": -72.3911,
-    "lat": 41.3502,
-    "alt": 10027.92,
-    "velocity": 215.17,
-    "heading": 213.2,
+    "lon": -77.583,
+    "lat": 34.098,
+    "alt": 11590.02,
+    "velocity": 239.69,
+    "heading": 195.95,
     "trace": [
       [
         41.3502,
         -72.3911
+      ],
+      [
+        34.098,
+        -77.583
       ]
     ]
   },
   {
-    "hex": "a2d615",
+    "hex": "a2c4e0",
     "name": "Global Crossing Airlines",
     "category": "Hired Gun",
-    "callsign": "GXA606",
-    "lon": -71.013,
-    "lat": 42.3567,
-    "alt": null,
-    "velocity": 0,
-    "heading": 196.88,
+    "callsign": "GXA6212",
+    "lon": -96.0521,
+    "lat": 20.9074,
+    "alt": 11887.2,
+    "velocity": 235.53,
+    "heading": 335.62,
     "trace": [
       [
-        42.3567,
-        -71.013
+        20.9074,
+        -96.0521
+      ]
+    ]
+  },
+  {
+    "hex": "aa1e68",
+    "name": "Skyways Charter LLC",
+    "category": "Hired Gun",
+    "callsign": "N751GT",
+    "lon": -79.1895,
+    "lat": 26.8313,
+    "alt": 7475.22,
+    "velocity": 206.46,
+    "heading": 31.55,
+    "trace": [
+      [
+        26.8313,
+        -79.1895
+      ]
+    ]
+  },
+  {
+    "hex": "157713",
+    "name": "Russia Special Flight Detachment",
+    "category": "Dictator Alert",
+    "callsign": "RSD788",
+    "lon": 25.9083,
+    "lat": 34.6084,
+    "alt": 10980.42,
+    "velocity": 222.8,
+    "heading": 271.19,
+    "trace": [
+      [
+        34.6084,
+        25.9083
       ]
     ]
   }
