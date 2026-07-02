@@ -4,15 +4,36 @@
     "name": "Dubai Air Wing",
     "category": "Dictator Alert",
     "callsign": "DUB2",
-    "lon": 55.4155,
-    "lat": 25.2244,
-    "alt": 304.8,
-    "velocity": 77.82,
-    "heading": 301.48,
+    "lon": 22.6625,
+    "lat": 42.4537,
+    "alt": 11582.4,
+    "velocity": 262.68,
+    "heading": 323.6,
     "trace": [
       [
         25.2244,
         55.4155
+      ],
+      [
+        42.4537,
+        22.6625
+      ]
+    ]
+  },
+  {
+    "hex": "a8699a",
+    "name": "Atlas Air",
+    "category": "Hired Gun",
+    "callsign": "GTI9040",
+    "lon": -170.5206,
+    "lat": 58.0097,
+    "alt": 11277.6,
+    "velocity": 245.43,
+    "heading": 67.57,
+    "trace": [
+      [
+        58.0097,
+        -170.5206
       ]
     ]
   },
@@ -20,88 +41,71 @@
     "hex": "acceb0",
     "name": "Tactical Air Support",
     "category": "Hired Gun",
-    "callsign": "VILLN51",
-    "lon": -112.6972,
-    "lat": 39.9125,
-    "alt": 5044.44,
-    "velocity": 222.4,
-    "heading": 337.71,
+    "callsign": "VILLN62",
+    "lon": -112.3908,
+    "lat": 41.2388,
+    "alt": 2727.96,
+    "velocity": 155.56,
+    "heading": 95.5,
     "trace": [
       [
         39.9125,
         -112.6972
-      ]
-    ]
-  },
-  {
-    "hex": "a80e20",
-    "name": "Tactical Air Support",
-    "category": "Hired Gun",
-    "callsign": "VILLN52",
-    "lon": -112.6979,
-    "lat": 39.9105,
-    "alt": 5021.58,
-    "velocity": 220.78,
-    "heading": 330.09,
-    "trace": [
-      [
-        39.9105,
-        -112.6979
-      ]
-    ]
-  },
-  {
-    "hex": "aabd66",
-    "name": "Tactical Air Support",
-    "category": "Hired Gun",
-    "callsign": "VILLN54",
-    "lon": -112.6815,
-    "lat": 39.8939,
-    "alt": 4945.38,
-    "velocity": 214.9,
-    "heading": 312.09,
-    "trace": [
-      [
-        39.8939,
-        -112.6815
-      ]
-    ]
-  },
-  {
-    "hex": "a2d615",
-    "name": "Global Crossing Airlines",
-    "category": "Hired Gun",
-    "callsign": "GXA120",
-    "lon": -81.7381,
-    "lat": 26.1432,
-    "alt": 6004.56,
-    "velocity": 211.64,
-    "heading": 106.23,
-    "trace": [
-      [
-        26.1432,
-        -81.7381
-      ]
-    ]
-  },
-  {
-    "hex": "a0c62d",
-    "name": "Eastern Air Express",
-    "category": "Hired Gun",
-    "callsign": "BBQ512",
-    "lon": -80.4706,
-    "lat": 25.7555,
-    "alt": 640.08,
-    "velocity": 104.46,
-    "heading": 1.41,
-    "trace": [
-      [
-        23.5223,
-        -80.1296
       ],
       [
-        25.7555,
-        -80.4706
+        41.2388,
+        -112.3908
+      ]
+    ]
+  },
+  {
+    "hex": "a7a2be",
+    "name": "ISR Platforms",
+    "category": "Hired Gun",
+    "callsign": "",
+    "lon": 124.8215,
+    "lat": 37.1739,
+    "alt": 11582.4,
+    "velocity": 191.71,
+    "heading": 261.98,
+    "trace": [
+      [
+        37.1739,
+        124.8215
+      ]
+    ]
+  },
+  {
+    "hex": "406d27",
+    "name": "AirTanker",
+    "category": "Hired Gun",
+    "callsign": "EXS9TL",
+    "lon": -2.2838,
+    "lat": 53.3642,
+    "alt": null,
+    "velocity": 0,
+    "heading": 225,
+    "trace": [
+      [
+        53.3642,
+        -2.2838
+      ]
+    ]
+  },
+  {
+    "hex": "ab9639",
+    "name": "Omni Air International",
+    "category": "Hired Gun",
+    "callsign": "OAE2308",
+    "lon": -160.7111,
+    "lat": 21.5735,
+    "alt": 11582.4,
+    "velocity": 218.79,
+    "heading": 282.63,
+    "trace": [
+      [
+        21.5735,
+        -160.7111
       ]
     ]
   },
@@ -109,16 +113,20 @@
     "hex": "a811d7",
     "name": "Tactical Air Support",
     "category": "Hired Gun",
-    "callsign": "VILLN53",
-    "lon": -112.6835,
-    "lat": 39.901,
-    "alt": 5097.78,
-    "velocity": 210.22,
-    "heading": 322.46,
+    "callsign": "VILLN61",
+    "lon": -112.3346,
+    "lat": 41.2481,
+    "alt": 2567.94,
+    "velocity": 146.96,
+    "heading": 38.03,
     "trace": [
       [
         39.901,
         -112.6835
+      ],
+      [
+        41.2481,
+        -112.3346
       ]
     ]
   }
